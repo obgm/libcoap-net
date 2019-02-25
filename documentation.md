@@ -3,7 +3,7 @@ title: Documentation
 ---
 
 We are trying to improve the libcoap documentation but this will take
-time. Meanwhile, you can [contribute](contribute) if you like.
+time. Meanwhile, you can [contribute](contribute.html) if you like.
 
 ## Quick Start
 

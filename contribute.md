@@ -49,7 +49,7 @@ slug: Get Involved
     <h3>User Guides</h3>
     <p>
     User guides and howtos are collected
-    <a href="{{ "documentation" | relative_url }}">here</a>.
+    <a href="{{ "documentation.html" | relative_url }}">here</a>.
     </p>
     <h3>API Reference</h3>
     <p>
@@ -65,7 +65,7 @@ slug: Get Involved
       cluttered with whitespace here and there. You can help by
       cleaning it up!
     </p>
-    <p><a class="btn btn-primary btn-lg" href="{{ "doc/coding-style" | relative_url }}" role="button">View details &raquo;</a></p>
+    <p><a class="btn btn-primary btn-lg" href="{{ "doc/coding-style.html" | relative_url }}" role="button">View details &raquo;</a></p>
     </div>
     
     <div class="col-lg-6">
@@ -74,7 +74,7 @@ slug: Get Involved
       New features are developed in topic branches and will be
       merged into the develop branch once they are tested and agreed
       to. Please make sure that your contribution adheres to the
-      libcoap <a href="{{ "doc/coding-style" | relative_url }}">coding
+      libcoap <a href="{{ "doc/coding-style.html" | relative_url }}">coding
       style</a> and that you
       have read and understood the rules given in the <tt>CONTRIBUTE</tt>
       document of the library.
@@ -106,7 +106,7 @@ slug: Get Involved
     </p>
       <h3>Roadmap</h3>
       If you want to engage in developing libcoap features, please have a
-      look at the <a href="{{ "roadmap" | relative_url }}">Roadmap</a>
+      look at the <a href="{{ "roadmap.html" | relative_url }}">Roadmap</a>
       document for additional guidance on the bigger plan.
     </div>
   </div>
