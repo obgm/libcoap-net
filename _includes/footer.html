@@ -4,7 +4,7 @@
 
     <p class="h5 mb-3">{{ site.title | escape }}</p>
 
-    <div class="row">
+    <div class="row-fluid">
 
       <div class="col-sm">
         <ul class="list-unstyled">
@@ -21,16 +21,21 @@
                 {{ site.email }}
               </a>
             </li>
-          {%- endif -%}
+            {%- endif -%}
+            <li>
+              <p class="small">
+            PGP key fingerprint: <tt>5111 C4C4 4DB3 7FFB 1EA3  E264 606A 6D46 C40B F79B</tt>
+            <br/>
+            alternative PGP key: <tt>7B73 04AF E553 1870 94A2  D65E 1F47 9DE9 308D E483</tt>
+              </p>
+            </li>
         </ul>
       </div>
 
-
       <div class="col-sm text-right">
-        <p>{{- site.description | escape -}}</p>
-
-        <p>
-          <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a>
+        <p class="small">
+          <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a> using the
+          <a href="https://bootswatch.com/spacelab/">Bootswatch Spacelab theme</a>.
         </p>
       </div>
 
