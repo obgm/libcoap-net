@@ -1,0 +1,5 @@
+<map id="coap_address_isany" name="coap_address_isany">
+<area shape="rect" id="node2" href="$address_8h.html#a3aadd5b560a9e7424b572bb213aa4439" title="_coap_address_isany_impl" alt="" coords="195,5,373,32"/>
+<area shape="rect" id="node3" href="$address_8h.html#a5b47d6fe47a54a0798eddb9ea77005ea" title="Checks if given address a denotes a multicast address. " alt="" coords="229,56,339,83"/>
+<area shape="rect" id="node4" href="$coap__time_8c.html#ab9fb12579dacfae8e5a2a11d2d021bdd" title="dummy" alt="" coords="421,56,487,83"/>
+</map>

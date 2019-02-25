@@ -1,0 +1,4 @@
+<map id="coap_write" name="coap_write">
+<area shape="rect" id="node2" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="139,5,249,32"/>
+<area shape="rect" id="node3" href="$net_8h.html#a5854b1394bfddd574e48af116e3aaaf9" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="141,56,247,83"/>
+</map>

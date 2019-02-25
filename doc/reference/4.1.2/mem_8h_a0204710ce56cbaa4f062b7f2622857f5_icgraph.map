@@ -1,0 +1,51 @@
+<map id="coap_malloc_type" name="coap_malloc_type">
+<area shape="rect" id="node2" href="$coap__io_8h.html#ad54b82c13f602cbcde3011c20c346493" title="Releases the storage allocated for packet. " alt="" coords="620,168,745,195"/>
+<area shape="rect" id="node4" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="1071,43,1202,69"/>
+<area shape="rect" id="node8" href="$mem_8h.html#a09b861aa54503f57f2a9412d546cd3c8" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="198,396,293,423"/>
+<area shape="rect" id="node25" href="$net_8c.html#af79743c319ebdd944ce16395385e9896" title="coap_malloc_node" alt="" coords="180,573,311,600"/>
+<area shape="rect" id="node26" href="$net_8c.html#af126b3b1cc4dc6472de3cc7636193859" title="coap_free_node" alt="" coords="396,624,511,651"/>
+<area shape="rect" id="node40" href="$pdu_8h.html#a9dbdf354e2da5e80fea4c0d4a8df6d05" title="Clears any contents from pdu and resets version field, length and data pointers. " alt="" coords="189,725,302,752"/>
+<area shape="rect" id="node41" href="$pdu_8h.html#a36ddaad46f33b6a11aa312ddd7a9e3e1" title="Creates a new CoAP PDU of given size (must be large enough to hold the basic CoAP message header (coa..." alt="" coords="631,801,734,828"/>
+<area shape="rect" id="node49" href="$resource_8h.html#ab541655395f1fa9e7088af153506d97e" title="Creates a new resource object and initializes the link field to the string of length len..." alt="" coords="180,776,311,803"/>
+<area shape="rect" id="node50" href="$resource_8h.html#acfd5d20f6bb2051696fa20020e4b4868" title="Registers a new attribute with the given resource. " alt="" coords="193,295,297,321"/>
+<area shape="rect" id="node3" href="$coap__io_8h.html#a01655aadc98d6957fcb27a612297254a" title="Function interface for reading data. " alt="" coords="841,93,976,120"/>
+<area shape="rect" id="node6" href="$net_8h.html#ade17f093221599e839345cf88b74b496" title="Reads data from the network and tries to parse as CoAP PDU. " alt="" coords="1735,592,1817,619"/>
+<area shape="rect" id="node5" href="$net_8h.html#a0b28834233cb704a89fb8e740ca65c69" title="Registers the option type type with the given context object ctx. " alt="" coords="1287,43,1430,69"/>
+<area shape="rect" id="node7" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="1889,668,1996,695"/>
+<area shape="rect" id="node9" href="$group__coap__async.html#ga1c81eb1d464e9b5195acb7ae630e15c9" title="Allocates a new coap_async_state_t object and fills its fields according to the given request..." alt="" coords="382,320,525,347"/>
+<area shape="rect" id="node10" href="$coap__io_8c.html#a13c475c9edb2e51e7c87c13c6237c9a3" title="coap_malloc_posix_endpoint" alt="" coords="359,55,548,81"/>
+<area shape="rect" id="node12" href="$coap__io_8c.html#a8da44c054df9091ae3771a4a3b7043d0" title="coap_malloc_packet" alt="" coords="383,168,524,195"/>
+<area shape="rect" id="node13" href="$mem_8h.html#ac01dd5f787fced5a3f9160b4584e81c7" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="414,371,493,397"/>
+<area shape="rect" id="node22" href="$uri_8h.html#a1e40ce0d97cef97ec366f4b339c15245" title="Creates a new coap_uri_t object from the specified URI. " alt="" coords="631,523,734,549"/>
+<area shape="rect" id="node23" href="$str_8h.html#a17d60950335b01391f15d7adbb9908d4" title="Returns a new string object with at least size bytes storage allocated. " alt="" coords="393,421,513,448"/>
+<area shape="rect" id="node24" href="$uri_8h.html#abee90f9288ee9acc26a3af3d88c3758b" title="Clones the specified coap_uri_t object. " alt="" coords="399,472,508,499"/>
+<area shape="rect" id="node11" href="$coap__io_8h.html#a8caaa551e1aa27c6b907a9afca7e5093" title="coap_new_endpoint" alt="" coords="614,43,751,69"/>
+<area shape="rect" id="node14" href="$group__coap__async.html#ga32024a34a383832e6692d3a439fc67c7" title="Releases the memory that was allocated by coap_async_state_init() for the object s. " alt="" coords="622,269,743,296"/>
+<area shape="rect" id="node15" href="$coap__io_8c.html#a4860bb59ac622173c833fb765c438365" title="coap_free_posix_endpoint" alt="" coords="596,320,769,347"/>
+<area shape="rect" id="node17" href="$resource_8h.html#a37883d9c8bafdd59fd1bd57dcb82e908" title="Deletes an attribute. " alt="" coords="623,371,742,397"/>
+<area shape="rect" id="node18" href="$resource_8c.html#a1307a6b8dadd6d005352ce02f6cf392f" title="coap_free_resource" alt="" coords="841,421,977,448"/>
+<area shape="rect" id="node21" href="$str_8h.html#ae01fa8ed13b98008422d54a8fa5aeeb1" title="Deletes the given string and releases any memory allocated. " alt="" coords="617,421,748,448"/>
+<area shape="rect" id="node16" href="$coap__io_8h.html#a157d58fe7840d7d7e36c40fff0825674" title="coap_free_endpoint" alt="" coords="841,320,976,347"/>
+<area shape="rect" id="node20" href="$resource_8h.html#a16083619290cc984cba9110b5f98fefb" title="Sets the notification message type of resource r to given mode which must be one of COAP_RESOURCE_FLA..." alt="" coords="1273,371,1444,397"/>
+<area shape="rect" id="node19" href="$resource_8h.html#a2fb1d46ece1dd907128cb407adcf5257" title="Deletes a resource identified by key. " alt="" coords="1062,421,1211,448"/>
+<area shape="rect" id="node39" href="$net_8h.html#a45d9cf1d576566b0a5ffd9e2e1c6b7fa" title="Creates a new node suitable for adding to the CoAP sendqueue. " alt="" coords="851,516,967,543"/>
+<area shape="rect" id="node27" href="$net_8h.html#a44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node. " alt="" coords="619,1175,746,1201"/>
+<area shape="rect" id="node35" href="$net_8h.html#a6c0e56cd7bd35cb0961c3baf85e98eaf" title="Sends a confirmed CoAP message to given destination. " alt="" coords="1062,668,1211,695"/>
+<area shape="rect" id="node28" href="$net_8h.html#a2c1e86998c712346baf2d116dbf1ac7f" title="Removes all items from given queue and frees the allocated storage. " alt="" coords="853,1124,965,1151"/>
+<area shape="rect" id="node29" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="1520,1124,1635,1151"/>
+<area shape="rect" id="node30" href="$net_8h.html#a74c5ca78210280817a5586f61abfa5f3" title="Parses and interprets a CoAP message with context ctx. " alt="" coords="1500,604,1655,631"/>
+<area shape="rect" id="node31" href="$net_8h.html#a648df31fd1553a7fa8d294b652dd99da" title="Cancels all outstanding messages for peer dst that have the specified token. " alt="" coords="817,1175,1000,1201"/>
+<area shape="rect" id="node33" href="$net_8h.html#ab458d1c3b0f5d695dfa86b805ae8463d" title="Dispatches the PDUs from the receive queue in given context. " alt="" coords="1305,1073,1412,1100"/>
+<area shape="rect" id="node34" href="$net_8h.html#ac58be1c374afa04d10810aef1d073315" title="Removes the transaction identified by id from given queue. " alt="" coords="1492,1073,1663,1100"/>
+<area shape="rect" id="node32" href="$net_8c.html#a18949a9879fbf404538cddb5acc117c4" title="handle_response" alt="" coords="1077,1124,1197,1151"/>
+<area shape="rect" id="node36" href="$net_8h.html#ac09b38583adc73fd96e33e9c61eac39f" title="Returns a new message id and updates context&#45;&gt;message_id accordingly. " alt="" coords="1279,795,1438,821"/>
+<area shape="rect" id="node37" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="1501,795,1654,821"/>
+<area shape="rect" id="node38" href="$resource_8h.html#a579bcb559463d3a872831c18d8d9a1c1" title="Checks for all known resources, if they are dirty and notifies subscribed observers. " alt="" coords="1711,795,1841,821"/>
+<area shape="rect" id="node42" href="$net_8h.html#a473d73a522f436b912a16a00dd646527" title="Sends an ACK message with code 0 for the specified request to dst. " alt="" coords="852,1036,965,1063"/>
+<area shape="rect" id="node43" href="$net_8h.html#a4c4586bd08711835e746b3293d0b2061" title="Helper funktion to create and send a message with type (usually ACK or RST). " alt="" coords="1048,719,1225,745"/>
+<area shape="rect" id="node44" href="$net_8h.html#ab7953637ad760f76ffb8060ddf47fe6a" title="Creates a new ACK PDU with specified error code. " alt="" coords="821,776,996,803"/>
+<area shape="rect" id="node46" href="$net_8c.html#a13ff6a2308c8e167a66218e43b819df2" title="handle_request" alt="" coords="1081,1073,1192,1100"/>
+<area shape="rect" id="node47" href="$net_8h.html#a4bf688cc4467cb91b6ace43e735ffafa" title="Creates a new response for given request with the contents of .well&#45;known/core. " alt="" coords="819,935,998,961"/>
+<area shape="rect" id="node48" href="$pdu_8h.html#af0a6b321860022c034ce9af33ed9b847" title="Creates a new CoAP PDU. " alt="" coords="854,827,963,853"/>
+<area shape="rect" id="node45" href="$net_8h.html#aa6569347c5926252d65dd69f2dcfe521" title="Sends an error response with code code for request request to dst. " alt="" coords="1077,769,1196,796"/>
+</map>

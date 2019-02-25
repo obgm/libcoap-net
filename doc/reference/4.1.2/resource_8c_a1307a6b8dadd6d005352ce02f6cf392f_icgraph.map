@@ -1,0 +1,12 @@
+<map id="coap_free_resource" name="coap_free_resource">
+<area shape="rect" id="node2" href="$resource_8h.html#a2fb1d46ece1dd907128cb407adcf5257" title="Deletes a resource identified by key. " alt="" coords="203,5,352,32"/>
+<area shape="rect" id="node4" href="$resource_8h.html#a1fae3046ad94fce85a7ea23455328958" title="Deletes all resources from given context and frees their storage. " alt="" coords="189,56,365,83"/>
+<area shape="rect" id="node3" href="$resource_8h.html#a16083619290cc984cba9110b5f98fefb" title="Sets the notification message type of resource r to given mode which must be one of COAP_RESOURCE_FLA..." alt="" coords="413,5,584,32"/>
+<area shape="rect" id="node5" href="$net_8h.html#a4a0717822713783908dd33d300440b2e" title="CoAP stack context must be released with coap_free_context(). " alt="" coords="434,56,563,83"/>
+<area shape="rect" id="node6" href="$net_8h.html#ac09b38583adc73fd96e33e9c61eac39f" title="Returns a new message id and updates context&#45;&gt;message_id accordingly. " alt="" coords="632,56,791,83"/>
+<area shape="rect" id="node7" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="839,56,992,83"/>
+<area shape="rect" id="node8" href="$resource_8h.html#a579bcb559463d3a872831c18d8d9a1c1" title="Checks for all known resources, if they are dirty and notifies subscribed observers. " alt="" coords="1040,56,1171,83"/>
+<area shape="rect" id="node9" href="$net_8h.html#a231e9a81ac7c03c3e5c251824a76d7b9" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues. " alt="" coords="1240,31,1347,57"/>
+<area shape="rect" id="node11" href="$resource_8h.html#a8f78ecf70cfbe5a69677bf3b97f0b776" title="Registers the specified handler as message handler for the request type method. " alt="" coords="1219,81,1368,108"/>
+<area shape="rect" id="node10" href="$net_8h.html#ac58be1c374afa04d10810aef1d073315" title="Removes the transaction identified by id from given queue. " alt="" coords="1416,31,1587,57"/>
+</map>

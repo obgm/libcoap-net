@@ -1,0 +1,5 @@
+<map id="coap_dtls_context_set_psk" name="coap_dtls_context_set_psk">
+<area shape="rect" id="node2" href="$coap__session_8h.html#a40790c70df0b38fe89f3fb2ad255d662" title="Creates a new client session to the designated server with PSK credentials. " alt="" coords="235,5,433,32"/>
+<area shape="rect" id="node3" href="$net_8h.html#a665601c3c9ac88ef92125c1e62d679b2" title="Set the context&#39;s default server PSK hint and/or key. " alt="" coords="257,56,411,83"/>
+<area shape="rect" id="node4" href="$net_8h.html#a696acd1012ad1c2dba081ee5bea54fd8" title="Registers the option type type with the given context object ctx. " alt="" coords="481,56,624,83"/>
+</map>

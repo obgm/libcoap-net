@@ -1,0 +1,6 @@
+<map id="print_readable" name="print_readable">
+<area shape="rect" id="node2" href="$debug_8h.html#a88cca636643023b4867f9c3fd8f0c09c" title="coap_show_pdu" alt="" coords="156,31,272,57"/>
+<area shape="rect" id="node3" href="$net_8h.html#a74c5ca78210280817a5586f61abfa5f3" title="Parses and interprets a CoAP message with context ctx. " alt="" coords="320,31,475,57"/>
+<area shape="rect" id="node4" href="$net_8h.html#ade17f093221599e839345cf88b74b496" title="Reads data from the network and tries to parse as CoAP PDU. " alt="" coords="523,5,605,32"/>
+<area shape="rect" id="node5" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="653,31,760,57"/>
+</map>

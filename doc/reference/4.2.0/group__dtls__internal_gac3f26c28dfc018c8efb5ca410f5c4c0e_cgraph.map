@@ -1,0 +1,5 @@
+<map id="coap_dtls_new_context" name="coap_dtls_new_context">
+<area shape="rect" id="node2" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="213,5,307,32"/>
+<area shape="rect" id="node4" href="$coap__dtls__gnutls_8c.html#ac17db6ecd758d8611de324eab565ec2c" title="dtls_set_psk" alt="" coords="212,56,308,83"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="356,5,483,32"/>
+</map>

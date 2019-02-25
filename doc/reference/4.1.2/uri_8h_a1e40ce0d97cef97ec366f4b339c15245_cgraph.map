@@ -1,0 +1,8 @@
+<map id="coap_new_uri" name="coap_new_uri">
+<area shape="rect" id="node2" href="$mem_8h.html#a09b861aa54503f57f2a9412d546cd3c8" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="323,5,418,32"/>
+<area shape="rect" id="node4" href="$group__uri__parse.html#ga57ae8d123637ce10ecf75cf74fe56541" title="Parses a given string into URI components. " alt="" coords="156,43,259,69"/>
+<area shape="rect" id="node5" href="$mem_8h.html#ac01dd5f787fced5a3f9160b4584e81c7" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="168,93,247,120"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="483,5,609,32"/>
+<area shape="rect" id="node6" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="315,68,426,95"/>
+<area shape="rect" id="node7" href="$mem_8h.html#a65d0fc0fe6cad555b56e92ccb57613ba" title="Initializes libcoap&#39;s memory management. " alt="" coords="307,119,435,145"/>
+</map>

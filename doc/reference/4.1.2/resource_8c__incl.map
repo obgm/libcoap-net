@@ -1,0 +1,24 @@
+<map id="resource.c" name="resource.c">
+<area shape="rect" id="node3" href="$coap_8h.html" title="coap.h" alt="" coords="689,80,750,107"/>
+<area shape="rect" id="node13" href="$net_8h.html" title="net.h" alt="" coords="898,304,949,331"/>
+<area shape="rect" id="node29" href="$debug_8h.html" title="debug.h" alt="" coords="5,155,73,181"/>
+<area shape="rect" id="node30" href="$mem_8h.html" title="mem.h" alt="" coords="235,155,297,181"/>
+<area shape="rect" id="node31" href="$resource_8h.html" title="Generic resource handling. " alt="" coords="1025,155,1107,181"/>
+<area shape="rect" id="node34" href="$subscribe_8h.html" title="subscribe.h" alt="" coords="1679,229,1768,256"/>
+<area shape="rect" id="node35" href="$utlist_8h.html" title="utlist.h" alt="" coords="98,155,159,181"/>
+<area shape="rect" id="node4" href="$libcoap_8h.html" title="libcoap.h" alt="" coords="1638,528,1713,555"/>
+<area shape="rect" id="node7" href="$address_8h.html" title="Representation of network addresses. " alt="" coords="1684,453,1763,480"/>
+<area shape="rect" id="node12" href="$async_8h.html" title="State management for asynchronous messages. " alt="" coords="884,229,952,256"/>
+<area shape="rect" id="node17" href="$coap__io_8h.html" title="coap_io.h" alt="" coords="1524,379,1603,405"/>
+<area shape="rect" id="node18" href="$coap__time_8h.html" title="Clock Handling. " alt="" coords="747,379,841,405"/>
+<area shape="rect" id="node19" href="$option_8h.html" title="Helpers for handling options in CoAP PDUs. " alt="" coords="521,379,589,405"/>
+<area shape="rect" id="node20" href="$bits_8h.html" title="Bit vector manipulation. " alt="" coords="1359,453,1413,480"/>
+<area shape="rect" id="node21" href="$pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP. " alt="" coords="405,453,460,480"/>
+<area shape="rect" id="node22" href="$uri_8h.html" title="uri.h" alt="" coords="467,528,513,555"/>
+<area shape="rect" id="node24" href="$str_8h.html" title="str.h" alt="" coords="574,677,622,704"/>
+<area shape="rect" id="node25" href="$prng_8h.html" title="Pseudo Random Numbers. " alt="" coords="665,379,723,405"/>
+<area shape="rect" id="node26" href="$block_8h.html" title="block.h" alt="" coords="523,155,587,181"/>
+<area shape="rect" id="node27" href="$encode_8h.html" title="encode.h" alt="" coords="423,229,498,256"/>
+<area shape="rect" id="node32" href="$uthash_8h.html" title="uthash.h" alt="" coords="1422,379,1494,405"/>
+<area shape="rect" id="node23" href="$hashkey_8h.html" title="definition of hash key type and helper functions " alt="" coords="557,603,639,629"/>
+</map>

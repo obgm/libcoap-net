@@ -1,0 +1,4 @@
+<map id="push_data_item" name="push_data_item">
+<area shape="rect" id="node2" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="168,5,263,32"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="311,5,437,32"/>
+</map>

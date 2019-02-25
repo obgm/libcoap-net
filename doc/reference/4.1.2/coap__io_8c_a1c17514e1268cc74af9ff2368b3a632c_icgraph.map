@@ -1,0 +1,5 @@
+<map id="coap_get_max_packetlength" name="coap_get_max_packetlength">
+<area shape="rect" id="node2" href="$coap__io_8h.html#a01655aadc98d6957fcb27a612297254a" title="Function interface for reading data. " alt="" coords="241,5,376,32"/>
+<area shape="rect" id="node3" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="424,5,555,32"/>
+<area shape="rect" id="node4" href="$net_8h.html#a0b28834233cb704a89fb8e740ca65c69" title="Registers the option type type with the given context object ctx. " alt="" coords="603,5,745,32"/>
+</map>

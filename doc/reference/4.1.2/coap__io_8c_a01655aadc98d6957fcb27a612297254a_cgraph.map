@@ -1,0 +1,21 @@
+<map id="coap_network_read" name="coap_network_read">
+<area shape="rect" id="node2" href="$coap__io_8c.html#a8da44c054df9091ae3771a4a3b7043d0" title="coap_malloc_packet" alt="" coords="427,5,569,32"/>
+<area shape="rect" id="node5" href="$address_8h.html#a1acee0a01fbcf6fde7ab63bee522b231" title="Resets the given coap_address_t object addr to its default values. " alt="" coords="219,208,345,235"/>
+<area shape="rect" id="node7" href="$coap__io_8c.html#a1c17514e1268cc74af9ff2368b3a632c" title="coap_get_max_packetlength" alt="" coords="188,259,376,285"/>
+<area shape="rect" id="node8" href="$coap__io_8c.html#ad4b15e98bdc903a9a9c8894c930fcb4d" title="Checks if a message with destination address dst matches the local interface with address local..." alt="" coords="242,309,322,336"/>
+<area shape="rect" id="node14" href="$debug_8c.html#a10c3fbd56b0eb3a8722b27a65fc9b0ce" title="Returns the current log level. " alt="" coords="215,360,349,387"/>
+<area shape="rect" id="node15" href="$debug_8c.html#ab9d398c4bed7c13cea20c716d09474f4" title="coap_print_addr" alt="" coords="225,411,339,437"/>
+<area shape="rect" id="node17" href="$coap__io_8c.html#ad54b82c13f602cbcde3011c20c346493" title="Releases the storage allocated for packet. " alt="" coords="219,107,345,133"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a09b861aa54503f57f2a9412d546cd3c8" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="662,5,757,32"/>
+<area shape="rect" id="node4" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="847,31,973,57"/>
+<area shape="rect" id="node6" href="$address_8h.html#aece6d39e01149af8dea29b0b8cbde504" title="Compares given address objects a and b. " alt="" coords="424,208,572,235"/>
+<area shape="rect" id="node9" href="$address_8h.html#a29d23bd49aebfa562c529f42773ac783" title="Checks if given address object a denotes the wildcard address. " alt="" coords="427,259,569,285"/>
+<area shape="rect" id="node12" href="$address_8c.html#aece6d39e01149af8dea29b0b8cbde504" title="Compares given address objects a and b. " alt="" coords="424,309,572,336"/>
+<area shape="rect" id="node13" href="$address_8c.html#a5b47d6fe47a54a0798eddb9ea77005ea" title="Checks if given address a denotes a multicast address. " alt="" coords="443,360,553,387"/>
+<area shape="rect" id="node10" href="$address_8h.html#af69524bf4fc9db6a9532769b6effa5a8" title="_coap_address_isany_impl" alt="" coords="620,233,799,260"/>
+<area shape="rect" id="node11" href="$address_8h.html#a5b47d6fe47a54a0798eddb9ea77005ea" title="Checks if given address a denotes a multicast address. " alt="" coords="654,284,765,311"/>
+<area shape="rect" id="node16" href="$debug_8c.html#aaa5ee5c2942fe13271a46000b2aebde6" title="A length&#45;safe strlen() fake. " alt="" coords="467,411,529,437"/>
+<area shape="rect" id="node18" href="$mem_8h.html#ac01dd5f787fced5a3f9160b4584e81c7" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="459,107,537,133"/>
+<area shape="rect" id="node19" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="654,157,765,184"/>
+<area shape="rect" id="node20" href="$mem_8h.html#a65d0fc0fe6cad555b56e92ccb57613ba" title="Initializes libcoap&#39;s memory management. " alt="" coords="645,107,773,133"/>
+</map>

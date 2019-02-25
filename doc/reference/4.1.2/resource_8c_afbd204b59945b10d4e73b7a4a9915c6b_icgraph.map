@@ -1,0 +1,7 @@
+<map id="coap_remove_failed_observers" name="coap_remove_failed_observers">
+<area shape="rect" id="node2" href="$resource_8h.html#a22ecaa5a662f30da5a2241f91faf8929" title="coap_handle_failed\l_notify" alt="" coords="192,23,325,65"/>
+<area shape="rect" id="node3" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="373,31,488,57"/>
+<area shape="rect" id="node4" href="$net_8h.html#a231e9a81ac7c03c3e5c251824a76d7b9" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues. " alt="" coords="536,5,643,32"/>
+<area shape="rect" id="node6" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="536,56,643,83"/>
+<area shape="rect" id="node5" href="$net_8h.html#ac58be1c374afa04d10810aef1d073315" title="Removes the transaction identified by id from given queue. " alt="" coords="691,5,861,32"/>
+</map>

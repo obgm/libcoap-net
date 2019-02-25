@@ -1,0 +1,7 @@
+<map id="is_wkc" name="is_wkc">
+<area shape="rect" id="node2" href="$uri_8c.html#accca02f93d8db1fbf7c987a29a5e3697" title="Calculates a hash over the given path and stores the result in key. " alt="" coords="116,56,233,83"/>
+<area shape="rect" id="node3" href="$uri_8c.html#a671218632527de7da40ef24515d03a8a" title="Splits the given string into segments. " alt="" coords="281,31,425,57"/>
+<area shape="rect" id="node6" href="$uri_8c.html#a4d57e0147b48fa953d5ad66fabc38f55" title="hash_segment" alt="" coords="300,81,407,108"/>
+<area shape="rect" id="node4" href="$uri_8c.html#a4c7c168a90562e2a5ece60d95a2eace2" title="A length&#45;safe version of strchr(). " alt="" coords="473,5,536,32"/>
+<area shape="rect" id="node5" href="$uri_8c.html#a440c9fea2a824048dd4a3e566980df53" title="Checks if path segment s consists of one or two dots. " alt="" coords="481,56,528,83"/>
+</map>

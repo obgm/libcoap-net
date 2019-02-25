@@ -1,0 +1,8 @@
+<map id="coap_remove_failed_observers" name="coap_remove_failed_observers">
+<area shape="rect" id="node2" href="$resource_8h.html#ae3bc33e2d20e50112e7d9f197d9c0e26" title="coap_handle_failed\l_notify" alt="" coords="192,49,325,90"/>
+<area shape="rect" id="node3" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="373,56,488,83"/>
+<area shape="rect" id="node4" href="$net_8h.html#aaac86ac50793f309678e4951ecf8863f" title="For applications with their own message loop, send all pending retransmits and return the list of soc..." alt="" coords="545,5,630,32"/>
+<area shape="rect" id="node6" href="$net_8h.html#a5854b1394bfddd574e48af116e3aaaf9" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="689,56,795,83"/>
+<area shape="rect" id="node7" href="$libcoap_8h.html#a5d1fb0b44497970b0f75fa0b38570a82" title="coap_cleanup" alt="" coords="536,107,639,133"/>
+<area shape="rect" id="node5" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="687,5,797,32"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="resource.h" name="resource.h">
+<area shape="rect" id="node3" href="$uthash_8h.html" title="uthash.h" alt="" coords="784,229,856,256"/>
+<area shape="rect" id="node7" href="$async_8h.html" title="State management for asynchronous messages. " alt="" coords="545,80,613,107"/>
+<area shape="rect" id="node8" href="$net_8h.html" title="net.h" alt="" coords="481,155,532,181"/>
+<area shape="rect" id="node21" href="$pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP. " alt="" coords="313,379,367,405"/>
+<area shape="rect" id="node23" href="$str_8h.html" title="str.h" alt="" coords="321,528,369,555"/>
+<area shape="rect" id="node28" href="$subscribe_8h.html" title="subscribe.h" alt="" coords="953,155,1042,181"/>
+<area shape="rect" id="node11" href="$coap__io_8h.html" title="coap_io.h" alt="" coords="1017,379,1095,405"/>
+<area shape="rect" id="node18" href="$coap__dtls_8h.html" title="coap_dtls.h" alt="" coords="195,229,285,256"/>
+<area shape="rect" id="node19" href="$coap__session_8h.html" title="coap_session.h" alt="" coords="273,304,386,331"/>
+<area shape="rect" id="node20" href="$coap__time_8h.html" title="Clock Handling. " alt="" coords="465,379,559,405"/>
+<area shape="rect" id="node24" href="$coap__event_8h.html" title="coap_event.h" alt="" coords="1215,453,1315,480"/>
+<area shape="rect" id="node25" href="$option_8h.html" title="Helpers for handling options in CoAP PDUs. " alt="" coords="575,304,643,331"/>
+<area shape="rect" id="node27" href="$prng_8h.html" title="Pseudo Random Numbers. " alt="" coords="360,229,419,256"/>
+<area shape="rect" id="node13" href="$address_8h.html" title="Representation of network addresses. " alt="" coords="1113,453,1191,480"/>
+<area shape="rect" id="node15" href="$libcoap_8h.html" title="libcoap.h" alt="" coords="1211,528,1285,555"/>
+<area shape="rect" id="node22" href="$uri_8h.html" title="uri.h" alt="" coords="322,453,369,480"/>
+<area shape="rect" id="node26" href="$bits_8h.html" title="Bit vector manipulation. " alt="" coords="573,453,627,480"/>
+<area shape="rect" id="node29" href="$block_8h.html" title="block.h" alt="" coords="880,229,944,256"/>
+<area shape="rect" id="node30" href="$encode_8h.html" title="encode.h" alt="" coords="919,304,993,331"/>
+</map>

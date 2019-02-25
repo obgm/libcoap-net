@@ -1,0 +1,5 @@
+<map id="coap_dtls_context_set_pki" name="coap_dtls_context_set_pki">
+<area shape="rect" id="node2" href="$coap__session_8h.html#a90f2df37ae4204189027c01604ddfe50" title="Creates a new client session to the designated server with PKI credentials. " alt="" coords="231,5,425,32"/>
+<area shape="rect" id="node3" href="$net_8h.html#a35b413b8771487a5384cfe670553276a" title="Set the context&#39;s default PKI information. " alt="" coords="253,56,403,83"/>
+<area shape="rect" id="node4" href="$net_8h.html#a696acd1012ad1c2dba081ee5bea54fd8" title="Registers the option type type with the given context object ctx. " alt="" coords="473,56,616,83"/>
+</map>

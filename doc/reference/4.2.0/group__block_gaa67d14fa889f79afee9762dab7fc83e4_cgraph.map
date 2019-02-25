@@ -1,0 +1,36 @@
+<map id="coap_more_blocks" name="coap_more_blocks">
+<area shape="rect" id="node2" href="$group__opt__filter.html#gab713167d74579e79140b1112713b7637" title="Returns a pointer to the value of the given option. " alt="" coords="827,5,941,32"/>
+<area shape="rect" id="node3" href="$group__opt__filter.html#gaac65919c93f7047b687d33af9672b3ea" title="Returns the length of the given option. " alt="" coords="825,56,943,83"/>
+<area shape="rect" id="node4" href="$group__block.html#ga714d943bd85123de1b8b6f86ec204a69" title="Initializes block from pdu. " alt="" coords="416,271,529,297"/>
+<area shape="rect" id="node22" href="$group__block.html#ga0462e5c93460d2df1c60611188192524" title="Writes a block option of type type to message pdu. " alt="" coords="399,360,547,387"/>
+<area shape="rect" id="node30" href="$group__block.html#ga0a90438f60d08abd88da955ec895cedb" title="Adds the block_num block of size 1 &lt;&lt; (block_szx + 4) from source data to pdu. " alt="" coords="415,664,531,691"/>
+<area shape="rect" id="node33" href="$group__block.html#ga38c1e9829062e3e2ce621641f1ae59c5" title="Adds the appropriate part of data to the response pdu. " alt="" coords="184,454,347,495"/>
+<area shape="rect" id="node5" href="$group__opt__filter.html#gad4162a3db83918ae0e4f47b4b3aa523d" title="Retrieves the first option of type type from pdu. " alt="" coords="609,259,744,285"/>
+<area shape="rect" id="node20" href="$group__block.html#gaac6c90297abc6e2da80a6212b0d10e99" title="Returns the value of field num in the given block option block_opt. " alt="" coords="604,107,749,133"/>
+<area shape="rect" id="node6" href="$group__opt__filter.html#ga883885e793388359ef93d195bdbb4c2c" title="Clears filter f. " alt="" coords="1021,243,1145,285"/>
+<area shape="rect" id="node14" href="$group__opt__filter.html#ga6b9ade4855f4440b3311296c03bc12aa" title="Sets the corresponding bit for type in filter. " alt="" coords="1021,309,1145,336"/>
+<area shape="rect" id="node15" href="$group__opt__filter.html#gab38b82d0d166363523bbefc4b887f941" title="Initializes the given option iterator oi to point to the beginning of the pdu&#39;s option list..." alt="" coords="803,157,965,184"/>
+<area shape="rect" id="node16" href="$group__opt__filter.html#ga182fdeffe0b37e1ab0dc6ba8494abe4a" title="Updates the iterator oi to point to the next option. " alt="" coords="822,208,946,235"/>
+<area shape="rect" id="node7" href="$group__opt__filter.html#ga0170aecd699295f02affd5b280244088" title="Sets the corresponding entry for type in filter. " alt="" coords="1200,309,1349,336"/>
+<area shape="rect" id="node12" href="$group__opt__filter.html#ga61706c7da445795c096cb21194b57bb3" title="Clears the corresponding entry for type in filter. " alt="" coords="1213,243,1337,285"/>
+<area shape="rect" id="node13" href="$group__opt__filter.html#ga3d3a4336ff55e111eae4eb2a1883a98b" title="Checks if type is contained in filter. " alt="" coords="1200,192,1349,219"/>
+<area shape="rect" id="node8" href="$option_8c.html#a4225eb8945afcd42e9d4c50bd7c85ff1" title="Applies op on filter with respect to type. " alt="" coords="1397,253,1543,280"/>
+<area shape="rect" id="node9" href="$option_8c.html#a2be7abc95dd3dfc1f1f3f4268ce41101" title="Returns true iff type denotes an option type larger than 255. " alt="" coords="1591,253,1696,280"/>
+<area shape="rect" id="node10" href="$encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title="coap_fls" alt="" coords="1608,305,1679,332"/>
+<area shape="rect" id="node11" href="$encode_8c.html#a5732d87decbffe771159ea02a5e25488" title="coap_flsll" alt="" coords="1744,335,1821,361"/>
+<area shape="rect" id="node17" href="$option_8c.html#a70fa9db0450134640b80cbf7c3720688" title="opt_finished" alt="" coords="1037,91,1129,117"/>
+<area shape="rect" id="node18" href="$option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result. " alt="" coords="1025,141,1140,168"/>
+<area shape="rect" id="node19" href="$group__opt__filter.html#ga6c7511c51433cf52068a92a18e62e2d3" title="Gets the corresponding bit for type in filter. " alt="" coords="1021,192,1145,219"/>
+<area shape="rect" id="node21" href="$encode_8c.html#a7d12488893c3062c98bad1f4ab58455c" title="Decodes multiple&#45;length byte sequences. " alt="" coords="803,107,965,133"/>
+<area shape="rect" id="node23" href="$pdu_8c.html#aa1314f60fbc25733cfabaa975adc5aae" title="Adds option of given type to pdu that is passed as first parameter. " alt="" coords="617,411,737,437"/>
+<area shape="rect" id="node29" href="$encode_8c.html#a6987668306bf69553f9b207a624c2d44" title="Encodes multiple&#45;length byte sequences. " alt="" coords="599,461,755,488"/>
+<area shape="rect" id="node24" href="$pdu_8c.html#af25c1916c60fdcf35cd4e178aebbb867" title="coap_pdu_check_resize" alt="" coords="803,512,965,539"/>
+<area shape="rect" id="node26" href="$group__opt__filter.html#ga55f19454026048e906139d575feddecb" title="Compute storage bytes needed for an option with given delta and length. " alt="" coords="807,461,961,488"/>
+<area shape="rect" id="node27" href="$group__opt__filter.html#ga358cb455deaefca1b1234298f018c9ab" title="Encodes option with given delta into opt. " alt="" coords="822,411,946,437"/>
+<area shape="rect" id="node25" href="$pdu_8c.html#add46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size. " alt="" coords="1023,537,1143,564"/>
+<area shape="rect" id="node28" href="$group__opt__filter.html#gafebbd04a7895df694a9345dad0275aeb" title="Encodes the given delta and length values into opt. " alt="" coords="1013,411,1152,437"/>
+<area shape="rect" id="node31" href="$pdu_8c.html#af71a3f810ab9f0f657c25c425826af40" title="Adds given data to the pdu that is passed as first parameter. " alt="" coords="621,563,732,589"/>
+<area shape="rect" id="node32" href="$pdu_8c.html#ab2a710785ec579083f95ee049566fb83" title="Adds given data to the pdu that is passed as first parameter but does not copyt it. " alt="" coords="813,563,955,589"/>
+<area shape="rect" id="node34" href="$resource_8c.html#a29e90783566d71980397fc948d074d0a" title="Returns a subscription object for given peer. " alt="" coords="405,563,540,589"/>
+<area shape="rect" id="node35" href="$pdu_8c.html#acec118d3c702c5327fdca29256b496da" title="Returns a human&#45;readable response phrase for the specified CoAP response code. " alt="" coords="395,613,551,640"/>
+</map>

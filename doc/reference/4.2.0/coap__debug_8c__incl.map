@@ -1,0 +1,19 @@
+<map id="coap_debug.c" name="coap_debug.c">
+<area shape="rect" id="node7" href="$libcoap_8h.html" title="libcoap.h" alt="" coords="375,453,450,480"/>
+<area shape="rect" id="node10" href="$block_8h.html" title="block.h" alt="" coords="495,155,559,181"/>
+<area shape="rect" id="node11" href="$encode_8h.html" title="encode.h" alt="" coords="421,229,495,256"/>
+<area shape="rect" id="node19" href="$coap__debug_8h.html" title="coap_debug.h" alt="" coords="663,229,765,256"/>
+<area shape="rect" id="node20" href="$net_8h.html" title="net.h" alt="" coords="945,80,995,107"/>
+<area shape="rect" id="node14" href="$option_8h.html" title="Helpers for handling options in CoAP PDUs. " alt="" coords="571,229,639,256"/>
+<area shape="rect" id="node16" href="$pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP. " alt="" coords="776,304,831,331"/>
+<area shape="rect" id="node15" href="$bits_8h.html" title="Bit vector manipulation. " alt="" coords="653,379,708,405"/>
+<area shape="rect" id="node17" href="$uri_8h.html" title="uri.h" alt="" coords="841,379,888,405"/>
+<area shape="rect" id="node18" href="$str_8h.html" title="str.h" alt="" coords="922,453,970,480"/>
+<area shape="rect" id="node25" href="$coap__io_8h.html" title="coap_io.h" alt="" coords="1097,304,1176,331"/>
+<area shape="rect" id="node28" href="$coap__dtls_8h.html" title="coap_dtls.h" alt="" coords="925,155,1015,181"/>
+<area shape="rect" id="node29" href="$coap__session_8h.html" title="coap_session.h" alt="" coords="948,229,1061,256"/>
+<area shape="rect" id="node30" href="$coap__time_8h.html" title="Clock Handling. " alt="" coords="958,304,1051,331"/>
+<area shape="rect" id="node31" href="$coap__event_8h.html" title="coap_event.h" alt="" coords="363,379,463,405"/>
+<area shape="rect" id="node32" href="$prng_8h.html" title="Pseudo Random Numbers. " alt="" coords="1242,155,1301,181"/>
+<area shape="rect" id="node27" href="$address_8h.html" title="Representation of network addresses. " alt="" coords="1017,379,1096,405"/>
+</map>

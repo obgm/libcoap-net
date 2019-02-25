@@ -1,0 +1,15 @@
+<map id="coap_free_endpoint" name="coap_free_endpoint">
+<area shape="rect" id="node2" href="$coap__io_8c.html#a2de382e7795c908d1a376da8c338386d" title="coap_socket_close" alt="" coords="395,5,529,32"/>
+<area shape="rect" id="node3" href="$coap__session_8c.html#ab3d24595515d6f66805791a7f821d5e7" title="coap_session_free" alt="" coords="196,183,327,209"/>
+<area shape="rect" id="node14" href="$coap__io_8c.html#a376568994d56368c7704b52aaab111a6" title="coap_mfree_endpoint" alt="" coords="188,411,335,437"/>
+<area shape="rect" id="node4" href="$pdu_8c.html#a48581f968a30ef4278702eb1c16b7a90" title="coap_delete_pdu" alt="" coords="605,107,725,133"/>
+<area shape="rect" id="node5" href="$coap__notls_8c.html#aaf93788bf08a0459d28eaca3cafe930f" title="coap_dtls_free_session" alt="" coords="383,208,541,235"/>
+<area shape="rect" id="node6" href="$coap__notls_8c.html#aa317934415639e23b64a3bd0b4edde6c" title="coap_tls_free_session" alt="" coords="386,259,538,285"/>
+<area shape="rect" id="node7" href="$net_8c.html#a44c39a2314035989d3e07b9d9328e08c" title="coap_delete_node" alt="" coords="399,157,525,184"/>
+<area shape="rect" id="node11" href="$coap__session_8c.html#a8b690dbed6cc3a5beb81ba5d2d27d290" title="coap_session_str" alt="" coords="400,56,524,83"/>
+<area shape="rect" id="node8" href="$coap__session_8c.html#a9aee135ba884d7c143b11bc42fd23e53" title="coap_session_release" alt="" coords="589,195,740,221"/>
+<area shape="rect" id="node9" href="$net_8c.html#aa2f296838e4a779197c43b254e385ddc" title="coap_free_node" alt="" coords="607,284,722,311"/>
+<area shape="rect" id="node10" href="$net_8c.html#aeff229f443c6582fea71504f33364eb4" title="coap_malloc_node" alt="" coords="788,284,919,311"/>
+<area shape="rect" id="node12" href="$debug_8c.html#ab9d398c4bed7c13cea20c716d09474f4" title="coap_print_addr" alt="" coords="607,56,722,83"/>
+<area shape="rect" id="node13" href="$debug_8c.html#aaa5ee5c2942fe13271a46000b2aebde6" title="A length&#45;safe strlen() fake. " alt="" coords="823,56,884,83"/>
+</map>

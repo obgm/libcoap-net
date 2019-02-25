@@ -1,0 +1,4 @@
+<map id="coap_split_uri" name="coap_split_uri">
+<area shape="rect" id="node2" href="$uri_8h.html#a1e40ce0d97cef97ec366f4b339c15245" title="Creates a new coap_uri_t object from the specified URI. " alt="" coords="156,5,259,32"/>
+<area shape="rect" id="node3" href="$uri_8h.html#a04d042f5a81b4a13bf1cc7d94920ed87" title="coap_uri_scheme_is\l_secure" alt="" coords="307,23,448,65"/>
+</map>

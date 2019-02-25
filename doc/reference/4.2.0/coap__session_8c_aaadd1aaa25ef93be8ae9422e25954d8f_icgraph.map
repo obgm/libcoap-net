@@ -1,0 +1,8 @@
+<map id="coap_endpoint_str" name="coap_endpoint_str">
+<area shape="rect" id="node2" href="$net_8c.html#a44ffb4b70e537043e9a9cf344be24b92" title="coap_read_endpoint" alt="" coords="181,5,320,32"/>
+<area shape="rect" id="node3" href="$net_8c.html#a0748d791fd2af516dd93fbadb660d440" title="coap_read" alt="" coords="368,5,451,32"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="812,5,923,32"/>
+<area shape="rect" id="node5" href="$net_8c.html#a9900c032b74bd57f67d489484a2b3207" title="coap_retransmit" alt="" coords="499,31,613,57"/>
+<area shape="rect" id="node6" href="$coap__io_8c.html#aaac86ac50793f309678e4951ecf8863f" title="coap_write" alt="" coords="670,31,755,57"/>
+<area shape="rect" id="node7" href="$net_8c.html#a5d1fb0b44497970b0f75fa0b38570a82" title="coap_cleanup" alt="" coords="661,81,764,108"/>
+</map>

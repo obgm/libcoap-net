@@ -1,0 +1,5 @@
+<map id="is_local_if" name="is_local_if">
+<area shape="rect" id="node2" href="$coap__io_8h.html#a01655aadc98d6957fcb27a612297254a" title="Function interface for reading data. " alt="" coords="133,5,268,32"/>
+<area shape="rect" id="node3" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="316,5,447,32"/>
+<area shape="rect" id="node4" href="$net_8h.html#a0b28834233cb704a89fb8e740ca65c69" title="Registers the option type type with the given context object ctx. " alt="" coords="495,5,637,32"/>
+</map>

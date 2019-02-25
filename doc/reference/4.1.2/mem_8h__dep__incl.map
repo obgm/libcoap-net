@@ -1,0 +1,12 @@
+<map id="mem.h" name="mem.h">
+<area shape="rect" id="node2" href="$async_8c.html" title="state management for asynchronous messages " alt="" coords="108,155,176,181"/>
+<area shape="rect" id="node3" href="$coap__io_8c.html" title="coap_io.c" alt="" coords="26,80,104,107"/>
+<area shape="rect" id="node4" href="$mem_8c.html" title="mem.c" alt="" coords="128,80,191,107"/>
+<area shape="rect" id="node5" href="$net_8c.html" title="net.c" alt="" coords="216,80,266,107"/>
+<area shape="rect" id="node6" href="$pdu_8c.html" title="pdu.c" alt="" coords="291,80,346,107"/>
+<area shape="rect" id="node7" href="$resource_8c.html" title="resource.c" alt="" coords="521,155,604,181"/>
+<area shape="rect" id="node8" href="$str_8c.html" title="str.c" alt="" coords="456,80,504,107"/>
+<area shape="rect" id="node9" href="$uri_8c.html" title="uri.c" alt="" coords="528,80,575,107"/>
+<area shape="rect" id="node10" href="$coap_8h.html" title="coap.h" alt="" coords="370,80,432,107"/>
+<area shape="rect" id="node11" href="$subscribe_8c.html" title="subscribe.c" alt="" coords="356,155,446,181"/>
+</map>

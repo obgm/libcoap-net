@@ -1,0 +1,9 @@
+<map id="coap_send_error" name="coap_send_error">
+<area shape="rect" id="node2" href="$net_8h.html#ade36148140b152d713b23d17bbcf0024" title="Returns a new message id and updates session&#45;&gt;tx_mid accordingly. " alt="" coords="172,56,331,83"/>
+<area shape="rect" id="node3" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="379,56,532,83"/>
+<area shape="rect" id="node4" href="$resource_8h.html#a579bcb559463d3a872831c18d8d9a1c1" title="Checks for all known resources, if they are dirty and notifies subscribed observers. " alt="" coords="580,56,711,83"/>
+<area shape="rect" id="node5" href="$net_8h.html#aaac86ac50793f309678e4951ecf8863f" title="For applications with their own message loop, send all pending retransmits and return the list of soc..." alt="" coords="767,31,853,57"/>
+<area shape="rect" id="node8" href="$libcoap_8h.html#a5d1fb0b44497970b0f75fa0b38570a82" title="coap_cleanup" alt="" coords="759,81,861,108"/>
+<area shape="rect" id="node6" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="909,5,1020,32"/>
+<area shape="rect" id="node7" href="$net_8h.html#a5854b1394bfddd574e48af116e3aaaf9" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="911,56,1018,83"/>
+</map>

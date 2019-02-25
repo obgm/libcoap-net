@@ -1,0 +1,4 @@
+<map id="coap_subscription_t" name="coap_subscription_t">
+<area shape="rect" id="node2" href="$structcoap__address__t.html" title="multi&#45;purpose address abstraction " alt="" coords="44,5,159,32"/>
+<area shape="rect" id="node3" href="$structcoap__endpoint__t.html" title="Abstraction of virtual endpoint that can be attached to coap_context_t. " alt="" coords="143,95,260,121"/>
+</map>

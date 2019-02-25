@@ -1,0 +1,7 @@
+<map id="coap_new_pdu" name="coap_new_pdu">
+<area shape="rect" id="node2" href="$pdu_8c.html#a8a1f5754d3309fd2880ee8a91607cfc1" title="Creates a new CoAP PDU with at least enough storage space for the given size maximum message size..." alt="" coords="208,22,311,49"/>
+<area shape="rect" id="node6" href="$coap__session_8c.html#a4368ee622c681bf7cf0b7cfe99c8ab37" title="Get maximum acceptable PDU size. " alt="" coords="163,73,356,99"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="565,34,692,61"/>
+<area shape="rect" id="node4" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="405,22,516,49"/>
+<area shape="rect" id="node5" href="$pdu_8c.html#a9dbdf354e2da5e80fea4c0d4a8df6d05" title="Clears any contents from pdu and resets used_size, and data pointers. " alt="" coords="404,97,517,123"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="coap_pdu_parse_opt" name="coap_pdu_parse_opt">
+<area shape="rect" id="node2" href="$pdu_8c.html#a1a5660500af5276ede2c7472958f2826" title="Advances *optp to next option if still in PDU. " alt="" coords="196,5,317,32"/>
+<area shape="rect" id="node3" href="$option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result. " alt="" coords="365,5,480,32"/>
+</map>

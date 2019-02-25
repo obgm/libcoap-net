@@ -1,0 +1,19 @@
+<map id="coap_response_phrase" name="coap_response_phrase">
+<area shape="rect" id="node2" href="$net_8h.html#ab7953637ad760f76ffb8060ddf47fe6a" title="Creates a new ACK PDU with specified error code. " alt="" coords="209,127,384,154"/>
+<area shape="rect" id="node3" href="$net_8h.html#ab31cd76353f751ec4dc5c033152df575" title="Sends an error response with code code for request request to dst. " alt="" coords="432,102,551,128"/>
+<area shape="rect" id="node4" href="$net_8h.html#ade36148140b152d713b23d17bbcf0024" title="Returns a new message id and updates context&#45;&gt;message_id accordingly. " alt="" coords="599,56,757,83"/>
+<area shape="rect" id="node11" href="$net_8c.html#a1a280312c4bad55cf10243b9b9c3e966" title="handle_request" alt="" coords="436,203,547,230"/>
+<area shape="rect" id="node12" href="$net_8h.html#a7bb944fc52f772655356d95724317401" title="Dispatches the PDUs from the receive queue in given context. " alt="" coords="625,182,731,208"/>
+<area shape="rect" id="node5" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="805,56,959,83"/>
+<area shape="rect" id="node6" href="$resource_8h.html#a579bcb559463d3a872831c18d8d9a1c1" title="Checks for all known resources, if they are dirty and notifies subscribed observers. " alt="" coords="1532,56,1663,83"/>
+<area shape="rect" id="node7" href="$net_8h.html#aaac86ac50793f309678e4951ecf8863f" title="For applications with their own message loop, send all pending retransmits and return the list of soc..." alt="" coords="1719,83,1805,110"/>
+<area shape="rect" id="node10" href="$libcoap_8h.html#a5d1fb0b44497970b0f75fa0b38570a82" title="coap_cleanup" alt="" coords="1711,32,1813,59"/>
+<area shape="rect" id="node8" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="1861,32,1972,59"/>
+<area shape="rect" id="node9" href="$net_8h.html#a5854b1394bfddd574e48af116e3aaaf9" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="1863,184,1970,211"/>
+<area shape="rect" id="node13" href="$net_8c.html#acd36f6fba6d30ab9557e0e6521f4a088" title="coap_read_session" alt="" coords="1217,122,1351,148"/>
+<area shape="rect" id="node16" href="$net_8h.html#ae6b8ca457dd41f23372f9e9a7159312b" title="Parses and interprets a CoAP message with context ctx. " alt="" coords="813,182,951,208"/>
+<area shape="rect" id="node14" href="$net_8h.html#a0748d791fd2af516dd93fbadb660d440" title="For applications with their own message loop, reads all data from the network. " alt="" coords="1401,122,1484,148"/>
+<area shape="rect" id="node15" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="1540,114,1655,140"/>
+<area shape="rect" id="node17" href="$net_8c.html#a8534f7860b14e0743529daff196a27ce" title="coap_handle_dgram_for\l_proto" alt="" coords="1007,169,1167,210"/>
+<area shape="rect" id="node18" href="$net_8c.html#a44ffb4b70e537043e9a9cf344be24b92" title="coap_read_endpoint" alt="" coords="1215,175,1353,202"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="is_long_option" name="is_long_option">
+<area shape="rect" id="node2" href="$option_8c.html#a4225eb8945afcd42e9d4c50bd7c85ff1" title="Applies op on filter with respect to type. " alt="" coords="159,991,304,1018"/>
+<area shape="rect" id="node3" href="$group__opt__filter.html#ga0170aecd699295f02affd5b280244088" title="Sets the corresponding entry for type in filter. " alt="" coords="893,1101,1043,1127"/>
+<area shape="rect" id="node28" href="$group__opt__filter.html#ga61706c7da445795c096cb21194b57bb3" title="Clears the corresponding entry for type in filter. " alt="" coords="906,984,1030,1025"/>
+<area shape="rect" id="node35" href="$group__opt__filter.html#ga3d3a4336ff55e111eae4eb2a1883a98b" title="Checks if type is contained in filter. " alt="" coords="352,911,501,938"/>
+<area shape="rect" id="node4" href="$net_8h.html#a9c6736c0418c3adf5e7f6fb76f000cfe" title="Verifies that pdu contains no unknown critical options. " alt="" coords="1091,831,1269,858"/>
+<area shape="rect" id="node16" href="$group__opt__filter.html#ga883885e793388359ef93d195bdbb4c2c" title="Clears filter f. " alt="" coords="1118,1035,1242,1076"/>
+<area shape="rect" id="node24" href="$uri_8c.html#a15cc296560619b6f9b80d9005a000167" title="coap_get_query" alt="" coords="1345,941,1459,967"/>
+<area shape="rect" id="node25" href="$uri_8c.html#a062095681104f3175b8265e240989ade" title="coap_get_uri_path" alt="" coords="1338,1042,1466,1069"/>
+<area shape="rect" id="node26" href="$group__opt__filter.html#ga6b9ade4855f4440b3311296c03bc12aa" title="Sets the corresponding bit for type in filter. " alt="" coords="1118,1151,1242,1178"/>
+<area shape="rect" id="node5" href="$net_8h.html#a7bb944fc52f772655356d95724317401" title="Dispatches the PDUs from the receive queue in given context. " alt="" coords="2215,666,2322,693"/>
+<area shape="rect" id="node11" href="$net_8h.html#a5854b1394bfddd574e48af116e3aaaf9" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="3462,606,3569,633"/>
+<area shape="rect" id="node6" href="$net_8c.html#acd36f6fba6d30ab9557e0e6521f4a088" title="coap_read_session" alt="" coords="2815,586,2950,613"/>
+<area shape="rect" id="node13" href="$net_8h.html#ae6b8ca457dd41f23372f9e9a7159312b" title="Parses and interprets a CoAP datagram with context ctx. " alt="" coords="2403,666,2542,693"/>
+<area shape="rect" id="node7" href="$net_8h.html#a0748d791fd2af516dd93fbadb660d440" title="For applications with their own message loop, reads all data from the network. " alt="" coords="3000,561,3083,587"/>
+<area shape="rect" id="node8" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="3460,403,3571,430"/>
+<area shape="rect" id="node9" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="3139,429,3253,455"/>
+<area shape="rect" id="node10" href="$net_8h.html#aaac86ac50793f309678e4951ecf8863f" title="For applications with their own message loop, send all pending retransmits and return the list of soc..." alt="" coords="3318,353,3403,379"/>
+<area shape="rect" id="node12" href="$libcoap_8h.html#a5d1fb0b44497970b0f75fa0b38570a82" title="coap_cleanup" alt="" coords="3309,403,3412,430"/>
+<area shape="rect" id="node14" href="$net_8c.html#a8534f7860b14e0743529daff196a27ce" title="coap_handle_dgram_for\l_proto" alt="" coords="2601,637,2761,679"/>
+<area shape="rect" id="node15" href="$net_8c.html#a44ffb4b70e537043e9a9cf344be24b92" title="coap_read_endpoint" alt="" coords="2813,641,2952,667"/>
+<area shape="rect" id="node17" href="$net_8c.html#a1a280312c4bad55cf10243b9b9c3e966" title="handle_request" alt="" coords="1997,1017,2108,1043"/>
+<area shape="rect" id="node18" href="$group__opt__filter.html#gad4162a3db83918ae0e4f47b4b3aa523d" title="Retrieves the first option of type type from pdu. " alt="" coords="1335,1173,1469,1199"/>
+<area shape="rect" id="node19" href="$group__block.html#ga714d943bd85123de1b8b6f86ec204a69" title="Initializes block from pdu. " alt="" coords="1555,1245,1669,1271"/>
+<area shape="rect" id="node22" href="$net_8h.html#a69ff8481c32707b77813c051fc42dedd" title="Creates a new response for given request with the contents of .well&#45;known/core. " alt="" coords="1737,1245,1916,1271"/>
+<area shape="rect" id="node23" href="$net_8c.html#aa708f479d33a6ca76bf214a0e0e42de4" title="Checks for No&#45;Response option in given request and returns 1 if response should be suppressed accordi..." alt="" coords="1779,1143,1875,1170"/>
+<area shape="rect" id="node20" href="$group__block.html#ga38c1e9829062e3e2ce621641f1ae59c5" title="Adds the appropriate part of data to the response pdu. " alt="" coords="1745,1296,1908,1337"/>
+<area shape="rect" id="node21" href="$group__block.html#gaa67d14fa889f79afee9762dab7fc83e4" title="Checks if more than num blocks are required to deliver data_len bytes of data for a block size of 1 &lt;..." alt="" coords="1987,1333,2118,1359"/>
+<area shape="rect" id="node27" href="$net_8h.html#a696acd1012ad1c2dba081ee5bea54fd8" title="Registers the option type type with the given context object ctx. " alt="" coords="1331,1122,1473,1149"/>
+<area shape="rect" id="node29" href="$group__opt__filter.html#gae505a1c44aa1f5aa01531deaff245e5b" title="Clears the corresponding bit for type in filter. " alt="" coords="1120,781,1240,807"/>
+<area shape="rect" id="node30" href="$net_8h.html#ab7953637ad760f76ffb8060ddf47fe6a" title="Creates a new ACK PDU with specified error code. " alt="" coords="1739,383,1914,410"/>
+<area shape="rect" id="node31" href="$net_8h.html#ab31cd76353f751ec4dc5c033152df575" title="Sends an error response with code code for request request to dst. " alt="" coords="1993,282,2112,309"/>
+<area shape="rect" id="node32" href="$net_8h.html#ade36148140b152d713b23d17bbcf0024" title="Returns a new message id and updates session&#45;&gt;tx_mid accordingly. " alt="" coords="2189,218,2348,245"/>
+<area shape="rect" id="node33" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="2396,218,2549,245"/>
+<area shape="rect" id="node34" href="$resource_8h.html#a579bcb559463d3a872831c18d8d9a1c1" title="Checks for all known resources, if they are dirty and notifies subscribed observers. " alt="" coords="3131,327,3261,354"/>
+<area shape="rect" id="node36" href="$group__opt__filter.html#ga6c7511c51433cf52068a92a18e62e2d3" title="Gets the corresponding bit for type in filter. " alt="" coords="549,871,673,898"/>
+<area shape="rect" id="node37" href="$group__opt__filter.html#ga182fdeffe0b37e1ab0dc6ba8494abe4a" title="Updates the iterator oi to point to the next option. " alt="" coords="721,857,845,883"/>
+<area shape="rect" id="node38" href="$group__logging.html#ga3123fcde8310c0f7cb48897a683baef6" title="Display the contents of the specified pdu. " alt="" coords="910,605,1026,631"/>
+<area shape="rect" id="node48" href="$net_8c.html#ac4cbcfd073489b57805db665ce3d0681" title="handle_signaling" alt="" coords="1993,687,2112,714"/>
+<area shape="rect" id="node39" href="$coap__session_8h.html#aaf20c9b0b2ad3168c15e535a67ea3ce5" title="Send a pdu according to the session&#39;s protocol. " alt="" coords="1097,558,1263,585"/>
+<area shape="rect" id="node43" href="$net_8c.html#a0c600aed61c8a8402d31ef795df3b0b6" title="coap_send_pdu" alt="" coords="1555,434,1669,461"/>
+<area shape="rect" id="node40" href="$coap__session_8h.html#a2f455ec1572982a5ae404beac0cfbd53" title="Notify session transport has just connected and CSM exchange can now start. " alt="" coords="1317,535,1487,562"/>
+<area shape="rect" id="node50" href="$coap__session_8h.html#aa8b3a2da8480911b0216dad076038cb6" title="Notify session that it has just connected or reconnected. " alt="" coords="1742,637,1911,663"/>
+<area shape="rect" id="node41" href="$coap__session_8c.html#acec64026a2b3309e97075951dc52c2a1" title="coap_session_connect" alt="" coords="1535,535,1689,562"/>
+<area shape="rect" id="node42" href="$coap__session_8c.html#ac79f1143af9580a441d31796cf81f108" title="coap_session_accept" alt="" coords="1538,586,1686,613"/>
+<area shape="rect" id="node49" href="$net_8c.html#a9e7c7fc083799c942c9c44ebc190c833" title="coap_connect_session" alt="" coords="2191,485,2346,511"/>
+<area shape="rect" id="node44" href="$net_8h.html#ab0b0b5db03427c4313c01ec2b12cf8ed" title="Sends a CoAP message to given peer. " alt="" coords="1784,257,1869,283"/>
+<area shape="rect" id="node45" href="$coap__session_8h.html#ab3f9f60c0a4857c147fef5721025944c" title="Send a ping message for the session. " alt="" coords="2597,29,2765,55"/>
+<area shape="rect" id="node46" href="$net_8h.html#aba278b109415057d15196fa46afee970" title="Sends an ACK message with code 0 for the specified request to dst. " alt="" coords="1996,181,2109,207"/>
+<area shape="rect" id="node47" href="$net_8h.html#a6aa830b46188549b51773f724eb8e752" title="Helper funktion to create and send a message with type (usually ACK or RST). " alt="" coords="1964,130,2141,157"/>
+</map>

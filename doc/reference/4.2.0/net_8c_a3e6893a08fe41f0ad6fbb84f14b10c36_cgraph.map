@@ -1,0 +1,4 @@
+<map id="coap_context_set_pki" name="coap_context_set_pki">
+<area shape="rect" id="node2" href="$group__dtls.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available. " alt="" coords="212,5,371,32"/>
+<area shape="rect" id="node3" href="$coap__notls_8c.html#ab13a3f7c74b1aa0f71088d94a4743dab" title="coap_dtls_context_set_pki" alt="" coords="203,56,380,83"/>
+</map>

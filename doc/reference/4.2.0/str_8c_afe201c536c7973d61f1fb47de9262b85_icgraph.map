@@ -1,0 +1,9 @@
+<map id="coap_delete_str_const" name="coap_delete_str_const">
+<area shape="rect" id="node2" href="$resource_8c.html#a37883d9c8bafdd59fd1bd57dcb82e908" title="coap_delete_attr" alt="" coords="207,5,325,32"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a1307a6b8dadd6d005352ce02f6cf392f" title="coap_free_resource" alt="" coords="373,31,509,57"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a9a5f0705912b0a35a3d5764e86b94004" title="coap_add_resource" alt="" coords="781,5,916,32"/>
+<area shape="rect" id="node5" href="$resource_8c.html#ad3521b724ad4961e6bb11801fd82a3e3" title="coap_delete_resource" alt="" coords="571,31,720,57"/>
+<area shape="rect" id="node6" href="$resource_8c.html#a1fae3046ad94fce85a7ea23455328958" title="coap_delete_all_resources" alt="" coords="557,81,733,108"/>
+<area shape="rect" id="node7" href="$net_8c.html#a4a0717822713783908dd33d300440b2e" title="coap_free_context" alt="" coords="784,81,913,108"/>
+<area shape="rect" id="node8" href="$net_8c.html#a8baf4e3608ff5eb00adac694fe25eb60" title="coap_new_context" alt="" coords="964,81,1095,108"/>
+</map>

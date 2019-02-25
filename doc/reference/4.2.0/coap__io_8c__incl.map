@@ -1,0 +1,25 @@
+<map id="coap_io.c" name="coap_io.c">
+<area shape="rect" id="node4" href="$libcoap_8h.html" title="libcoap.h" alt="" coords="283,603,358,629"/>
+<area shape="rect" id="node7" href="$coap__debug_8h.html" title="coap_debug.h" alt="" coords="1829,229,1932,256"/>
+<area shape="rect" id="node8" href="$pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP. " alt="" coords="1237,453,1292,480"/>
+<area shape="rect" id="node13" href="$mem_8h.html" title="mem.h" alt="" coords="1589,155,1652,181"/>
+<area shape="rect" id="node15" href="$net_8h.html" title="net.h" alt="" coords="979,229,1030,256"/>
+<area shape="rect" id="node19" href="$coap__io_8h.html" title="coap_io.h" alt="" coords="496,453,575,480"/>
+<area shape="rect" id="node29" href="$utlist_8h.html" title="utlist.h" alt="" coords="455,155,517,181"/>
+<area shape="rect" id="node30" href="$resource_8h.html" title="Generic resource handling. " alt="" coords="963,80,1046,107"/>
+<area shape="rect" id="node9" href="$uri_8h.html" title="uri.h" alt="" coords="1240,528,1287,555"/>
+<area shape="rect" id="node11" href="$str_8h.html" title="str.h" alt="" coords="1239,603,1287,629"/>
+<area shape="rect" id="node22" href="$coap__dtls_8h.html" title="coap_dtls.h" alt="" coords="1232,304,1321,331"/>
+<area shape="rect" id="node23" href="$coap__session_8h.html" title="coap_session.h" alt="" coords="1003,379,1116,405"/>
+<area shape="rect" id="node24" href="$coap__time_8h.html" title="Clock Handling. " alt="" coords="1013,453,1106,480"/>
+<area shape="rect" id="node25" href="$coap__event_8h.html" title="coap_event.h" alt="" coords="271,528,371,555"/>
+<area shape="rect" id="node26" href="$option_8h.html" title="Helpers for handling options in CoAP PDUs. " alt="" coords="1140,379,1208,405"/>
+<area shape="rect" id="node28" href="$prng_8h.html" title="Pseudo Random Numbers. " alt="" coords="1447,304,1506,331"/>
+<area shape="rect" id="node21" href="$address_8h.html" title="Representation of network addresses. " alt="" coords="395,528,473,555"/>
+<area shape="rect" id="node27" href="$bits_8h.html" title="Bit vector manipulation. " alt="" coords="1105,528,1160,555"/>
+<area shape="rect" id="node31" href="$uthash_8h.html" title="uthash.h" alt="" coords="1581,304,1653,331"/>
+<area shape="rect" id="node33" href="$async_8h.html" title="State management for asynchronous messages. " alt="" coords="935,155,1003,181"/>
+<area shape="rect" id="node34" href="$subscribe_8h.html" title="subscribe.h" alt="" coords="517,229,607,256"/>
+<area shape="rect" id="node35" href="$block_8h.html" title="block.h" alt="" coords="802,304,866,331"/>
+<area shape="rect" id="node36" href="$encode_8h.html" title="encode.h" alt="" coords="802,379,877,405"/>
+</map>

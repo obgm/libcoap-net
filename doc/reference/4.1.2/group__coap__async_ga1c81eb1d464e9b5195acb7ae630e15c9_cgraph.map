@@ -1,0 +1,7 @@
+<map id="coap_register_async" name="coap_register_async">
+<area shape="rect" id="node2" href="$net_8c.html#aab5ca063fd19725ae1ddd8d7c9623f05" title="Calculates a unique transaction id from given arguments peer and pdu. " alt="" coords="196,5,335,32"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a09b861aa54503f57f2a9412d546cd3c8" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="218,56,313,83"/>
+<area shape="rect" id="node5" href="$group__coap__async.html#ga0449da062fcaa37d84994b1aba7deb13" title="Updates the time stamp of s. " alt="" coords="200,107,331,133"/>
+<area shape="rect" id="node4" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="383,56,509,83"/>
+<area shape="rect" id="node6" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution. " alt="" coords="403,107,489,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="coap_dtls_free_session" name="coap_dtls_free_session">
+<area shape="rect" id="node2" href="$coap__dtls__gnutls_8c.html#a14cd3bad2ff5b23a69a062bcd0f0125c" title="Releases the storage allocated for dtls_context. " alt="" coords="225,5,382,32"/>
+<area shape="rect" id="node3" href="$coap__dtls__gnutls_8c.html#a174ab9010def9c77272219cabba1b48e" title="coap_dtls_handle_message" alt="" coords="212,56,395,83"/>
+</map>

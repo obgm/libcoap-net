@@ -1,0 +1,6 @@
+<map id="coap_print_wellknown" name="coap_print_wellknown">
+<area shape="rect" id="node2" href="$resource_8c.html#a18cabbe8668115b60749b1d01faee42d" title="match" alt="" coords="204,31,263,57"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a37cf7fb7da22f9a47e11bcbbbaf0e598" title="Returns resource&#39;s coap_attr_t object with given name if found, NULL otherwise. " alt="" coords="512,5,616,32"/>
+<area shape="rect" id="node5" href="$resource_8c.html#a1ee72943df541ed5d4294c13e967ef09" title="Writes a description of this resource in link&#45;format to given text buffer. " alt="" coords="509,56,619,83"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a82195178fe216a47a0cf8a88aa09c9cd" title="Prints the names of all known resources to buf. " alt="" coords="311,31,461,57"/>
+</map>

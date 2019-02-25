@@ -1,0 +1,7 @@
+<map id="coap_delete_string" name="coap_delete_string">
+<area shape="rect" id="node2" href="$mem_8h.html#ac01dd5f787fced5a3f9160b4584e81c7" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="184,56,263,83"/>
+<area shape="rect" id="node3" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="319,5,430,32"/>
+<area shape="rect" id="node4" href="$mem_8h.html#a65d0fc0fe6cad555b56e92ccb57613ba" title="Initializes libcoap&#39;s memory management. " alt="" coords="311,56,439,83"/>
+<area shape="rect" id="node5" href="$mem_8h.html#a09b861aa54503f57f2a9412d546cd3c8" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="327,107,422,133"/>
+<area shape="rect" id="node6" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="487,107,613,133"/>
+</map>

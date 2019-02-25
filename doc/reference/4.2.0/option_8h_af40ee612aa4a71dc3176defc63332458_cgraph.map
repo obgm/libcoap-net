@@ -1,0 +1,9 @@
+<map id="coap_add_optlist_pdu" name="coap_add_optlist_pdu">
+<area shape="rect" id="node2" href="$option_8c.html#ad773b314b1ac7591f38f7b4b04d9e68d" title="order_opts" alt="" coords="220,5,303,32"/>
+<area shape="rect" id="node3" href="$pdu_8c.html#aa1314f60fbc25733cfabaa975adc5aae" title="de&#45;duplicate code with coap_add_option_later " alt="" coords="201,56,321,83"/>
+<area shape="rect" id="node4" href="$pdu_8c.html#af25c1916c60fdcf35cd4e178aebbb867" title="coap_pdu_check_resize" alt="" coords="369,5,532,32"/>
+<area shape="rect" id="node6" href="$group__opt__filter.html#ga55f19454026048e906139d575feddecb" title="Compute storage bytes needed for an option with given delta and length. " alt="" coords="373,56,528,83"/>
+<area shape="rect" id="node7" href="$group__opt__filter.html#ga358cb455deaefca1b1234298f018c9ab" title="Encodes option with given delta into opt. " alt="" coords="389,107,513,133"/>
+<area shape="rect" id="node5" href="$pdu_8c.html#add46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size. " alt="" coords="589,5,709,32"/>
+<area shape="rect" id="node8" href="$group__opt__filter.html#gafebbd04a7895df694a9345dad0275aeb" title="Encodes the given delta and length values into opt. " alt="" coords="580,107,719,133"/>
+</map>

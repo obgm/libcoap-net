@@ -1,0 +1,4 @@
+<map id="coap_packet_set_addr" name="coap_packet_set_addr">
+<area shape="rect" id="node2" href="$address_8h.html#ada8c7f0dd95000bb418860b970d8cb9f" title="coap_address_copy" alt="" coords="207,5,345,32"/>
+<area shape="rect" id="node3" href="$address_8h.html#aece6d39e01149af8dea29b0b8cbde504" title="Compares given address objects a and b. " alt="" coords="393,5,541,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="coap_dtls_is_supported" name="coap_dtls_is_supported">
+<area shape="rect" id="node2" href="$coap__session_8h.html#a40790c70df0b38fe89f3fb2ad255d662" title="Creates a new client session to the designated server with PSK credentials. " alt="" coords="212,5,411,32"/>
+<area shape="rect" id="node3" href="$coap__session_8h.html#a90f2df37ae4204189027c01604ddfe50" title="Creates a new client session to the designated server with PKI credentials. " alt="" coords="214,56,409,83"/>
+<area shape="rect" id="node4" href="$coap__session_8h.html#a6c2e568e59caed491a94a5861d9afac2" title="Create a new endpoint for communicating with peers. " alt="" coords="243,107,380,133"/>
+<area shape="rect" id="node5" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="470,157,601,184"/>
+<area shape="rect" id="node7" href="$net_8h.html#a665601c3c9ac88ef92125c1e62d679b2" title="Set the context&#39;s default PSK hint and/or key for a server. " alt="" coords="459,208,612,235"/>
+<area shape="rect" id="node8" href="$net_8h.html#a35b413b8771487a5384cfe670553276a" title="Set the context&#39;s default PKI information for a server. " alt="" coords="461,259,610,285"/>
+<area shape="rect" id="node9" href="$net_8h.html#a7b56f148fda46ca44655e1a9b373b97e" title="Set the context&#39;s default Root CA information for a client or server. " alt="" coords="461,310,610,351"/>
+<area shape="rect" id="node6" href="$net_8h.html#a696acd1012ad1c2dba081ee5bea54fd8" title="Registers the option type type with the given context object ctx. " alt="" coords="660,233,803,260"/>
+</map>

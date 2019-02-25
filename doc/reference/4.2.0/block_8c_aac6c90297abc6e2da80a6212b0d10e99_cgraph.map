@@ -1,0 +1,5 @@
+<map id="coap_opt_block_num" name="coap_opt_block_num">
+<area shape="rect" id="node2" href="$option_8c.html#aac65919c93f7047b687d33af9672b3ea" title="coap_opt_length" alt="" coords="221,5,339,32"/>
+<area shape="rect" id="node3" href="$encode_8c.html#a7d12488893c3062c98bad1f4ab58455c" title="coap_decode_var_bytes" alt="" coords="199,56,361,83"/>
+<area shape="rect" id="node4" href="$option_8c.html#ab713167d74579e79140b1112713b7637" title="coap_opt_value" alt="" coords="223,107,337,133"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="coap_session_reset" name="coap_session_reset">
+<area shape="rect" id="node2" href="$net_8c.html#a9e7c7fc083799c942c9c44ebc190c833" title="coap_connect_session" alt="" coords="192,56,347,83"/>
+<area shape="rect" id="node9" href="$net_8c.html#acd36f6fba6d30ab9557e0e6521f4a088" title="coap_read_session" alt="" coords="202,107,337,133"/>
+<area shape="rect" id="node3" href="$net_8h.html#a0748d791fd2af516dd93fbadb660d440" title="For applications with their own message loop, reads all data from the network. " alt="" coords="395,81,477,108"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="839,5,949,32"/>
+<area shape="rect" id="node5" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="525,81,640,108"/>
+<area shape="rect" id="node7" href="$net_8h.html#a5854b1394bfddd574e48af116e3aaaf9" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="841,81,947,108"/>
+<area shape="rect" id="node6" href="$net_8h.html#aaac86ac50793f309678e4951ecf8863f" title="For applications with their own message loop, send all pending retransmits and return the list of soc..." alt="" coords="697,31,782,57"/>
+<area shape="rect" id="node8" href="$libcoap_8h.html#a5d1fb0b44497970b0f75fa0b38570a82" title="coap_cleanup" alt="" coords="688,132,791,159"/>
+</map>

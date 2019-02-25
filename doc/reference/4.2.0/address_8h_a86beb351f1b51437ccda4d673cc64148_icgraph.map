@@ -1,0 +1,18 @@
+<map id="coap_address_init" name="coap_address_init">
+<area shape="rect" id="node2" href="$coap__session_8c.html#a492e784d51a3c04c4cd03662c263c64f" title="coap_make_session" alt="" coords="180,107,321,133"/>
+<area shape="rect" id="node4" href="$net_8c.html#a44ffb4b70e537043e9a9cf344be24b92" title="coap_read_endpoint" alt="" coords="630,52,769,79"/>
+<area shape="rect" id="node3" href="$coap__session_8c.html#a0d8adbae82b2ced3accee1361ac8fe6c" title="coap_endpoint_get_session" alt="" coords="369,107,552,133"/>
+<area shape="rect" id="node11" href="$coap__session_8c.html#a62d9344df77ca3d75777e0dde0a5c832" title="coap_endpoint_new_dtls\l_session" alt="" coords="378,41,543,82"/>
+<area shape="rect" id="node12" href="$coap__session_8c.html#a78865254d0191854b0b7c35f28eefe71" title="coap_session_create\l_client" alt="" coords="388,209,533,250"/>
+<area shape="rect" id="node16" href="$coap__session_8h.html#aadffd66ead18cd2eba0b19efe92a3d88" title="Creates a new server session for the specified endpoint. " alt="" coords="373,157,549,184"/>
+<area shape="rect" id="node5" href="$net_8h.html#a0748d791fd2af516dd93fbadb660d440" title="For applications with their own message loop, reads all data from the network. " alt="" coords="847,81,929,108"/>
+<area shape="rect" id="node6" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="1291,5,1401,32"/>
+<area shape="rect" id="node7" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="977,81,1092,108"/>
+<area shape="rect" id="node9" href="$net_8h.html#a5854b1394bfddd574e48af116e3aaaf9" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="1293,132,1399,159"/>
+<area shape="rect" id="node8" href="$net_8h.html#aaac86ac50793f309678e4951ecf8863f" title="For applications with their own message loop, send all pending retransmits and return the list of soc..." alt="" coords="1149,31,1234,57"/>
+<area shape="rect" id="node10" href="$libcoap_8h.html#a5d1fb0b44497970b0f75fa0b38570a82" title="coap_cleanup" alt="" coords="1140,81,1243,108"/>
+<area shape="rect" id="node13" href="$coap__session_8h.html#ad495fcd405fa86859fa36d45f89be910" title="Creates a new client session to the designated server. " alt="" coords="614,216,785,243"/>
+<area shape="rect" id="node14" href="$coap__session_8h.html#a40790c70df0b38fe89f3fb2ad255d662" title="Creates a new client session to the designated server with PSK credentials. " alt="" coords="600,267,799,293"/>
+<area shape="rect" id="node15" href="$coap__session_8h.html#a90f2df37ae4204189027c01604ddfe50" title="Creates a new client session to the designated server with PKI credentials. " alt="" coords="602,165,797,192"/>
+<area shape="rect" id="node17" href="$net_8c.html#a7437c90770ffd13685e6a77799b4753b" title="coap_accept_endpoint" alt="" coords="623,111,775,137"/>
+</map>

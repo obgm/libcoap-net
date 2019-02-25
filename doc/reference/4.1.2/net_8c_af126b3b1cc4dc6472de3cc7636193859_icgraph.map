@@ -1,0 +1,22 @@
+<map id="coap_free_node" name="coap_free_node">
+<area shape="rect" id="node2" href="$net_8h.html#a44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node. " alt="" coords="168,312,295,339"/>
+<area shape="rect" id="node21" href="$net_8h.html#a6c0e56cd7bd35cb0961c3baf85e98eaf" title="Sends a confirmed CoAP message to given destination. " alt="" coords="573,488,723,515"/>
+<area shape="rect" id="node3" href="$net_8h.html#a2c1e86998c712346baf2d116dbf1ac7f" title="Removes all items from given queue and frees the allocated storage. " alt="" coords="378,437,490,464"/>
+<area shape="rect" id="node9" href="$net_8h.html#ac58be1c374afa04d10810aef1d073315" title="Removes the transaction identified by id from given queue. " alt="" coords="1556,79,1727,105"/>
+<area shape="rect" id="node11" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="997,211,1112,237"/>
+<area shape="rect" id="node13" href="$net_8h.html#a74c5ca78210280817a5586f61abfa5f3" title="Parses and interprets a CoAP message with context ctx. " alt="" coords="977,275,1132,301"/>
+<area shape="rect" id="node15" href="$net_8h.html#a648df31fd1553a7fa8d294b652dd99da" title="Cancels all outstanding messages for peer dst that have the specified token. " alt="" coords="343,160,525,187"/>
+<area shape="rect" id="node17" href="$net_8h.html#ab458d1c3b0f5d695dfa86b805ae8463d" title="Dispatches the PDUs from the receive queue in given context. " alt="" coords="797,211,903,237"/>
+<area shape="rect" id="node4" href="$net_8h.html#a4a0717822713783908dd33d300440b2e" title="CoAP stack context must be released with coap_free_context(). " alt="" coords="583,437,713,464"/>
+<area shape="rect" id="node5" href="$net_8h.html#ac09b38583adc73fd96e33e9c61eac39f" title="Returns a new message id and updates context&#45;&gt;message_id accordingly. " alt="" coords="771,437,929,464"/>
+<area shape="rect" id="node6" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="978,437,1131,464"/>
+<area shape="rect" id="node7" href="$resource_8h.html#a579bcb559463d3a872831c18d8d9a1c1" title="Checks for all known resources, if they are dirty and notifies subscribed observers. " alt="" coords="1180,419,1311,445"/>
+<area shape="rect" id="node8" href="$net_8h.html#a231e9a81ac7c03c3e5c251824a76d7b9" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues. " alt="" coords="1380,351,1487,377"/>
+<area shape="rect" id="node10" href="$resource_8h.html#a8f78ecf70cfbe5a69677bf3b97f0b776" title="Registers the specified handler as message handler for the request type method. " alt="" coords="1359,419,1508,445"/>
+<area shape="rect" id="node12" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="1380,249,1487,276"/>
+<area shape="rect" id="node14" href="$net_8h.html#ade17f093221599e839345cf88b74b496" title="Reads data from the network and tries to parse as CoAP PDU. " alt="" coords="1204,300,1287,327"/>
+<area shape="rect" id="node16" href="$net_8c.html#a6b355153e3bba3af3df1e72f33ced85c" title="This function cancels outstanding messages for the remote peer and token specified in sent..." alt="" coords="601,160,695,187"/>
+<area shape="rect" id="node18" href="$net_8c.html#a18949a9879fbf404538cddb5acc117c4" title="handle_response" alt="" coords="588,211,708,237"/>
+<area shape="rect" id="node19" href="$resource_8c.html#afbd204b59945b10d4e73b7a4a9915c6b" title="Checks the failure counter for (peer, token) and removes peer from the list of observers for the give..." alt="" coords="579,94,717,135"/>
+<area shape="rect" id="node20" href="$resource_8h.html#a22ecaa5a662f30da5a2241f91faf8929" title="coap_handle_failed\l_notify" alt="" coords="783,119,917,161"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="coap_clone_uri" name="coap_clone_uri">
+<area shape="rect" id="node2" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="163,5,257,32"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="305,5,432,32"/>
+</map>

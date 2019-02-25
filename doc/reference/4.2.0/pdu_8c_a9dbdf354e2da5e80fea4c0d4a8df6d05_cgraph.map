@@ -1,0 +1,3 @@
+<map id="coap_pdu_clear" name="coap_pdu_clear">
+<area shape="rect" id="node2" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="167,29,293,56"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="coap_cancel_all_messages" name="coap_cancel_all_messages">
+<area shape="rect" id="node2" href="$address_8c.html#aece6d39e01149af8dea29b0b8cbde504" title="Compares given address objects a and b. " alt="" coords="236,5,384,32"/>
+<area shape="rect" id="node3" href="$net_8c.html#adf2cfdc3b12751e262d32e3be94cfa51" title="token_match" alt="" coords="261,56,359,83"/>
+<area shape="rect" id="node4" href="$net_8c.html#a44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node. " alt="" coords="247,107,373,133"/>
+<area shape="rect" id="node5" href="$pdu_8c.html#a48581f968a30ef4278702eb1c16b7a90" title="coap_delete_pdu" alt="" coords="432,81,552,108"/>
+<area shape="rect" id="node7" href="$net_8c.html#af126b3b1cc4dc6472de3cc7636193859" title="coap_free_node" alt="" coords="435,132,549,159"/>
+<area shape="rect" id="node6" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="610,81,721,108"/>
+<area shape="rect" id="node8" href="$net_8c.html#af79743c319ebdd944ce16395385e9896" title="coap_malloc_node" alt="" coords="600,132,731,159"/>
+<area shape="rect" id="node9" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="779,157,905,184"/>
+</map>

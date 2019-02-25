@@ -1,0 +1,18 @@
+<map id="token_match" name="token_match">
+<area shape="rect" id="node2" href="$net_8h.html#ab0ffe6312ad95fb07b0212f912cf196c" title="Cancels all outstanding messages for session session that have the specified token. " alt="" coords="151,207,333,234"/>
+<area shape="rect" id="node3" href="$net_8c.html#a6b355153e3bba3af3df1e72f33ced85c" title="This function cancels outstanding messages for the session and token specified in sent..." alt="" coords="394,233,489,259"/>
+<area shape="rect" id="node10" href="$net_8h.html#a5854b1394bfddd574e48af116e3aaaf9" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="1763,199,1870,226"/>
+<area shape="rect" id="node15" href="$net_8c.html#af838d89087ad96495f8ed7f1a9297168" title="handle_response" alt="" coords="381,182,501,209"/>
+<area shape="rect" id="node16" href="$resource_8c.html#a912a935612cb6910a4c466c49d58ee98" title="Checks the failure counter for (peer, token) and removes peer from the list of observers for the give..." alt="" coords="549,107,688,148"/>
+<area shape="rect" id="node4" href="$net_8h.html#a7bb944fc52f772655356d95724317401" title="Dispatches the PDUs from the receive queue in given context. " alt="" coords="565,195,672,222"/>
+<area shape="rect" id="node5" href="$net_8c.html#acd36f6fba6d30ab9557e0e6521f4a088" title="coap_read_session" alt="" coords="1133,111,1267,138"/>
+<area shape="rect" id="node12" href="$net_8h.html#ae6b8ca457dd41f23372f9e9a7159312b" title="Parses and interprets a CoAP datagram with context ctx. " alt="" coords="736,195,875,222"/>
+<area shape="rect" id="node6" href="$net_8h.html#a0748d791fd2af516dd93fbadb660d440" title="For applications with their own message loop, reads all data from the network. " alt="" coords="1317,111,1400,138"/>
+<area shape="rect" id="node7" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="1761,22,1872,49"/>
+<area shape="rect" id="node8" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="1448,73,1563,99"/>
+<area shape="rect" id="node9" href="$net_8h.html#aaac86ac50793f309678e4951ecf8863f" title="For applications with their own message loop, send all pending retransmits and return the list of soc..." alt="" coords="1619,73,1705,99"/>
+<area shape="rect" id="node11" href="$libcoap_8h.html#a5d1fb0b44497970b0f75fa0b38570a82" title="coap_cleanup" alt="" coords="1611,22,1713,49"/>
+<area shape="rect" id="node13" href="$net_8c.html#a8534f7860b14e0743529daff196a27ce" title="coap_handle_dgram_for\l_proto" alt="" coords="923,159,1083,200"/>
+<area shape="rect" id="node14" href="$net_8c.html#a44ffb4b70e537043e9a9cf344be24b92" title="coap_read_endpoint" alt="" coords="1131,165,1269,191"/>
+<area shape="rect" id="node17" href="$resource_8h.html#a1c22a4e7f94f568370b38084ba64bc44" title="coap_handle_failed\l_notify" alt="" coords="739,41,872,83"/>
+</map>

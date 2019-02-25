@@ -1,0 +1,4 @@
+<map id="coap_ticks_to_rt" name="coap_ticks_to_rt">
+<area shape="rect" id="node2" href="$debug_8c.html#a8cc07d131f03aa1382b9e8a3899114f6" title="print_timestamp" alt="" coords="172,5,287,32"/>
+<area shape="rect" id="node3" href="$debug_8h.html#a9cdced532dd20942747e340f359ad278" title="Writes the given text to COAP_ERR_FD (for level &lt;= LOG_CRIT) or COAP_DEBUG_FD (for level &gt;= LOG_WARNI..." alt="" coords="335,5,440,32"/>
+</map>

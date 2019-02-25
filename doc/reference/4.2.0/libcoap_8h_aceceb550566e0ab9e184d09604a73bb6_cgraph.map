@@ -1,0 +1,4 @@
+<map id="coap_startup" name="coap_startup">
+<area shape="rect" id="node2" href="$group__clock.html#ga4722a7e40ba99c4d3feba19de1b980be" title="Initializes the internal clock. " alt="" coords="157,5,269,32"/>
+<area shape="rect" id="node3" href="$group__dtls__internal.html#ga1e81d904e13ccf3af6a56ab3ebdc8a34" title="Initialize the underlying (D)TLS Library layer. " alt="" coords="151,56,276,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="make_decoded_option" name="make_decoded_option">
+<area shape="rect" id="node2" href="$uri_8c.html#a6a5e2cd39d32f83971685caee52930a5" title="Runs through the given path (or query) segment and checks if percent&#45;encodings are correct..." alt="" coords="217,5,332,32"/>
+<area shape="rect" id="node3" href="$group__opt__filter.html#gafebbd04a7895df694a9345dad0275aeb" title="Encodes the given delta and length values into opt. " alt="" coords="205,56,344,83"/>
+<area shape="rect" id="node4" href="$uri_8c.html#aee060dbba1420400994ba32037ae5aa1" title="Decodes percent&#45;encoded characters while copying the string seg of size length to buf..." alt="" coords="214,107,335,133"/>
+</map>

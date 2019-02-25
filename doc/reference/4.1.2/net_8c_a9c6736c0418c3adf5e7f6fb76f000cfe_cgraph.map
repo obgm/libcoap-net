@@ -1,0 +1,12 @@
+<map id="coap_option_check_critical" name="coap_option_check_critical">
+<area shape="rect" id="node2" href="$group__opt__filter.html#gacec8f143e7a4fe66d97f719f619d42b3" title="Initializes the given option iterator oi to point to the beginning of the pdu&#39;s option list..." alt="" coords="232,56,395,83"/>
+<area shape="rect" id="node3" href="$group__opt__filter.html#ga182fdeffe0b37e1ab0dc6ba8494abe4a" title="Updates the iterator oi to point to the next option. " alt="" coords="251,107,375,133"/>
+<area shape="rect" id="node7" href="$group__opt__filter.html#ga43220918c5f526de3738bdd95832eda3" title="Checks if type is contained in filter. " alt="" coords="615,157,764,184"/>
+<area shape="rect" id="node11" href="$group__opt__filter.html#gafd655c069130a0a54a0082c1951d09d9" title="Sets the corresponding entry for type in filter. " alt="" coords="615,208,764,235"/>
+<area shape="rect" id="node4" href="$option_8c.html#ad34ae741f83acf83251f2f720f73f58e" title="opt_finished" alt="" coords="459,5,551,32"/>
+<area shape="rect" id="node5" href="$option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result. " alt="" coords="447,56,562,83"/>
+<area shape="rect" id="node6" href="$group__opt__filter.html#ga7d109b7a83df74d0b3c2f709ecbbebad" title="Gets the corresponding bit for type in filter. " alt="" coords="443,107,567,133"/>
+<area shape="rect" id="node8" href="$option_8c.html#a58b1764055e7ee09aca186314ea59beb" title="Applies op on filter with respect to type. " alt="" coords="812,183,957,209"/>
+<area shape="rect" id="node9" href="$option_8c.html#a613d8a39b97bcf7a9bae99072e5e23c6" title="Returns true iff type denotes an option type larger than 255. " alt="" coords="1005,157,1111,184"/>
+<area shape="rect" id="node10" href="$encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title="coap_fls" alt="" coords="1023,208,1093,235"/>
+</map>

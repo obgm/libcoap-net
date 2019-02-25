@@ -1,0 +1,7 @@
+<map id="coap_pop_next" name="coap_pop_next">
+<area shape="rect" id="node2" href="$net_8h.html#aaac86ac50793f309678e4951ecf8863f" title="For applications with their own message loop, send all pending retransmits and return the list of soc..." alt="" coords="193,31,278,57"/>
+<area shape="rect" id="node5" href="$libcoap_8h.html#a5d1fb0b44497970b0f75fa0b38570a82" title="coap_cleanup" alt="" coords="184,81,287,108"/>
+<area shape="rect" id="node6" href="$net_8h.html#a696acd1012ad1c2dba081ee5bea54fd8" title="Registers the option type type with the given context object ctx. " alt="" coords="164,132,307,159"/>
+<area shape="rect" id="node3" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="355,5,465,32"/>
+<area shape="rect" id="node4" href="$net_8h.html#a5854b1394bfddd574e48af116e3aaaf9" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="357,56,463,83"/>
+</map>

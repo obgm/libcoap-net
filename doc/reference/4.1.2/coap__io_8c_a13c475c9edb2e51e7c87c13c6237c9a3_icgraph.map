@@ -1,0 +1,5 @@
+<map id="coap_malloc_posix_endpoint" name="coap_malloc_posix_endpoint">
+<area shape="rect" id="node2" href="$coap__io_8h.html#a8caaa551e1aa27c6b907a9afca7e5093" title="coap_new_endpoint" alt="" coords="243,5,380,32"/>
+<area shape="rect" id="node3" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="428,5,559,32"/>
+<area shape="rect" id="node4" href="$net_8h.html#a0b28834233cb704a89fb8e740ca65c69" title="Registers the option type type with the given context object ctx. " alt="" coords="607,5,749,32"/>
+</map>

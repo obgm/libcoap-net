@@ -1,0 +1,27 @@
+<map id="coap_opt_block_set_m" name="coap_opt_block_set_m">
+<area shape="rect" id="node2" href="$group__block.html#ga265adcc610026896a5e8a046bcc359ca" title="Initializes block from pdu. " alt="" coords="227,237,340,264"/>
+<area shape="rect" id="node20" href="$group__block.html#ga0750df07c7545ffade46ba6669aa5b54" title="Writes a block option of type type to message pdu. " alt="" coords="209,364,357,391"/>
+<area shape="rect" id="node25" href="$group__block.html#ga44c746196920a4ea3cd6e2f5df78c046" title="Adds the block_num block of size 1 &lt;&lt; (block_szx + 4) from source data to pdu. " alt="" coords="225,440,341,467"/>
+<area shape="rect" id="node3" href="$group__opt__filter.html#gadbabeb7658e877010cbf77ed220e64ea" title="Retrieves the first option of type type from pdu. " alt="" coords="419,111,554,137"/>
+<area shape="rect" id="node17" href="$group__block.html#gaac6c90297abc6e2da80a6212b0d10e99" title="Returns the value of field num in the given block option block_opt. " alt="" coords="414,237,559,264"/>
+<area shape="rect" id="node4" href="$group__opt__filter.html#gabf9e0bc62ef945d1951acc76eea0c307" title="Clears filter f. " alt="" coords="834,55,958,97"/>
+<area shape="rect" id="node11" href="$group__opt__filter.html#ga06ac62f16b91329a5f41e59adb262d90" title="Sets the corresponding bit for type in filter. " alt="" coords="635,5,759,32"/>
+<area shape="rect" id="node12" href="$group__opt__filter.html#gacec8f143e7a4fe66d97f719f619d42b3" title="Initializes the given option iterator oi to point to the beginning of the pdu&#39;s option list..." alt="" coords="616,111,779,137"/>
+<area shape="rect" id="node13" href="$group__opt__filter.html#ga182fdeffe0b37e1ab0dc6ba8494abe4a" title="Updates the iterator oi to point to the next option. " alt="" coords="635,161,759,188"/>
+<area shape="rect" id="node5" href="$group__opt__filter.html#gafd655c069130a0a54a0082c1951d09d9" title="Sets the corresponding entry for type in filter. " alt="" coords="1013,33,1163,60"/>
+<area shape="rect" id="node9" href="$group__opt__filter.html#ga77ae345bb3d5ecd89adfaedc9949a4b2" title="Clears the corresponding entry for type in filter. " alt="" coords="1026,85,1150,126"/>
+<area shape="rect" id="node10" href="$group__opt__filter.html#ga43220918c5f526de3738bdd95832eda3" title="Checks if type is contained in filter. " alt="" coords="1013,151,1163,177"/>
+<area shape="rect" id="node6" href="$option_8c.html#a58b1764055e7ee09aca186314ea59beb" title="Applies op on filter with respect to type. " alt="" coords="1211,121,1356,148"/>
+<area shape="rect" id="node7" href="$option_8c.html#a613d8a39b97bcf7a9bae99072e5e23c6" title="Returns true iff type denotes an option type larger than 255. " alt="" coords="1404,121,1509,148"/>
+<area shape="rect" id="node8" href="$encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title="coap_fls" alt="" coords="1421,243,1492,269"/>
+<area shape="rect" id="node14" href="$option_8c.html#ad34ae741f83acf83251f2f720f73f58e" title="opt_finished" alt="" coords="850,121,942,148"/>
+<area shape="rect" id="node15" href="$option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result. " alt="" coords="839,172,953,199"/>
+<area shape="rect" id="node16" href="$group__opt__filter.html#ga7d109b7a83df74d0b3c2f709ecbbebad" title="Gets the corresponding bit for type in filter. " alt="" coords="834,223,958,249"/>
+<area shape="rect" id="node18" href="$group__opt__filter.html#ga5616c72178d923fb02db863c87ee249f" title="Returns the length of the given option. " alt="" coords="639,212,756,239"/>
+<area shape="rect" id="node19" href="$encode_8c.html#a82bb7a76edf25489f6af8b91719b0bc3" title="Decodes multiple&#45;length byte sequences. " alt="" coords="616,263,779,289"/>
+<area shape="rect" id="node21" href="$pdu_8c.html#ac38bc44d2e4cc527dd1a6a6f53a4d56f" title="de&#45;duplicate code with coap_add_option_later " alt="" coords="427,364,547,391"/>
+<area shape="rect" id="node24" href="$encode_8c.html#ae3c686a70837e73e7040656a0dfde9b4" title="Encodes multiple&#45;length byte sequences. " alt="" coords="405,415,568,441"/>
+<area shape="rect" id="node22" href="$group__opt__filter.html#ga8b601ead68a35f2bcca8c101b0b93c23" title="Encodes option with given delta into opt. " alt="" coords="635,364,759,391"/>
+<area shape="rect" id="node23" href="$group__opt__filter.html#ga6cc876020a0017266ffea98e949073dc" title="Encodes the given delta and length values into opt. " alt="" coords="827,364,965,391"/>
+<area shape="rect" id="node26" href="$pdu_8c.html#a4b7637a440b0dd3100e0ee115d282a2c" title="Adds given data to the pdu that is passed as first parameter. " alt="" coords="431,465,542,492"/>
+</map>

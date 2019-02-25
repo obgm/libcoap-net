@@ -1,0 +1,9 @@
+<map id="coap_delete_all" name="coap_delete_all">
+<area shape="rect" id="node2" href="$net_8c.html#a2c1e86998c712346baf2d116dbf1ac7f" title="Removes all items from given queue and frees the allocated storage. " alt="" coords="165,29,277,56"/>
+<area shape="rect" id="node3" href="$net_8c.html#a44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node. " alt="" coords="325,55,452,81"/>
+<area shape="rect" id="node4" href="$pdu_8c.html#a48581f968a30ef4278702eb1c16b7a90" title="coap_delete_pdu" alt="" coords="500,29,620,56"/>
+<area shape="rect" id="node6" href="$net_8c.html#af126b3b1cc4dc6472de3cc7636193859" title="coap_free_node" alt="" coords="503,80,617,107"/>
+<area shape="rect" id="node5" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="678,29,789,56"/>
+<area shape="rect" id="node7" href="$net_8c.html#af79743c319ebdd944ce16395385e9896" title="coap_malloc_node" alt="" coords="668,80,799,107"/>
+<area shape="rect" id="node8" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="847,105,973,132"/>
+</map>

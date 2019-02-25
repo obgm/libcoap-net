@@ -1,0 +1,6 @@
+<map id="coap_address_isany" name="coap_address_isany">
+<area shape="rect" id="node2" href="$coap__io_8c.html#ad4b15e98bdc903a9a9c8894c930fcb4d" title="Checks if a message with destination address dst matches the local interface with address local..." alt="" coords="195,5,275,32"/>
+<area shape="rect" id="node3" href="$coap__io_8h.html#a01655aadc98d6957fcb27a612297254a" title="Function interface for reading data. " alt="" coords="323,5,457,32"/>
+<area shape="rect" id="node4" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="505,5,636,32"/>
+<area shape="rect" id="node5" href="$net_8h.html#a0b28834233cb704a89fb8e740ca65c69" title="Registers the option type type with the given context object ctx. " alt="" coords="684,5,827,32"/>
+</map>

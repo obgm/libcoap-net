@@ -1,0 +1,5 @@
+<map id="coap_retransmit" name="coap_retransmit">
+<area shape="rect" id="node2" href="$net_8h.html#a231e9a81ac7c03c3e5c251824a76d7b9" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues. " alt="" coords="168,5,275,32"/>
+<area shape="rect" id="node4" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="168,56,275,83"/>
+<area shape="rect" id="node3" href="$net_8h.html#ac58be1c374afa04d10810aef1d073315" title="Removes the transaction identified by id from given queue. " alt="" coords="323,5,493,32"/>
+</map>

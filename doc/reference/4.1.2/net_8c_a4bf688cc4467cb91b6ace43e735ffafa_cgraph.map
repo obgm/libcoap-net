@@ -1,0 +1,35 @@
+<map id="coap_wellknown_response" name="coap_wellknown_response">
+<area shape="rect" id="node2" href="$pdu_8c.html#a36ddaad46f33b6a11aa312ddd7a9e3e1" title="Creates a new CoAP PDU of given size (must be large enough to hold the basic CoAP message header (coa..." alt="" coords="255,81,357,108"/>
+<area shape="rect" id="node6" href="$pdu_8c.html#a6f6597de72a12b0e5eac0fbdee0d2b13" title="Adds token of length len to pdu. " alt="" coords="247,157,365,184"/>
+<area shape="rect" id="node7" href="$group__opt__filter.html#gadbabeb7658e877010cbf77ed220e64ea" title="Retrieves the first option of type type from pdu. " alt="" coords="442,183,577,209"/>
+<area shape="rect" id="node21" href="$net_8c.html#a54e7ebd1ffa580a9867d589de4380433" title="Quick hack to determine the size of the resource description for .well&#45;known/core. " alt="" coords="259,461,353,488"/>
+<area shape="rect" id="node22" href="$resource_8c.html#a82195178fe216a47a0cf8a88aa09c9cd" title="Prints the names of all known resources to buf. " alt="" coords="434,500,585,527"/>
+<area shape="rect" id="node26" href="$group__block.html#ga265adcc610026896a5e8a046bcc359ca" title="Initializes block from pdu. " alt="" coords="249,259,363,285"/>
+<area shape="rect" id="node30" href="$encode_8c.html#ae3c686a70837e73e7040656a0dfde9b4" title="Encodes multiple&#45;length byte sequences. " alt="" coords="428,309,591,336"/>
+<area shape="rect" id="node31" href="$pdu_8c.html#ac38bc44d2e4cc527dd1a6a6f53a4d56f" title="de&#45;duplicate code with coap_add_option_later " alt="" coords="449,411,569,437"/>
+<area shape="rect" id="node34" href="$group__block.html#ga0750df07c7545ffade46ba6669aa5b54" title="Writes a block option of type type to message pdu. " alt="" coords="232,360,380,387"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="657,5,783,32"/>
+<area shape="rect" id="node4" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="454,107,565,133"/>
+<area shape="rect" id="node5" href="$pdu_8c.html#a9dbdf354e2da5e80fea4c0d4a8df6d05" title="Clears any contents from pdu and resets version field, length and data pointers. " alt="" coords="453,5,566,32"/>
+<area shape="rect" id="node8" href="$group__opt__filter.html#gabf9e0bc62ef945d1951acc76eea0c307" title="Clears filter f. " alt="" coords="857,41,981,82"/>
+<area shape="rect" id="node15" href="$group__opt__filter.html#ga06ac62f16b91329a5f41e59adb262d90" title="Sets the corresponding bit for type in filter. " alt="" coords="857,107,981,133"/>
+<area shape="rect" id="node16" href="$group__opt__filter.html#gacec8f143e7a4fe66d97f719f619d42b3" title="Initializes the given option iterator oi to point to the beginning of the pdu&#39;s option list..." alt="" coords="639,208,801,235"/>
+<area shape="rect" id="node17" href="$group__opt__filter.html#ga182fdeffe0b37e1ab0dc6ba8494abe4a" title="Updates the iterator oi to point to the next option. " alt="" coords="658,157,782,184"/>
+<area shape="rect" id="node9" href="$group__opt__filter.html#gafd655c069130a0a54a0082c1951d09d9" title="Sets the corresponding entry for type in filter. " alt="" coords="1036,107,1185,133"/>
+<area shape="rect" id="node13" href="$group__opt__filter.html#ga77ae345bb3d5ecd89adfaedc9949a4b2" title="Clears the corresponding entry for type in filter. " alt="" coords="1049,41,1173,82"/>
+<area shape="rect" id="node14" href="$group__opt__filter.html#ga43220918c5f526de3738bdd95832eda3" title="Checks if type is contained in filter. " alt="" coords="1036,157,1185,184"/>
+<area shape="rect" id="node10" href="$option_8c.html#a58b1764055e7ee09aca186314ea59beb" title="Applies op on filter with respect to type. " alt="" coords="1233,132,1379,159"/>
+<area shape="rect" id="node11" href="$option_8c.html#a613d8a39b97bcf7a9bae99072e5e23c6" title="Returns true iff type denotes an option type larger than 255. " alt="" coords="1427,132,1532,159"/>
+<area shape="rect" id="node12" href="$encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title="coap_fls" alt="" coords="1444,271,1515,297"/>
+<area shape="rect" id="node18" href="$option_8c.html#ad34ae741f83acf83251f2f720f73f58e" title="opt_finished" alt="" coords="873,208,965,235"/>
+<area shape="rect" id="node19" href="$option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result. " alt="" coords="861,259,976,285"/>
+<area shape="rect" id="node20" href="$group__opt__filter.html#ga7d109b7a83df74d0b3c2f709ecbbebad" title="Gets the corresponding bit for type in filter. " alt="" coords="857,157,981,184"/>
+<area shape="rect" id="node23" href="$resource_8c.html#a18cabbe8668115b60749b1d01faee42d" title="match" alt="" coords="691,487,749,513"/>
+<area shape="rect" id="node24" href="$resource_8c.html#a37cf7fb7da22f9a47e11bcbbbaf0e598" title="Returns resource&#39;s coap_attr_t object with given name if found, NULL otherwise. " alt="" coords="668,537,772,564"/>
+<area shape="rect" id="node25" href="$resource_8c.html#a1ee72943df541ed5d4294c13e967ef09" title="Writes a description of this resource in link&#45;format to given text buffer. " alt="" coords="665,588,775,615"/>
+<area shape="rect" id="node27" href="$group__block.html#gaac6c90297abc6e2da80a6212b0d10e99" title="Returns the value of field num in the given block option block_opt. " alt="" coords="437,259,582,285"/>
+<area shape="rect" id="node28" href="$group__opt__filter.html#ga5616c72178d923fb02db863c87ee249f" title="Returns the length of the given option. " alt="" coords="661,259,779,285"/>
+<area shape="rect" id="node29" href="$encode_8c.html#a82bb7a76edf25489f6af8b91719b0bc3" title="Decodes multiple&#45;length byte sequences. " alt="" coords="639,309,801,336"/>
+<area shape="rect" id="node32" href="$group__opt__filter.html#ga8b601ead68a35f2bcca8c101b0b93c23" title="Encodes option with given delta into opt. " alt="" coords="658,411,782,437"/>
+<area shape="rect" id="node33" href="$group__opt__filter.html#ga6cc876020a0017266ffea98e949073dc" title="Encodes the given delta and length values into opt. " alt="" coords="849,411,988,437"/>
+</map>

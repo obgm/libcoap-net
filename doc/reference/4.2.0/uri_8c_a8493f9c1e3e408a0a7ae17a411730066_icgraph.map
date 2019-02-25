@@ -1,0 +1,6 @@
+<map id="make_decoded_option" name="make_decoded_option">
+<area shape="rect" id="node2" href="$uri_8c.html#af32b0a60088eff0b14fb9cf8ab67ea35" title="write_option" alt="" coords="205,31,297,57"/>
+<area shape="rect" id="node3" href="$group__uri__parse.html#gaf908e5dec2807e2591c9d4b7a2e1bdc9" title="Splits the given URI path into segments. " alt="" coords="349,5,462,32"/>
+<area shape="rect" id="node5" href="$group__uri__parse.html#ga11af018953df7b74380791222cc115a5" title="Splits the given URI query into segments. " alt="" coords="345,56,465,83"/>
+<area shape="rect" id="node4" href="$uri_8h.html#a04d042f5a81b4a13bf1cc7d94920ed87" title="coap_uri_scheme_is\l_secure" alt="" coords="513,23,655,65"/>
+</map>

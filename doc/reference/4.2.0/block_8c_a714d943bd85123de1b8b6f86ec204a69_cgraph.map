@@ -1,0 +1,11 @@
+<map id="coap_get_block" name="coap_get_block">
+<area shape="rect" id="node2" href="$option_8c.html#ad4162a3db83918ae0e4f47b4b3aa523d" title="coap_check_option" alt="" coords="172,56,307,83"/>
+<area shape="rect" id="node7" href="$block_8c.html#aac6c90297abc6e2da80a6212b0d10e99" title="coap_opt_block_num" alt="" coords="167,132,312,159"/>
+<area shape="rect" id="node3" href="$option_8c.html#ab38b82d0d166363523bbefc4b887f941" title="coap_option_iterator_init" alt="" coords="360,5,523,32"/>
+<area shape="rect" id="node4" href="$option_8c.html#a182fdeffe0b37e1ab0dc6ba8494abe4a" title="coap_option_next" alt="" coords="379,56,503,83"/>
+<area shape="rect" id="node5" href="$option_8c.html#a70fa9db0450134640b80cbf7c3720688" title="opt_finished" alt="" coords="582,31,674,57"/>
+<area shape="rect" id="node6" href="$option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="coap_opt_parse" alt="" coords="571,81,685,108"/>
+<area shape="rect" id="node8" href="$option_8c.html#aac65919c93f7047b687d33af9672b3ea" title="coap_opt_length" alt="" coords="383,107,500,133"/>
+<area shape="rect" id="node9" href="$encode_8c.html#a7d12488893c3062c98bad1f4ab58455c" title="coap_decode_var_bytes" alt="" coords="360,157,523,184"/>
+<area shape="rect" id="node10" href="$option_8c.html#ab713167d74579e79140b1112713b7637" title="coap_opt_value" alt="" coords="385,208,498,235"/>
+</map>

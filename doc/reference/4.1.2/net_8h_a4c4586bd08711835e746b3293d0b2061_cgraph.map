@@ -1,0 +1,11 @@
+<map id="coap_send_message_type" name="coap_send_message_type">
+<area shape="rect" id="node2" href="$pdu_8c.html#a36ddaad46f33b6a11aa312ddd7a9e3e1" title="Creates a new CoAP PDU of given size (must be large enough to hold the basic CoAP message header (coa..." alt="" coords="239,31,342,57"/>
+<area shape="rect" id="node6" href="$net_8c.html#a8970fb6f80408035fdcdfaf7cf02dbe2" title="Sends a non&#45;confirmed CoAP message to given destination. " alt="" coords="248,132,333,159"/>
+<area shape="rect" id="node10" href="$pdu_8c.html#a48581f968a30ef4278702eb1c16b7a90" title="coap_delete_pdu" alt="" coords="231,81,351,108"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="569,5,695,32"/>
+<area shape="rect" id="node4" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="401,81,512,108"/>
+<area shape="rect" id="node5" href="$pdu_8c.html#a9dbdf354e2da5e80fea4c0d4a8df6d05" title="Clears any contents from pdu and resets version field, length and data pointers. " alt="" coords="400,31,513,57"/>
+<area shape="rect" id="node7" href="$net_8c.html#aab05153e264360d06218abc2742f699a" title="coap_send_impl" alt="" coords="399,132,515,159"/>
+<area shape="rect" id="node8" href="$address_8c.html#a5b47d6fe47a54a0798eddb9ea77005ea" title="Checks if given address a denotes a multicast address. " alt="" coords="577,107,687,133"/>
+<area shape="rect" id="node9" href="$net_8c.html#aab5ca063fd19725ae1ddd8d7c9623f05" title="Calculates a unique transaction id from given arguments peer and pdu. " alt="" coords="563,157,701,184"/>
+</map>

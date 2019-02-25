@@ -1,0 +1,15 @@
+<map id="pdu.c" name="pdu.c">
+<area shape="rect" id="node6" href="$libcoap_8h.html" title="libcoap.h" alt="" coords="999,304,1074,331"/>
+<area shape="rect" id="node9" href="$coap__debug_8h.html" title="coap_debug.h" alt="" coords="407,80,509,107"/>
+<area shape="rect" id="node10" href="$pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP. " alt="" coords="431,155,485,181"/>
+<area shape="rect" id="node14" href="$option_8h.html" title="Helpers for handling options in CoAP PDUs. " alt="" coords="533,80,601,107"/>
+<area shape="rect" id="node16" href="$encode_8h.html" title="encode.h" alt="" coords="763,80,838,107"/>
+<area shape="rect" id="node18" href="$mem_8h.html" title="mem.h" alt="" coords="132,80,195,107"/>
+<area shape="rect" id="node19" href="$coap__session_8h.html" title="coap_session.h" alt="" coords="625,80,739,107"/>
+<area shape="rect" id="node11" href="$uri_8h.html" title="uri.h" alt="" coords="373,229,420,256"/>
+<area shape="rect" id="node13" href="$str_8h.html" title="str.h" alt="" coords="409,304,457,331"/>
+<area shape="rect" id="node15" href="$bits_8h.html" title="Bit vector manipulation. " alt="" coords="496,229,551,256"/>
+<area shape="rect" id="node20" href="$coap__io_8h.html" title="coap_io.h" alt="" coords="744,155,823,181"/>
+<area shape="rect" id="node24" href="$coap__time_8h.html" title="Clock Handling. " alt="" coords="575,229,669,256"/>
+<area shape="rect" id="node23" href="$address_8h.html" title="Representation of network addresses. " alt="" coords="795,229,873,256"/>
+</map>

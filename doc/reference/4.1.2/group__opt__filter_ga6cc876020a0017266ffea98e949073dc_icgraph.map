@@ -1,0 +1,26 @@
+<map id="coap_opt_setheader" name="coap_opt_setheader">
+<area shape="rect" id="node2" href="$group__opt__filter.html#ga8b601ead68a35f2bcca8c101b0b93c23" title="Encodes option with given delta into opt. " alt="" coords="206,157,330,184"/>
+<area shape="rect" id="node22" href="$uri_8c.html#a64db2f3df2c3c3a43b33c220d8be116b" title="Writes a coap option from given string s to buf. " alt="" coords="192,208,344,235"/>
+<area shape="rect" id="node3" href="$pdu_8h.html#ac38bc44d2e4cc527dd1a6a6f53a4d56f" title="Adds option of given type to pdu that is passed as first parameter. " alt="" coords="408,107,528,133"/>
+<area shape="rect" id="node21" href="$pdu_8h.html#a242704ecc8b67beb5b59e723a655a05b" title="Adds option of given type to pdu that is passed as first parameter, but does not write a value..." alt="" coords="392,157,544,184"/>
+<area shape="rect" id="node4" href="$group__block.html#ga0750df07c7545ffade46ba6669aa5b54" title="Writes a block option of type type to message pdu. " alt="" coords="605,56,753,83"/>
+<area shape="rect" id="node6" href="$net_8h.html#a4bf688cc4467cb91b6ace43e735ffafa" title="Creates a new response for given request with the contents of .well&#45;known/core. " alt="" coords="815,56,993,83"/>
+<area shape="rect" id="node15" href="$net_8h.html#ab7953637ad760f76ffb8060ddf47fe6a" title="Creates a new ACK PDU with specified error code. " alt="" coords="592,157,767,184"/>
+<area shape="rect" id="node5" href="$group__block.html#ga86f7b29ef40d806ea3be9d0ff50963e7" title="Sets the More&#45;bit in block_opt. " alt="" coords="826,5,982,32"/>
+<area shape="rect" id="node7" href="$net_8c.html#a13ff6a2308c8e167a66218e43b819df2" title="handle_request" alt="" coords="1065,107,1176,133"/>
+<area shape="rect" id="node11" href="$net_8h.html#ac58be1c374afa04d10810aef1d073315" title="Removes the transaction identified by id from given queue. " alt="" coords="1849,107,2020,133"/>
+<area shape="rect" id="node8" href="$net_8h.html#ab458d1c3b0f5d695dfa86b805ae8463d" title="Dispatches the PDUs from the receive queue in given context. " alt="" coords="1271,157,1378,184"/>
+<area shape="rect" id="node9" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="1469,157,1584,184"/>
+<area shape="rect" id="node13" href="$net_8h.html#a74c5ca78210280817a5586f61abfa5f3" title="Parses and interprets a CoAP message with context ctx. " alt="" coords="1449,309,1604,336"/>
+<area shape="rect" id="node10" href="$net_8h.html#a231e9a81ac7c03c3e5c251824a76d7b9" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues. " alt="" coords="1673,157,1780,184"/>
+<area shape="rect" id="node12" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="1881,309,1988,336"/>
+<area shape="rect" id="node14" href="$net_8h.html#ade17f093221599e839345cf88b74b496" title="Reads data from the network and tries to parse as CoAP PDU. " alt="" coords="1685,360,1768,387"/>
+<area shape="rect" id="node16" href="$net_8h.html#aa6569347c5926252d65dd69f2dcfe521" title="Sends an error response with code code for request request to dst. " alt="" coords="845,259,963,285"/>
+<area shape="rect" id="node17" href="$net_8h.html#ac09b38583adc73fd96e33e9c61eac39f" title="Returns a new message id and updates context&#45;&gt;message_id accordingly. " alt="" coords="1041,233,1200,260"/>
+<area shape="rect" id="node18" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="1248,233,1401,260"/>
+<area shape="rect" id="node19" href="$resource_8h.html#a579bcb559463d3a872831c18d8d9a1c1" title="Checks for all known resources, if they are dirty and notifies subscribed observers. " alt="" coords="1461,233,1592,260"/>
+<area shape="rect" id="node20" href="$resource_8h.html#a8f78ecf70cfbe5a69677bf3b97f0b776" title="Registers the specified handler as message handler for the request type method. " alt="" coords="1652,259,1801,285"/>
+<area shape="rect" id="node23" href="$uri_8c.html#af32b0a60088eff0b14fb9cf8ab67ea35" title="write_option" alt="" coords="422,208,514,235"/>
+<area shape="rect" id="node24" href="$group__uri__parse.html#gaf908e5dec2807e2591c9d4b7a2e1bdc9" title="Splits the given URI path into segments. " alt="" coords="623,208,736,235"/>
+<area shape="rect" id="node25" href="$group__uri__parse.html#ga11af018953df7b74380791222cc115a5" title="Splits the given URI query into segments. " alt="" coords="619,259,739,285"/>
+</map>

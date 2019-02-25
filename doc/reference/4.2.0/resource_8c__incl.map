@@ -1,0 +1,26 @@
+<map id="resource.c" name="resource.c">
+<area shape="rect" id="node4" href="$coap_8h.html" title="coap.h" alt="" coords="833,80,894,107"/>
+<area shape="rect" id="node14" href="$net_8h.html" title="net.h" alt="" coords="1077,304,1127,331"/>
+<area shape="rect" id="node32" href="$coap__debug_8h.html" title="coap_debug.h" alt="" coords="85,155,188,181"/>
+<area shape="rect" id="node33" href="$mem_8h.html" title="mem.h" alt="" coords="1848,155,1911,181"/>
+<area shape="rect" id="node34" href="$resource_8h.html" title="Generic resource handling. " alt="" coords="1197,155,1279,181"/>
+<area shape="rect" id="node37" href="$subscribe_8h.html" title="subscribe.h" alt="" coords="1415,229,1504,256"/>
+<area shape="rect" id="node38" href="$utlist_8h.html" title="utlist.h" alt="" coords="1949,229,2010,256"/>
+<area shape="rect" id="node5" href="$libcoap_8h.html" title="libcoap.h" alt="" coords="74,677,149,704"/>
+<area shape="rect" id="node8" href="$address_8h.html" title="Representation of network addresses. " alt="" coords="1341,603,1420,629"/>
+<area shape="rect" id="node13" href="$async_8h.html" title="State management for asynchronous messages. " alt="" coords="952,229,1020,256"/>
+<area shape="rect" id="node18" href="$coap__io_8h.html" title="coap_io.h" alt="" coords="1443,528,1521,555"/>
+<area shape="rect" id="node19" href="$coap__dtls_8h.html" title="coap_dtls.h" alt="" coords="835,379,924,405"/>
+<area shape="rect" id="node21" href="$coap__time_8h.html" title="Clock Handling. " alt="" coords="899,528,993,555"/>
+<area shape="rect" id="node22" href="$pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP. " alt="" coords="588,528,643,555"/>
+<area shape="rect" id="node23" href="$uri_8h.html" title="uri.h" alt="" coords="253,603,300,629"/>
+<area shape="rect" id="node24" href="$str_8h.html" title="str.h" alt="" coords="222,677,270,704"/>
+<area shape="rect" id="node25" href="$coap__event_8h.html" title="coap_event.h" alt="" coords="61,379,161,405"/>
+<area shape="rect" id="node26" href="$option_8h.html" title="Helpers for handling options in CoAP PDUs. " alt="" coords="589,379,657,405"/>
+<area shape="rect" id="node27" href="$bits_8h.html" title="Bit vector manipulation. " alt="" coords="653,453,708,480"/>
+<area shape="rect" id="node28" href="$prng_8h.html" title="Pseudo Random Numbers. " alt="" coords="1695,379,1754,405"/>
+<area shape="rect" id="node29" href="$block_8h.html" title="block.h" alt="" coords="543,304,607,331"/>
+<area shape="rect" id="node30" href="$encode_8h.html" title="encode.h" alt="" coords="389,379,463,405"/>
+<area shape="rect" id="node20" href="$coap__session_8h.html" title="coap_session.h" alt="" coords="936,453,1049,480"/>
+<area shape="rect" id="node35" href="$uthash_8h.html" title="uthash.h" alt="" coords="1829,379,1901,405"/>
+</map>

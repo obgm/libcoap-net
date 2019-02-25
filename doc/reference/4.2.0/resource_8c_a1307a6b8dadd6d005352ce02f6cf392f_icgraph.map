@@ -1,0 +1,16 @@
+<map id="coap_free_resource" name="coap_free_resource">
+<area shape="rect" id="node2" href="$resource_8h.html#a9a5f0705912b0a35a3d5764e86b94004" title="Registers the given resource for context. " alt="" coords="413,5,548,32"/>
+<area shape="rect" id="node4" href="$resource_8h.html#ad3521b724ad4961e6bb11801fd82a3e3" title="Deletes a resource identified by resource. " alt="" coords="203,56,352,83"/>
+<area shape="rect" id="node5" href="$resource_8h.html#a1fae3046ad94fce85a7ea23455328958" title="Deletes all resources from given context and frees their storage. " alt="" coords="189,107,365,133"/>
+<area shape="rect" id="node3" href="$resource_8h.html#aebca190a03325bc26b075af3eac04d1f" title="Gets the user_data. " alt="" coords="596,56,785,83"/>
+<area shape="rect" id="node6" href="$net_8h.html#a4a0717822713783908dd33d300440b2e" title="CoAP stack context must be released with coap_free_context(). " alt="" coords="416,157,545,184"/>
+<area shape="rect" id="node7" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="625,132,756,159"/>
+<area shape="rect" id="node9" href="$net_8h.html#ade36148140b152d713b23d17bbcf0024" title="Returns a new message id and updates session&#45;&gt;tx_mid accordingly. " alt="" coords="611,183,770,209"/>
+<area shape="rect" id="node8" href="$net_8h.html#a696acd1012ad1c2dba081ee5bea54fd8" title="Registers the option type type with the given context object ctx. " alt="" coords="839,132,981,159"/>
+<area shape="rect" id="node10" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="833,183,987,209"/>
+<area shape="rect" id="node11" href="$resource_8h.html#a579bcb559463d3a872831c18d8d9a1c1" title="Checks for all known resources, if they are dirty and notifies subscribed observers. " alt="" coords="1035,183,1165,209"/>
+<area shape="rect" id="node12" href="$net_8h.html#aaac86ac50793f309678e4951ecf8863f" title="For applications with their own message loop, send all pending retransmits and return the list of soc..." alt="" coords="1222,157,1307,184"/>
+<area shape="rect" id="node15" href="$libcoap_8h.html#a5d1fb0b44497970b0f75fa0b38570a82" title="coap_cleanup" alt="" coords="1213,208,1316,235"/>
+<area shape="rect" id="node13" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="1364,132,1475,159"/>
+<area shape="rect" id="node14" href="$net_8h.html#a5854b1394bfddd574e48af116e3aaaf9" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="1366,183,1473,209"/>
+</map>

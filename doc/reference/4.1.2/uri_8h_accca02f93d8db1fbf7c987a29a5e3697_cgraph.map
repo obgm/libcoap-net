@@ -1,0 +1,6 @@
+<map id="coap_hash_path" name="coap_hash_path">
+<area shape="rect" id="node2" href="$uri_8c.html#a671218632527de7da40ef24515d03a8a" title="Splits the given string into segments. " alt="" coords="171,31,315,57"/>
+<area shape="rect" id="node5" href="$uri_8c.html#a4d57e0147b48fa953d5ad66fabc38f55" title="hash_segment" alt="" coords="189,81,296,108"/>
+<area shape="rect" id="node3" href="$uri_8c.html#a4c7c168a90562e2a5ece60d95a2eace2" title="A length&#45;safe version of strchr(). " alt="" coords="363,5,425,32"/>
+<area shape="rect" id="node4" href="$uri_8c.html#a440c9fea2a824048dd4a3e566980df53" title="Checks if path segment s consists of one or two dots. " alt="" coords="371,56,417,83"/>
+</map>

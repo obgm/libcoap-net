@@ -1,0 +1,17 @@
+<map id="debug.c" name="debug.c">
+<area shape="rect" id="node7" href="$block_8h.html" title="block.h" alt="" coords="503,80,567,107"/>
+<area shape="rect" id="node8" href="$encode_8h.html" title="encode.h" alt="" coords="423,155,498,181"/>
+<area shape="rect" id="node17" href="$debug_8h.html" title="debug.h" alt="" coords="592,80,660,107"/>
+<area shape="rect" id="node18" href="$net_8h.html" title="net.h" alt="" coords="982,80,1033,107"/>
+<area shape="rect" id="node10" href="$option_8h.html" title="Helpers for handling options in CoAP PDUs. " alt="" coords="624,155,692,181"/>
+<area shape="rect" id="node13" href="$pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP. " alt="" coords="593,229,648,256"/>
+<area shape="rect" id="node11" href="$bits_8h.html" title="Bit vector manipulation. " alt="" coords="673,229,728,256"/>
+<area shape="rect" id="node14" href="$uri_8h.html" title="uri.h" alt="" coords="597,304,644,331"/>
+<area shape="rect" id="node15" href="$hashkey_8h.html" title="definition of hash key type and helper functions " alt="" coords="579,379,662,405"/>
+<area shape="rect" id="node16" href="$str_8h.html" title="str.h" alt="" coords="675,453,723,480"/>
+<area shape="rect" id="node23" href="$coap__io_8h.html" title="coap_io.h" alt="" coords="968,155,1047,181"/>
+<area shape="rect" id="node29" href="$coap__time_8h.html" title="Clock Handling. " alt="" coords="850,155,943,181"/>
+<area shape="rect" id="node30" href="$prng_8h.html" title="Pseudo Random Numbers. " alt="" coords="1173,155,1231,181"/>
+<area shape="rect" id="node25" href="$address_8h.html" title="Representation of network addresses. " alt="" coords="833,229,912,256"/>
+<area shape="rect" id="node26" href="$libcoap_8h.html" title="libcoap.h" alt="" coords="815,304,890,331"/>
+</map>

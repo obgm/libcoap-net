@@ -1,0 +1,10 @@
+<map id="coap_write_block_opt" name="coap_write_block_opt">
+<area shape="rect" id="node2" href="$encode_8c.html#a5732d87decbffe771159ea02a5e25488" title="coap_flsll" alt="" coords="241,5,318,32"/>
+<area shape="rect" id="node3" href="$pdu_8c.html#aa1314f60fbc25733cfabaa975adc5aae" title="de&#45;duplicate code with coap_add_option_later " alt="" coords="219,56,339,83"/>
+<area shape="rect" id="node9" href="$encode_8c.html#a6987668306bf69553f9b207a624c2d44" title="coap_encode_var_safe" alt="" coords="201,107,357,133"/>
+<area shape="rect" id="node4" href="$pdu_8c.html#af25c1916c60fdcf35cd4e178aebbb867" title="coap_pdu_check_resize" alt="" coords="405,5,568,32"/>
+<area shape="rect" id="node6" href="$option_8c.html#a55f19454026048e906139d575feddecb" title="coap_opt_encode_size" alt="" coords="409,56,564,83"/>
+<area shape="rect" id="node7" href="$option_8c.html#a7c3cab841029c7c4e8a9e4c3e02a20ca" title="coap_opt_encode" alt="" coords="425,107,549,133"/>
+<area shape="rect" id="node5" href="$pdu_8c.html#add46ce956878a4121e8887b84c6d4a6b" title="coap_pdu_resize" alt="" coords="625,5,745,32"/>
+<area shape="rect" id="node8" href="$option_8c.html#afebbd04a7895df694a9345dad0275aeb" title="coap_opt_setheader" alt="" coords="616,107,755,133"/>
+</map>

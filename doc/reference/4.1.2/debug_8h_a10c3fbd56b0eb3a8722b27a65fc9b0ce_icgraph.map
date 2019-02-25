@@ -1,0 +1,14 @@
+<map id="coap_get_log_level" name="coap_get_log_level">
+<area shape="rect" id="node2" href="$coap__io_8h.html#a8caaa551e1aa27c6b907a9afca7e5093" title="coap_new_endpoint" alt="" coords="187,5,325,32"/>
+<area shape="rect" id="node5" href="$coap__io_8h.html#a01655aadc98d6957fcb27a612297254a" title="Function interface for reading data. " alt="" coords="189,56,323,83"/>
+<area shape="rect" id="node6" href="$net_8h.html#a74c5ca78210280817a5586f61abfa5f3" title="Parses and interprets a CoAP message with context ctx. " alt="" coords="373,107,528,133"/>
+<area shape="rect" id="node9" href="$resource_8c.html#afbd204b59945b10d4e73b7a4a9915c6b" title="Checks the failure counter for (peer, token) and removes peer from the list of observers for the give..." alt="" coords="187,158,325,199"/>
+<area shape="rect" id="node3" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="385,9,516,36"/>
+<area shape="rect" id="node4" href="$net_8h.html#a0b28834233cb704a89fb8e740ca65c69" title="Registers the option type type with the given context object ctx. " alt="" coords="576,9,719,36"/>
+<area shape="rect" id="node7" href="$net_8h.html#ade17f093221599e839345cf88b74b496" title="Reads data from the network and tries to parse as CoAP PDU. " alt="" coords="606,64,689,91"/>
+<area shape="rect" id="node8" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="767,115,873,141"/>
+<area shape="rect" id="node10" href="$resource_8h.html#a22ecaa5a662f30da5a2241f91faf8929" title="coap_handle_failed\l_notify" alt="" coords="384,158,517,199"/>
+<area shape="rect" id="node11" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="590,165,705,192"/>
+<area shape="rect" id="node12" href="$net_8h.html#a231e9a81ac7c03c3e5c251824a76d7b9" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues. " alt="" coords="767,165,873,192"/>
+<area shape="rect" id="node13" href="$net_8h.html#ac58be1c374afa04d10810aef1d073315" title="Removes the transaction identified by id from given queue. " alt="" coords="921,165,1092,192"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="coap_queue_t" name="coap_queue_t">
+<area shape="rect" id="node2" href="$structcoap__address__t.html" title="multi&#45;purpose address abstraction " alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node5" href="$structcoap__endpoint__t.html" title="Abstraction of virtual endpoint that can be attached to coap_context_t. " alt="" coords="88,95,205,121"/>
+<area shape="rect" id="node3" href="$structcoap__pdu__t.html" title="Header structure for CoAP PDUs. " alt="" coords="230,95,319,121"/>
+<area shape="rect" id="node4" href="$structcoap__hdr__t.html" title="coap_hdr_t" alt="" coords="231,5,318,32"/>
+</map>

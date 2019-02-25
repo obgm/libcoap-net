@@ -1,0 +1,39 @@
+<map id="coap_get_log_level" name="coap_get_log_level">
+<area shape="rect" id="node2" href="$coap__io_8c.html#a9b8fa856db7113a97f74c726219c4be4" title="coap_network_read" alt="" coords="188,5,323,32"/>
+<area shape="rect" id="node4" href="$coap__session_8c.html#ab5232b5141e191638ee6b7da6239dd1b" title="coap_new_endpoint" alt="" coords="187,56,324,83"/>
+<area shape="rect" id="node5" href="$debug_8c.html#a3123fcde8310c0f7cb48897a683baef6" title="coap_show_pdu" alt="" coords="197,479,313,505"/>
+<area shape="rect" id="node20" href="$net_8c.html#a0c600aed61c8a8402d31ef795df3b0b6" title="coap_send_pdu" alt="" coords="823,413,937,440"/>
+<area shape="rect" id="node24" href="$net_8c.html#a7bb944fc52f772655356d95724317401" title="coap_dispatch" alt="" coords="1667,487,1774,513"/>
+<area shape="rect" id="node37" href="$resource_8c.html#a912a935612cb6910a4c466c49d58ee98" title="Checks the failure counter for (peer, token) and removes peer from the list of observers for the give..." alt="" coords="385,91,524,133"/>
+<area shape="rect" id="node3" href="$net_8c.html#a8baf4e3608ff5eb00adac694fe25eb60" title="coap_new_context" alt="" coords="389,23,520,49"/>
+<area shape="rect" id="node6" href="$net_8c.html#aaf20c9b0b2ad3168c15e535a67ea3ce5" title="coap_session_send_pdu" alt="" coords="372,520,537,547"/>
+<area shape="rect" id="node7" href="$coap__session_8c.html#a2f455ec1572982a5ae404beac0cfbd53" title="coap_session_send_csm" alt="" coords="585,713,755,740"/>
+<area shape="rect" id="node36" href="$coap__session_8c.html#aa8b3a2da8480911b0216dad076038cb6" title="coap_session_connected" alt="" coords="1020,561,1189,588"/>
+<area shape="rect" id="node8" href="$coap__session_8c.html#acec64026a2b3309e97075951dc52c2a1" title="coap_session_connect" alt="" coords="803,713,957,740"/>
+<area shape="rect" id="node12" href="$coap__session_8c.html#ac79f1143af9580a441d31796cf81f108" title="coap_session_accept" alt="" coords="806,789,954,816"/>
+<area shape="rect" id="node35" href="$net_8c.html#a9e7c7fc083799c942c9c44ebc190c833" title="coap_connect_session" alt="" coords="1845,776,2000,803"/>
+<area shape="rect" id="node9" href="$coap__session_8c.html#ad495fcd405fa86859fa36d45f89be910" title="coap_new_client_session" alt="" coords="1019,663,1190,689"/>
+<area shape="rect" id="node10" href="$coap__session_8c.html#a40790c70df0b38fe89f3fb2ad255d662" title="coap_new_client_session_psk" alt="" coords="1005,713,1204,740"/>
+<area shape="rect" id="node11" href="$coap__session_8c.html#ac63f29af82e4d3160c59b8451aa5868c" title="coap_new_client_session_pki" alt="" coords="1007,764,1202,791"/>
+<area shape="rect" id="node13" href="$coap__session_8c.html#ad1f593f76f250a587ac733afb4f09878" title="coap_new_server_session" alt="" coords="1017,815,1193,841"/>
+<area shape="rect" id="node14" href="$net_8c.html#a7437c90770ffd13685e6a77799b4753b" title="coap_accept_endpoint" alt="" coords="1431,763,1583,789"/>
+<area shape="rect" id="node15" href="$net_8c.html#a0748d791fd2af516dd93fbadb660d440" title="coap_read" alt="" coords="2443,491,2525,517"/>
+<area shape="rect" id="node16" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="2903,339,3013,365"/>
+<area shape="rect" id="node17" href="$net_8c.html#a9900c032b74bd57f67d489484a2b3207" title="coap_retransmit" alt="" coords="2581,208,2696,235"/>
+<area shape="rect" id="node18" href="$coap__io_8c.html#aaac86ac50793f309678e4951ecf8863f" title="coap_write" alt="" coords="2761,208,2846,235"/>
+<area shape="rect" id="node19" href="$net_8c.html#a5d1fb0b44497970b0f75fa0b38570a82" title="coap_cleanup" alt="" coords="2752,259,2855,285"/>
+<area shape="rect" id="node21" href="$net_8c.html#ab0b0b5db03427c4313c01ec2b12cf8ed" title="coap_send" alt="" coords="1062,412,1147,439"/>
+<area shape="rect" id="node22" href="$net_8c.html#aba278b109415057d15196fa46afee970" title="coap_send_ack" alt="" coords="1255,360,1368,387"/>
+<area shape="rect" id="node29" href="$net_8c.html#ab31cd76353f751ec4dc5c033152df575" title="coap_send_error" alt="" coords="1252,411,1371,437"/>
+<area shape="rect" id="node30" href="$net_8c.html#a6aa830b46188549b51773f724eb8e752" title="coap_send_message_type" alt="" coords="1419,512,1596,539"/>
+<area shape="rect" id="node31" href="$net_8c.html#a1a280312c4bad55cf10243b9b9c3e966" title="handle_request" alt="" coords="1452,309,1563,336"/>
+<area shape="rect" id="node32" href="$net_8c.html#ac4cbcfd073489b57805db665ce3d0681" title="handle_signaling" alt="" coords="1252,563,1371,589"/>
+<area shape="rect" id="node33" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="1644,259,1797,285"/>
+<area shape="rect" id="node23" href="$net_8c.html#af838d89087ad96495f8ed7f1a9297168" title="handle_response" alt="" coords="1447,385,1567,412"/>
+<area shape="rect" id="node25" href="$net_8c.html#acd36f6fba6d30ab9557e0e6521f4a088" title="coap_read_session" alt="" coords="2258,465,2393,492"/>
+<area shape="rect" id="node26" href="$net_8c.html#a32887948ee273d1ad464ec47df194910" title="coap_handle_dgram" alt="" coords="1853,512,1992,539"/>
+<area shape="rect" id="node27" href="$net_8c.html#a8534f7860b14e0743529daff196a27ce" title="coap_handle_dgram_for\l_proto" alt="" coords="2048,509,2208,550"/>
+<area shape="rect" id="node28" href="$net_8c.html#a44ffb4b70e537043e9a9cf344be24b92" title="coap_read_endpoint" alt="" coords="2256,516,2395,543"/>
+<area shape="rect" id="node34" href="$resource_8c.html#a579bcb559463d3a872831c18d8d9a1c1" title="coap_check_notify" alt="" coords="2573,259,2704,285"/>
+<area shape="rect" id="node38" href="$resource_8c.html#a6fe7101754779c34807bf00b87ee5f0b" title="coap_handle_failed\l_notify" alt="" coords="603,91,737,133"/>
+</map>

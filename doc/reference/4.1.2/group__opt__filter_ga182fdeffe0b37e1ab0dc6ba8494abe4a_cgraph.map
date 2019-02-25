@@ -1,0 +1,9 @@
+<map id="coap_option_next" name="coap_option_next">
+<area shape="rect" id="node2" href="$option_8c.html#ad34ae741f83acf83251f2f720f73f58e" title="opt_finished" alt="" coords="193,5,285,32"/>
+<area shape="rect" id="node3" href="$option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result. " alt="" coords="182,56,297,83"/>
+<area shape="rect" id="node4" href="$group__opt__filter.html#ga7d109b7a83df74d0b3c2f709ecbbebad" title="Gets the corresponding bit for type in filter. " alt="" coords="177,107,301,133"/>
+<area shape="rect" id="node5" href="$group__opt__filter.html#ga43220918c5f526de3738bdd95832eda3" title="Checks if type is contained in filter. " alt="" coords="349,107,499,133"/>
+<area shape="rect" id="node6" href="$option_8c.html#a58b1764055e7ee09aca186314ea59beb" title="Applies op on filter with respect to type. " alt="" coords="547,107,692,133"/>
+<area shape="rect" id="node7" href="$option_8c.html#a613d8a39b97bcf7a9bae99072e5e23c6" title="Returns true iff type denotes an option type larger than 255. " alt="" coords="740,81,845,108"/>
+<area shape="rect" id="node8" href="$encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title="coap_fls" alt="" coords="757,132,828,159"/>
+</map>

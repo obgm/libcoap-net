@@ -1,0 +1,4 @@
+<map id="coap_malloc_posix_endpoint" name="coap_malloc_posix_endpoint">
+<area shape="rect" id="node2" href="$mem_8h.html#a09b861aa54503f57f2a9412d546cd3c8" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="243,5,337,32"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="385,5,512,32"/>
+</map>

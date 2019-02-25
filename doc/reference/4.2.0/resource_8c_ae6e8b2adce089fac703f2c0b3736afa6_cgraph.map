@@ -1,0 +1,7 @@
+<map id="coap_add_observer" name="coap_add_observer">
+<area shape="rect" id="node2" href="$resource_8c.html#ae3cb9f28b9b6701c1a15bddb9bde6f8e" title="Returns a subscription object for given peer. " alt="" coords="202,5,337,32"/>
+<area shape="rect" id="node3" href="$str_8c.html#ac6d3ed3fa5e060f7e6be6b3963880f25" title="Deletes the given string and releases any memory allocated. " alt="" coords="204,56,335,83"/>
+<area shape="rect" id="node5" href="$group__observe.html#gaa5db7653f7503be4810d593c5b61ed90" title="coap_subscription_init" alt="" coords="194,107,345,133"/>
+<area shape="rect" id="node6" href="$coap__session_8c.html#a678a93d1dd7e1a9a52f4686778eef95b" title="Increment reference counter on a session. " alt="" coords="188,157,351,184"/>
+<area shape="rect" id="node4" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="399,56,509,83"/>
+</map>

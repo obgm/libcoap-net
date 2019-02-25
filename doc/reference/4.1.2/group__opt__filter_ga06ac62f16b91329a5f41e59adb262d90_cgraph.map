@@ -1,0 +1,6 @@
+<map id="coap_option_setb" name="coap_option_setb">
+<area shape="rect" id="node2" href="$group__opt__filter.html#gafd655c069130a0a54a0082c1951d09d9" title="Sets the corresponding entry for type in filter. " alt="" coords="177,31,327,57"/>
+<area shape="rect" id="node3" href="$option_8c.html#a58b1764055e7ee09aca186314ea59beb" title="Applies op on filter with respect to type. " alt="" coords="375,31,520,57"/>
+<area shape="rect" id="node4" href="$option_8c.html#a613d8a39b97bcf7a9bae99072e5e23c6" title="Returns true iff type denotes an option type larger than 255. " alt="" coords="568,5,673,32"/>
+<area shape="rect" id="node5" href="$encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title="coap_fls" alt="" coords="585,56,656,83"/>
+</map>

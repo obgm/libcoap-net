@@ -1,0 +1,5 @@
+<map id="coap_socket_connect_tcp2" name="coap_socket_connect_tcp2">
+<area shape="rect" id="node2" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title="coap_socket_strerror" alt="" coords="235,5,379,32"/>
+<area shape="rect" id="node3" href="$coap__io_8c.html#ae0cc13e29656551862a46150320f9390" title="coap_socket_format\l_errno" alt="" coords="237,57,377,98"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#a2de382e7795c908d1a376da8c338386d" title="coap_socket_close" alt="" coords="239,123,374,149"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="coap_new_endpoint" name="coap_new_endpoint">
+<area shape="rect" id="node2" href="$coap__io_8c.html#a13c475c9edb2e51e7c87c13c6237c9a3" title="coap_malloc_posix_endpoint" alt="" coords="191,5,380,32"/>
+<area shape="rect" id="node5" href="$debug_8c.html#a10c3fbd56b0eb3a8722b27a65fc9b0ce" title="Returns the current log level. " alt="" coords="219,56,352,83"/>
+<area shape="rect" id="node6" href="$debug_8c.html#ab9d398c4bed7c13cea20c716d09474f4" title="coap_print_addr" alt="" coords="228,107,343,133"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a09b861aa54503f57f2a9412d546cd3c8" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="428,5,523,32"/>
+<area shape="rect" id="node4" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="571,5,697,32"/>
+<area shape="rect" id="node7" href="$debug_8c.html#aaa5ee5c2942fe13271a46000b2aebde6" title="A length&#45;safe strlen() fake. " alt="" coords="445,107,506,133"/>
+</map>

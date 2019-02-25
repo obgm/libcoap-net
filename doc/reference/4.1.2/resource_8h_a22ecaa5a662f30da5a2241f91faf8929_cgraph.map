@@ -1,0 +1,15 @@
+<map id="coap_handle_failed_notify" name="coap_handle_failed_notify">
+<area shape="rect" id="node2" href="$resource_8c.html#afbd204b59945b10d4e73b7a4a9915c6b" title="Checks the failure counter for (peer, token) and removes peer from the list of observers for the give..." alt="" coords="187,74,325,115"/>
+<area shape="rect" id="node3" href="$address_8c.html#aece6d39e01149af8dea29b0b8cbde504" title="Compares given address objects a and b. " alt="" coords="604,107,752,133"/>
+<area shape="rect" id="node4" href="$debug_8c.html#a10c3fbd56b0eb3a8722b27a65fc9b0ce" title="Returns the current log level. " alt="" coords="398,56,531,83"/>
+<area shape="rect" id="node5" href="$debug_8c.html#ab9d398c4bed7c13cea20c716d09474f4" title="coap_print_addr" alt="" coords="407,5,522,32"/>
+<area shape="rect" id="node7" href="$net_8c.html#a648df31fd1553a7fa8d294b652dd99da" title="Cancels all outstanding messages for peer dst that have the specified token. " alt="" coords="373,157,556,184"/>
+<area shape="rect" id="node6" href="$debug_8c.html#aaa5ee5c2942fe13271a46000b2aebde6" title="A length&#45;safe strlen() fake. " alt="" coords="647,5,709,32"/>
+<area shape="rect" id="node8" href="$net_8c.html#adf2cfdc3b12751e262d32e3be94cfa51" title="token_match" alt="" coords="629,157,727,184"/>
+<area shape="rect" id="node9" href="$net_8c.html#a44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node. " alt="" coords="615,208,741,235"/>
+<area shape="rect" id="node10" href="$pdu_8c.html#a48581f968a30ef4278702eb1c16b7a90" title="coap_delete_pdu" alt="" coords="800,183,920,209"/>
+<area shape="rect" id="node12" href="$net_8c.html#af126b3b1cc4dc6472de3cc7636193859" title="coap_free_node" alt="" coords="803,233,917,260"/>
+<area shape="rect" id="node11" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="978,183,1089,209"/>
+<area shape="rect" id="node13" href="$net_8c.html#af79743c319ebdd944ce16395385e9896" title="coap_malloc_node" alt="" coords="968,233,1099,260"/>
+<area shape="rect" id="node14" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="1147,259,1273,285"/>
+</map>

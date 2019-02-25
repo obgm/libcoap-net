@@ -1,0 +1,5 @@
+<map id="write_option" name="write_option">
+<area shape="rect" id="node2" href="$group__uri__parse.html#gaf908e5dec2807e2591c9d4b7a2e1bdc9" title="Splits the given URI path into segments. " alt="" coords="149,5,262,32"/>
+<area shape="rect" id="node4" href="$group__uri__parse.html#ga11af018953df7b74380791222cc115a5" title="Splits the given URI query into segments. " alt="" coords="145,56,265,83"/>
+<area shape="rect" id="node3" href="$uri_8h.html#a04d042f5a81b4a13bf1cc7d94920ed87" title="coap_uri_scheme_is\l_secure" alt="" coords="313,23,455,65"/>
+</map>

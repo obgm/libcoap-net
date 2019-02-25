@@ -1,0 +1,22 @@
+<map id="net.c" name="net.c">
+<area shape="rect" id="node7" href="$debug_8h.html" title="debug.h" alt="" coords="1299,155,1367,181"/>
+<area shape="rect" id="node11" href="$str_8h.html" title="str.h" alt="" coords="1169,603,1217,629"/>
+<area shape="rect" id="node13" href="$mem_8h.html" title="mem.h" alt="" coords="375,155,438,181"/>
+<area shape="rect" id="node15" href="$async_8h.html" title="State management for asynchronous messages. " alt="" coords="609,155,677,181"/>
+<area shape="rect" id="node16" href="$net_8h.html" title="net.h" alt="" coords="545,229,596,256"/>
+<area shape="rect" id="node27" href="$option_8h.html" title="Helpers for handling options in CoAP PDUs. " alt="" coords="1171,304,1239,331"/>
+<area shape="rect" id="node30" href="$resource_8h.html" title="Generic resource handling. " alt="" coords="775,80,857,107"/>
+<area shape="rect" id="node34" href="$encode_8h.html" title="encode.h" alt="" coords="1392,155,1467,181"/>
+<area shape="rect" id="node36" href="$block_8h.html" title="block.h" alt="" coords="1213,80,1277,107"/>
+<area shape="rect" id="node8" href="$pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP. " alt="" coords="1198,379,1253,405"/>
+<area shape="rect" id="node9" href="$uri_8h.html" title="uri.h" alt="" coords="1203,453,1250,480"/>
+<area shape="rect" id="node10" href="$hashkey_8h.html" title="definition of hash key type and helper functions " alt="" coords="1152,528,1235,555"/>
+<area shape="rect" id="node20" href="$coap__io_8h.html" title="coap_io.h" alt="" coords="731,304,810,331"/>
+<area shape="rect" id="node26" href="$coap__time_8h.html" title="Clock Handling. " alt="" coords="467,304,560,331"/>
+<area shape="rect" id="node29" href="$prng_8h.html" title="Pseudo Random Numbers. " alt="" coords="195,304,253,331"/>
+<area shape="rect" id="node21" href="$address_8h.html" title="Representation of network addresses. " alt="" coords="859,379,938,405"/>
+<area shape="rect" id="node23" href="$libcoap_8h.html" title="libcoap.h" alt="" coords="876,453,951,480"/>
+<area shape="rect" id="node28" href="$bits_8h.html" title="Bit vector manipulation. " alt="" coords="1014,379,1069,405"/>
+<area shape="rect" id="node31" href="$uthash_8h.html" title="uthash.h" alt="" coords="635,304,707,331"/>
+<area shape="rect" id="node33" href="$subscribe_8h.html" title="subscribe.h" alt="" coords="854,229,943,256"/>
+</map>

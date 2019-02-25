@@ -1,0 +1,13 @@
+<map id="coap_send_message_type" name="coap_send_message_type">
+<area shape="rect" id="node2" href="$net_8h.html#ab458d1c3b0f5d695dfa86b805ae8463d" title="Dispatches the PDUs from the receive queue in given context. " alt="" coords="257,91,363,118"/>
+<area shape="rect" id="node6" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="840,15,947,42"/>
+<area shape="rect" id="node9" href="$net_8h.html#ac09b38583adc73fd96e33e9c61eac39f" title="Returns a new message id and updates context&#45;&gt;message_id accordingly. " alt="" coords="231,167,389,194"/>
+<area shape="rect" id="node3" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="648,91,763,118"/>
+<area shape="rect" id="node5" href="$net_8h.html#ac58be1c374afa04d10810aef1d073315" title="Removes the transaction identified by id from given queue. " alt="" coords="1016,167,1187,194"/>
+<area shape="rect" id="node7" href="$net_8h.html#a74c5ca78210280817a5586f61abfa5f3" title="Parses and interprets a CoAP message with context ctx. " alt="" coords="437,40,592,67"/>
+<area shape="rect" id="node4" href="$net_8h.html#a231e9a81ac7c03c3e5c251824a76d7b9" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues. " alt="" coords="840,192,947,219"/>
+<area shape="rect" id="node8" href="$net_8h.html#ade17f093221599e839345cf88b74b496" title="Reads data from the network and tries to parse as CoAP PDU. " alt="" coords="664,40,747,67"/>
+<area shape="rect" id="node10" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="438,192,591,219"/>
+<area shape="rect" id="node11" href="$resource_8h.html#a579bcb559463d3a872831c18d8d9a1c1" title="Checks for all known resources, if they are dirty and notifies subscribed observers. " alt="" coords="640,192,771,219"/>
+<area shape="rect" id="node12" href="$resource_8h.html#a8f78ecf70cfbe5a69677bf3b97f0b776" title="Registers the specified handler as message handler for the request type method. " alt="" coords="819,243,968,270"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="coap_check_option" name="coap_check_option">
+<area shape="rect" id="node2" href="$option_8c.html#ab38b82d0d166363523bbefc4b887f941" title="coap_option_iterator_init" alt="" coords="188,5,351,32"/>
+<area shape="rect" id="node3" href="$option_8c.html#a182fdeffe0b37e1ab0dc6ba8494abe4a" title="coap_option_next" alt="" coords="207,56,331,83"/>
+<area shape="rect" id="node4" href="$option_8c.html#a70fa9db0450134640b80cbf7c3720688" title="opt_finished" alt="" coords="410,31,502,57"/>
+<area shape="rect" id="node5" href="$option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="coap_opt_parse" alt="" coords="399,81,513,108"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="coap_dtls_is_supported" name="coap_dtls_is_supported">
+<area shape="rect" id="node2" href="$coap__session_8c.html#a40790c70df0b38fe89f3fb2ad255d662" title="coap_new_client_session_psk" alt="" coords="212,5,411,32"/>
+<area shape="rect" id="node3" href="$coap__session_8c.html#ac63f29af82e4d3160c59b8451aa5868c" title="coap_new_client_session_pki" alt="" coords="214,56,409,83"/>
+<area shape="rect" id="node4" href="$coap__session_8c.html#ab5232b5141e191638ee6b7da6239dd1b" title="coap_new_endpoint" alt="" coords="243,107,380,133"/>
+<area shape="rect" id="node5" href="$net_8c.html#a8baf4e3608ff5eb00adac694fe25eb60" title="coap_new_context" alt="" coords="459,132,589,159"/>
+<area shape="rect" id="node6" href="$net_8c.html#aad4939d0311c2ba59cb097bc236fada1" title="coap_context_set_psk" alt="" coords="235,208,388,235"/>
+<area shape="rect" id="node7" href="$net_8c.html#a3e6893a08fe41f0ad6fbb84f14b10c36" title="coap_context_set_pki" alt="" coords="237,259,386,285"/>
+<area shape="rect" id="node8" href="$net_8c.html#aec68afda9ae15e22114f0bec81785f6f" title="coap_context_set_pki\l_root_cas" alt="" coords="237,310,386,351"/>
+</map>

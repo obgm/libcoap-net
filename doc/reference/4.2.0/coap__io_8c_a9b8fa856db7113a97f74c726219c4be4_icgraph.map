@@ -1,0 +1,8 @@
+<map id="coap_network_read" name="coap_network_read">
+<area shape="rect" id="node2" href="$coap__dtls__gnutls_8c.html#acae60346c237845732c91e419bb5517e" title="decrypt_callback" alt="" coords="193,31,313,57"/>
+<area shape="rect" id="node6" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="188,81,319,108"/>
+<area shape="rect" id="node3" href="$coap__dtls__gnutls_8c.html#a2e333b0d5a6d15a048071f654f7391bc" title="coap_dtls_new_session" alt="" coords="367,31,528,57"/>
+<area shape="rect" id="node4" href="$coap__dtls__gnutls_8c.html#a1208fe255ba461cb9d369a83bbc0f98b" title="coap_dtls_get_session" alt="" coords="590,5,745,32"/>
+<area shape="rect" id="node5" href="$coap__dtls__gnutls_8c.html#a174ab9010def9c77272219cabba1b48e" title="coap_dtls_handle_message" alt="" coords="576,56,759,83"/>
+<area shape="rect" id="node7" href="$net_8h.html#a696acd1012ad1c2dba081ee5bea54fd8" title="Registers the option type type with the given context object ctx. " alt="" coords="376,81,519,108"/>
+</map>

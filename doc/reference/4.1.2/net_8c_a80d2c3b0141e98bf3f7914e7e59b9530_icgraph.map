@@ -1,0 +1,11 @@
+<map id="coap_insert_node" name="coap_insert_node">
+<area shape="rect" id="node2" href="$net_8h.html#a6c0e56cd7bd35cb0961c3baf85e98eaf" title="Sends a confirmed CoAP message to given destination. " alt="" coords="177,56,327,83"/>
+<area shape="rect" id="node9" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="195,107,309,133"/>
+<area shape="rect" id="node3" href="$net_8h.html#ac09b38583adc73fd96e33e9c61eac39f" title="Returns a new message id and updates context&#45;&gt;message_id accordingly. " alt="" coords="375,5,533,32"/>
+<area shape="rect" id="node4" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="581,56,735,83"/>
+<area shape="rect" id="node5" href="$resource_8h.html#a579bcb559463d3a872831c18d8d9a1c1" title="Checks for all known resources, if they are dirty and notifies subscribed observers. " alt="" coords="783,56,913,83"/>
+<area shape="rect" id="node6" href="$net_8h.html#a231e9a81ac7c03c3e5c251824a76d7b9" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues. " alt="" coords="983,107,1089,133"/>
+<area shape="rect" id="node8" href="$resource_8h.html#a8f78ecf70cfbe5a69677bf3b97f0b776" title="Registers the specified handler as message handler for the request type method. " alt="" coords="961,56,1111,83"/>
+<area shape="rect" id="node7" href="$net_8h.html#ac58be1c374afa04d10810aef1d073315" title="Removes the transaction identified by id from given queue. " alt="" coords="1159,107,1329,133"/>
+<area shape="rect" id="node10" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="401,157,507,184"/>
+</map>

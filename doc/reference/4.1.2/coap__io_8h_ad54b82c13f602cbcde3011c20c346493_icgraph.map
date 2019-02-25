@@ -1,0 +1,7 @@
+<map id="coap_free_packet" name="coap_free_packet">
+<area shape="rect" id="node2" href="$coap__io_8h.html#a01655aadc98d6957fcb27a612297254a" title="Function interface for reading data. " alt="" coords="179,5,313,32"/>
+<area shape="rect" id="node5" href="$net_8h.html#ade17f093221599e839345cf88b74b496" title="Reads data from the network and tries to parse as CoAP PDU. " alt="" coords="205,56,287,83"/>
+<area shape="rect" id="node3" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="361,5,492,32"/>
+<area shape="rect" id="node4" href="$net_8h.html#a0b28834233cb704a89fb8e740ca65c69" title="Registers the option type type with the given context object ctx. " alt="" coords="540,5,683,32"/>
+<area shape="rect" id="node6" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="373,56,480,83"/>
+</map>

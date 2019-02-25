@@ -1,0 +1,9 @@
+<map id="coap_session_reset" name="coap_session_reset">
+<area shape="rect" id="node2" href="$net_8c.html#a9e7c7fc083799c942c9c44ebc190c833" title="coap_connect_session" alt="" coords="192,5,347,32"/>
+<area shape="rect" id="node8" href="$net_8c.html#acd36f6fba6d30ab9557e0e6521f4a088" title="coap_read_session" alt="" coords="202,56,337,83"/>
+<area shape="rect" id="node3" href="$net_8c.html#a0748d791fd2af516dd93fbadb660d440" title="coap_read" alt="" coords="395,31,477,57"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="839,31,949,57"/>
+<area shape="rect" id="node5" href="$net_8c.html#a9900c032b74bd57f67d489484a2b3207" title="coap_retransmit" alt="" coords="525,56,640,83"/>
+<area shape="rect" id="node6" href="$coap__io_8c.html#aaac86ac50793f309678e4951ecf8863f" title="coap_write" alt="" coords="697,56,782,83"/>
+<area shape="rect" id="node7" href="$net_8c.html#a5d1fb0b44497970b0f75fa0b38570a82" title="coap_cleanup" alt="" coords="688,107,791,133"/>
+</map>

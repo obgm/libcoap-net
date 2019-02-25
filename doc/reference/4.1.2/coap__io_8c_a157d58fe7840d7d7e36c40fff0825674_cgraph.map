@@ -1,0 +1,8 @@
+<map id="coap_free_endpoint" name="coap_free_endpoint">
+<area shape="rect" id="node2" href="$coap__io_8c.html#a4860bb59ac622173c833fb765c438365" title="coap_free_posix_endpoint" alt="" coords="188,56,361,83"/>
+<area shape="rect" id="node3" href="$mem_8h.html#ac01dd5f787fced5a3f9160b4584e81c7" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="409,56,488,83"/>
+<area shape="rect" id="node4" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="545,5,655,32"/>
+<area shape="rect" id="node5" href="$mem_8h.html#a65d0fc0fe6cad555b56e92ccb57613ba" title="Initializes libcoap&#39;s memory management. " alt="" coords="536,56,664,83"/>
+<area shape="rect" id="node6" href="$mem_8h.html#a09b861aa54503f57f2a9412d546cd3c8" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="553,107,647,133"/>
+<area shape="rect" id="node7" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="712,107,839,133"/>
+</map>

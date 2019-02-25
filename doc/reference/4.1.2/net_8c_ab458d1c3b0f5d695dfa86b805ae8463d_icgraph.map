@@ -1,0 +1,8 @@
+<map id="coap_dispatch" name="coap_dispatch">
+<area shape="rect" id="node2" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="180,56,295,83"/>
+<area shape="rect" id="node4" href="$net_8h.html#ac58be1c374afa04d10810aef1d073315" title="Removes the transaction identified by id from given queue. " alt="" coords="517,5,688,32"/>
+<area shape="rect" id="node6" href="$net_8h.html#a74c5ca78210280817a5586f61abfa5f3" title="Parses and interprets a CoAP message with context ctx. " alt="" coords="160,132,315,159"/>
+<area shape="rect" id="node3" href="$net_8h.html#a231e9a81ac7c03c3e5c251824a76d7b9" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues. " alt="" coords="363,31,469,57"/>
+<area shape="rect" id="node5" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="549,132,656,159"/>
+<area shape="rect" id="node7" href="$net_8h.html#ade17f093221599e839345cf88b74b496" title="Reads data from the network and tries to parse as CoAP PDU. " alt="" coords="375,132,457,159"/>
+</map>

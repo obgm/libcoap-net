@@ -1,0 +1,12 @@
+<map id="coap_time.h" name="coap_time.h">
+<area shape="rect" id="node2" href="$coap__time_8c.html" title="coap_time.c" alt="" coords="5,80,99,107"/>
+<area shape="rect" id="node3" href="$net_8h.html" title="net.h" alt="" coords="123,80,173,107"/>
+<area shape="rect" id="node9" href="$coap_8h.html" title="coap.h" alt="" coords="223,304,284,331"/>
+<area shape="rect" id="node4" href="$debug_8c.html" title="debug.c" alt="" coords="114,155,182,181"/>
+<area shape="rect" id="node5" href="$net_8c.html" title="net.c" alt="" coords="60,304,111,331"/>
+<area shape="rect" id="node6" href="$resource_8c.html" title="resource.c" alt="" coords="101,379,184,405"/>
+<area shape="rect" id="node7" href="$async_8h.html" title="State management for asynchronous messages. " alt="" coords="206,155,274,181"/>
+<area shape="rect" id="node11" href="$resource_8h.html" title="Generic resource handling. " alt="" coords="123,229,205,256"/>
+<area shape="rect" id="node8" href="$async_8c.html" title="state management for asynchronous messages " alt="" coords="322,379,390,405"/>
+<area shape="rect" id="node10" href="$subscribe_8c.html" title="subscribe.c" alt="" coords="209,379,298,405"/>
+</map>

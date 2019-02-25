@@ -1,0 +1,4 @@
+<map id="coap_resource_get_uri_path" name="coap_resource_get_uri_path">
+<area shape="rect" id="node2" href="$resource_8h.html#a0098ca940dd37e7d7425b929d194ca46" title="coap_resource_set_dirty" alt="" coords="239,13,403,39"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a44d6a5ed6425069699a01f7e8ed72579" title="Initiate the sending of an Observe packet for all observers of resource, optionally matching query if..." alt="" coords="451,5,597,47"/>
+</map>

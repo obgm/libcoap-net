@@ -1,0 +1,5 @@
+<map id="coap_debug_send_packet" name="coap_debug_send_packet">
+<area shape="rect" id="node2" href="$coap__io_8c.html#a9e9bc78d20872c6ea9cb8dddfcea45ad" title="coap_network_send" alt="" coords="227,5,365,32"/>
+<area shape="rect" id="node3" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="413,5,544,32"/>
+<area shape="rect" id="node4" href="$net_8h.html#a696acd1012ad1c2dba081ee5bea54fd8" title="Registers the option type type with the given context object ctx. " alt="" coords="592,5,735,32"/>
+</map>

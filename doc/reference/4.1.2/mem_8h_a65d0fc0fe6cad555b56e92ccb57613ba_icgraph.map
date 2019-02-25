@@ -1,0 +1,26 @@
+<map id="coap_memory_init" name="coap_memory_init">
+<area shape="rect" id="node2" href="$mem_8h.html#ac01dd5f787fced5a3f9160b4584e81c7" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="181,183,260,209"/>
+<area shape="rect" id="node15" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="736,359,867,385"/>
+<area shape="rect" id="node3" href="$group__coap__async.html#ga32024a34a383832e6692d3a439fc67c7" title="Releases the memory that was allocated by coap_async_state_init() for the object s. " alt="" coords="334,56,455,83"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#a4860bb59ac622173c833fb765c438365" title="coap_free_posix_endpoint" alt="" coords="308,107,481,133"/>
+<area shape="rect" id="node13" href="$coap__io_8h.html#ad54b82c13f602cbcde3011c20c346493" title="Releases the storage allocated for packet. " alt="" coords="332,283,457,309"/>
+<area shape="rect" id="node19" href="$resource_8h.html#a37883d9c8bafdd59fd1bd57dcb82e908" title="Deletes an attribute. " alt="" coords="335,208,454,235"/>
+<area shape="rect" id="node20" href="$resource_8c.html#a1307a6b8dadd6d005352ce02f6cf392f" title="coap_free_resource" alt="" coords="529,164,665,191"/>
+<area shape="rect" id="node24" href="$str_8h.html#ae01fa8ed13b98008422d54a8fa5aeeb1" title="Deletes the given string and releases any memory allocated. " alt="" coords="329,333,460,360"/>
+<area shape="rect" id="node25" href="$uri_8h.html#a1e40ce0d97cef97ec366f4b339c15245" title="Creates a new coap_uri_t object from the specified URI. " alt="" coords="343,5,446,32"/>
+<area shape="rect" id="node5" href="$coap__io_8h.html#a157d58fe7840d7d7e36c40fff0825674" title="coap_free_endpoint" alt="" coords="530,91,665,117"/>
+<area shape="rect" id="node6" href="$net_8h.html#a4a0717822713783908dd33d300440b2e" title="CoAP stack context must be released with coap_free_context(). " alt="" coords="958,100,1087,127"/>
+<area shape="rect" id="node7" href="$net_8h.html#ac09b38583adc73fd96e33e9c61eac39f" title="Returns a new message id and updates context&#45;&gt;message_id accordingly. " alt="" coords="1156,100,1315,127"/>
+<area shape="rect" id="node8" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="1363,100,1516,127"/>
+<area shape="rect" id="node9" href="$resource_8h.html#a579bcb559463d3a872831c18d8d9a1c1" title="Checks for all known resources, if they are dirty and notifies subscribed observers. " alt="" coords="1564,100,1695,127"/>
+<area shape="rect" id="node10" href="$net_8h.html#a231e9a81ac7c03c3e5c251824a76d7b9" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues. " alt="" coords="1764,75,1871,101"/>
+<area shape="rect" id="node12" href="$resource_8h.html#a8f78ecf70cfbe5a69677bf3b97f0b776" title="Registers the specified handler as message handler for the request type method. " alt="" coords="1743,125,1892,152"/>
+<area shape="rect" id="node11" href="$net_8h.html#ac58be1c374afa04d10810aef1d073315" title="Removes the transaction identified by id from given queue. " alt="" coords="1940,75,2111,101"/>
+<area shape="rect" id="node14" href="$coap__io_8h.html#a01655aadc98d6957fcb27a612297254a" title="Function interface for reading data. " alt="" coords="530,333,665,360"/>
+<area shape="rect" id="node17" href="$net_8h.html#ade17f093221599e839345cf88b74b496" title="Reads data from the network and tries to parse as CoAP PDU. " alt="" coords="556,283,639,309"/>
+<area shape="rect" id="node16" href="$net_8h.html#a0b28834233cb704a89fb8e740ca65c69" title="Registers the option type type with the given context object ctx. " alt="" coords="951,359,1094,385"/>
+<area shape="rect" id="node18" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="748,283,855,309"/>
+<area shape="rect" id="node22" href="$resource_8h.html#a16083619290cc984cba9110b5f98fefb" title="Sets the notification message type of resource r to given mode which must be one of COAP_RESOURCE_FLA..." alt="" coords="937,176,1108,203"/>
+<area shape="rect" id="node21" href="$resource_8h.html#a2fb1d46ece1dd907128cb407adcf5257" title="Deletes a resource identified by key. " alt="" coords="727,176,876,203"/>
+<area shape="rect" id="node23" href="$resource_8h.html#a1fae3046ad94fce85a7ea23455328958" title="Deletes all resources from given context and frees their storage. " alt="" coords="713,125,889,152"/>
+</map>

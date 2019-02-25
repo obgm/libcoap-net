@@ -1,0 +1,5 @@
+<map id="coap_send" name="coap_send">
+<area shape="rect" id="node2" href="$net_8c.html#aab05153e264360d06218abc2742f699a" title="coap_send_impl" alt="" coords="139,31,255,57"/>
+<area shape="rect" id="node3" href="$address_8c.html#a5b47d6fe47a54a0798eddb9ea77005ea" title="Checks if given address a denotes a multicast address. " alt="" coords="317,5,427,32"/>
+<area shape="rect" id="node4" href="$net_8c.html#aab5ca063fd19725ae1ddd8d7c9623f05" title="Calculates a unique transaction id from given arguments peer and pdu. " alt="" coords="303,56,441,83"/>
+</map>

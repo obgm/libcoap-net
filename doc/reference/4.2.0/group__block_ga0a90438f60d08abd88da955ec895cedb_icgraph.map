@@ -1,0 +1,4 @@
+<map id="coap_add_block" name="coap_add_block">
+<area shape="rect" id="node2" href="$group__block.html#ga38c1e9829062e3e2ce621641f1ae59c5" title="Adds the appropriate part of data to the response pdu. " alt="" coords="169,5,332,47"/>
+<area shape="rect" id="node3" href="$group__block.html#gaa67d14fa889f79afee9762dab7fc83e4" title="Checks if more than num blocks are required to deliver data_len bytes of data for a block size of 1 &lt;..." alt="" coords="380,42,511,69"/>
+</map>

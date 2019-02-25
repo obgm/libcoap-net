@@ -1,0 +1,5 @@
+<map id="coap_dtls_handle_timeout" name="coap_dtls_handle_timeout">
+<area shape="rect" id="node2" href="$net_8h.html#aaac86ac50793f309678e4951ecf8863f" title="For applications with their own message loop, send all pending retransmits and return the list of soc..." alt="" coords="227,31,312,57"/>
+<area shape="rect" id="node3" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="360,5,471,32"/>
+<area shape="rect" id="node4" href="$net_8h.html#a5854b1394bfddd574e48af116e3aaaf9" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="362,56,469,83"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="coap_print_link" name="coap_print_link">
+<area shape="rect" id="node2" href="$resource_8h.html#a0b2cba9f6c0af2c91707072ffc3a2237" title="Prints the names of all known resources to buf. " alt="" coords="163,249,313,276"/>
+<area shape="rect" id="node3" href="$net_8c.html#a54e7ebd1ffa580a9867d589de4380433" title="Quick hack to determine the size of the resource description for .well&#45;known/core. " alt="" coords="361,173,456,200"/>
+<area shape="rect" id="node4" href="$net_8h.html#a4bf688cc4467cb91b6ace43e735ffafa" title="Creates a new response for given request with the contents of .well&#45;known/core. " alt="" coords="504,198,683,225"/>
+<area shape="rect" id="node13" href="$resource_8c.html#a18cabbe8668115b60749b1d01faee42d" title="match" alt="" coords="379,274,438,301"/>
+<area shape="rect" id="node5" href="$net_8c.html#a13ff6a2308c8e167a66218e43b819df2" title="handle_request" alt="" coords="731,148,841,174"/>
+<area shape="rect" id="node9" href="$net_8h.html#ac58be1c374afa04d10810aef1d073315" title="Removes the transaction identified by id from given queue. " alt="" coords="1401,173,1572,200"/>
+<area shape="rect" id="node6" href="$net_8h.html#ab458d1c3b0f5d695dfa86b805ae8463d" title="Dispatches the PDUs from the receive queue in given context. " alt="" coords="889,148,996,174"/>
+<area shape="rect" id="node7" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="1064,122,1179,149"/>
+<area shape="rect" id="node11" href="$net_8h.html#a74c5ca78210280817a5586f61abfa5f3" title="Parses and interprets a CoAP message with context ctx. " alt="" coords="1044,21,1199,48"/>
+<area shape="rect" id="node8" href="$net_8h.html#a231e9a81ac7c03c3e5c251824a76d7b9" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues. " alt="" coords="1247,122,1353,149"/>
+<area shape="rect" id="node10" href="$net_8h.html#a08ba53f8f554cf7a2559813ebde1bb1d" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="1433,21,1540,48"/>
+<area shape="rect" id="node12" href="$net_8h.html#ade17f093221599e839345cf88b74b496" title="Reads data from the network and tries to parse as CoAP PDU. " alt="" coords="1259,21,1341,48"/>
+</map>

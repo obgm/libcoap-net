@@ -1,0 +1,5 @@
+<map id="coap_log_impl" name="coap_log_impl">
+<area shape="rect" id="node2" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution. " alt="" coords="173,5,259,32"/>
+<area shape="rect" id="node3" href="$debug_8c.html#a8cc07d131f03aa1382b9e8a3899114f6" title="print_timestamp" alt="" coords="159,56,273,83"/>
+<area shape="rect" id="node4" href="$group__clock.html#gaaa7cb35533d86c8f87eac2ad42de0323" title="Helper function that converts coap ticks to wallclock time. " alt="" coords="321,56,440,83"/>
+</map>
