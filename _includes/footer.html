@@ -9,19 +9,22 @@
       <div class="col-sm">
         <ul class="list-unstyled">
           <li>
+            <span class="small">
             {%- if site.author -%}
               {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
             {%- endif -%}
-          </li>
+            {%- if site.author and site.email -%}
+            &nbsp;•&nbsp;
+            {%- endif -%}
           {%- if site.email -%}
-            <li>
               <a href="mailto:{{ site.email }}">
                 {{ site.email }}
               </a>
-            </li>
             {%- endif -%}
+            &nbsp;•&nbsp;
+              2015—{{ site.time | date: "%Y" }}
+            </span>
+            </li>
             <li>
               <p class="small">
             PGP key fingerprint: <tt>5111 C4C4 4DB3 7FFB 1EA3  E264 606A 6D46 C40B F79B</tt>
