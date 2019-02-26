@@ -34,8 +34,3 @@ of the application programming interface:
 The GitHub project
 [libcoap-minimal](//github.com/obgm/libcoap-minimal) provides a
 minimal client and server example in C++.
-
-## Contiki
-
-There is small introduction on installing [libcoap on
-Contiki](doc/contiki) available.
