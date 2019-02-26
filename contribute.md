@@ -1,13 +1,10 @@
 ---
-title: How to Get Involved
-slug: Get Involved
+title: Get Involved
 ---
 <div class="container">
   <div class="row">
     <div class="col-lg-12">
-<!--      <h1>How to Get Involved</h1>-->
-
-      <p>You can contribute to libcoap in several ways.</p>
+      <p>You can contribute to libcoap in several ways:</p>
     </div>
   </div>
  
@@ -67,7 +64,8 @@ slug: Get Involved
     </p>
     <p><a class="btn btn-primary btn-lg" href="{{ "doc/coding-style.html" | relative_url }}" role="button">Coding style</a></p>
     </div>
-    
+  </div>
+  <div class="row">
     <div class="col-lg-6">
       <h2>Develop Code</h2>
       <p>
@@ -79,6 +77,8 @@ slug: Get Involved
       have read and understood the rules given in the <tt>CONTRIBUTE</tt>
       document of the library.
       </p>
+    </div>
+    <div class="col-lg-6">
       <h3>Write Tests</h3>
       <p>
       libcoap comes with a set of unit tests to check the core
@@ -94,7 +94,10 @@ slug: Get Involved
         href="//github.com/obgm/libcoap/tree/develop/tests/oss-fuzz">tests/oss-fuzz</a>
         in the libcoap repository).
       </p>
-      
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-6">
     <h3>Branching Model</h3>
     <p>
       libcoap follows a branching model presented in
@@ -104,6 +107,8 @@ slug: Get Involved
       lives in branch <code>release</code>, while the current development
       branch is <code>develop</code>.
     </p>
+    </div>
+    <div class="col-lg-6">
       <h3>Roadmap</h3>
       If you want to engage in developing libcoap features, please have a
       look at the <a href="{{ "roadmap.html" | relative_url }}">Roadmap</a>
