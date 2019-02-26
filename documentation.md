@@ -9,7 +9,7 @@ time. Meanwhile, you can [contribute](contribute.html) if you like.
 
 A short quick start guide to get you up to speed fast.
 
-<a class="btn btn-primary btn-lg" href="install" role="button">View details</a>
+<a class="btn btn-primary btn-lg" href="install.html" role="button">View details</a>
 
 ## Reference
 

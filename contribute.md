@@ -28,7 +28,7 @@ slug: Get Involved
       you can open a new ticket at the libcoap bug tracking tool.
     </p>
     <p><a class="btn btn-primary btn-lg" href="https://github.com/obgm/libcoap/issues"
-  role="button">Bug Tracker</a></p>
+  role="button">Bug Tracker &raquo;</a></p>
 
     <h2>Fix Bugs</h2>
     <p>
@@ -65,7 +65,7 @@ slug: Get Involved
       cluttered with whitespace here and there. You can help by
       cleaning it up!
     </p>
-    <p><a class="btn btn-primary btn-lg" href="{{ "doc/coding-style.html" | relative_url }}" role="button">View details &raquo;</a></p>
+    <p><a class="btn btn-primary btn-lg" href="{{ "doc/coding-style.html" | relative_url }}" role="button">Coding style</a></p>
     </div>
     
     <div class="col-lg-6">
