@@ -2,6 +2,11 @@
 layout: home
 ---
 
+<div class="alert alert-dismissible alert-success">
+  <button type="button" class="close" data-dismiss="alert">&times;</button>
+  <a href="//github.com/obgm/libcoap/releases/tag/v4.2.0" class="alert-link">Version 4.2.0</a> is out! <strong>Try now!</strong>
+</div>
+
 <div class="jumbotron">
 
   <h1>C-Implementation of CoAP</h1>
