@@ -81,7 +81,8 @@ $(document).ready(function(){initNavTree('group__dtls__internal.html','');});
 
 <div class="header">
   <div class="summary">
-<a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">DTLS Support (Internal)</div>  </div>
@@ -91,26 +92,29 @@ $(document).ready(function(){initNavTree('group__dtls__internal.html','');});
 <p>Internal API functions for interfacing with DTLS libraries.  
 <a href="#details">More...</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:ga9b6840255b166264a8e87785ee505e4e"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__dtls__internal.html#ga9b6840255b166264a8e87785ee505e4e">COAP_DTLS_ROLE_CLIENT</a>&#160;&#160;&#160;0</td></tr>
-<tr class="memdesc:ga9b6840255b166264a8e87785ee505e4e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Internal function invoked for client.  <a href="#ga9b6840255b166264a8e87785ee505e4e">More...</a><br /></td></tr>
-<tr class="separator:ga9b6840255b166264a8e87785ee505e4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga4f7467fb4f4564ee1d41170166eec678"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__dtls__internal.html#ga4f7467fb4f4564ee1d41170166eec678">COAP_DTLS_ROLE_SERVER</a>&#160;&#160;&#160;1</td></tr>
-<tr class="memdesc:ga4f7467fb4f4564ee1d41170166eec678"><td class="mdescLeft">&#160;</td><td class="mdescRight">Internal function invoked for server.  <a href="#ga4f7467fb4f4564ee1d41170166eec678">More...</a><br /></td></tr>
-<tr class="separator:ga4f7467fb4f4564ee1d41170166eec678"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:gab4294dfe01924081cd7b7360778638f1"><td class="memItemLeft" align="right" valign="top">typedef enum <a class="el" href="group__dtls__internal.html#ga4dbea8aa6943bcf865990b5cebb6bfa4">coap_dtls_role_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__dtls__internal.html#gab4294dfe01924081cd7b7360778638f1">coap_dtls_role_t</a></td></tr>
+<tr class="separator:gab4294dfe01924081cd7b7360778638f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:ga4dbea8aa6943bcf865990b5cebb6bfa4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__dtls__internal.html#ga4dbea8aa6943bcf865990b5cebb6bfa4">coap_dtls_role_t</a> { <a class="el" href="group__dtls__internal.html#gga4dbea8aa6943bcf865990b5cebb6bfa4a7f8045717b35f240ee46c987a8d9ce26">COAP_DTLS_ROLE_CLIENT</a>, 
+<a class="el" href="group__dtls__internal.html#gga4dbea8aa6943bcf865990b5cebb6bfa4a07db1c396fbda1115124a22b3b9cb4da">COAP_DTLS_ROLE_SERVER</a>
+ }</td></tr>
+<tr class="separator:ga4dbea8aa6943bcf865990b5cebb6bfa4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:gac3f26c28dfc018c8efb5ca410f5c4c0e"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__dtls__internal.html#gac3f26c28dfc018c8efb5ca410f5c4c0e">coap_dtls_new_context</a> (struct <a class="el" href="structcoap__context__t.html">coap_context_t</a> *coap_context)</td></tr>
 <tr class="memdesc:gac3f26c28dfc018c8efb5ca410f5c4c0e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates a new DTLS context for the given <code>coap_context</code>.  <a href="#gac3f26c28dfc018c8efb5ca410f5c4c0e">More...</a><br /></td></tr>
 <tr class="separator:gac3f26c28dfc018c8efb5ca410f5c4c0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaf863f36644373b1223b600629e131f5e"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__dtls__internal.html#gaf863f36644373b1223b600629e131f5e">coap_dtls_context_set_psk</a> (struct <a class="el" href="structcoap__context__t.html">coap_context_t</a> *coap_context, const char *identity_hint, int role)</td></tr>
-<tr class="memdesc:gaf863f36644373b1223b600629e131f5e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the DTLS context's default PSK information.  <a href="#gaf863f36644373b1223b600629e131f5e">More...</a><br /></td></tr>
-<tr class="separator:gaf863f36644373b1223b600629e131f5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gabeffdc73965a32dc65bf0a198903afd1"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__dtls__internal.html#gabeffdc73965a32dc65bf0a198903afd1">coap_dtls_context_set_pki</a> (struct <a class="el" href="structcoap__context__t.html">coap_context_t</a> *coap_context, <a class="el" href="structcoap__dtls__pki__t.html">coap_dtls_pki_t</a> *setup_data, int role)</td></tr>
-<tr class="memdesc:gabeffdc73965a32dc65bf0a198903afd1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the DTLS context's default server PKI information.  <a href="#gabeffdc73965a32dc65bf0a198903afd1">More...</a><br /></td></tr>
-<tr class="separator:gabeffdc73965a32dc65bf0a198903afd1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ga6b350a528900b867dcf0c604239b1512"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__dtls__internal.html#ga6b350a528900b867dcf0c604239b1512">coap_dtls_context_set_psk</a> (struct <a class="el" href="structcoap__context__t.html">coap_context_t</a> *coap_context, const char *identity_hint, <a class="el" href="group__dtls__internal.html#ga4dbea8aa6943bcf865990b5cebb6bfa4">coap_dtls_role_t</a> role)</td></tr>
+<tr class="memdesc:ga6b350a528900b867dcf0c604239b1512"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the DTLS context's default PSK information.  <a href="#ga6b350a528900b867dcf0c604239b1512">More...</a><br /></td></tr>
+<tr class="separator:ga6b350a528900b867dcf0c604239b1512"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:gae916047df669849d71470609242f32cc"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__dtls__internal.html#gae916047df669849d71470609242f32cc">coap_dtls_context_set_pki</a> (struct <a class="el" href="structcoap__context__t.html">coap_context_t</a> *coap_context, <a class="el" href="structcoap__dtls__pki__t.html">coap_dtls_pki_t</a> *setup_data, <a class="el" href="group__dtls__internal.html#ga4dbea8aa6943bcf865990b5cebb6bfa4">coap_dtls_role_t</a> role)</td></tr>
+<tr class="memdesc:gae916047df669849d71470609242f32cc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the DTLS context's default server PKI information.  <a href="#gae916047df669849d71470609242f32cc">More...</a><br /></td></tr>
+<tr class="separator:gae916047df669849d71470609242f32cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ga7f0f3e5770a16afa5a889bec3848e6aa"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="group__dtls__internal.html#ga7f0f3e5770a16afa5a889bec3848e6aa">coap_dtls_context_set_pki_root_cas</a> (struct <a class="el" href="structcoap__context__t.html">coap_context_t</a> *coap_context, const char *ca_file, const char *ca_dir)</td></tr>
 <tr class="memdesc:ga7f0f3e5770a16afa5a889bec3848e6aa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the dtls context's default Root CA information for a client or server.  <a href="#ga7f0f3e5770a16afa5a889bec3848e6aa">More...</a><br /></td></tr>
 <tr class="separator:ga7f0f3e5770a16afa5a889bec3848e6aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -180,40 +184,41 @@ Functions</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <p>Internal API functions for interfacing with DTLS libraries. </p>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="ga9b6840255b166264a8e87785ee505e4e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ga9b6840255b166264a8e87785ee505e4e">&#9670;&nbsp;</a></span>COAP_DTLS_ROLE_CLIENT</h2>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="gab4294dfe01924081cd7b7360778638f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gab4294dfe01924081cd7b7360778638f1">&#9670;&nbsp;</a></span>coap_dtls_role_t</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define COAP_DTLS_ROLE_CLIENT&#160;&#160;&#160;0</td>
+          <td class="memname">typedef enum <a class="el" href="group__dtls__internal.html#ga4dbea8aa6943bcf865990b5cebb6bfa4">coap_dtls_role_t</a>  <a class="el" href="group__dtls__internal.html#ga4dbea8aa6943bcf865990b5cebb6bfa4">coap_dtls_role_t</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p>Internal function invoked for client. </p>
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="ga4dbea8aa6943bcf865990b5cebb6bfa4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga4dbea8aa6943bcf865990b5cebb6bfa4">&#9670;&nbsp;</a></span>coap_dtls_role_t</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="group__dtls__internal.html#ga4dbea8aa6943bcf865990b5cebb6bfa4">coap_dtls_role_t</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="gga4dbea8aa6943bcf865990b5cebb6bfa4a7f8045717b35f240ee46c987a8d9ce26"></a>COAP_DTLS_ROLE_CLIENT&#160;</td><td class="fielddoc"><p>Internal function invoked for client. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="gga4dbea8aa6943bcf865990b5cebb6bfa4a07db1c396fbda1115124a22b3b9cb4da"></a>COAP_DTLS_ROLE_SERVER&#160;</td><td class="fielddoc"><p>Internal function invoked for server. </p>
+</td></tr>
+</table>
 
 <p class="definition">Definition at line <a class="el" href="coap__dtls_8h_source.html#l00264">264</a> of file <a class="el" href="coap__dtls_8h_source.html">coap_dtls.h</a>.</p>
-
-</div>
-</div>
-<a id="ga4f7467fb4f4564ee1d41170166eec678"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ga4f7467fb4f4564ee1d41170166eec678">&#9670;&nbsp;</a></span>COAP_DTLS_ROLE_SERVER</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define COAP_DTLS_ROLE_SERVER&#160;&#160;&#160;1</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Internal function invoked for server. </p>
-
-<p class="definition">Definition at line <a class="el" href="coap__dtls_8h_source.html#l00265">265</a> of file <a class="el" href="coap__dtls_8h_source.html">coap_dtls.h</a>.</p>
 
 </div>
 </div>
@@ -246,8 +251,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="gabeffdc73965a32dc65bf0a198903afd1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#gabeffdc73965a32dc65bf0a198903afd1">&#9670;&nbsp;</a></span>coap_dtls_context_set_pki()</h2>
+<a id="gae916047df669849d71470609242f32cc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#gae916047df669849d71470609242f32cc">&#9670;&nbsp;</a></span>coap_dtls_context_set_pki()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -267,7 +272,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int&#160;</td>
+          <td class="paramtype"><a class="el" href="group__dtls__internal.html#ga4dbea8aa6943bcf865990b5cebb6bfa4">coap_dtls_role_t</a>&#160;</td>
           <td class="paramname"><em>role</em>&#160;</td>
         </tr>
         <tr>
@@ -339,8 +344,8 @@ Functions</h2></td></tr>
 
 </div>
 </div>
-<a id="gaf863f36644373b1223b600629e131f5e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#gaf863f36644373b1223b600629e131f5e">&#9670;&nbsp;</a></span>coap_dtls_context_set_psk()</h2>
+<a id="ga6b350a528900b867dcf0c604239b1512"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ga6b350a528900b867dcf0c604239b1512">&#9670;&nbsp;</a></span>coap_dtls_context_set_psk()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -360,7 +365,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">int&#160;</td>
+          <td class="paramtype"><a class="el" href="group__dtls__internal.html#ga4dbea8aa6943bcf865990b5cebb6bfa4">coap_dtls_role_t</a>&#160;</td>
           <td class="paramname"><em>role</em>&#160;</td>
         </tr>
         <tr>
@@ -1132,7 +1137,7 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Wed Feb 13 2019 17:50:48 for libcoap by
+    <li class="footer">Generated on Sat Mar 2 2019 11:59:53 for libcoap by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

@@ -11,6 +11,7 @@ var searchData=
   ['coap_5fdtls_5fcontext_5ft',['coap_dtls_context_t',['../coap__dtls__gnutls_8c.html#aefc0f0d309320f048eb52a876c531a38',1,'coap_dtls_gnutls.c']]],
   ['coap_5fdtls_5fkey_5ft',['coap_dtls_key_t',['../group__dtls.html#ga5ee79e344f45963d6908bbeee73d32b6',1,'coap_dtls.h']]],
   ['coap_5fdtls_5fpki_5ft',['coap_dtls_pki_t',['../group__dtls.html#ga58be82568c59e218dfd3f7e3166e672e',1,'coap_dtls.h']]],
+  ['coap_5fdtls_5frole_5ft',['coap_dtls_role_t',['../group__dtls__internal.html#gab4294dfe01924081cd7b7360778638f1',1,'coap_dtls.h']]],
   ['coap_5fdtls_5fsecurity_5fsetup_5ft',['coap_dtls_security_setup_t',['../group__dtls.html#gac823bdeb357bded215ac1f84dd47f38f',1,'coap_dtls.h']]],
   ['coap_5fdtls_5fsni_5fcallback_5ft',['coap_dtls_sni_callback_t',['../group__dtls.html#ga1c00bbe9a894681582c29663b912a1c2',1,'coap_dtls.h']]],
   ['coap_5fendpoint_5ft',['coap_endpoint_t',['../coap__session_8h.html#a0eccf8b227763685b58b7f50c8c8e667',1,'coap_session.h']]],

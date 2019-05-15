@@ -21,6 +21,8 @@ var searchData=
   ['coap_5fattribute_5fname',['COAP_ATTRIBUTE_NAME',['../mem_8h.html#a703fa791ab7a14ff983df73b15e9c620aa8a6d143ba39aca364b42f7c6bd4d618',1,'mem.h']]],
   ['coap_5fattribute_5fvalue',['COAP_ATTRIBUTE_VALUE',['../mem_8h.html#a703fa791ab7a14ff983df73b15e9c620a4baef278cf60f00d15b149914c0f1811',1,'mem.h']]],
   ['coap_5fcontext',['COAP_CONTEXT',['../mem_8h.html#a703fa791ab7a14ff983df73b15e9c620a63028bf12af38811e0cb3ec7fe35e897',1,'mem.h']]],
+  ['coap_5fdtls_5frole_5fclient',['COAP_DTLS_ROLE_CLIENT',['../group__dtls__internal.html#gga4dbea8aa6943bcf865990b5cebb6bfa4a7f8045717b35f240ee46c987a8d9ce26',1,'coap_dtls.h']]],
+  ['coap_5fdtls_5frole_5fserver',['COAP_DTLS_ROLE_SERVER',['../group__dtls__internal.html#gga4dbea8aa6943bcf865990b5cebb6bfa4a07db1c396fbda1115124a22b3b9cb4da',1,'coap_dtls.h']]],
   ['coap_5fendpoint',['COAP_ENDPOINT',['../mem_8h.html#a703fa791ab7a14ff983df73b15e9c620a58e4d720ad9177654baa457ab284510b',1,'mem.h']]],
   ['coap_5fnack_5fnot_5fdeliverable',['COAP_NACK_NOT_DELIVERABLE',['../coap__io_8h.html#a7ff2bb32137ca684be5539c156bdc418a06f5d92ff204a7c9784c37fe7c580795',1,'coap_io.h']]],
   ['coap_5fnack_5frst',['COAP_NACK_RST',['../coap__io_8h.html#a7ff2bb32137ca684be5539c156bdc418a9add7e23f77f49b0c7199b6cda1ea9c0',1,'coap_io.h']]],

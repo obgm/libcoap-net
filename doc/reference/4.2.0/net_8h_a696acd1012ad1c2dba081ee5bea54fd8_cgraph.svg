@@ -846,7 +846,7 @@ var sectionId = 'dynsection-44';
 <!-- Node1184 -->
 <g id="node45" class="node">
 <title>Node1184</title>
-<g id="a_node45"><a xlink:href="coap__notls_8c.html#af7d3e4013c04aa3a04e7f6506179aa6d" target="_top" xlink:title="coap_dtls_context_set_psk">
+<g id="a_node45"><a xlink:href="coap__notls_8c.html#a36896a2f4100c177e129ec8a5697aa95" target="_top" xlink:title="coap_dtls_context_set_psk">
 <polygon fill="#ffffff" stroke="#000000" points="502,-151.5346 502,-170.5346 638,-170.5346 638,-151.5346 502,-151.5346"/>
 <text text-anchor="middle" x="570" y="-158.5346" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">coap_dtls_context_set_psk</text>
 </a>
@@ -867,7 +867,7 @@ var sectionId = 'dynsection-44';
 <!-- Node1186 -->
 <g id="node47" class="node">
 <title>Node1186</title>
-<g id="a_node47"><a xlink:href="coap__notls_8c.html#ab13a3f7c74b1aa0f71088d94a4743dab" target="_top" xlink:title="coap_dtls_context_set_pki">
+<g id="a_node47"><a xlink:href="coap__notls_8c.html#abff27cfd1dfb2359351f58244f929808" target="_top" xlink:title="coap_dtls_context_set_pki">
 <polygon fill="#ffffff" stroke="#000000" points="326,-75.5346 326,-94.5346 459,-94.5346 459,-75.5346 326,-75.5346"/>
 <text text-anchor="middle" x="392.5" y="-82.5346" font-family="Helvetica,sans-Serif" font-size="10.00" fill="#000000">coap_dtls_context_set_pki</text>
 </a>

@@ -1,8 +1,6 @@
 var coap__dtls_8h =
 [
     [ "COAP_DTLS_PKI_SETUP_VERSION", "group__dtls.html#ga6494be4b6aa3c5d86232cb5ba19fef83", null ],
-    [ "COAP_DTLS_ROLE_CLIENT", "group__dtls__internal.html#ga9b6840255b166264a8e87785ee505e4e", null ],
-    [ "COAP_DTLS_ROLE_SERVER", "group__dtls__internal.html#ga4f7467fb4f4564ee1d41170166eec678", null ],
     [ "COAP_TLS_LIBRARY_GNUTLS", "group__dtls.html#gad4e2243a1ce012460f9687058da32be2", null ],
     [ "COAP_TLS_LIBRARY_NOTLS", "group__dtls.html#ga33b0ad5584a64154547b37edf956e91e", null ],
     [ "COAP_TLS_LIBRARY_OPENSSL", "group__dtls.html#ga6de1714f227765ef908b1ab865f77f18", null ],
@@ -11,6 +9,7 @@ var coap__dtls_8h =
     [ "coap_dtls_cn_callback_t", "group__dtls.html#gadcb9ad4ab157cf64b6bb31b5f426e5dc", null ],
     [ "coap_dtls_key_t", "group__dtls.html#ga5ee79e344f45963d6908bbeee73d32b6", null ],
     [ "coap_dtls_pki_t", "group__dtls.html#ga58be82568c59e218dfd3f7e3166e672e", null ],
+    [ "coap_dtls_role_t", "group__dtls__internal.html#gab4294dfe01924081cd7b7360778638f1", null ],
     [ "coap_dtls_security_setup_t", "group__dtls.html#gac823bdeb357bded215ac1f84dd47f38f", null ],
     [ "coap_dtls_sni_callback_t", "group__dtls.html#ga1c00bbe9a894681582c29663b912a1c2", null ],
     [ "coap_pki_key_asn1_t", "group__dtls.html#ga78b40ca202cf6cfc43ba12cf8a79150a", null ],
@@ -34,14 +33,18 @@ var coap__dtls_8h =
       [ "COAP_ASN1_PKEY_TLS1_PRF", "group__dtls.html#ggacf1b8685e693c4c5fafe2d4d207c2069a17174dc07690f17fc0fd223c76bb25dc", null ],
       [ "COAP_ASN1_PKEY_HKDF", "group__dtls.html#ggacf1b8685e693c4c5fafe2d4d207c2069a8f0d588891e977c023bcf6de079dc893", null ]
     ] ],
+    [ "coap_dtls_role_t", "group__dtls__internal.html#ga4dbea8aa6943bcf865990b5cebb6bfa4", [
+      [ "COAP_DTLS_ROLE_CLIENT", "group__dtls__internal.html#gga4dbea8aa6943bcf865990b5cebb6bfa4a7f8045717b35f240ee46c987a8d9ce26", null ],
+      [ "COAP_DTLS_ROLE_SERVER", "group__dtls__internal.html#gga4dbea8aa6943bcf865990b5cebb6bfa4a07db1c396fbda1115124a22b3b9cb4da", null ]
+    ] ],
     [ "coap_pki_key_t", "group__dtls.html#ga8b3c5ffa695a8bfa575319a39517f980", [
       [ "COAP_PKI_KEY_PEM", "group__dtls.html#gga8b3c5ffa695a8bfa575319a39517f980a5685869e9efbf03fe4d05120ff810aef", null ],
       [ "COAP_PKI_KEY_ASN1", "group__dtls.html#gga8b3c5ffa695a8bfa575319a39517f980ad1bd86830b59058a381a07865bddd3b7", null ]
     ] ],
     [ "coap_dtls_context_check_keys_enabled", "group__dtls__internal.html#ga950193b94632ac9d4325e51248043bae", null ],
-    [ "coap_dtls_context_set_pki", "group__dtls__internal.html#gabeffdc73965a32dc65bf0a198903afd1", null ],
+    [ "coap_dtls_context_set_pki", "group__dtls__internal.html#gae916047df669849d71470609242f32cc", null ],
     [ "coap_dtls_context_set_pki_root_cas", "group__dtls__internal.html#ga7f0f3e5770a16afa5a889bec3848e6aa", null ],
-    [ "coap_dtls_context_set_psk", "group__dtls__internal.html#gaf863f36644373b1223b600629e131f5e", null ],
+    [ "coap_dtls_context_set_psk", "group__dtls__internal.html#ga6b350a528900b867dcf0c604239b1512", null ],
     [ "coap_dtls_free_context", "group__dtls__internal.html#gac7aee70a85755e03f0dc0b5e8896ad29", null ],
     [ "coap_dtls_free_session", "group__dtls__internal.html#ga75ff6595aed94e16af18f531fe2c4e3f", null ],
     [ "coap_dtls_get_context_timeout", "group__dtls__internal.html#ga0fad2bdf0101bfc40bc66bba0366d588", null ],

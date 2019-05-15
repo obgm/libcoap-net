@@ -2,9 +2,9 @@ var coap__notls_8c =
 [
     [ "UNUSED", "coap__notls_8c.html#addf5ec070e9499d36b7f2009ce736076", null ],
     [ "coap_dtls_context_check_keys_enabled", "coap__notls_8c.html#a9c204e7d2d3106cfb6cf610ab4652628", null ],
-    [ "coap_dtls_context_set_pki", "coap__notls_8c.html#ab13a3f7c74b1aa0f71088d94a4743dab", null ],
+    [ "coap_dtls_context_set_pki", "coap__notls_8c.html#abff27cfd1dfb2359351f58244f929808", null ],
     [ "coap_dtls_context_set_pki_root_cas", "coap__notls_8c.html#a08c2d9a091673f0488b246c1019fa7db", null ],
-    [ "coap_dtls_context_set_psk", "coap__notls_8c.html#af7d3e4013c04aa3a04e7f6506179aa6d", null ],
+    [ "coap_dtls_context_set_psk", "coap__notls_8c.html#a36896a2f4100c177e129ec8a5697aa95", null ],
     [ "coap_dtls_free_context", "coap__notls_8c.html#ab6dd0798202ab0ff55fc7024e80a72d1", null ],
     [ "coap_dtls_free_session", "coap__notls_8c.html#aaf93788bf08a0459d28eaca3cafe930f", null ],
     [ "coap_dtls_get_context_timeout", "coap__notls_8c.html#a42d4e2a9f45fc8673a09da2f7bf7bfac", null ],

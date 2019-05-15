@@ -3,7 +3,7 @@
 <area shape="rect" id="node3" href="$coap__session_8c.html#a78865254d0191854b0b7c35f28eefe71" title="coap_session_create\l_client" alt="" coords="934,91,1079,133"/>
 <area shape="rect" id="node16" href="$coap__session_8c.html#a9aee135ba884d7c143b11bc42fd23e53" title="Decrement reference counter on a session. " alt="" coords="1151,336,1302,363"/>
 <area shape="rect" id="node25" href="$group__logging.html#ga8b690dbed6cc3a5beb81ba5d2d27d290" title="Get session description. " alt="" coords="1569,1019,1693,1045"/>
-<area shape="rect" id="node28" href="$coap__notls_8c.html#ab13a3f7c74b1aa0f71088d94a4743dab" title="coap_dtls_context_set_pki" alt="" coords="248,609,425,636"/>
+<area shape="rect" id="node28" href="$coap__notls_8c.html#abff27cfd1dfb2359351f58244f929808" title="coap_dtls_context_set_pki" alt="" coords="248,609,425,636"/>
 <area shape="rect" id="node29" href="$coap__session_8c.html#acec64026a2b3309e97075951dc52c2a1" title="coap_session_connect" alt="" coords="259,559,414,585"/>
 <area shape="rect" id="node4" href="$coap__session_8c.html#a492e784d51a3c04c4cd03662c263c64f" title="coap_make_session" alt="" coords="1156,56,1297,83"/>
 <area shape="rect" id="node9" href="$coap__session_8c.html#a678a93d1dd7e1a9a52f4686778eef95b" title="Increment reference counter on a session. " alt="" coords="1145,867,1308,893"/>

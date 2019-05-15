@@ -45,7 +45,7 @@
 <area shape="rect" id="node37" href="$coap__debug_8c.html#af01fc56422e6401f529b053b61e65cad" title="Check to see whether a packet should be sent or not. " alt="" coords="679,629,852,656"/>
 <area shape="rect" id="node38" href="$address_8h.html#a021998c955a6787c5cab7b1c385bef63" title="Checks if given address object a denotes the wildcard address. " alt="" coords="695,680,836,707"/>
 <area shape="rect" id="node39" href="$address_8c.html#a5b47d6fe47a54a0798eddb9ea77005ea" title="Checks if given address a denotes a multicast address. " alt="" coords="710,579,821,605"/>
-<area shape="rect" id="node45" href="$coap__notls_8c.html#af7d3e4013c04aa3a04e7f6506179aa6d" title="coap_dtls_context_set_psk" alt="" coords="675,1413,856,1440"/>
-<area shape="rect" id="node47" href="$coap__notls_8c.html#ab13a3f7c74b1aa0f71088d94a4743dab" title="coap_dtls_context_set_pki" alt="" coords="440,1515,617,1541"/>
+<area shape="rect" id="node45" href="$coap__notls_8c.html#a36896a2f4100c177e129ec8a5697aa95" title="coap_dtls_context_set_psk" alt="" coords="675,1413,856,1440"/>
+<area shape="rect" id="node47" href="$coap__notls_8c.html#abff27cfd1dfb2359351f58244f929808" title="coap_dtls_context_set_pki" alt="" coords="440,1515,617,1541"/>
 <area shape="rect" id="node49" href="$coap__notls_8c.html#a08c2d9a091673f0488b246c1019fa7db" title="coap_dtls_context_set\l_pki_root_cas" alt="" coords="452,1566,605,1607"/>
 </map>

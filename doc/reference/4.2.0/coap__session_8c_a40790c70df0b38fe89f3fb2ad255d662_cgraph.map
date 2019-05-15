@@ -4,7 +4,7 @@
 <area shape="rect" id="node23" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="1981,253,2075,280"/>
 <area shape="rect" id="node25" href="$group__logging.html#ga8b690dbed6cc3a5beb81ba5d2d27d290" title="Get session description. " alt="" coords="1577,1037,1701,1064"/>
 <area shape="rect" id="node28" href="$group__dtls.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available. " alt="" coords="263,1189,422,1216"/>
-<area shape="rect" id="node29" href="$coap__notls_8c.html#af7d3e4013c04aa3a04e7f6506179aa6d" title="coap_dtls_context_set_psk" alt="" coords="252,1240,433,1266"/>
+<area shape="rect" id="node29" href="$coap__notls_8c.html#a36896a2f4100c177e129ec8a5697aa95" title="coap_dtls_context_set_psk" alt="" coords="252,1240,433,1266"/>
 <area shape="rect" id="node30" href="$coap__session_8c.html#acec64026a2b3309e97075951dc52c2a1" title="coap_session_connect" alt="" coords="265,933,420,960"/>
 <area shape="rect" id="node3" href="$coap__session_8c.html#a492e784d51a3c04c4cd03662c263c64f" title="coap_make_session" alt="" coords="1164,96,1305,122"/>
 <area shape="rect" id="node8" href="$coap__session_8c.html#a678a93d1dd7e1a9a52f4686778eef95b" title="Increment reference counter on a session. " alt="" coords="1153,480,1316,506"/>
