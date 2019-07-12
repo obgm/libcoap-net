@@ -9,7 +9,7 @@ development is envisioned to go.
 
 * Separate public API from internal API, code cleanup
 * improve fuzzer tests and unit tests
-* [OSCORE](https://tools.ietf.org/html/draft-ietf-core-object-security)
+* [OSCORE](https://tools.ietf.org/html/rfc8613)
   support (work in progress)
 
 ### RIOT-OS Support
