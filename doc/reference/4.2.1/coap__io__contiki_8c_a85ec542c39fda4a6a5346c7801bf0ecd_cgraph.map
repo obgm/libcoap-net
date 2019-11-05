@@ -1,0 +1,6 @@
+<map id="coap_socket_connect_tcp1" name="coap_socket_connect_tcp1">
+<area shape="rect" id="node2" href="$address_8h.html#ada8c7f0dd95000bb418860b970d8cb9f" title="coap_address_copy" alt="" coords="237,5,376,32"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title="coap_socket_strerror" alt="" coords="235,56,379,83"/>
+<area shape="rect" id="node5" href="$coap__io_8c.html#a2de382e7795c908d1a376da8c338386d" title="coap_socket_close" alt="" coords="239,107,374,133"/>
+<area shape="rect" id="node3" href="$address_8h.html#aece6d39e01149af8dea29b0b8cbde504" title="Compares given address objects a and b. " alt="" coords="427,5,575,32"/>
+</map>

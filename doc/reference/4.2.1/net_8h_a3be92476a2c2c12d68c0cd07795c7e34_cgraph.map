@@ -1,0 +1,5 @@
+<map id="coap_io_prepare_epoll" name="coap_io_prepare_epoll">
+<area shape="rect" id="node2" href="$coap__io_8c.html#aaac86ac50793f309678e4951ecf8863f" title="For applications with their own message loop, send all pending retransmits and return the list of soc..." alt="" coords="233,5,319,32"/>
+<area shape="rect" id="node3" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution. " alt="" coords="233,56,319,83"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title="coap_socket_strerror" alt="" coords="204,107,348,133"/>
+</map>

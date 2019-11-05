@@ -1,0 +1,9 @@
+<map id="coap_context_set_psk" name="coap_context_set_psk">
+<area shape="rect" id="node2" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="258,56,337,83"/>
+<area shape="rect" id="node5" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="453,107,547,133"/>
+<area shape="rect" id="node7" href="$group__dtls.html#ga9def28dc6da3b77c14e89d63769ec085" title="Returns 1 if support for DTLS is enabled, or 0 otherwise. " alt="" coords="218,157,377,184"/>
+<area shape="rect" id="node8" href="$coap__notls_8c.html#a36896a2f4100c177e129ec8a5697aa95" title="coap_dtls_context_set_psk" alt="" coords="207,208,388,235"/>
+<area shape="rect" id="node3" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="445,5,555,32"/>
+<area shape="rect" id="node4" href="$mem_8h.html#a65d0fc0fe6cad555b56e92ccb57613ba" title="Initializes libcoap&#39;s memory management. " alt="" coords="436,56,564,83"/>
+<area shape="rect" id="node6" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="612,107,739,133"/>
+</map>

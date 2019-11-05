@@ -1,0 +1,24 @@
+<map id="coap_session_delay_pdu" name="coap_session_delay_pdu">
+<area shape="rect" id="node2" href="$net_8c.html#a480a3e967feaf00778dedf4c2fc68bd2" title="This function removes the element with given id from the list given list. " alt="" coords="420,5,595,32"/>
+<area shape="rect" id="node3" href="$group__logging.html#ga8b690dbed6cc3a5beb81ba5d2d27d290" title="Get session description. " alt="" coords="652,56,776,83"/>
+<area shape="rect" id="node6" href="$coap__session_8c.html#a9aee135ba884d7c143b11bc42fd23e53" title="Decrement reference counter on a session. " alt="" coords="221,157,372,184"/>
+<area shape="rect" id="node22" href="$net_8c.html#a45d9cf1d576566b0a5ffd9e2e1c6b7fa" title="Creates a new node suitable for adding to the CoAP sendqueue. " alt="" coords="449,107,565,133"/>
+<area shape="rect" id="node23" href="$net_8c.html#a816e87e31e2b90ada89eed085f016d93" title="Calculates the initial timeout based on the session CoAP transmission parameters &#39;ack_timeout&#39;, &#39;ack_random_factor&#39;, and COAP_TICKS_PER_SECOND. " alt="" coords="231,208,362,235"/>
+<area shape="rect" id="node4" href="$group__logging.html#ga6a4f5ef637bf85aa161adfe73ac81ff0" title="Print the address into the defined buffer. " alt="" coords="855,56,970,83"/>
+<area shape="rect" id="node5" href="$coap__debug_8c.html#aaa5ee5c2942fe13271a46000b2aebde6" title="A length&#45;safe strlen() fake. " alt="" coords="1069,56,1131,83"/>
+<area shape="rect" id="node7" href="$coap__session_8c.html#ab3d24595515d6f66805791a7f821d5e7" title="coap_session_free" alt="" coords="442,233,573,260"/>
+<area shape="rect" id="node8" href="$coap__session_8c.html#ab91ca670624ee770714727efff274c49" title="coap_session_mfree" alt="" coords="643,259,785,285"/>
+<area shape="rect" id="node10" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="1220,309,1331,336"/>
+<area shape="rect" id="node9" href="$pdu_8c.html#a48581f968a30ef4278702eb1c16b7a90" title="Dispose of an CoAP PDU and frees associated storage. " alt="" coords="1040,208,1160,235"/>
+<area shape="rect" id="node11" href="$coap__dtls__gnutls_8c.html#a89102d85f6cce550adf91b075a6326c7" title="coap_dtls_free_session" alt="" coords="833,259,992,285"/>
+<area shape="rect" id="node12" href="$coap__notls_8c.html#aa317934415639e23b64a3bd0b4edde6c" title="coap_tls_free_session" alt="" coords="837,309,989,336"/>
+<area shape="rect" id="node13" href="$coap__io_8c.html#a2de382e7795c908d1a376da8c338386d" title="coap_socket_close" alt="" coords="845,360,980,387"/>
+<area shape="rect" id="node14" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="1061,461,1139,488"/>
+<area shape="rect" id="node18" href="$net_8c.html#a44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node. " alt="" coords="849,157,976,184"/>
+<area shape="rect" id="node15" href="$mem_8h.html#a65d0fc0fe6cad555b56e92ccb57613ba" title="Initializes libcoap&#39;s memory management. " alt="" coords="1211,411,1339,437"/>
+<area shape="rect" id="node16" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="1228,461,1323,488"/>
+<area shape="rect" id="node17" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="1391,157,1517,184"/>
+<area shape="rect" id="node19" href="$net_8c.html#aa2f296838e4a779197c43b254e385ddc" title="coap_free_node" alt="" coords="1043,157,1157,184"/>
+<area shape="rect" id="node20" href="$net_8c.html#a157d58fe7840d7d7e36c40fff0825674" title="coap_free_endpoint" alt="" coords="1208,208,1343,235"/>
+<area shape="rect" id="node21" href="$net_8c.html#aeff229f443c6582fea71504f33364eb4" title="coap_malloc_node" alt="" coords="1210,107,1341,133"/>
+</map>

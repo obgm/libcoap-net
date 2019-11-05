@@ -1,0 +1,51 @@
+<map id="coap_register_option" name="coap_register_option">
+<area shape="rect" id="node2" href="$group__opt__filter.html#ga6b9ade4855f4440b3311296c03bc12aa" title="Sets the corresponding bit for type in filter. " alt="" coords="227,431,351,457"/>
+<area shape="rect" id="node5" href="$net_8h.html#a116b4fec1683a94831f02b3e1a54dcac" title="Set sendqueue_basetime in the given context object ctx to now. " alt="" coords="213,881,365,908"/>
+<area shape="rect" id="node6" href="$net_8h.html#a037d8de79abc81464f8c75b0aa89931b" title="Returns the next pdu to send without removing from sendqeue. " alt="" coords="231,932,348,959"/>
+<area shape="rect" id="node7" href="$net_8h.html#a49115e9dbf3d4ebb0db5714e396815c6" title="Returns the next pdu to send and removes it from the sendqeue. " alt="" coords="234,983,345,1009"/>
+<area shape="rect" id="node8" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="224,1033,355,1060"/>
+<area shape="rect" id="node43" href="$net_8h.html#a665601c3c9ac88ef92125c1e62d679b2" title="Set the context&#39;s default PSK hint and/or key for a server. " alt="" coords="452,1363,605,1389"/>
+<area shape="rect" id="node45" href="$net_8h.html#a35b413b8771487a5384cfe670553276a" title="Set the context&#39;s default PKI information for a server. " alt="" coords="215,1275,364,1301"/>
+<area shape="rect" id="node47" href="$net_8h.html#a7b56f148fda46ca44655e1a9b373b97e" title="Set the context&#39;s default Root CA information for a client or server. " alt="" coords="215,1326,364,1367"/>
+<area shape="rect" id="node49" href="$net_8h.html#acc875c3095491f3835f4d252bd72999d" title="Set the context keepalive timer for sessions. " alt="" coords="196,1392,383,1419"/>
+<area shape="rect" id="node50" href="$net_8h.html#a346642e1265e0807f1b394adc05d353e" title="Get the libcoap internal file descriptor for using in an application&#39;s select() or returned as an eve..." alt="" coords="200,1443,379,1469"/>
+<area shape="rect" id="node3" href="$group__opt__filter.html#ga0170aecd699295f02affd5b280244088" title="Sets the corresponding entry for type in filter. " alt="" coords="454,56,603,83"/>
+<area shape="rect" id="node4" href="$option_8c.html#a4225eb8945afcd42e9d4c50bd7c85ff1" title="Applies op on filter with respect to type. " alt="" coords="693,5,838,32"/>
+<area shape="rect" id="node9" href="$net_8c.html#aceceb550566e0ab9e184d09604a73bb6" title="coap_startup" alt="" coords="480,157,577,184"/>
+<area shape="rect" id="node14" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="1207,411,1333,437"/>
+<area shape="rect" id="node15" href="$mem_8h.html#a65d0fc0fe6cad555b56e92ccb57613ba" title="Initializes libcoap&#39;s memory management. " alt="" coords="1031,511,1159,537"/>
+<area shape="rect" id="node16" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title="coap_socket_strerror" alt="" coords="693,360,837,387"/>
+<area shape="rect" id="node17" href="$group__dtls.html#ga9def28dc6da3b77c14e89d63769ec085" title="Returns 1 if support for DTLS is enabled, or 0 otherwise. " alt="" coords="686,1363,845,1389"/>
+<area shape="rect" id="node18" href="$group__dtls__internal.html#gac3f26c28dfc018c8efb5ca410f5c4c0e" title="Creates a new DTLS context for the given coap_context. " alt="" coords="449,461,608,488"/>
+<area shape="rect" id="node21" href="$net_8c.html#a4a0717822713783908dd33d300440b2e" title="CoAP stack context must be released with coap_free_context(). " alt="" coords="464,688,593,715"/>
+<area shape="rect" id="node28" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="1039,840,1150,867"/>
+<area shape="rect" id="node29" href="$coap__session_8c.html#ab5232b5141e191638ee6b7da6239dd1b" title="Create a new endpoint for communicating with peers. " alt="" coords="460,1008,597,1035"/>
+<area shape="rect" id="node38" href="$coap__io_8c.html#a9e9bc78d20872c6ea9cb8dddfcea45ad" title="coap_network_send" alt="" coords="459,411,598,437"/>
+<area shape="rect" id="node39" href="$coap__io_8c.html#a9b8fa856db7113a97f74c726219c4be4" title="Function interface for reading data. " alt="" coords="461,1109,596,1136"/>
+<area shape="rect" id="node40" href="$net_8c.html#a59140d9e3d88e6799879b6e4153b48a3" title="coap_get_session_client_psk" alt="" coords="432,1160,625,1187"/>
+<area shape="rect" id="node41" href="$net_8c.html#a66445578ff7073e4add30c588f0625f6" title="coap_get_context_server_psk" alt="" coords="431,1211,627,1237"/>
+<area shape="rect" id="node42" href="$net_8c.html#a80fe575cbbf1ef5468165c3b94aabad4" title="coap_get_context_server_hint" alt="" coords="431,1261,627,1288"/>
+<area shape="rect" id="node10" href="$group__clock.html#ga4722a7e40ba99c4d3feba19de1b980be" title="Initializes the internal clock. " alt="" coords="709,56,821,83"/>
+<area shape="rect" id="node11" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution. " alt="" coords="723,107,808,133"/>
+<area shape="rect" id="node12" href="$group__clock.html#gaefd1d943d41dc7a8c32188741bad4844" title="Helper function that converts coap ticks to POSIX wallclock time in us. " alt="" coords="696,157,835,184"/>
+<area shape="rect" id="node13" href="$group__dtls__internal.html#ga1e81d904e13ccf3af6a56ab3ebdc8a34" title="Initialize the underlying (D)TLS Library layer. " alt="" coords="703,208,828,235"/>
+<area shape="rect" id="node19" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="1047,663,1142,689"/>
+<area shape="rect" id="node20" href="$coap__dtls__gnutls_8c.html#ac17db6ecd758d8611de324eab565ec2c" title="dtls_set_psk" alt="" coords="717,461,813,488"/>
+<area shape="rect" id="node22" href="$net_8c.html#a2c1e86998c712346baf2d116dbf1ac7f" title="Removes all items from given queue and frees the allocated storage. " alt="" coords="709,536,821,563"/>
+<area shape="rect" id="node23" href="$resource_8c.html#a1fae3046ad94fce85a7ea23455328958" title="Deletes all resources from given context and frees their storage. " alt="" coords="677,587,853,613"/>
+<area shape="rect" id="node24" href="$net_8c.html#a157d58fe7840d7d7e36c40fff0825674" title="coap_free_endpoint" alt="" coords="698,637,833,664"/>
+<area shape="rect" id="node25" href="$coap__session_8c.html#a9aee135ba884d7c143b11bc42fd23e53" title="Decrement reference counter on a session. " alt="" coords="690,688,841,715"/>
+<area shape="rect" id="node26" href="$coap__dtls__gnutls_8c.html#a14cd3bad2ff5b23a69a062bcd0f0125c" title="Releases the storage allocated for dtls_context. " alt="" coords="687,739,844,765"/>
+<area shape="rect" id="node27" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="904,764,983,791"/>
+<area shape="rect" id="node30" href="$group__dtls.html#ga55b3b545f0784c7a6135021017317e1b" title="Check whether TLS is available. " alt="" coords="689,941,841,968"/>
+<area shape="rect" id="node31" href="$coap__notls_8c.html#a9c204e7d2d3106cfb6cf610ab4652628" title="coap_dtls_context_check\l_keys_enabled" alt="" coords="680,993,851,1034"/>
+<area shape="rect" id="node32" href="$coap__io_8c.html#a7d4895ba201ee7c0308ab6e0d3837553" title="coap_malloc_endpoint" alt="" coords="690,1059,841,1085"/>
+<area shape="rect" id="node33" href="$coap__io_8c.html#a1c01bf1b3043f11f948e4f3aff1b7823" title="coap_socket_bind_tcp" alt="" coords="689,1109,841,1136"/>
+<area shape="rect" id="node34" href="$coap__io_8c.html#a9d1deb43ee288c60730c3c8c5df8ec73" title="coap_socket_bind_udp" alt="" coords="688,1160,843,1187"/>
+<area shape="rect" id="node35" href="$group__logging.html#ga10c3fbd56b0eb3a8722b27a65fc9b0ce" title="Get the current logging level. " alt="" coords="699,1211,832,1237"/>
+<area shape="rect" id="node36" href="$group__logging.html#ga6a4f5ef637bf85aa161adfe73ac81ff0" title="Print the address into the defined buffer. " alt="" coords="708,1261,823,1288"/>
+<area shape="rect" id="node37" href="$coap__session_8c.html#a157d58fe7840d7d7e36c40fff0825674" title="coap_free_endpoint" alt="" coords="698,1312,833,1339"/>
+<area shape="rect" id="node44" href="$coap__notls_8c.html#a36896a2f4100c177e129ec8a5697aa95" title="coap_dtls_context_set_psk" alt="" coords="675,1515,856,1541"/>
+<area shape="rect" id="node46" href="$coap__notls_8c.html#abff27cfd1dfb2359351f58244f929808" title="coap_dtls_context_set_pki" alt="" coords="440,1413,617,1440"/>
+<area shape="rect" id="node48" href="$coap__notls_8c.html#a08c2d9a091673f0488b246c1019fa7db" title="coap_dtls_context_set\l_pki_root_cas" alt="" coords="452,1515,605,1557"/>
+</map>

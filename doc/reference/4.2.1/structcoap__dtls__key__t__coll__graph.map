@@ -1,0 +1,4 @@
+<map id="coap_dtls_key_t" name="coap_dtls_key_t">
+<area shape="rect" id="node2" href="$structcoap__pki__key__pem__t.html" title="The structure that holds the PKI PEM definitions. " alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node3" href="$structcoap__pki__key__asn1__t.html" title="The structure that holds the PKI ASN.1 (DER) definitions. " alt="" coords="175,5,323,32"/>
+</map>

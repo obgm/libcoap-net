@@ -1,0 +1,20 @@
+<map id="coap_context_t" name="coap_context_t">
+<area shape="rect" id="node2" href="$structcoap__resource__t.html" title="coap_resource_t" alt="" coords="1043,187,1161,213"/>
+<area shape="rect" id="node8" href="$structcoap__session__t.html" title="coap_session_t" alt="" coords="505,725,618,752"/>
+<area shape="rect" id="node15" href="$structcoap__endpoint__t.html" title="Abstraction of virtual endpoint that can be attached to coap_context_t. " alt="" coords="1043,832,1161,859"/>
+<area shape="rect" id="node3" href="$structcoap__str__const__t.html" title="Coap string data definition with const data. " alt="" coords="500,87,623,113"/>
+<area shape="rect" id="node18" href="$structcoap__attr__t.html" title="coap_attr_t" alt="" coords="810,163,897,189"/>
+<area shape="rect" id="node4" href="$structUT__hash__handle.html" title="UT_hash_handle" alt="" coords="215,944,335,971"/>
+<area shape="rect" id="node5" href="$structUT__hash__table.html" title="UT_hash_table" alt="" coords="798,1004,909,1031"/>
+<area shape="rect" id="node6" href="$structUT__hash__bucket.html" title="UT_hash_bucket" alt="" coords="501,1065,622,1092"/>
+<area shape="rect" id="node7" href="$structcoap__subscription__t.html" title="Subscriber information. " alt="" coords="784,252,923,279"/>
+<area shape="rect" id="node10" href="$structcoap__queue__t.html" title="Queue entry. " alt="" coords="802,656,905,683"/>
+<area shape="rect" id="node14" href="$structcoap__socket__t.html" title="coap_socket_t" alt="" coords="800,895,907,921"/>
+<area shape="rect" id="node19" href="$structcoap__async__state__t.html" title="coap_async_state_t" alt="" coords="784,567,923,593"/>
+<area shape="rect" id="node9" href="$structcoap__address__t.html" title="multi&#45;purpose address abstraction " alt="" coords="5,829,120,856"/>
+<area shape="rect" id="node12" href="$structcoap__addr__tuple__t.html" title="coap_addr_tuple_t" alt="" coords="211,725,339,752"/>
+<area shape="rect" id="node11" href="$structcoap__pdu__t.html" title="structure for CoAP PDUs token, if any, follows the fixed size header, then options until payload mark..." alt="" coords="230,637,319,664"/>
+<area shape="rect" id="node13" href="$structcoap__fixed__point__t.html" title="Abstraction of a fixed point number that can be used where necessary instead of a float..." alt="" coords="209,777,340,804"/>
+<area shape="rect" id="node16" href="$structcoap__block__t.html" title="Structure of Block options. " alt="" coords="512,243,611,269"/>
+<area shape="rect" id="node17" href="$structcoap__string__t.html" title="Coap string data definition. " alt="" coords="511,192,611,219"/>
+</map>

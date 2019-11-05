@@ -1,0 +1,10 @@
+<map id="coap_remove_failed_observers" name="coap_remove_failed_observers">
+<area shape="rect" id="node2" href="$resource_8h.html#a1c22a4e7f94f568370b38084ba64bc44" title="coap_handle_failed\l_notify" alt="" coords="192,116,325,158"/>
+<area shape="rect" id="node3" href="$net_8h.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="373,124,488,150"/>
+<area shape="rect" id="node4" href="$net_8h.html#aaac86ac50793f309678e4951ecf8863f" title="For applications with their own message loop, send all pending retransmits and return the list of soc..." alt="" coords="573,73,658,100"/>
+<area shape="rect" id="node8" href="$net_8h.html#a5854b1394bfddd574e48af116e3aaaf9" title="Sends an RST message with code 0 for the specified request to dst. " alt="" coords="765,124,871,150"/>
+<area shape="rect" id="node9" href="$net_8h.html#a09ff95ae16a4b7f6abf4a0822d430658" title="Function interface for joining a multicast group for listening. " alt="" coords="536,198,695,225"/>
+<area shape="rect" id="node5" href="$net_8h.html#a3be92476a2c2c12d68c0cd07795c7e34" title="Any now timed out delayed packet is transmitted, along with any packets associated with requested obs..." alt="" coords="743,22,893,49"/>
+<area shape="rect" id="node6" href="$coap__io_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title="coap_run_once" alt="" coords="1124,22,1235,49"/>
+<area shape="rect" id="node7" href="$net_8h.html#a7b591afa095a093b604b63313275a02a" title="Process all the epoll events. " alt="" coords="941,22,1076,49"/>
+</map>

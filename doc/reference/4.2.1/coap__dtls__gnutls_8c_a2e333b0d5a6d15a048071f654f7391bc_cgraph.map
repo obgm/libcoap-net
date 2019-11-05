@@ -1,0 +1,17 @@
+<map id="coap_dtls_new_session" name="coap_dtls_new_session">
+<area shape="rect" id="node2" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="219,5,346,32"/>
+<area shape="rect" id="node3" href="$coap__dtls__gnutls_8c.html#acae60346c237845732c91e419bb5517e" title="decrypt_callback" alt="" coords="223,56,343,83"/>
+<area shape="rect" id="node6" href="$coap__dtls__gnutls_8c.html#aa05cb2c6f902d70c2c0797fa604dd2d4" title="dtls_send_to_peer" alt="" coords="219,107,347,133"/>
+<area shape="rect" id="node15" href="$coap__dtls__gnutls_8c.html#aacd53cd1c71164fd0c142f7f3d45de59" title="psk_client_callback" alt="" coords="215,157,351,184"/>
+<area shape="rect" id="node16" href="$coap__dtls__gnutls_8c.html#a36964e65d3d26f6adf223534f4082e7a" title="psk_callback" alt="" coords="233,208,332,235"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#a9b8fa856db7113a97f74c726219c4be4" title="Function interface for reading data. " alt="" coords="433,5,567,32"/>
+<area shape="rect" id="node5" href="$coap__io_8c.html#a4bc4949c9ad150282ec082c99510046b" title="Given a packet, set msg and msg_len to an address and length of the packet&#39;s data in memory..." alt="" coords="399,56,601,83"/>
+<area shape="rect" id="node7" href="$coap__io_8c.html#a9e9bc78d20872c6ea9cb8dddfcea45ad" title="coap_network_send" alt="" coords="431,107,569,133"/>
+<area shape="rect" id="node8" href="$coap__debug_8c.html#af01fc56422e6401f529b053b61e65cad" title="Check to see whether a packet should be sent or not. " alt="" coords="649,31,823,57"/>
+<area shape="rect" id="node9" href="$address_8h.html#a021998c955a6787c5cab7b1c385bef63" title="Checks if given address object a denotes the wildcard address. " alt="" coords="665,81,807,108"/>
+<area shape="rect" id="node13" href="$address_8c.html#a5b47d6fe47a54a0798eddb9ea77005ea" title="Checks if given address a denotes a multicast address. " alt="" coords="681,132,791,159"/>
+<area shape="rect" id="node14" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title="coap_socket_strerror" alt="" coords="664,183,808,209"/>
+<area shape="rect" id="node10" href="$address_8h.html#a3aadd5b560a9e7424b572bb213aa4439" title="_coap_address_isany_impl" alt="" coords="871,56,1049,83"/>
+<area shape="rect" id="node12" href="$address_8h.html#a5b47d6fe47a54a0798eddb9ea77005ea" title="Checks if given address a denotes a multicast address. " alt="" coords="905,107,1015,133"/>
+<area shape="rect" id="node11" href="$address_8h.html#a59e19389468d5ced36778ed07546bce2" title="Resets the given coap_address_t object addr to its default values. " alt="" coords="1097,56,1224,83"/>
+</map>

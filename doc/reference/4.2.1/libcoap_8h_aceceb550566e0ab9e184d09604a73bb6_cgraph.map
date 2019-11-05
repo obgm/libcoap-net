@@ -1,0 +1,6 @@
+<map id="coap_startup" name="coap_startup">
+<area shape="rect" id="node2" href="$group__clock.html#ga4722a7e40ba99c4d3feba19de1b980be" title="Initializes the internal clock. " alt="" coords="164,5,276,32"/>
+<area shape="rect" id="node3" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution. " alt="" coords="177,56,263,83"/>
+<area shape="rect" id="node4" href="$group__clock.html#gaefd1d943d41dc7a8c32188741bad4844" title="Helper function that converts coap ticks to POSIX wallclock time in us. " alt="" coords="151,107,289,133"/>
+<area shape="rect" id="node5" href="$group__dtls__internal.html#ga1e81d904e13ccf3af6a56ab3ebdc8a34" title="Initialize the underlying (D)TLS Library layer. " alt="" coords="157,157,283,184"/>
+</map>

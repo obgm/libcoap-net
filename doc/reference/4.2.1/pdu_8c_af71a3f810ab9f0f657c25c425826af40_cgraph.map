@@ -1,0 +1,4 @@
+<map id="coap_add_data" name="coap_add_data">
+<area shape="rect" id="node2" href="$pdu_8c.html#ab2a710785ec579083f95ee049566fb83" title="Adds given data to the pdu that is passed as first parameter but does not copyt it. " alt="" coords="164,5,307,32"/>
+<area shape="rect" id="node3" href="$pdu_8c.html#add46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size. " alt="" coords="355,5,475,32"/>
+</map>

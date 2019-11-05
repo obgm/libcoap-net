@@ -1,0 +1,20 @@
+<map id="coap_async_state_t" name="coap_async_state_t">
+<area shape="rect" id="node10" href="$structcoap__context__t.html" title="The CoAP stack&#39;s global state is stored in a coap_context_t object. " alt="" coords="278,444,389,471"/>
+<area shape="rect" id="node2" href="$structcoap__session__t.html" title="coap_session_t" alt="" coords="563,216,677,243"/>
+<area shape="rect" id="node4" href="$structcoap__queue__t.html" title="Queue entry. " alt="" coords="861,303,963,329"/>
+<area shape="rect" id="node13" href="$structcoap__subscription__t.html" title="Subscriber information. " alt="" coords="843,527,981,553"/>
+<area shape="rect" id="node17" href="$structcoap__endpoint__t.html" title="Abstraction of virtual endpoint that can be attached to coap_context_t. " alt="" coords="1102,147,1219,173"/>
+<area shape="rect" id="node18" href="$structcoap__socket__t.html" title="coap_socket_t" alt="" coords="859,133,965,160"/>
+<area shape="rect" id="node3" href="$structcoap__address__t.html" title="multi&#45;purpose address abstraction " alt="" coords="17,59,132,85"/>
+<area shape="rect" id="node6" href="$structcoap__addr__tuple__t.html" title="coap_addr_tuple_t" alt="" coords="269,120,397,147"/>
+<area shape="rect" id="node5" href="$structcoap__pdu__t.html" title="structure for CoAP PDUs token, if any, follows the fixed size header, then options until payload mark..." alt="" coords="289,289,378,316"/>
+<area shape="rect" id="node7" href="$structUT__hash__handle.html" title="UT_hash_handle" alt="" coords="273,967,393,993"/>
+<area shape="rect" id="node8" href="$structUT__hash__table.html" title="UT_hash_table" alt="" coords="857,1019,967,1045"/>
+<area shape="rect" id="node9" href="$structUT__hash__bucket.html" title="UT_hash_bucket" alt="" coords="559,967,681,993"/>
+<area shape="rect" id="node11" href="$structcoap__resource__t.html" title="coap_resource_t" alt="" coords="1101,752,1220,779"/>
+<area shape="rect" id="node12" href="$structcoap__str__const__t.html" title="Coap string data definition with const data. " alt="" coords="559,752,681,779"/>
+<area shape="rect" id="node16" href="$structcoap__attr__t.html" title="coap_attr_t" alt="" coords="869,724,955,751"/>
+<area shape="rect" id="node14" href="$structcoap__block__t.html" title="Structure of Block options. " alt="" coords="571,533,669,560"/>
+<area shape="rect" id="node15" href="$structcoap__string__t.html" title="Coap string data definition. " alt="" coords="570,483,670,509"/>
+<area shape="rect" id="node19" href="$structcoap__fixed__point__t.html" title="Abstraction of a fixed point number that can be used where necessary instead of a float..." alt="" coords="268,171,399,197"/>
+</map>

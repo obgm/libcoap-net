@@ -1,0 +1,8 @@
+<map id="coap_pdu_parse" name="coap_pdu_parse">
+<area shape="rect" id="node2" href="$pdu_8c.html#a53c48f11ca3bc0d2106bd8b76f7430c8" title="Interprets data to determine the number of bytes in the header. " alt="" coords="171,5,365,32"/>
+<area shape="rect" id="node3" href="$pdu_8c.html#add46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size. " alt="" coords="208,56,328,83"/>
+<area shape="rect" id="node4" href="$pdu_8c.html#a516ac8dae1f2fe33963f80cf15ec59a0" title="Decode the protocol specific header for the specified PDU. " alt="" coords="187,107,349,133"/>
+<area shape="rect" id="node5" href="$pdu_8c.html#aa7fbcbe0f8d7415e82447747abf31d51" title="Verify consistency in the given CoAP PDU structure and locate the data. " alt="" coords="197,157,339,184"/>
+<area shape="rect" id="node6" href="$pdu_8c.html#a1a5660500af5276ede2c7472958f2826" title="Advances *optp to next option if still in PDU. " alt="" coords="413,157,535,184"/>
+<area shape="rect" id="node7" href="$option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result. " alt="" coords="583,157,697,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="coap_split_path" name="coap_split_path">
+<area shape="rect" id="node2" href="$uri_8c.html#a517b4456d0a079f5886599dccce09a2a" title="Splits the given string into segments. " alt="" coords="167,56,311,83"/>
+<area shape="rect" id="node5" href="$uri_8c.html#a7765779604c7c1166e99179722d4bdd8" title="write_option" alt="" coords="193,107,285,133"/>
+<area shape="rect" id="node3" href="$uri_8c.html#a480038916e84b8f454c62772258d57e6" title="A length&#45;safe version of strchr(). " alt="" coords="403,5,466,32"/>
+<area shape="rect" id="node4" href="$uri_8c.html#a4163dae83e43872640dc52914271306f" title="Checks if path segment s consists of one or two dots. " alt="" coords="411,56,458,83"/>
+<area shape="rect" id="node6" href="$uri_8c.html#a9a39cbf2ed89a758ced3f9fecd125b50" title="Writes a coap option from given string s to buf. " alt="" coords="359,107,511,133"/>
+<area shape="rect" id="node7" href="$uri_8c.html#a5cd1953aed32e942af08e39d396fb8fd" title="Runs through the given path (or query) segment and checks if percent&#45;encodings are correct..." alt="" coords="571,56,685,83"/>
+<area shape="rect" id="node8" href="$group__opt__filter.html#gafebbd04a7895df694a9345dad0275aeb" title="Encodes the given delta and length values into opt. " alt="" coords="559,107,697,133"/>
+<area shape="rect" id="node9" href="$uri_8c.html#a2c99e399450162db911d50c8411722ab" title="Decodes percent&#45;encoded characters while copying the string seg of size length to buf..." alt="" coords="567,157,689,184"/>
+</map>

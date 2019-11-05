@@ -1,0 +1,5 @@
+<map id="coap_resource_notify_observers" name="coap_resource_notify_observers">
+<area shape="rect" id="node2" href="$resource_8h.html#a0098ca940dd37e7d7425b929d194ca46" title="coap_resource_set_dirty" alt="" coords="200,5,364,32"/>
+<area shape="rect" id="node4" href="$resource_8h.html#a715acd300482ec8a3051639fd0413706" title="Set whether a resource is observable. " alt="" coords="203,57,361,98"/>
+<area shape="rect" id="node3" href="$resource_8h.html#afff19d20d2ec9d75cf8c5c6ff0d08add" title="Get the UriPath from a resource. " alt="" coords="412,5,597,32"/>
+</map>

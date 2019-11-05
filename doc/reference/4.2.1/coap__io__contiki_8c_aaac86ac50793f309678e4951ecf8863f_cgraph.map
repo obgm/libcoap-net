@@ -1,0 +1,51 @@
+<map id="coap_write" name="coap_write">
+<area shape="rect" id="node2" href="$resource_8c.html#a579bcb559463d3a872831c18d8d9a1c1" title="Checks for all known resources, if they are dirty and notifies subscribed observers. " alt="" coords="160,701,291,728"/>
+<area shape="rect" id="node13" href="$coap__session_8c.html#a9aee135ba884d7c143b11bc42fd23e53" title="Decrement reference counter on a session. " alt="" coords="1874,915,2025,941"/>
+<area shape="rect" id="node14" href="$coap__session_8c.html#ab3d24595515d6f66805791a7f821d5e7" title="coap_session_free" alt="" coords="2087,992,2217,1019"/>
+<area shape="rect" id="node21" href="$group__logging.html#ga8b690dbed6cc3a5beb81ba5d2d27d290" title="Get session description. " alt="" coords="2283,1292,2407,1319"/>
+<area shape="rect" id="node32" href="$coap__session_8c.html#ad3377d3198c10fa086502035ded9c268" title="Notify session that it has failed. " alt="" coords="1429,811,1616,837"/>
+<area shape="rect" id="node35" href="$coap__session_8c.html#a678a93d1dd7e1a9a52f4686778eef95b" title="Increment reference counter on a session. " alt="" coords="1868,1241,2031,1268"/>
+<area shape="rect" id="node37" href="$net_8c.html#a037d8de79abc81464f8c75b0aa89931b" title="Returns the next pdu to send without removing from sendqeue. " alt="" coords="1891,1444,2008,1471"/>
+<area shape="rect" id="node41" href="$coap__session_8c.html#ab3f9f60c0a4857c147fef5721025944c" title="Send a ping message for the session. " alt="" coords="360,380,528,407"/>
+<area shape="rect" id="node42" href="$net_8c.html#a9900c032b74bd57f67d489484a2b3207" title="Handles retransmissions of confirmable messages. " alt="" coords="1044,1225,1159,1252"/>
+<area shape="rect" id="node46" href="$net_8c.html#a49115e9dbf3d4ebb0db5714e396815c6" title="Returns the next pdu to send and removes it from the sendqeue. " alt="" coords="170,1596,281,1623"/>
+<area shape="rect" id="node47" href="$group__dtls__internal.html#ga7954de23333db4fdc4043c35022e49f5" title="Check if timeout is handled per CoAP session or per CoAP context. " alt="" coords="153,1647,298,1689"/>
+<area shape="rect" id="node48" href="$coap__notls_8c.html#a42d4e2a9f45fc8673a09da2f7bf7bfac" title="coap_dtls_get_context\l_timeout" alt="" coords="149,1713,302,1754"/>
+<area shape="rect" id="node49" href="$coap__notls_8c.html#a92253dda2d7e14da57ad2af45dc6d0af" title="coap_dtls_get_timeout" alt="" coords="149,1779,302,1805"/>
+<area shape="rect" id="node50" href="$coap__notls_8c.html#aa82c602ae2c35f208900e0da83397de2" title="coap_dtls_handle_timeout" alt="" coords="139,1829,312,1856"/>
+<area shape="rect" id="node3" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="367,583,521,609"/>
+<area shape="rect" id="node4" href="$pdu_8c.html#a8a1f5754d3309fd2880ee8a91607cfc1" title="Creates a new CoAP PDU with at least enough storage space for the given size maximum message size..." alt="" coords="1050,329,1153,356"/>
+<area shape="rect" id="node8" href="$coap__session_8c.html#a4368ee622c681bf7cf0b7cfe99c8ab37" title="Get maximum acceptable PDU size. " alt="" coords="576,684,769,711"/>
+<area shape="rect" id="node9" href="$pdu_8c.html#a923f81168ccbbaac1a4ca50837d7be94" title="Adds token of length len to pdu. " alt="" coords="1043,380,1160,407"/>
+<area shape="rect" id="node10" href="$pdu_8c.html#a48581f968a30ef4278702eb1c16b7a90" title="Dispose of an CoAP PDU and frees associated storage. " alt="" coords="2671,380,2791,407"/>
+<area shape="rect" id="node11" href="$net_8h.html#ade36148140b152d713b23d17bbcf0024" title="Returns a new message id and updates session&#45;&gt;tx_mid accordingly. " alt="" coords="593,329,752,356"/>
+<area shape="rect" id="node27" href="$net_8c.html#ab0b0b5db03427c4313c01ec2b12cf8ed" title="Sends a CoAP message to given peer. " alt="" coords="1059,153,1144,180"/>
+<area shape="rect" id="node5" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="1459,355,1586,381"/>
+<area shape="rect" id="node6" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="2839,431,2949,457"/>
+<area shape="rect" id="node7" href="$pdu_8c.html#a9dbdf354e2da5e80fea4c0d4a8df6d05" title="Clears any contents from pdu and resets used_size, and data pointers. " alt="" coords="1238,329,1351,356"/>
+<area shape="rect" id="node12" href="$net_8h.html#a4a0717822713783908dd33d300440b2e" title="CoAP stack context must be released with coap_free_context(). " alt="" coords="1677,481,1807,508"/>
+<area shape="rect" id="node23" href="$net_8h.html#ace22e7d3745fb725552c929b4da55c61" title="Stores data with the given CoAP context. " alt="" coords="839,228,973,255"/>
+<area shape="rect" id="node24" href="$net_8h.html#a49aa8efe1e4b66ec304eae6d8f448680" title="Returns any application&#45;specific data that has been stored with context using the function coap_set_a..." alt="" coords="839,279,973,305"/>
+<area shape="rect" id="node25" href="$net_8h.html#ab7953637ad760f76ffb8060ddf47fe6a" title="Creates a new ACK PDU with specified error code. " alt="" coords="819,380,993,407"/>
+<area shape="rect" id="node26" href="$net_8h.html#ab31cd76353f751ec4dc5c033152df575" title="Sends an error response with code code for request request to dst. " alt="" coords="847,127,965,153"/>
+<area shape="rect" id="node39" href="$net_8h.html#a6aa830b46188549b51773f724eb8e752" title="Helper funktion to create and send a message with type (usually ACK or RST). " alt="" coords="817,329,995,356"/>
+<area shape="rect" id="node40" href="$net_8h.html#aba278b109415057d15196fa46afee970" title="Sends an ACK message with code 0 for the specified request to dst. " alt="" coords="849,177,963,204"/>
+<area shape="rect" id="node19" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="2504,481,2583,508"/>
+<area shape="rect" id="node15" href="$coap__session_8c.html#ab91ca670624ee770714727efff274c49" title="coap_session_mfree" alt="" coords="2273,633,2416,660"/>
+<area shape="rect" id="node16" href="$coap__dtls__gnutls_8c.html#a89102d85f6cce550adf91b075a6326c7" title="coap_dtls_free_session" alt="" coords="2464,684,2623,711"/>
+<area shape="rect" id="node17" href="$coap__notls_8c.html#aa317934415639e23b64a3bd0b4edde6c" title="coap_tls_free_session" alt="" coords="2467,532,2619,559"/>
+<area shape="rect" id="node18" href="$coap__io_8c.html#a2de382e7795c908d1a376da8c338386d" title="coap_socket_close" alt="" coords="2476,583,2611,609"/>
+<area shape="rect" id="node20" href="$net_8c.html#a44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node. " alt="" coords="2480,785,2607,812"/>
+<area shape="rect" id="node22" href="$group__logging.html#ga6a4f5ef637bf85aa161adfe73ac81ff0" title="Print the address into the defined buffer. " alt="" coords="2486,1292,2601,1319"/>
+<area shape="rect" id="node28" href="$pdu_8c.html#ab5e81fe5717f977c62b7ef427d946c35" title="Compose the protocol specific header for the specified PDU. " alt="" coords="1208,103,1381,129"/>
+<area shape="rect" id="node29" href="$net_8c.html#a0c600aed61c8a8402d31ef795df3b0b6" title="coap_send_pdu" alt="" coords="1238,972,1351,999"/>
+<area shape="rect" id="node34" href="$net_8c.html#a7bee391c13b539a24d9f74b2fc23e08a" title="coap_wait_ack" alt="" coords="1687,1241,1797,1268"/>
+<area shape="rect" id="node30" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution. " alt="" coords="1907,1191,1992,1217"/>
+<area shape="rect" id="node31" href="$net_8c.html#a5e2cee998ccf618ac07aa54f5e5f8743" title="Invokes the event handler of context for the given event and data. " alt="" coords="1675,988,1809,1015"/>
+<area shape="rect" id="node33" href="$resource_8c.html#a5456a0b3cbb6c2191420632da0c54bbf" title="Removes any subscription for session and releases the allocated storage. " alt="" coords="1664,836,1820,863"/>
+<area shape="rect" id="node38" href="$net_8c.html#add0197ad2daf24535c85e0ba1d28f099" title="Cancels all outstanding messages for session session. " alt="" coords="2079,825,2225,866"/>
+<area shape="rect" id="node36" href="$net_8c.html#a80d2c3b0141e98bf3f7914e7e59b9530" title="Adds node to given queue, ordered by variable t in node. " alt="" coords="1887,1393,2011,1420"/>
+<area shape="rect" id="node43" href="$resource_8c.html#a6fe7101754779c34807bf00b87ee5f0b" title="coap_handle_failed\l_notify" alt="" coords="1228,1277,1361,1318"/>
+<area shape="rect" id="node44" href="$coap__session_8c.html#aa8b3a2da8480911b0216dad076038cb6" title="Notify session that it has just connected or reconnected. " alt="" coords="1438,1175,1607,1201"/>
+<area shape="rect" id="node45" href="$net_8c.html#a0748d791fd2af516dd93fbadb660d440" title="For applications with their own message loop, reads all data from the network. " alt="" coords="1701,1089,1783,1116"/>
+</map>

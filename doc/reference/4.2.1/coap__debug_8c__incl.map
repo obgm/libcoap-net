@@ -1,0 +1,32 @@
+<map id="coap_debug.c" name="coap_debug.c">
+<area shape="rect" id="node2" href="$coap__internal_8h.html" title="Pulls together all the internal only header files. " alt="" coords="1846,80,1957,107"/>
+<area shape="rect" id="node4" href="$coap_8h.html" title="coap.h" alt="" coords="1073,155,1135,181"/>
+<area shape="rect" id="node30" href="$uthash_8h.html" title="uthash.h" alt="" coords="1771,528,1843,555"/>
+<area shape="rect" id="node39" href="$utlist_8h.html" title="utlist.h" alt="" coords="2412,379,2473,405"/>
+<area shape="rect" id="node40" href="$coap__hashkey_8h.html" title="definition of hash key type and helper functions " alt="" coords="1947,453,2064,480"/>
+<area shape="rect" id="node41" href="$coap__mutex_8h.html" title="COAP mutex mechanism wrapper. " alt="" coords="1849,155,1953,181"/>
+<area shape="rect" id="node42" href="$coap__session__internal_8h.html" title="COAP session internal information. " alt="" coords="1977,155,2140,181"/>
+<area shape="rect" id="node43" href="$coap__subscribe__internal_8h.html" title="COAP subscribe internal information. " alt="" coords="2164,155,2337,181"/>
+<area shape="rect" id="node5" href="$libcoap_8h.html" title="libcoap.h" alt="" coords="1904,677,1979,704"/>
+<area shape="rect" id="node8" href="$coap__forward__decls_8h.html" title="COAP forward definitions. " alt="" coords="1312,528,1461,555"/>
+<area shape="rect" id="node9" href="$address_8h.html" title="Representation of network addresses. " alt="" coords="1158,603,1237,629"/>
+<area shape="rect" id="node14" href="$async_8h.html" title="State management for asynchronous messages. " alt="" coords="722,304,790,331"/>
+<area shape="rect" id="node15" href="$net_8h.html" title="net.h" alt="" coords="888,379,939,405"/>
+<area shape="rect" id="node19" href="$coap__io_8h.html" title="coap_io.h" alt="" coords="1158,528,1237,555"/>
+<area shape="rect" id="node20" href="$coap__dtls_8h.html" title="coap_dtls.h" alt="" coords="435,453,525,480"/>
+<area shape="rect" id="node21" href="$coap__time_8h.html" title="Clock Handling. " alt="" coords="543,528,636,555"/>
+<area shape="rect" id="node22" href="$coap__event_8h.html" title="coap_event.h" alt="" coords="1771,453,1871,480"/>
+<area shape="rect" id="node23" href="$option_8h.html" title="Helpers for handling options in CoAP PDUs. " alt="" coords="291,453,359,480"/>
+<area shape="rect" id="node24" href="$bits_8h.html" title="Bit vector manipulation. " alt="" coords="298,528,353,555"/>
+<area shape="rect" id="node25" href="$pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP. " alt="" coords="661,528,715,555"/>
+<area shape="rect" id="node26" href="$uri_8h.html" title="uri.h" alt="" coords="758,603,805,629"/>
+<area shape="rect" id="node27" href="$str_8h.html" title="str.h" alt="" coords="1251,677,1299,704"/>
+<area shape="rect" id="node28" href="$prng_8h.html" title="Pseudo Random Numbers. " alt="" coords="1587,453,1645,480"/>
+<area shape="rect" id="node32" href="$block_8h.html" title="block.h" alt="" coords="373,304,437,331"/>
+<area shape="rect" id="node33" href="$encode_8h.html" title="encode.h" alt="" coords="141,379,216,405"/>
+<area shape="rect" id="node35" href="$coap__debug_8h.html" title="coap_debug.h" alt="" coords="522,229,625,256"/>
+<area shape="rect" id="node36" href="$mem_8h.html" title="mem.h" alt="" coords="1695,229,1758,256"/>
+<area shape="rect" id="node37" href="$resource_8h.html" title="Generic resource handling. " alt="" coords="897,229,980,256"/>
+<area shape="rect" id="node38" href="$subscribe_8h.html" title="Defines the application visible subscribe information. " alt="" coords="1002,304,1091,331"/>
+<area shape="rect" id="node29" href="$coap__session_8h.html" title="Defines the application visible session information. " alt="" coords="1145,453,1258,480"/>
+</map>

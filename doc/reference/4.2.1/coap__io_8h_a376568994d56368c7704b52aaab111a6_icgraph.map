@@ -1,0 +1,6 @@
+<map id="coap_mfree_endpoint" name="coap_mfree_endpoint">
+<area shape="rect" id="node2" href="$coap__session_8h.html#a157d58fe7840d7d7e36c40fff0825674" title="coap_free_endpoint" alt="" coords="200,5,335,32"/>
+<area shape="rect" id="node3" href="$coap__session_8h.html#a6c2e568e59caed491a94a5861d9afac2" title="Create a new endpoint for communicating with peers. " alt="" coords="383,5,520,32"/>
+<area shape="rect" id="node4" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="568,5,699,32"/>
+<area shape="rect" id="node5" href="$net_8h.html#a696acd1012ad1c2dba081ee5bea54fd8" title="Registers the option type type with the given context object ctx. " alt="" coords="747,5,889,32"/>
+</map>

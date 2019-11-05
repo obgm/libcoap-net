@@ -1,0 +1,7 @@
+<map id="coap_socket_close" name="coap_socket_close">
+<area shape="rect" id="node2" href="$coap__io__contiki_8c.html#a9d1deb43ee288c60730c3c8c5df8ec73" title="coap_socket_bind_udp" alt="" coords="201,5,356,32"/>
+<area shape="rect" id="node3" href="$coap__io__contiki_8c.html#a85ec542c39fda4a6a5346c7801bf0ecd" title="coap_socket_connect_tcp1" alt="" coords="188,56,369,83"/>
+<area shape="rect" id="node4" href="$coap__io__contiki_8c.html#ae591a90d6202a1b7f82b1aa688614520" title="coap_socket_connect_tcp2" alt="" coords="188,107,369,133"/>
+<area shape="rect" id="node5" href="$coap__io__contiki_8c.html#a1c01bf1b3043f11f948e4f3aff1b7823" title="coap_socket_bind_tcp" alt="" coords="203,157,355,184"/>
+<area shape="rect" id="node6" href="$coap__io__contiki_8c.html#a1086276cc42228e6b0b1c72b4f72fa84" title="coap_socket_connect_udp" alt="" coords="190,208,367,235"/>
+</map>

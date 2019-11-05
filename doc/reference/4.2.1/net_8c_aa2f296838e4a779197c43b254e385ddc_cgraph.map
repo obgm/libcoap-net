@@ -1,0 +1,6 @@
+<map id="coap_free_node" name="coap_free_node">
+<area shape="rect" id="node2" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="180,5,291,32"/>
+<area shape="rect" id="node3" href="$net_8c.html#a157d58fe7840d7d7e36c40fff0825674" title="coap_free_endpoint" alt="" coords="168,56,303,83"/>
+<area shape="rect" id="node4" href="$net_8c.html#aeff229f443c6582fea71504f33364eb4" title="coap_malloc_node" alt="" coords="170,107,301,133"/>
+<area shape="rect" id="node5" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="351,132,477,159"/>
+</map>

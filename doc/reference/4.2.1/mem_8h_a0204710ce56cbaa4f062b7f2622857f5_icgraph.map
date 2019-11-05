@@ -1,0 +1,51 @@
+<map id="coap_malloc_type" name="coap_malloc_type">
+<area shape="rect" id="node2" href="$coap__dtls__gnutls_8c.html#a2e333b0d5a6d15a048071f654f7391bc" title="coap_dtls_new_session" alt="" coords="180,56,341,83"/>
+<area shape="rect" id="node5" href="$coap__io_8h.html#a7d4895ba201ee7c0308ab6e0d3837553" title="coap_malloc_endpoint" alt="" coords="185,237,336,264"/>
+<area shape="rect" id="node7" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="654,183,785,209"/>
+<area shape="rect" id="node9" href="$coap__session_8c.html#a492e784d51a3c04c4cd03662c263c64f" title="coap_make_session" alt="" coords="190,328,331,355"/>
+<area shape="rect" id="node16" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="213,579,308,605"/>
+<area shape="rect" id="node24" href="$net_8c.html#aeff229f443c6582fea71504f33364eb4" title="coap_malloc_node" alt="" coords="195,807,326,833"/>
+<area shape="rect" id="node25" href="$net_8c.html#aa2f296838e4a779197c43b254e385ddc" title="coap_free_node" alt="" coords="423,781,538,808"/>
+<area shape="rect" id="node28" href="$option_8h.html#a0e0c8a98596d86d8ad7bef72487f9cec" title="Create a new optlist entry. " alt="" coords="199,857,322,884"/>
+<area shape="rect" id="node29" href="$pdu_8h.html#a9dbdf354e2da5e80fea4c0d4a8df6d05" title="Clears any contents from pdu and resets used_size, and data pointers. " alt="" coords="204,983,317,1009"/>
+<area shape="rect" id="node30" href="$pdu_8h.html#a8a1f5754d3309fd2880ee8a91607cfc1" title="Creates a new CoAP PDU with at least enough storage space for the given size maximum message size..." alt="" coords="429,975,532,1001"/>
+<area shape="rect" id="node43" href="$resource_8h.html#a96916a1d29ffa358a45e8ee9f50dbb9e" title="Creates a new resource object and initializes the link field to the string uri_path. " alt="" coords="654,1405,785,1432"/>
+<area shape="rect" id="node44" href="$resource_8h.html#a8214c7bdaede14cf652dcd93fb70cc83" title="Creates a new resource object for the unknown resource handler with support for PUT. " alt="" coords="624,1456,815,1483"/>
+<area shape="rect" id="node45" href="$resource_8h.html#aac85024611363b1353997dc9752a9169" title="Registers a new attribute with the given resource. " alt="" coords="667,1507,771,1533"/>
+<area shape="rect" id="node47" href="$group__string.html#ga48a2c3c1cc1cf95fc8443179c081ccb1" title="Returns a new string object with at least size+1 bytes storage allocated. " alt="" coords="201,1279,321,1305"/>
+<area shape="rect" id="node3" href="$coap__dtls__gnutls_8c.html#a1208fe255ba461cb9d369a83bbc0f98b" title="coap_dtls_get_session" alt="" coords="403,5,558,32"/>
+<area shape="rect" id="node4" href="$coap__dtls__gnutls_8c.html#a174ab9010def9c77272219cabba1b48e" title="coap_dtls_handle_message" alt="" coords="389,56,572,83"/>
+<area shape="rect" id="node6" href="$coap__session_8h.html#a6c2e568e59caed491a94a5861d9afac2" title="Create a new endpoint for communicating with peers. " alt="" coords="412,157,549,184"/>
+<area shape="rect" id="node8" href="$net_8h.html#a696acd1012ad1c2dba081ee5bea54fd8" title="Registers the option type type with the given context object ctx. " alt="" coords="890,389,1033,416"/>
+<area shape="rect" id="node10" href="$coap__session_8c.html#a0d8adbae82b2ced3accee1361ac8fe6c" title="coap_endpoint_get_session" alt="" coords="389,259,572,285"/>
+<area shape="rect" id="node12" href="$coap__session_8c.html#a78865254d0191854b0b7c35f28eefe71" title="coap_session_create\l_client" alt="" coords="408,361,553,402"/>
+<area shape="rect" id="node15" href="$coap__session_8h.html#aadffd66ead18cd2eba0b19efe92a3d88" title="Creates a new server session for the specified endpoint. " alt="" coords="393,208,569,235"/>
+<area shape="rect" id="node11" href="$net_8c.html#a44ffb4b70e537043e9a9cf344be24b92" title="coap_read_endpoint" alt="" coords="650,259,789,285"/>
+<area shape="rect" id="node13" href="$coap__session_8h.html#ad495fcd405fa86859fa36d45f89be910" title="Creates a new client session to the designated server. " alt="" coords="634,368,805,395"/>
+<area shape="rect" id="node14" href="$coap__session_8h.html#a40790c70df0b38fe89f3fb2ad255d662" title="Creates a new client session to the designated server with PSK credentials. " alt="" coords="620,435,819,461"/>
+<area shape="rect" id="node17" href="$group__coap__async.html#ga2036036f8a838be7e64938ce733d1600" title="Allocates a new coap_async_state_t object and fills its fields according to the given request..." alt="" coords="409,579,552,605"/>
+<area shape="rect" id="node18" href="$coap__dtls__gnutls_8c.html#a5d084ed2e1e2f7e4c89d134db09d025c" title="push_data_item" alt="" coords="423,427,538,453"/>
+<area shape="rect" id="node19" href="$group__dtls__internal.html#gac3f26c28dfc018c8efb5ca410f5c4c0e" title="Creates a new DTLS context for the given coap_context. " alt="" coords="401,309,560,336"/>
+<area shape="rect" id="node20" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="441,680,520,707"/>
+<area shape="rect" id="node21" href="$net_8h.html#a665601c3c9ac88ef92125c1e62d679b2" title="Set the context&#39;s default PSK hint and/or key for a server. " alt="" coords="643,544,796,571"/>
+<area shape="rect" id="node22" href="$uri_8h.html#a908cd03f5a2a7b04ae9051508e22f8de" title="Creates a new coap_uri_t object from the specified URI. " alt="" coords="668,595,771,621"/>
+<area shape="rect" id="node23" href="$uri_8h.html#abee90f9288ee9acc26a3af3d88c3758b" title="Clones the specified coap_uri_t object. " alt="" coords="426,528,535,555"/>
+<area shape="rect" id="node27" href="$net_8h.html#a45d9cf1d576566b0a5ffd9e2e1c6b7fa" title="Creates a new node suitable for adding to the CoAP sendqueue. " alt="" coords="423,832,539,859"/>
+<area shape="rect" id="node26" href="$net_8h.html#a44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node. " alt="" coords="656,645,783,672"/>
+<area shape="rect" id="node31" href="$coap__session_8h.html#a2f455ec1572982a5ae404beac0cfbd53" title="Notify session transport has just connected and CSM exchange can now start. " alt="" coords="635,696,804,723"/>
+<area shape="rect" id="node32" href="$coap__session_8h.html#ab3f9f60c0a4857c147fef5721025944c" title="Send a ping message for the session. " alt="" coords="635,747,803,773"/>
+<area shape="rect" id="node33" href="$net_8h.html#aba278b109415057d15196fa46afee970" title="Sends an ACK message with code 0 for the specified request to dst. " alt="" coords="663,797,776,824"/>
+<area shape="rect" id="node34" href="$net_8h.html#a6aa830b46188549b51773f724eb8e752" title="Helper funktion to create and send a message with type (usually ACK or RST). " alt="" coords="631,848,808,875"/>
+<area shape="rect" id="node35" href="$net_8c.html#acd36f6fba6d30ab9557e0e6521f4a088" title="coap_read_session" alt="" coords="652,899,787,925"/>
+<area shape="rect" id="node36" href="$net_8h.html#ae6b8ca457dd41f23372f9e9a7159312b" title="Parses and interprets a CoAP datagram with context ctx. " alt="" coords="650,949,789,976"/>
+<area shape="rect" id="node37" href="$net_8h.html#ab7953637ad760f76ffb8060ddf47fe6a" title="Creates a new ACK PDU with specified error code. " alt="" coords="632,1051,807,1077"/>
+<area shape="rect" id="node38" href="$net_8c.html#a1a280312c4bad55cf10243b9b9c3e966" title="handle_request" alt="" coords="906,1253,1017,1280"/>
+<area shape="rect" id="node39" href="$net_8h.html#a69ff8481c32707b77813c051fc42dedd" title="Creates a new response for given request with the contents of .well&#45;known/core. " alt="" coords="630,1253,809,1280"/>
+<area shape="rect" id="node40" href="$net_8c.html#ac4cbcfd073489b57805db665ce3d0681" title="handle_signaling" alt="" coords="660,1101,779,1128"/>
+<area shape="rect" id="node41" href="$pdu_8h.html#a95b5e0611afb772be6dfe3d25191878f" title="Creates a new CoAP PDU. " alt="" coords="665,1152,774,1179"/>
+<area shape="rect" id="node42" href="$resource_8c.html#ae1a91e254baca4f43b7896f54a8d9944" title="coap_notify_observers" alt="" coords="643,1203,796,1229"/>
+<area shape="rect" id="node46" href="$resource_8h.html#aebca190a03325bc26b075af3eac04d1f" title="Gets the user_data. " alt="" coords="867,1507,1056,1533"/>
+<area shape="rect" id="node48" href="$group__string.html#ga983bc4d64851286070261bcc98baaa57" title="Returns a new const string object with at least size+1 bytes storage allocated, and the provided data..." alt="" coords="409,1405,552,1432"/>
+<area shape="rect" id="node49" href="$uri_8c.html#a15cc296560619b6f9b80d9005a000167" title="coap_get_query" alt="" coords="423,1253,538,1280"/>
+<area shape="rect" id="node50" href="$uri_8c.html#a062095681104f3175b8265e240989ade" title="coap_get_uri_path" alt="" coords="417,1304,545,1331"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="coap_uri_scheme_is_secure" name="coap_uri_scheme_is_secure">
+<area shape="rect" id="node2" href="$uri_8h.html#a908cd03f5a2a7b04ae9051508e22f8de" title="Creates a new coap_uri_t object from the specified URI. " alt="" coords="207,107,310,133"/>
+<area shape="rect" id="node5" href="$group__uri__parse.html#ga9b19917fbf64f3a35a52d31ae5f6f76c" title="Parses a given string into URI components. " alt="" coords="391,157,494,184"/>
+<area shape="rect" id="node9" href="$uri_8h.html#abee90f9288ee9acc26a3af3d88c3758b" title="Clones the specified coap_uri_t object. " alt="" coords="388,5,497,32"/>
+<area shape="rect" id="node10" href="$group__uri__parse.html#ga4a01c4a81338c39d0a2fb1e3859a6fb0" title="Splits the given URI path into segments. " alt="" coords="202,208,315,235"/>
+<area shape="rect" id="node19" href="$group__uri__parse.html#ga522cc4dfe723c2a3537f35ee2389ef74" title="Splits the given URI query into segments. " alt="" coords="199,259,319,285"/>
+<area shape="rect" id="node20" href="$group__uri__parse.html#ga27b558d85aab79e22543168139775601" title="Extract query string from request PDU according to escape rules in 6.5.8. " alt="" coords="201,309,316,336"/>
+<area shape="rect" id="node21" href="$group__uri__parse.html#ga1847a4cad87e2562244361ba82124673" title="Extract uri_path string from request PDU. " alt="" coords="195,360,323,387"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="591,31,686,57"/>
+<area shape="rect" id="node6" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="403,107,482,133"/>
+<area shape="rect" id="node4" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="769,31,895,57"/>
+<area shape="rect" id="node7" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="583,81,694,108"/>
+<area shape="rect" id="node8" href="$mem_8h.html#a65d0fc0fe6cad555b56e92ccb57613ba" title="Initializes libcoap&#39;s memory management. " alt="" coords="575,132,703,159"/>
+<area shape="rect" id="node11" href="$uri_8c.html#a517b4456d0a079f5886599dccce09a2a" title="Splits the given string into segments. " alt="" coords="371,208,515,235"/>
+<area shape="rect" id="node14" href="$uri_8c.html#a7765779604c7c1166e99179722d4bdd8" title="write_option" alt="" coords="397,259,489,285"/>
+<area shape="rect" id="node12" href="$uri_8c.html#a480038916e84b8f454c62772258d57e6" title="A length&#45;safe version of strchr(). " alt="" coords="607,183,670,209"/>
+<area shape="rect" id="node13" href="$uri_8c.html#a4163dae83e43872640dc52914271306f" title="Checks if path segment s consists of one or two dots. " alt="" coords="615,233,662,260"/>
+<area shape="rect" id="node15" href="$uri_8c.html#a9a39cbf2ed89a758ced3f9fecd125b50" title="Writes a coap option from given string s to buf. " alt="" coords="563,284,715,311"/>
+<area shape="rect" id="node16" href="$uri_8c.html#a5cd1953aed32e942af08e39d396fb8fd" title="Runs through the given path (or query) segment and checks if percent&#45;encodings are correct..." alt="" coords="775,284,889,311"/>
+<area shape="rect" id="node17" href="$group__opt__filter.html#gafebbd04a7895df694a9345dad0275aeb" title="Encodes the given delta and length values into opt. " alt="" coords="763,335,901,361"/>
+<area shape="rect" id="node18" href="$uri_8c.html#a2c99e399450162db911d50c8411722ab" title="Decodes percent&#45;encoded characters while copying the string seg of size length to buf..." alt="" coords="771,233,893,260"/>
+</map>

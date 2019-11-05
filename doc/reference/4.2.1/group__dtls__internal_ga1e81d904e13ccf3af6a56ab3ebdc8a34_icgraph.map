@@ -1,0 +1,5 @@
+<map id="coap_dtls_startup" name="coap_dtls_startup">
+<area shape="rect" id="node2" href="$libcoap_8h.html#aceceb550566e0ab9e184d09604a73bb6" title="coap_startup" alt="" coords="179,5,276,32"/>
+<area shape="rect" id="node3" href="$net_8h.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status. " alt="" coords="324,5,455,32"/>
+<area shape="rect" id="node4" href="$net_8h.html#a696acd1012ad1c2dba081ee5bea54fd8" title="Registers the option type type with the given context object ctx. " alt="" coords="503,5,645,32"/>
+</map>

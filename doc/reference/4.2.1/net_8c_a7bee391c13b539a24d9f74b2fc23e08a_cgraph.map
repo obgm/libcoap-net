@@ -1,0 +1,10 @@
+<map id="coap_wait_ack" name="coap_wait_ack">
+<area shape="rect" id="node2" href="$coap__session_8c.html#a678a93d1dd7e1a9a52f4686778eef95b" title="Increment reference counter on a session. " alt="" coords="163,5,325,32"/>
+<area shape="rect" id="node3" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution. " alt="" coords="201,56,287,83"/>
+<area shape="rect" id="node4" href="$net_8c.html#a80d2c3b0141e98bf3f7914e7e59b9530" title="Adds node to given queue, ordered by variable t in node. " alt="" coords="182,107,306,133"/>
+<area shape="rect" id="node5" href="$net_8c.html#a037d8de79abc81464f8c75b0aa89931b" title="Returns the next pdu to send without removing from sendqeue. " alt="" coords="185,157,303,184"/>
+<area shape="rect" id="node6" href="$group__logging.html#ga8b690dbed6cc3a5beb81ba5d2d27d290" title="Get session description. " alt="" coords="182,208,306,235"/>
+<area shape="rect" id="node9" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title="coap_socket_strerror" alt="" coords="172,259,316,285"/>
+<area shape="rect" id="node7" href="$group__logging.html#ga6a4f5ef637bf85aa161adfe73ac81ff0" title="Print the address into the defined buffer. " alt="" coords="373,208,488,235"/>
+<area shape="rect" id="node8" href="$coap__debug_8c.html#aaa5ee5c2942fe13271a46000b2aebde6" title="A length&#45;safe strlen() fake. " alt="" coords="536,208,597,235"/>
+</map>

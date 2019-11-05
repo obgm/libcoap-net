@@ -1,0 +1,6 @@
+<map id="coap_make_session" name="coap_make_session">
+<area shape="rect" id="node2" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="201,5,327,32"/>
+<area shape="rect" id="node3" href="$address_8h.html#ada8c7f0dd95000bb418860b970d8cb9f" title="coap_address_copy" alt="" coords="195,56,333,83"/>
+<area shape="rect" id="node5" href="$address_8c.html#a59e19389468d5ced36778ed07546bce2" title="Resets the given coap_address_t object addr to its default values. " alt="" coords="201,107,327,133"/>
+<area shape="rect" id="node4" href="$address_8h.html#aece6d39e01149af8dea29b0b8cbde504" title="Compares given address objects a and b. " alt="" coords="381,56,529,83"/>
+</map>

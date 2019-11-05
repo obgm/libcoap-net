@@ -1,0 +1,29 @@
+<map id="coap_free_context" name="coap_free_context">
+<area shape="rect" id="node2" href="$net_8c.html#a2c1e86998c712346baf2d116dbf1ac7f" title="Removes all items from given queue and frees the allocated storage. " alt="" coords="215,385,327,412"/>
+<area shape="rect" id="node5" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type(). " alt="" coords="1415,487,1525,513"/>
+<area shape="rect" id="node6" href="$coap__session_8c.html#a9aee135ba884d7c143b11bc42fd23e53" title="Decrement reference counter on a session. " alt="" coords="591,436,741,463"/>
+<area shape="rect" id="node12" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility. " alt="" coords="1236,132,1315,159"/>
+<area shape="rect" id="node20" href="$net_8c.html#a157d58fe7840d7d7e36c40fff0825674" title="coap_free_endpoint" alt="" coords="1403,5,1537,32"/>
+<area shape="rect" id="node22" href="$resource_8c.html#a1fae3046ad94fce85a7ea23455328958" title="Deletes all resources from given context and frees their storage. " alt="" coords="183,500,359,527"/>
+<area shape="rect" id="node27" href="$coap__dtls__gnutls_8c.html#a14cd3bad2ff5b23a69a062bcd0f0125c" title="Releases the storage allocated for dtls_context. " alt="" coords="991,183,1148,209"/>
+<area shape="rect" id="node28" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title="coap_socket_strerror" alt="" coords="199,740,343,767"/>
+<area shape="rect" id="node3" href="$net_8c.html#a44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node. " alt="" coords="411,385,538,412"/>
+<area shape="rect" id="node4" href="$pdu_8c.html#a48581f968a30ef4278702eb1c16b7a90" title="Dispose of an CoAP PDU and frees associated storage. " alt="" coords="1215,436,1335,463"/>
+<area shape="rect" id="node19" href="$net_8c.html#aa2f296838e4a779197c43b254e385ddc" title="coap_free_node" alt="" coords="1218,81,1333,108"/>
+<area shape="rect" id="node7" href="$coap__session_8c.html#ab3d24595515d6f66805791a7f821d5e7" title="coap_session_free" alt="" coords="801,348,931,375"/>
+<area shape="rect" id="node8" href="$coap__session_8c.html#ab91ca670624ee770714727efff274c49" title="coap_session_mfree" alt="" coords="998,284,1141,311"/>
+<area shape="rect" id="node16" href="$group__logging.html#ga8b690dbed6cc3a5beb81ba5d2d27d290" title="Get session description. " alt="" coords="1007,335,1131,361"/>
+<area shape="rect" id="node9" href="$coap__dtls__gnutls_8c.html#a89102d85f6cce550adf91b075a6326c7" title="coap_dtls_free_session" alt="" coords="1196,183,1355,209"/>
+<area shape="rect" id="node10" href="$coap__notls_8c.html#aa317934415639e23b64a3bd0b4edde6c" title="coap_tls_free_session" alt="" coords="1199,284,1351,311"/>
+<area shape="rect" id="node11" href="$coap__io_8c.html#a2de382e7795c908d1a376da8c338386d" title="coap_socket_close" alt="" coords="1208,233,1343,260"/>
+<area shape="rect" id="node13" href="$mem_8h.html#a65d0fc0fe6cad555b56e92ccb57613ba" title="Initializes libcoap&#39;s memory management. " alt="" coords="1406,208,1534,235"/>
+<area shape="rect" id="node14" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility. " alt="" coords="1423,157,1517,184"/>
+<area shape="rect" id="node15" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory. " alt="" coords="1585,107,1712,133"/>
+<area shape="rect" id="node17" href="$group__logging.html#ga6a4f5ef637bf85aa161adfe73ac81ff0" title="Print the address into the defined buffer. " alt="" coords="1218,335,1333,361"/>
+<area shape="rect" id="node18" href="$coap__debug_8c.html#aaa5ee5c2942fe13271a46000b2aebde6" title="A length&#45;safe strlen() fake. " alt="" coords="1439,335,1501,361"/>
+<area shape="rect" id="node21" href="$net_8c.html#aeff229f443c6582fea71504f33364eb4" title="coap_malloc_node" alt="" coords="1405,56,1535,83"/>
+<area shape="rect" id="node23" href="$resource_8c.html#a1307a6b8dadd6d005352ce02f6cf392f" title="coap_free_resource" alt="" coords="407,512,543,539"/>
+<area shape="rect" id="node24" href="$resource_8c.html#a37883d9c8bafdd59fd1bd57dcb82e908" title="Deletes an attribute. " alt="" coords="607,487,725,513"/>
+<area shape="rect" id="node25" href="$group__string.html#ga4c283744d0fa51b553bf3fc52488e4b0" title="Deletes the given const string and releases any memory allocated. " alt="" coords="789,537,943,564"/>
+<area shape="rect" id="node26" href="$group__string.html#gad991c87cfcf9b2414d2dc430c8701ed3" title="Deletes the given string and releases any memory allocated. " alt="" coords="801,588,931,615"/>
+</map>

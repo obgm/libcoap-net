@@ -1,0 +1,8 @@
+<map id="coap_print_wellknown" name="coap_print_wellknown">
+<area shape="rect" id="node2" href="$group__opt__filter.html#gab713167d74579e79140b1112713b7637" title="Returns a pointer to the value of the given option. " alt="" coords="511,5,625,32"/>
+<area shape="rect" id="node3" href="$group__opt__filter.html#gaac65919c93f7047b687d33af9672b3ea" title="Returns the length of the given option. " alt="" coords="509,68,627,95"/>
+<area shape="rect" id="node4" href="$resource_8c.html#a5d3c8be95fcb4b66ba2f399896366a0e" title="match" alt="" coords="204,93,263,120"/>
+<area shape="rect" id="node6" href="$resource_8c.html#a86959dec3aa613ba8cc193a4c0d2aa45" title="Returns resource&#39;s coap_attr_t object with given name if found, NULL otherwise. " alt="" coords="516,144,620,171"/>
+<area shape="rect" id="node7" href="$resource_8c.html#a1ee72943df541ed5d4294c13e967ef09" title="Writes a description of this resource in link&#45;format to given text buffer. " alt="" coords="513,195,623,221"/>
+<area shape="rect" id="node5" href="$resource_8c.html#a82195178fe216a47a0cf8a88aa09c9cd" title="Prints the names of all known resources to buf. " alt="" coords="311,93,461,120"/>
+</map>
