@@ -1,0 +1,4 @@
+<map id="coap_realloc_type" name="coap_realloc_type">
+<area shape="rect" id="node1" title="Reallocates a chunk p of bytes created by coap_malloc_type() or coap_realloc_type() and returns a poi..." alt="" coords="188,5,315,32"/>
+<area shape="rect" id="node2" href="$group__string.html#gaed01956b4e368b9922664aa897e91cd9" title="Resizes the given coap_binary_t object." alt="" coords="5,5,140,32"/>
+</map>

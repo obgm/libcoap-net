@@ -1,0 +1,5 @@
+<map id="coap_context_set_psk2" name="coap_context_set_psk2">
+<area shape="rect" id="node1" title="Set the context&#39;s default PSK hint and/or key for a server." alt="" coords="5,31,165,57"/>
+<area shape="rect" id="node2" href="$coap__notls_8c.html#a8d1c5d65008b6d71067856515eb3e595" title=" " alt="" coords="213,5,401,32"/>
+<area shape="rect" id="node3" href="$group__dtls.html#ga9def28dc6da3b77c14e89d63769ec085" title="Returns 1 if support for DTLS is enabled, or 0 otherwise." alt="" coords="228,56,387,83"/>
+</map>

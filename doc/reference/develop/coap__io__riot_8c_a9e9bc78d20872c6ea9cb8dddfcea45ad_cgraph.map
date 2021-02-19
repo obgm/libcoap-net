@@ -1,0 +1,7 @@
+<map id="coap_network_send" name="coap_network_send">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,144,61"/>
+<area shape="rect" id="node2" href="$coap__debug_8c.html#af01fc56422e6401f529b053b61e65cad" title="Check to see whether a packet should be sent or not." alt="" coords="192,8,365,35"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title=" " alt="" coords="207,60,351,87"/>
+<area shape="rect" id="node3" href="$group__coap__prng.html#gac64ef6bcef630d4c1e683baa269b4670" title="Fills buf with len random bytes using the default pseudo random number generator." alt="" coords="442,5,525,32"/>
+<area shape="rect" id="node5" href="$coap__io_8c.html#ae0cc13e29656551862a46150320f9390" title=" " alt="" coords="413,57,553,98"/>
+</map>

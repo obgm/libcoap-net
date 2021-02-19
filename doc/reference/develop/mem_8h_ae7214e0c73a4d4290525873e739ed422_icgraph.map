@@ -1,0 +1,52 @@
+<map id="coap_free_type" name="coap_free_type">
+<area shape="rect" id="node1" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="1472,844,1583,871"/>
+<area shape="rect" id="node2" href="$group__coap__resource.html#ga37883d9c8bafdd59fd1bd57dcb82e908" title="Deletes an attribute." alt="" coords="1069,667,1187,693"/>
+<area shape="rect" id="node3" href="$resource_8c.html#a1307a6b8dadd6d005352ce02f6cf392f" title=" " alt="" coords="607,768,743,795"/>
+<area shape="rect" id="node6" href="$net_8c.html#a4a0717822713783908dd33d300440b2e" title="CoAP stack context must be released with coap_free_context()." alt="" coords="187,363,316,389"/>
+<area shape="rect" id="node7" href="$net_8c.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,616,136,643"/>
+<area shape="rect" id="node9" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="1265,1840,1420,1867"/>
+<area shape="rect" id="node12" href="$group__string.html#ga5881b7726f26833abb90e30bd23730af" title="Deletes the given coap_binary_t object and releases any memory allocated." alt="" coords="1275,1909,1410,1936"/>
+<area shape="rect" id="node14" href="$group__cache.html#ga09e46fc4bba8b37115a3fb964b76b21c" title="Remove a cache&#45;entry from the hash list and free off all the appropriate contents apart from app_data..." alt="" coords="1043,616,1213,643"/>
+<area shape="rect" id="node17" href="$coap__session_8c.html#ab3d24595515d6f66805791a7f821d5e7" title=" " alt="" coords="610,119,741,145"/>
+<area shape="rect" id="node19" href="$group__cache.html#ga1930bf91ebbff5d5974ce0d55d2895b3" title="Delete the cache&#45;key." alt="" coords="1261,591,1424,617"/>
+<area shape="rect" id="node21" href="$pdu_8c.html#a48581f968a30ef4278702eb1c16b7a90" title="Dispose of an CoAP PDU and frees associated storage." alt="" coords="1283,1072,1403,1099"/>
+<area shape="rect" id="node31" href="$group__string.html#ga4c283744d0fa51b553bf3fc52488e4b0" title="Deletes the given const string and releases any memory allocated." alt="" coords="1266,743,1419,769"/>
+<area shape="rect" id="node32" href="$group__string.html#gad991c87cfcf9b2414d2dc430c8701ed3" title="Deletes the given string and releases any memory allocated." alt="" coords="1277,1621,1408,1648"/>
+<area shape="rect" id="node37" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility." alt="" coords="1089,388,1167,415"/>
+<area shape="rect" id="node44" href="$net_8c.html#aa2f296838e4a779197c43b254e385ddc" title=" " alt="" coords="1285,920,1400,947"/>
+<area shape="rect" id="node45" href="$option_8c.html#a7f99f0a8dd81b5ee7824871ebfc384d7" title=" " alt="" coords="1272,1996,1413,2023"/>
+<area shape="rect" id="node47" href="$coap__io_8c.html#ae7093e5952bbf283a46b912156ec32ae" title=" " alt="" coords="602,43,749,69"/>
+<area shape="rect" id="node48" href="$group__cache.html#gaa1fff4be228b51f08a9dba8dcb78f9c0" title="Create a new cache&#45;entry hash keyed by cache&#45;key derived from the PDU." alt="" coords="822,1579,981,1605"/>
+<area shape="rect" id="node49" href="$pdu_8c.html#a8a1f5754d3309fd2880ee8a91607cfc1" title="Creates a new CoAP PDU with at least enough storage space for the given size maximum message size." alt="" coords="1077,1376,1179,1403"/>
+<area shape="rect" id="node4" href="$group__coap__resource.html#ga9a5f0705912b0a35a3d5764e86b94004" title="Registers the given resource for context." alt="" coords="184,768,319,795"/>
+<area shape="rect" id="node5" href="$group__coap__resource.html#ga1fae3046ad94fce85a7ea23455328958" title="Deletes all resources from given context and frees their storage." alt="" coords="367,628,543,655"/>
+<area shape="rect" id="node8" href="$group__coap__resource.html#gad3521b724ad4961e6bb11801fd82a3e3" title="Deletes a resource identified by resource." alt="" coords="380,743,529,769"/>
+<area shape="rect" id="node10" href="$coap__session_8c.html#a241d1a2311c1dcbdca0e6860237acf91" title=" " alt="" coords="1053,1833,1203,1874"/>
+<area shape="rect" id="node11" href="$coap__session_8c.html#aa40e39af285755517824c26095494f91" title=" " alt="" coords="1053,1898,1203,1939"/>
+<area shape="rect" id="node13" href="$group__string.html#gaed01956b4e368b9922664aa897e91cd9" title="Resizes the given coap_binary_t object." alt="" coords="1061,1964,1195,1991"/>
+<area shape="rect" id="node15" href="$group__cache__internal.html#gae07eb7cc785f504473cd3b6b81a4890c" title="Expire coap_cache_entry_t entries." alt="" coords="811,616,991,643"/>
+<area shape="rect" id="node16" href="$coap__session_8c.html#ab91ca670624ee770714727efff274c49" title=" " alt="" coords="830,667,973,693"/>
+<area shape="rect" id="node18" href="$coap__io__contiki_8c.html#a157d58fe7840d7d7e36c40fff0825674" title=" " alt="" coords="387,119,522,145"/>
+<area shape="rect" id="node20" href="$group__cache.html#ga13c59dcaba2fc8b10653a483227f7347" title="Searches for a cache&#45;entry corresponding to pdu." alt="" coords="1045,565,1211,592"/>
+<area shape="rect" id="node22" href="$net_8c.html#a44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node." alt="" coords="1065,920,1191,947"/>
+<area shape="rect" id="node23" href="$coap__session_8c.html#ad3377d3198c10fa086502035ded9c268" title="Notify session that it has failed." alt="" coords="808,1021,995,1048"/>
+<area shape="rect" id="node24" href="$net_8c.html#acd36f6fba6d30ab9557e0e6521f4a088" title=" " alt="" coords="608,1021,743,1048"/>
+<area shape="rect" id="node25" href="$coap__session_8c.html#a2f455ec1572982a5ae404beac0cfbd53" title="Notify session transport has just connected and CSM exchange can now start." alt="" coords="591,1123,760,1149"/>
+<area shape="rect" id="node26" href="$net_8c.html#a32887948ee273d1ad464ec47df194910" title="Parses and interprets a CoAP datagram with context ctx." alt="" coords="832,1275,971,1301"/>
+<area shape="rect" id="node27" href="$net_8c.html#ab7953637ad760f76ffb8060ddf47fe6a" title="Creates a new ACK PDU with specified error code." alt="" coords="814,1528,989,1555"/>
+<area shape="rect" id="node28" href="$net_8c.html#a1a280312c4bad55cf10243b9b9c3e966" title=" " alt="" coords="620,1528,731,1555"/>
+<area shape="rect" id="node29" href="$resource_8c.html#ac502b4f7cc5ef8b6d4a6b7b4d940076a" title=" " alt="" coords="825,1072,978,1099"/>
+<area shape="rect" id="node30" href="$net_8c.html#ab0b0b5db03427c4313c01ec2b12cf8ed" title="Sends a CoAP message to given peer." alt="" coords="1085,1173,1171,1200"/>
+<area shape="rect" id="node33" href="$group__observe.html#ga235d5f58c4830b12b08be182469404a6" title="Adds the specified peer as observer for resource." alt="" coords="834,1731,969,1757"/>
+<area shape="rect" id="node34" href="$group__observe.html#ga0ea23a6e5f19c9081f282e0a7cc4452d" title="Removes any subscription for observer from resource and releases the allocated storage." alt="" coords="1053,1680,1203,1707"/>
+<area shape="rect" id="node35" href="$group__observe.html#ga5456a0b3cbb6c2191420632da0c54bbf" title="Removes any subscription for session and releases the allocated storage." alt="" coords="1050,1072,1206,1099"/>
+<area shape="rect" id="node36" href="$resource_8c.html#a912a935612cb6910a4c466c49d58ee98" title="Checks the failure counter for (peer, token) and removes peer from the list of observers for the give..." alt="" coords="1059,1614,1197,1655"/>
+<area shape="rect" id="node38" href="$group__cache.html#ga83d189a51d30bc48a6b05b244a42193d" title="Define the CoAP options that are not to be included when calculating the cache&#45;key." alt="" coords="810,312,993,339"/>
+<area shape="rect" id="node39" href="$group__cache__internal.html#ga37ed3d3914023efe3ed1d05b13325192" title="Free off coap_digest_ctx_t." alt="" coords="841,413,962,440"/>
+<area shape="rect" id="node40" href="$coap__dtls__gnutls_8c.html#a14cd3bad2ff5b23a69a062bcd0f0125c" title="Releases the storage allocated for dtls_context." alt="" coords="376,253,533,280"/>
+<area shape="rect" id="node41" href="$group__coap__async.html#ga32024a34a383832e6692d3a439fc67c7" title="Releases the memory that was allocated by coap_async_state_init() for the object s." alt="" coords="841,464,962,491"/>
+<area shape="rect" id="node42" href="$uri_8c.html#a908cd03f5a2a7b04ae9051508e22f8de" title="Creates a new coap_uri_t object from the specified URI." alt="" coords="850,144,953,171"/>
+<area shape="rect" id="node43" href="$group__coap__resource.html#ga0dea65613e61b49b85fe9dc4002d542d" title="Creates a new resource object for handling proxy URIs." alt="" coords="828,246,975,287"/>
+<area shape="rect" id="node46" href="$group__opt__filter.html#ga476a30348f07ce45d0e1a3be0d1a1c21" title="Removes all entries from the optlist_chain, freeing off their memory usage." alt="" coords="1061,2015,1195,2041"/>
+<area shape="rect" id="node50" href="$pdu_8c.html#a95b5e0611afb772be6dfe3d25191878f" title="Creates a new CoAP PDU." alt="" coords="847,1427,956,1453"/>
+</map>

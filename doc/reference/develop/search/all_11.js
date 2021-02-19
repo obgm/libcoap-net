@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['r1_1316',['r1',['../murmur3_8c.html#abf72a501cc554e8375b83c5ab3de1753',1,'murmur3.c']]],
+  ['r2_1317',['r2',['../murmur3_8c.html#a38aec73e627a92b192b53abd47a0f708',1,'murmur3.c']]],
+  ['rand_5ffunc_1318',['rand_func',['../coap__prng_8c.html#ac4a2f6760883b9e2e6ead122858ae8e0',1,'coap_prng.c']]],
+  ['rate_20control_1319',['Rate Control',['../group__cc.html',1,'']]],
+  ['read_5fheader_1320',['read_header',['../structcoap__session__t.html#a580cf637bab6c459b600f83b3fe0e720',1,'coap_session_t']]],
+  ['ref_1321',['ref',['../structcoap__session__t.html#a2ff53048ff400c198dd282439c543710',1,'coap_session_t::ref()'],['../structcoap__session__t.html#a6efb100633d8a819e427cf1f97015440',1,'coap_session_t::ref()']]],
+  ['remote_1322',['remote',['../structcoap__addr__tuple__t.html#a3935bfbcc22f99eb46e9923f531a8da3',1,'coap_addr_tuple_t']]],
+  ['reserved_1323',['reserved',['../structcoap__dtls__pki__t.html#a936dbf549a2cabfa40f5790eb783363a',1,'coap_dtls_pki_t::reserved()'],['../structcoap__dtls__cpsk__t.html#afb577c2abcbe163f7b4fdff066008da6',1,'coap_dtls_cpsk_t::reserved()'],['../structcoap__dtls__spsk__t.html#aa02ea4f7bfc2e0eb8dcebddfe9ae623c',1,'coap_dtls_spsk_t::reserved()']]],
+  ['resource_20configuraton_1324',['Resource Configuraton',['../group__coap__resource.html',1,'']]],
+  ['resource_20observation_1325',['Resource Observation',['../group__observe.html',1,'']]],
+  ['resource_2ec_1326',['resource.c',['../resource_8c.html',1,'']]],
+  ['resource_2eh_1327',['resource.h',['../resource_8h.html',1,'']]],
+  ['resources_1328',['resources',['../structcoap__context__t.html#aaf441070f9b1f2aea225fc61b60a6bb8',1,'coap_context_t']]],
+  ['resources_5fadd_1329',['RESOURCES_ADD',['../resource_8h.html#a15958c8e0206576186380e783bca59f3',1,'resource.h']]],
+  ['resources_5fdelete_1330',['RESOURCES_DELETE',['../resource_8h.html#af3a9ffcab8f22609f9786d0b63098009',1,'resource.h']]],
+  ['resources_5ffind_1331',['RESOURCES_FIND',['../resource_8h.html#a922414123af335d7015cc68ca1cfc765',1,'resource.h']]],
+  ['resources_5fiter_1332',['RESOURCES_ITER',['../resource_8h.html#afbf6d1376ab4eec0d503f47281877f4c',1,'resource.h']]],
+  ['respond_5ft_1333',['respond_t',['../net_8c.html#a19fccec23349a25f5daa69fc231cb415',1,'net.c']]],
+  ['response_5fdefault_1334',['RESPONSE_DEFAULT',['../net_8c.html#a19fccec23349a25f5daa69fc231cb415a9eb4b37c5646776d1ad24355b3a6f745',1,'net.c']]],
+  ['response_5fdrop_1335',['RESPONSE_DROP',['../net_8c.html#a19fccec23349a25f5daa69fc231cb415a94a97210dbcb738d9af4fd0de5f0aeff',1,'net.c']]],
+  ['response_5fhandler_1336',['response_handler',['../structcoap__context__t.html#aaeae5156b5641ce3a0bb6d13f5c226d2',1,'coap_context_t']]],
+  ['response_5fsend_1337',['RESPONSE_SEND',['../net_8c.html#a19fccec23349a25f5daa69fc231cb415aa8afbd3e995f285f48169283105947e4',1,'net.c']]],
+  ['retransmit_5fcnt_1338',['retransmit_cnt',['../structcoap__queue__t.html#aff24f5a43b3d2182535bc7bd2b5f5341',1,'coap_queue_t']]],
+  ['rol_1339',['rol',['../murmur3_8c.html#a02407140a364ff1c91fd7f676180a597',1,'murmur3.c']]]
+];

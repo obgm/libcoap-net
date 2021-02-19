@@ -1,0 +1,8 @@
+<map id="coap_session_refresh_psk_hint" name="coap_session_refresh_psk_hint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,155,65"/>
+<area shape="rect" id="node2" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="203,5,357,32"/>
+<area shape="rect" id="node4" href="$group__string.html#ga6f274b4a0278e936ebb2c64efc890e22" title="Take the specified byte array (text) and create a coap_bin_const_t * Returns a new const binary objec..." alt="" coords="208,56,352,83"/>
+<area shape="rect" id="node3" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="410,5,521,32"/>
+<area shape="rect" id="node5" href="$group__string.html#ga48a2c3c1cc1cf95fc8443179c081ccb1" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="405,56,525,83"/>
+<area shape="rect" id="node6" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="573,56,700,83"/>
+</map>

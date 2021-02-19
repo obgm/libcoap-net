@@ -1,0 +1,6 @@
+<map id="coap_resource_set_dirty" name="coap_resource_set_dirty">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,169,39"/>
+<area shape="rect" id="node2" href="$group__observe.html#ga0a053626d2f222a32cc96c4a3dd9902f" title="Initiate the sending of an Observe packet for all observers of resource, optionally matching query if..." alt="" coords="217,5,364,47"/>
+<area shape="rect" id="node3" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title=" " alt="" coords="412,13,556,39"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#ae0cc13e29656551862a46150320f9390" title=" " alt="" coords="604,5,744,47"/>
+</map>

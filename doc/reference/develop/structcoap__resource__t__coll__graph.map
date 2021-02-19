@@ -1,0 +1,28 @@
+<map id="coap_resource_t" name="coap_resource_t">
+<area shape="rect" id="node1" title=" " alt="" coords="559,737,677,764"/>
+<area shape="rect" id="node6" href="$structcoap__context__t.html" title="The CoAP stack&#39;s global state is stored in a coap_context_t object." alt="" coords="854,741,965,768"/>
+<area shape="rect" id="node2" href="$structcoap__str__const__t.html" title="CoAP string data definition with const data." alt="" coords="6,744,129,771"/>
+<area shape="rect" id="node26" href="$structcoap__attr__t.html" title=" " alt="" coords="257,699,343,725"/>
+<area shape="rect" id="node3" href="$structUT__hash__handle.html" title=" " alt="" coords="240,151,360,177"/>
+<area shape="rect" id="node4" href="$structUT__hash__table.html" title=" " alt="" coords="854,61,965,88"/>
+<area shape="rect" id="node5" href="$structUT__hash__bucket.html" title=" " alt="" coords="557,123,679,149"/>
+<area shape="rect" id="node8" href="$structcoap__session__t.html" title=" " alt="" coords="1673,656,1786,683"/>
+<area shape="rect" id="node20" href="$structcoap__cache__entry__t.html" title=" " alt="" coords="1913,275,2052,301"/>
+<area shape="rect" id="node17" href="$structcoap__endpoint__t.html" title="Abstraction of virtual endpoint that can be attached to coap_context_t." alt="" coords="1076,747,1193,773"/>
+<area shape="rect" id="node7" href="$structcoap__queue__t.html" title="Queue entry." alt="" coords="1931,656,2034,683"/>
+<area shape="rect" id="node16" href="$structcoap__socket__t.html" title=" " alt="" coords="1381,708,1488,735"/>
+<area shape="rect" id="node22" href="$structcoap__async__state__t.html" title=" " alt="" coords="1913,927,2052,953"/>
+<area shape="rect" id="node23" href="$structcoap__subscription__t.html" title="Subscriber information." alt="" coords="1913,1097,2052,1124"/>
+<area shape="rect" id="node9" href="$structcoap__address__t.html" title="multi&#45;purpose address abstraction" alt="" coords="852,504,967,531"/>
+<area shape="rect" id="node10" href="$structcoap__addr__tuple__t.html" title=" " alt="" coords="1217,408,1345,435"/>
+<area shape="rect" id="node11" href="$structcoap__pdu__t.html" title="structure for CoAP PDUs token, if any, follows the fixed size header, then options until payload mark..." alt="" coords="1390,340,1479,367"/>
+<area shape="rect" id="node12" href="$structcoap__bin__const__t.html" title="CoAP binary data definition with const data." alt="" coords="5,987,129,1013"/>
+<area shape="rect" id="node14" href="$structcoap__dtls__cpsk__info__t.html" title="The structure that holds the Client PSK information." alt="" coords="224,1075,376,1101"/>
+<area shape="rect" id="node18" href="$structcoap__dtls__spsk__t.html" title="The structure used for defining the Server PSK setup data to be used." alt="" coords="556,897,680,924"/>
+<area shape="rect" id="node19" href="$structcoap__dtls__spsk__info__t.html" title="The structure that holds the Server Pre&#45;Shared Key and Identity Hint information." alt="" coords="224,959,376,985"/>
+<area shape="rect" id="node13" href="$structcoap__dtls__cpsk__t.html" title="The structure used for defining the Client PSK setup data to be used." alt="" coords="704,1107,828,1133"/>
+<area shape="rect" id="node15" href="$structcoap__fixed__point__t.html" title="Abstraction of a fixed point number that can be used where necessary instead of a float." alt="" coords="1369,555,1500,581"/>
+<area shape="rect" id="node21" href="$structcoap__cache__key__t.html" title=" " alt="" coords="1664,224,1795,251"/>
+<area shape="rect" id="node24" href="$structcoap__block__t.html" title="Structure of Block options." alt="" coords="1680,1072,1779,1099"/>
+<area shape="rect" id="node25" href="$structcoap__string__t.html" title="CoAP string data definition." alt="" coords="1679,1173,1779,1200"/>
+</map>

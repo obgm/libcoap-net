@@ -1,0 +1,4 @@
+<map id="coap_mfree_endpoint" name="coap_mfree_endpoint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="200,5,311,32"/>
+</map>

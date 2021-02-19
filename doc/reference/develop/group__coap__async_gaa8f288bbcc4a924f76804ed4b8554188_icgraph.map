@@ -1,0 +1,4 @@
+<map id="coap_find_async" name="coap_find_async">
+<area shape="rect" id="node1" title="Retrieves the object identified by id from the list of asynchronous transactions that are registered ..." alt="" coords="196,5,316,32"/>
+<area shape="rect" id="node2" href="$group__coap__async.html#gadec4e4c177dd62a1853360ddbf69258e" title="Removes the state object identified by id from context." alt="" coords="5,5,148,32"/>
+</map>

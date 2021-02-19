@@ -1,0 +1,7 @@
+<map id="coap_new_str_const" name="coap_new_str_const">
+<area shape="rect" id="node1" title="Returns a new const string object with at least size+1 bytes storage allocated, and the provided data..." alt="" coords="244,85,387,112"/>
+<area shape="rect" id="node2" href="$group__coap__resource.html#gaac85024611363b1353997dc9752a9169" title="Registers a new attribute with the given resource." alt="" coords="49,5,153,32"/>
+<area shape="rect" id="node3" href="$group__coap__resource.html#ga96916a1d29ffa358a45e8ee9f50dbb9e" title="Creates a new resource object and initializes the link field to the string uri_path." alt="" coords="35,56,166,83"/>
+<area shape="rect" id="node4" href="$group__coap__resource.html#ga0dea65613e61b49b85fe9dc4002d542d" title="Creates a new resource object for handling proxy URIs." alt="" coords="27,107,174,149"/>
+<area shape="rect" id="node5" href="$group__coap__resource.html#ga8214c7bdaede14cf652dcd93fb70cc83" title="Creates a new resource object for the unknown resource handler with support for PUT." alt="" coords="5,173,196,200"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="coap_session_create_client" name="coap_session_create_client">
+<area shape="rect" id="node1" title=" " alt="" coords="507,49,652,90"/>
+<area shape="rect" id="node2" href="$coap__session_8c.html#ad495fcd405fa86859fa36d45f89be910" title="Creates a new client session to the designated server." alt="" coords="270,5,441,32"/>
+<area shape="rect" id="node3" href="$coap__session_8c.html#ac63f29af82e4d3160c59b8451aa5868c" title="Creates a new client session to the designated server with PKI credentials." alt="" coords="258,56,453,83"/>
+<area shape="rect" id="node4" href="$coap__session_8c.html#a72062f436d246bf3e91f92c12b2990a6" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="252,107,459,133"/>
+<area shape="rect" id="node5" href="$coap__session_8c.html#a40790c70df0b38fe89f3fb2ad255d662" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="5,107,204,133"/>
+</map>

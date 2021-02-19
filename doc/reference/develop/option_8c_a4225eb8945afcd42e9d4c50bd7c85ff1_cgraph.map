@@ -1,0 +1,6 @@
+<map id="coap_option_filter_op" name="coap_option_filter_op">
+<area shape="rect" id="node1" title="Applies op on filter with respect to type." alt="" coords="5,31,151,57"/>
+<area shape="rect" id="node2" href="$encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="216,5,287,32"/>
+<area shape="rect" id="node4" href="$option_8c.html#a2be7abc95dd3dfc1f1f3f4268ce41101" title="Returns true iff type denotes an option type larger than 255." alt="" coords="199,56,304,83"/>
+<area shape="rect" id="node3" href="$encode_8c.html#a5732d87decbffe771159ea02a5e25488" title=" " alt="" coords="352,5,429,32"/>
+</map>

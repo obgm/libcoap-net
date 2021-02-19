@@ -1,0 +1,5 @@
+<map id="coap_dtls_context_check_keys_enabled" name="coap_dtls_context_check_keys_enabled">
+<area shape="rect" id="node1" title=" " alt="" coords="369,5,540,47"/>
+<area shape="rect" id="node2" href="$coap__session_8c.html#ab5232b5141e191638ee6b7da6239dd1b" title="Create a new endpoint for communicating with peers." alt="" coords="184,13,321,39"/>
+<area shape="rect" id="node3" href="$net_8c.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,13,136,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="coap_touch_async" name="coap_touch_async">
+<area shape="rect" id="node1" title="Updates the time stamp of s." alt="" coords="196,5,327,32"/>
+<area shape="rect" id="node2" href="$group__coap__async.html#ga2036036f8a838be7e64938ce733d1600" title="Allocates a new coap_async_state_t object and fills its fields according to the given request." alt="" coords="5,5,148,32"/>
+</map>
