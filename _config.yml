@@ -36,9 +36,10 @@ header_pages:
   - contribute.md
 
 # The version numbers for available doxygen-generated API references
-# in the path doc/reference. The first entry should be the most recent
-# release.
+# in the path doc/reference. The first entry should be develop, followed
+# by the most recent release.
 versions:
+  - develop
   - 4.2.1
   - 4.2.0
   - 4.1.2
