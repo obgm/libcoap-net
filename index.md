@@ -2,6 +2,13 @@
 layout: home
 ---
 
+<!--
+<div class="alert alert-dismissible alert-success">
+<button type="button" class="close" data-dismiss="alert">&times;</button>
+<a href="//github.com/obgm/libcoap/releases/tag/v4.3.0" class="alert-link">Version 4.3</a> is out! <strong>Try now!</strong>
+ </div>
+ -->
+
 <div class="jumbotron">
 
   <h1>C-Implementation of CoAP</h1>
@@ -59,11 +66,13 @@ layout: home
           <h4 class="card-title">CoAP-Extensions</h4>
           <p class="card-text">The library provides the core functionality for development of
           resource-efficient CoAP servers and clients, including
-          <a href="//tools.ietf.org/html/rfc7641">resource observation</a> and
+          <a href="//tools.ietf.org/html/rfc7641">resource observation</a>,
           <a href="//tools.ietf.org/html/rfc7959">block-wise transfer</a>,
           <a href="//tools.ietf.org/html/rfc8132">FETCH/PATCH</a>,
-          <a href="https://tools.ietf.org/html/rfc7967">No-Response</a>, and
-          <a href="https://tools.ietf.org/html/rfc8323">TCP</a>.  Example
+          <a href="https://tools.ietf.org/html/rfc7967">No-Response</a>,
+          <a href="https://tools.ietf.org/html/rfc8323">TCP</a>, and
+          <a href="//tools.ietf.org/html/rfc8768">Hop-Limit</a>.
+          Example
           implementations show how these features can be used in applications.
           </p>
         </div>
