@@ -1,0 +1,5 @@
+<map id="print_timestamp" name="print_timestamp">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,120,57"/>
+<area shape="rect" id="node2" href="$group__clock.html#gaaa7cb35533d86c8f87eac2ad42de0323" title="Helper function that converts coap ticks to wallclock time." alt="" coords="178,5,297,32"/>
+<area shape="rect" id="node3" href="$group__clock.html#gaefd1d943d41dc7a8c32188741bad4844" title="Helper function that converts coap ticks to POSIX wallclock time in us." alt="" coords="168,56,307,83"/>
+</map>

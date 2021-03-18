@@ -269,7 +269,7 @@
 <!-- Node15 -->
 <g id="node15" class="node">
 <title>Node15</title>
-<g id="a_node15"><a xlink:href="resource_8c.html#a6fe7101754779c34807bf00b87ee5f0b" target="_top" xlink:title=" ">
+<g id="a_node15"><a xlink:href="group__subscribe__internal.html#ga6fe7101754779c34807bf00b87ee5f0b" target="_top" xlink:title="Handles a failed observe notify.">
 <polygon fill="white" stroke="black" points="867,-0.5 867,-30.5 967,-30.5 967,-0.5 867,-0.5"/>
 <text text-anchor="start" x="875" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">coap_handle_failed</text>
 <text text-anchor="middle" x="917" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">_notify</text>
@@ -285,7 +285,7 @@
 <!-- Node16 -->
 <g id="node16" class="node">
 <title>Node16</title>
-<g id="a_node16"><a xlink:href="net_8c.html#a9900c032b74bd57f67d489484a2b3207" target="_top" xlink:title="Handles retransmissions of confirmable messages.">
+<g id="a_node16"><a xlink:href="net_8c.html#aad5ccd0b3161f63c0854c2624e892ef4" target="_top" xlink:title="Handles retransmissions of confirmable messages.">
 <polygon fill="white" stroke="black" points="736,-6 736,-25 822,-25 822,-6 736,-6"/>
 <text text-anchor="middle" x="779" y="-13" font-family="Helvetica,sans-Serif" font-size="10.00">coap_retransmit</text>
 </a>

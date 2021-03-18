@@ -21,7 +21,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="pdu_8c.html#a8a1f5754d3309fd2880ee8a91607cfc1" target="_top" xlink:title="Creates a new CoAP PDU with at least enough storage space for the given size maximum message size.">
+<g id="a_node2"><a xlink:href="pdu_8c.html#a625218767454d56ef567daa6a57ccdf2" target="_top" xlink:title="Creates a new CoAP PDU with at least enough storage space for the given size maximum message size.">
 <polygon fill="white" stroke="black" points="152,-38.5 152,-57.5 229,-57.5 229,-38.5 152,-38.5"/>
 <text text-anchor="middle" x="190.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">coap_pdu_init</text>
 </a>

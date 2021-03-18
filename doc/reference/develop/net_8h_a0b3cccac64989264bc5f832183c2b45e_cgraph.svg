@@ -21,7 +21,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="coap__notls_8c.html#a8d1c5d65008b6d71067856515eb3e595" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="coap__notls_8c.html#a0a8b7d85235bf166bf475c6c745a9f3d" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="156,-38.5 156,-57.5 297,-57.5 297,-38.5 156,-38.5"/>
 <text text-anchor="middle" x="226.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">coap_dtls_context_set_spsk</text>
 </a>

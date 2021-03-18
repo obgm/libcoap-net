@@ -1,0 +1,4 @@
+<map id="coap_delete_pdu" name="coap_delete_pdu">
+<area shape="rect" id="node1" title="Dispose of an CoAP PDU and frees associated storage." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node2" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="173,5,284,32"/>
+</map>

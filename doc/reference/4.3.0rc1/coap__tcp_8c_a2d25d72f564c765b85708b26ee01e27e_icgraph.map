@@ -1,0 +1,10 @@
+<map id="coap_tcp_is_supported" name="coap_tcp_is_supported">
+<area shape="rect" id="node1" title="Check whether TCP is available." alt="" coords="700,56,856,83"/>
+<area shape="rect" id="node2" href="$coap__session_8c.html#ab5232b5141e191638ee6b7da6239dd1b" title="Create a new endpoint for communicating with peers." alt="" coords="511,16,648,43"/>
+<area shape="rect" id="node4" href="$coap__session_8c.html#a78865254d0191854b0b7c35f28eefe71" title=" " alt="" coords="507,78,652,119"/>
+<area shape="rect" id="node3" href="$net_8c.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="290,5,421,32"/>
+<area shape="rect" id="node5" href="$coap__session_8c.html#ad495fcd405fa86859fa36d45f89be910" title="Creates a new client session to the designated server." alt="" coords="270,56,441,83"/>
+<area shape="rect" id="node6" href="$coap__session_8c.html#ac63f29af82e4d3160c59b8451aa5868c" title="Creates a new client session to the designated server with PKI credentials." alt="" coords="258,107,453,133"/>
+<area shape="rect" id="node7" href="$coap__session_8c.html#a72062f436d246bf3e91f92c12b2990a6" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="252,157,459,184"/>
+<area shape="rect" id="node8" href="$coap__session_8c.html#a40790c70df0b38fe89f3fb2ad255d662" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="5,157,204,184"/>
+</map>

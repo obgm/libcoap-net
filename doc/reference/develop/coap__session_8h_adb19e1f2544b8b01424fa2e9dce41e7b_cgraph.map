@@ -1,11 +1,10 @@
 <map id="coap_session_write" name="coap_session_write">
 <area shape="rect" id="node1" title="Function interface for stream data transmission." alt="" coords="5,56,143,83"/>
 <area shape="rect" id="node2" href="$group__logging.html#ga8b690dbed6cc3a5beb81ba5d2d27d290" title="Get session description." alt="" coords="194,5,318,32"/>
-<area shape="rect" id="node5" href="$coap__io_8c.html#a53d8fd138fc5bf331c2bf71d72ac4848" title=" " alt="" coords="191,56,321,83"/>
-<area shape="rect" id="node9" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution." alt="" coords="213,107,299,133"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#a53d8fd138fc5bf331c2bf71d72ac4848" title=" " alt="" coords="191,56,321,83"/>
+<area shape="rect" id="node8" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution." alt="" coords="213,107,299,133"/>
 <area shape="rect" id="node3" href="$group__logging.html#ga6a4f5ef637bf85aa161adfe73ac81ff0" title="Print the address into the defined buffer." alt="" coords="384,5,499,32"/>
-<area shape="rect" id="node4" href="$coap__debug_8c.html#aaa5ee5c2942fe13271a46000b2aebde6" title="A length&#45;safe strlen() fake." alt="" coords="601,5,662,32"/>
-<area shape="rect" id="node6" href="$coap__io_8h.html#ada1a4c92a688b7940a0ee02566157638" title=" " alt="" coords="373,56,510,83"/>
-<area shape="rect" id="node7" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title=" " alt="" coords="369,107,513,133"/>
-<area shape="rect" id="node8" href="$coap__io_8c.html#ae0cc13e29656551862a46150320f9390" title=" " alt="" coords="561,99,701,141"/>
+<area shape="rect" id="node5" href="$coap__io_8h.html#ada1a4c92a688b7940a0ee02566157638" title=" " alt="" coords="373,56,510,83"/>
+<area shape="rect" id="node6" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title=" " alt="" coords="369,107,513,133"/>
+<area shape="rect" id="node7" href="$coap__io_8c.html#ae0cc13e29656551862a46150320f9390" title=" " alt="" coords="561,99,701,141"/>
 </map>

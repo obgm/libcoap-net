@@ -36,7 +36,7 @@
 <!-- Node13 -->
 <g id="node13" class="node">
 <title>Node13</title>
-<g id="a_node13"><a xlink:href="net_8c.html#a9900c032b74bd57f67d489484a2b3207" target="_top" xlink:title="Handles retransmissions of confirmable messages.">
+<g id="a_node13"><a xlink:href="net_8c.html#aad5ccd0b3161f63c0854c2624e892ef4" target="_top" xlink:title="Handles retransmissions of confirmable messages.">
 <polygon fill="white" stroke="black" points="736,-1.5 736,-20.5 822,-20.5 822,-1.5 736,-1.5"/>
 <text text-anchor="middle" x="779" y="-8.5" font-family="Helvetica,sans-Serif" font-size="10.00">coap_retransmit</text>
 </a>

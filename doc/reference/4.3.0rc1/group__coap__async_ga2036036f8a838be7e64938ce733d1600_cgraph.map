@@ -1,0 +1,8 @@
+<map id="coap_register_async" name="coap_register_async">
+<area shape="rect" id="node1" title="Allocates a new coap_async_state_t object and fills its fields according to the given request." alt="" coords="5,56,148,83"/>
+<area shape="rect" id="node2" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility." alt="" coords="230,5,325,32"/>
+<area shape="rect" id="node4" href="$coap__session_8c.html#a678a93d1dd7e1a9a52f4686778eef95b" title="Increment reference counter on a session." alt="" coords="196,56,359,83"/>
+<area shape="rect" id="node5" href="$group__coap__async.html#ga45f50bcf81bc5fb17a3ee9907e7beae7" title="Updates the time stamp of s." alt="" coords="212,107,343,133"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="407,5,533,32"/>
+<area shape="rect" id="node6" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution." alt="" coords="427,107,513,133"/>
+</map>

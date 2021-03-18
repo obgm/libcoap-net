@@ -66,7 +66,7 @@
 <!-- Node5 -->
 <g id="node5" class="node">
 <title>Node5</title>
-<g id="a_node5"><a xlink:href="group__coap__prng.html#gae0a5c5df7bb5bb749e0cd784495a2970" target="_top" xlink:title="Seeds the default random number generation function with the given seed.">
+<g id="a_node5"><a xlink:href="group__coap__prng.html#gad76671795963d06c73340041e54f63f2" target="_top" xlink:title="Seeds the default random number generation function with the given seed.">
 <polygon fill="white" stroke="black" points="121,-76.5 121,-95.5 201,-95.5 201,-76.5 121,-76.5"/>
 <text text-anchor="middle" x="161" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">coap_prng_init</text>
 </a>

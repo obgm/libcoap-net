@@ -1,0 +1,5 @@
+<map id="coap_add_data_large_internal" name="coap_add_data_large_internal">
+<area shape="rect" id="node1" title="The function that does all the work for the coap_add_data_large*() functions." alt="" coords="199,39,344,80"/>
+<area shape="rect" id="node2" href="$group__block.html#gaf536a781f012d0f900c2877a637a8f67" title="Associates given data with the pdu that is passed as second parameter." alt="" coords="5,5,151,47"/>
+<area shape="rect" id="node3" href="$group__block.html#ga7d813ed56aaec4ff99782060dbe28e6b" title="Associates given data with the response pdu that is passed as fourth parameter." alt="" coords="5,71,151,112"/>
+</map>

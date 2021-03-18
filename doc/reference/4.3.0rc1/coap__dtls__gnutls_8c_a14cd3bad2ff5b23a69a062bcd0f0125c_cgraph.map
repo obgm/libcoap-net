@@ -1,0 +1,6 @@
+<map id="coap_dtls_free_context" name="coap_dtls_free_context">
+<area shape="rect" id="node1" title="Releases the storage allocated for dtls_context." alt="" coords="5,31,163,57"/>
+<area shape="rect" id="node2" href="$coap__dtls__gnutls_8c.html#a89102d85f6cce550adf91b075a6326c7" title=" " alt="" coords="211,5,369,32"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility." alt="" coords="251,56,329,83"/>
+<area shape="rect" id="node4" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="417,56,528,83"/>
+</map>
