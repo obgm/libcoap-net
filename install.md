@@ -47,6 +47,7 @@ requires [cunit](http://cunit.sourceforge.net/) and its header files.
   switches allow selecting a specific DTLS library manually:
     * ```--with-gnutls``` select a GnuTLS library.
     * ```--with-openssl``` select an OpenSSL library.
+    * ```--with-mbedtls``` select an Mbed TLS library.
     * ```--with-tinydtls``` select tinyDTLS.
 * ```--enable-gcov``` enable gcov test coverage support.
 

@@ -106,7 +106,7 @@ layout: home
           <h4 class="card-title">TLS-Support</h4>
           <p class="card-text">The library is designed to support transport
           layer security utilizing frameworks such as <a href="//gnutls.org">GnuTLS</a>,
-          <a href="//openssl.org">OpenSSL</a>, or
+          <a href="//openssl.org">OpenSSL</a>, <a href="//tls.mbed.org">Mbed TLS</a>, or
           <a href="//www.eclipse.org/tinydtls">tinydtls</a>.
           </p>
         </div>
