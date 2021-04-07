@@ -11,7 +11,7 @@ Latest development releases are available as package for
 [download](https://github.com/obgm/libcoap/archive/develop.zip), or from the
 [git repository](https://github.com/obgm/libcoap.git).
 
-There is also a [stable master version](https://github.com/obgm/libcoap/archive/master.zip) which can also be cloned from [git](https://github.com/obgm/libcoap.git).
+There is also a [stable version](https://github.com/obgm/libcoap/archive/main.zip) which can also be cloned from [git](https://github.com/obgm/libcoap.git).
 
 (Note that the former SF repository is outdated.)
 

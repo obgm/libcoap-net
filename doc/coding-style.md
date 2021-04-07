@@ -2,7 +2,7 @@
 title: Coding Style
 ---
 You can find the official libcoap coding style in the file
-[CONTRIBUTE](//raw.githubusercontent.com/obgm/libcoap/master/CONTRIBUTE).
+[CONTRIBUTE](//raw.githubusercontent.com/obgm/libcoap/main/CONTRIBUTE).
 The following cites the most important parts:
 
 ```

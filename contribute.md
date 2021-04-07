@@ -29,7 +29,7 @@ title: Get Involved
 
     <h2>Fix Bugs</h2>
     <p>
-      If you encounter bugs in the master tree please include a patch or
+      If you encounter bugs in the main tree please include a patch or
       a link to your fork with your bug tracker ticket. You can also
       start a discussion on the
       <a href="https://lists.sourceforge.net/lists/listinfo/libcoap-developers">mailing list</a>.
@@ -102,7 +102,7 @@ title: Get Involved
     <p>
       libcoap follows a branching model presented in
       <a href="//nvie.com/posts/a-successful-git-branching-model/">this post</a>
-      by Vincent Driessen. The main branches are the <code>master</code>
+      by Vincent Driessen. The main branches are the <code>main</code>
       where stable releases go. A release being in preparation
       lives in branch <code>release</code>, while the current development
       branch is <code>develop</code>.
