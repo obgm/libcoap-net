@@ -1,9 +1,0 @@
-<map id="coap_debug_send_packet" name="coap_debug_send_packet">
-<area shape="rect" id="node1" title="Check to see whether a packet should be sent or not." alt="" coords="811,31,984,57"/>
-<area shape="rect" id="node2" href="$coap__io_8c.html#a9e9bc78d20872c6ea9cb8dddfcea45ad" title=" " alt="" coords="624,31,763,57"/>
-<area shape="rect" id="node3" href="$net_8c.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="445,5,576,32"/>
-<area shape="rect" id="node4" href="$coap__dtls__gnutls_8c.html#aa05cb2c6f902d70c2c0797fa604dd2d4" title=" " alt="" coords="447,56,575,83"/>
-<area shape="rect" id="node5" href="$coap__dtls__gnutls_8c.html#a2e333b0d5a6d15a048071f654f7391bc" title=" " alt="" coords="236,56,397,83"/>
-<area shape="rect" id="node6" href="$coap__dtls__gnutls_8c.html#a1208fe255ba461cb9d369a83bbc0f98b" title=" " alt="" coords="19,31,174,57"/>
-<area shape="rect" id="node7" href="$coap__dtls__gnutls_8c.html#a174ab9010def9c77272219cabba1b48e" title=" " alt="" coords="5,81,188,108"/>
-</map>

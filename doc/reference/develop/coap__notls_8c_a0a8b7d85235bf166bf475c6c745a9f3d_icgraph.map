@@ -1,5 +1,0 @@
-<map id="coap_dtls_context_set_spsk" name="coap_dtls_context_set_spsk">
-<area shape="rect" id="node1" title=" " alt="" coords="415,5,603,32"/>
-<area shape="rect" id="node2" href="$net_8c.html#abd1ee2febcc3035e3e4f4b4cb1c7320f" title="Set the context&#39;s default PSK hint and/or key for a server." alt="" coords="207,5,367,32"/>
-<area shape="rect" id="node3" href="$net_8c.html#aad4939d0311c2ba59cb097bc236fada1" title="Set the context&#39;s default PSK hint and/or key for a server." alt="" coords="5,5,159,32"/>
-</map>

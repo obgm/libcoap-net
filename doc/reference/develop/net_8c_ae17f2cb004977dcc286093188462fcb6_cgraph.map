@@ -1,5 +1,0 @@
-<map id="coap_join_mcast_group" name="coap_join_mcast_group">
-<area shape="rect" id="node1" title="Function interface for joining a multicast group for listening." alt="" coords="5,13,164,39"/>
-<area shape="rect" id="node2" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title=" " alt="" coords="212,13,356,39"/>
-<area shape="rect" id="node3" href="$coap__io_8c.html#ae0cc13e29656551862a46150320f9390" title=" " alt="" coords="404,5,544,47"/>
-</map>

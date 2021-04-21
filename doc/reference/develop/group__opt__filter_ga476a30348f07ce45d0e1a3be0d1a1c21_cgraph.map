@@ -1,5 +1,0 @@
-<map id="coap_delete_optlist" name="coap_delete_optlist">
-<area shape="rect" id="node1" title="Removes all entries from the optlist_chain, freeing off their memory usage." alt="" coords="5,5,140,32"/>
-<area shape="rect" id="node2" href="$option_8c.html#a7f99f0a8dd81b5ee7824871ebfc384d7" title=" " alt="" coords="188,5,329,32"/>
-<area shape="rect" id="node3" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="377,5,488,32"/>
-</map>

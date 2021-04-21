@@ -1,7 +1,0 @@
-<map id="coap_new_bin_const" name="coap_new_bin_const">
-<area shape="rect" id="node1" title="Take the specified byte array (text) and create a coap_bin_const_t * Returns a new const binary objec..." alt="" coords="507,64,651,91"/>
-<area shape="rect" id="node2" href="$coap__session_8c.html#a72062f436d246bf3e91f92c12b2990a6" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="252,5,459,32"/>
-<area shape="rect" id="node4" href="$coap__session_8c.html#a241d1a2311c1dcbdca0e6860237acf91" title=" " alt="" coords="281,57,430,98"/>
-<area shape="rect" id="node5" href="$coap__session_8c.html#aa40e39af285755517824c26095494f91" title=" " alt="" coords="281,122,430,163"/>
-<area shape="rect" id="node3" href="$coap__session_8c.html#a40790c70df0b38fe89f3fb2ad255d662" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="5,5,204,32"/>
-</map>

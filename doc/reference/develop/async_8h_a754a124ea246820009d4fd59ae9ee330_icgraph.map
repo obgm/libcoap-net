@@ -1,5 +1,0 @@
-<map id="coap_delete_all_async" name="coap_delete_all_async">
-<area shape="rect" id="node1" title="Removes and frees off all of the async entries for the given context." alt="" coords="361,5,516,32"/>
-<area shape="rect" id="node2" href="$net_8c.html#a4a0717822713783908dd33d300440b2e" title="CoAP stack context must be released with coap_free_context()." alt="" coords="184,5,313,32"/>
-<area shape="rect" id="node3" href="$net_8c.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,5,136,32"/>
-</map>
