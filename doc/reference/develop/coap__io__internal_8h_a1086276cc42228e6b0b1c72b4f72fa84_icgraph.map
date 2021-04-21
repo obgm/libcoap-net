@@ -1,0 +1,8 @@
+<map id="coap_socket_connect_udp" name="coap_socket_connect_udp">
+<area shape="rect" id="node1" title=" " alt="" coords="700,56,877,83"/>
+<area shape="rect" id="node2" href="$coap__session_8c.html#a78865254d0191854b0b7c35f28eefe71" title=" " alt="" coords="507,49,652,90"/>
+<area shape="rect" id="node3" href="$group__session.html#ga6c9b57585703c357b0222b674044a88d" title="Creates a new client session to the designated server." alt="" coords="270,5,441,32"/>
+<area shape="rect" id="node4" href="$group__session.html#ga9ce8da7d62a9c35be01208c44e8c7737" title="Creates a new client session to the designated server with PKI credentials." alt="" coords="258,56,453,83"/>
+<area shape="rect" id="node5" href="$group__session.html#gac9d4dbb58c94b63231d615fe27203939" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="252,107,459,133"/>
+<area shape="rect" id="node6" href="$group__session.html#ga5faf4dd14fcee5d87dd71eacfddf255a" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="5,107,204,133"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="coap_flsll" name="coap_flsll">
+<area shape="rect" id="node1" title=" " alt="" coords="2753,93,2831,120"/>
+<area shape="rect" id="node2" href="$group__block__internal.html#gace4569ef706d5f12a1cadbdf094ff642" title="The function that does all the work for the coap_add_data_large*() functions." alt="" coords="977,363,1122,405"/>
+<area shape="rect" id="node5" href="$encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="2635,515,2705,541"/>
+<area shape="rect" id="node39" href="$group__block.html#gae1451ec6a5dcc209ed79d6e571fb42fc" title="Writes a block option of type number to message pdu." alt="" coords="1187,195,1335,221"/>
+<area shape="rect" id="node3" href="$group__block.html#ga3a61452ba1ed089d35961a6eeb035a6a" title="Associates given data with the pdu that is passed as second parameter." alt="" coords="762,363,907,405"/>
+<area shape="rect" id="node4" href="$group__block.html#ga3a48d637ae3bcc82bee88de9d12b35aa" title="Associates given data with the response pdu that is passed as fourth parameter." alt="" coords="762,191,907,233"/>
+<area shape="rect" id="node6" href="$option_8c.html#ab87ea79da1603a15ac624388a335bba6" title="Applies op on filter with respect to number." alt="" coords="2441,996,2587,1023"/>
+<area shape="rect" id="node7" href="$group__opt__filter.html#gaecbb0b2fe1f6244aa6121d019070704b" title="Checks if number is contained in filter." alt="" coords="2244,1408,2393,1435"/>
+<area shape="rect" id="node46" href="$group__opt__filter.html#gafdbe6036d408220bbfa6eb2d7bd2443f" title="Sets the corresponding entry for number in filter." alt="" coords="2047,860,2196,887"/>
+<area shape="rect" id="node49" href="$group__opt__filter.html#ga9fba33df6876f251ae59678a83508ac4" title="Clears the corresponding entry for number in filter." alt="" coords="2257,1029,2381,1070"/>
+<area shape="rect" id="node8" href="$group__context__internal.html#ga9c6736c0418c3adf5e7f6fb76f000cfe" title="Verifies that pdu contains no unknown critical options." alt="" coords="1820,1965,1999,1992"/>
+<area shape="rect" id="node12" href="$option_8h.html#ac5fc3bfd63de8d75d6481346479d7700" title="Gets the corresponding bit for type in filter." alt="" coords="2059,1611,2183,1637"/>
+<area shape="rect" id="node13" href="$group__opt__filter.html#ga182fdeffe0b37e1ab0dc6ba8494abe4a" title="Updates the iterator oi to point to the next option." alt="" coords="2059,1408,2183,1435"/>
+<area shape="rect" id="node36" href="$group__pdu.html#ga033bc2aee1e6e61b89fc308df12548f8" title="Duplicate an existing PDU." alt="" coords="981,1256,1118,1283"/>
+<area shape="rect" id="node9" href="$group__context__internal.html#ga7bb944fc52f772655356d95724317401" title="Dispatches the PDUs from the receive queue in given context." alt="" coords="430,1712,537,1739"/>
+<area shape="rect" id="node10" href="$group__context__internal.html#gae6b8ca457dd41f23372f9e9a7159312b" title="Parses and interprets a CoAP datagram with context ctx." alt="" coords="229,1687,368,1713"/>
+<area shape="rect" id="node11" href="$net_8c.html#acd36f6fba6d30ab9557e0e6521f4a088" title=" " alt="" coords="231,1737,366,1764"/>
+<area shape="rect" id="node14" href="$group__cache.html#ga8101e198de5e07d24c3ad1b37b128302" title="Calculates a cache&#45;key for the given CoAP PDU." alt="" coords="1828,1611,1991,1637"/>
+<area shape="rect" id="node17" href="$group__opt__filter.html#ga7ba272705b429d7ca95f7a520d110c53" title="Retrieves the first option of number number from pdu." alt="" coords="1842,885,1977,912"/>
+<area shape="rect" id="node20" href="$group__block__internal.html#gaf4cfc8b0c6f21154f5631288b37030d5" title=" " alt="" coords="762,827,907,869"/>
+<area shape="rect" id="node25" href="$group__pdu__internal.html#ga24f3c35d834ec06d051a05a2572efb62" title="Inserts option of given number in the pdu with the appropriate data." alt="" coords="1405,987,1535,1013"/>
+<area shape="rect" id="node33" href="$net_8c.html#ac4cbcfd073489b57805db665ce3d0681" title=" " alt="" coords="775,1864,894,1891"/>
+<area shape="rect" id="node35" href="$group__context.html#ga12cbba976e83626df636103f697e269d" title="Creates a new ACK PDU with specified error code." alt="" coords="1383,1560,1557,1587"/>
+<area shape="rect" id="node41" href="$group__uri__parse.html#ga15cc296560619b6f9b80d9005a000167" title="Extract query string from request PDU according to escape rules in 6.5.8." alt="" coords="1852,1243,1967,1269"/>
+<area shape="rect" id="node42" href="$group__uri__parse.html#ga062095681104f3175b8265e240989ade" title="Extract uri_path string from request PDU." alt="" coords="1845,835,1973,861"/>
+<area shape="rect" id="node43" href="$group__pdu__internal.html#ga2724423f9010fa6fc8e697365a932d9c" title="Removes (first) option of given number from the pdu." alt="" coords="1189,1712,1332,1739"/>
+<area shape="rect" id="node45" href="$group__logging.html#ga3123fcde8310c0f7cb48897a683baef6" title="Display the contents of the specified pdu." alt="" coords="1203,1053,1319,1080"/>
+<area shape="rect" id="node15" href="$group__cache.html#ga13c59dcaba2fc8b10653a483227f7347" title="Searches for a cache&#45;entry corresponding to pdu." alt="" coords="1605,1611,1772,1637"/>
+<area shape="rect" id="node16" href="$group__cache.html#gaa1fff4be228b51f08a9dba8dcb78f9c0" title="Create a new cache&#45;entry hash keyed by cache&#45;key derived from the PDU." alt="" coords="1609,1661,1768,1688"/>
+<area shape="rect" id="node18" href="$group__pdu.html#ga9a5c9d83499b048b28d657abde04768b" title="Adds option of given number to pdu that is passed as first parameter." alt="" coords="1629,936,1749,963"/>
+<area shape="rect" id="node21" href="$net_8c.html#a1a280312c4bad55cf10243b9b9c3e966" title=" " alt="" coords="599,1003,709,1029"/>
+<area shape="rect" id="node26" href="$group__block__internal.html#ga0644ddbdbc7cce06e901745afb432753" title=" " alt="" coords="977,886,1122,927"/>
+<area shape="rect" id="node27" href="$group__context.html#gaeadf53fc0202c2a9c881406d4aa12a4c" title="Sends a CoAP message to given peer." alt="" coords="1007,1205,1092,1232"/>
+<area shape="rect" id="node29" href="$group__block__internal.html#ga67a791042fc6ece549cff85d6e0d21f8" title=" " alt="" coords="757,1430,912,1471"/>
+<area shape="rect" id="node32" href="$group__context.html#gacbc3d13e7f816d6baf6b7e30185ecf06" title="Sends a CoAP message to given peer." alt="" coords="775,949,895,976"/>
+<area shape="rect" id="node34" href="$group__pdu__internal.html#gab46558ad80403bf37b915a8adc15e3f4" title="Updates existing first option of given number in the pdu with the new data." alt="" coords="1191,1003,1330,1029"/>
+<area shape="rect" id="node38" href="$group__context__internal.html#ga69ff8481c32707b77813c051fc42dedd" title="Creates a new response for given request with the contents of .well&#45;known/core." alt="" coords="960,43,1139,69"/>
+<area shape="rect" id="node40" href="$group__block.html#ga17c8a614c16df52ef9a46f6eda0cdf5c" title="Initializes block from pdu." alt="" coords="1204,429,1317,456"/>
+<area shape="rect" id="node19" href="$group__block.html#ga757c6fd6ec2d8b0b878e47dbf3ad13f9" title="Adds the appropriate part of data to the response pdu." alt="" coords="968,195,1131,237"/>
+<area shape="rect" id="node22" href="$group__coap__async__internal.html#ga207685faa6c979bff227eb06a277d1fa" title="Checks if there are any pending Async requests &#45; if so, send them off." alt="" coords="416,1003,551,1029"/>
+<area shape="rect" id="node23" href="$group__app__io__internal.html#gaf0cbbb00a6f2f8ac885f0e1575534e34" title="Iterates through all the coap_socket_t structures embedded in endpoints or sessions associated with t..." alt="" coords="231,977,366,1004"/>
+<area shape="rect" id="node24" href="$group__app__io.html#ga2758ed5fdd6ce79ec95ea8dbf72a5644" title="The main message processing loop with additional fds for internal select." alt="" coords="5,1003,181,1029"/>
+<area shape="rect" id="node28" href="$group__block.html#gaef76c2fd8695bd2f3d30e8a49c09becb" title="Cancel an observe that is being tracked by the client large receive logic when using coap_send_large(..." alt="" coords="761,1155,909,1181"/>
+<area shape="rect" id="node30" href="$group__block__internal.html#gafd88086aea71e7d648ec5e400b62abbc" title=" " alt="" coords="757,1089,912,1130"/>
+<area shape="rect" id="node31" href="$group__context.html#gab94e196fd911e937e30cc91ec8350c12" title="Sends an error response with code code for request request to dst." alt="" coords="775,1307,894,1333"/>
+<area shape="rect" id="node37" href="$group__coap__async.html#ga4964016bb1466d5831b0b1b5c6b10473" title="Allocates a new coap_async_t object and fills its fields according to the given request." alt="" coords="763,1357,906,1384"/>
+<area shape="rect" id="node44" href="$group__block__internal.html#gafb669f551f45f9a1aa2be340c9853599" title=" " alt="" coords="965,1509,1133,1536"/>
+<area shape="rect" id="node47" href="$option_8h.html#af054baf79e48133429e66d35cfedaac4" title="Sets the corresponding bit for type in filter." alt="" coords="1847,379,1971,405"/>
+<area shape="rect" id="node48" href="$group__context.html#gab1776a822bb12e80473d39fe1d640b11" title="Registers the option type type with the given context object ctx." alt="" coords="1838,328,1981,355"/>
+<area shape="rect" id="node50" href="$option_8h.html#aaf1d2c14694e1d6d258eb5a549030604" title="Clears the corresponding bit for type in filter." alt="" coords="2061,1036,2181,1063"/>
+</map>

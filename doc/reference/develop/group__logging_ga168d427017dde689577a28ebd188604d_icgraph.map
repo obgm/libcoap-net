@@ -1,0 +1,4 @@
+<map id="coap_string_tls_version" name="coap_string_tls_version">
+<area shape="rect" id="node1" title="Build a string containing the current (D)TLS library linked with and built for version." alt="" coords="212,5,371,32"/>
+<area shape="rect" id="node2" href="$group__logging.html#gace7d5d32535b328bdb5c90ef64c7d63e" title="Display the current (D)TLS library linked with and built for version." alt="" coords="5,5,164,32"/>
+</map>

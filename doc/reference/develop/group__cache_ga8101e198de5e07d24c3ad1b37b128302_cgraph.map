@@ -1,0 +1,24 @@
+<map id="coap_cache_derive_key" name="coap_cache_derive_key">
+<area shape="rect" id="node1" title="Calculates a cache&#45;key for the given CoAP PDU." alt="" coords="5,233,168,260"/>
+<area shape="rect" id="node2" href="$group__cache__internal.html#ga97003c43333b624e1e8dbcb34b1fd877" title="Finalize the coap_digest information into the provided digest_buffer." alt="" coords="236,5,359,32"/>
+<area shape="rect" id="node3" href="$group__cache__internal.html#ga37ed3d3914023efe3ed1d05b13325192" title="Free off coap_digest_ctx_t." alt="" coords="441,44,562,71"/>
+<area shape="rect" id="node6" href="$group__cache__internal.html#ga68a0ea9de8a8a4fb757d96be93f5cbf2" title="Initialize a coap_digest." alt="" coords="232,107,363,133"/>
+<area shape="rect" id="node8" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="633,120,760,147"/>
+<area shape="rect" id="node9" href="$group__cache__internal.html#gaac68cab6efc578dda7ba92e5257c7851" title="Update the coap_digest information with the next chunk of data." alt="" coords="228,208,367,235"/>
+<area shape="rect" id="node10" href="$group__pdu.html#gab8ab682509ebdb989cf5d10170612cf0" title="Retrieves the length and data pointer of specified PDU." alt="" coords="244,259,351,285"/>
+<area shape="rect" id="node12" href="$option_8c.html#a683c0121b4028a90f612809437aaa3d0" title="Returns the size of the given option, taking into account a possible option jump." alt="" coords="244,309,351,336"/>
+<area shape="rect" id="node14" href="$group__opt__filter.html#gad799c84f95789d9dc6724da2b56d8ff5" title="Initializes the given option iterator oi to point to the beginning of the pdu&#39;s option list." alt="" coords="216,360,379,387"/>
+<area shape="rect" id="node15" href="$group__opt__filter.html#ga182fdeffe0b37e1ab0dc6ba8494abe4a" title="Updates the iterator oi to point to the next option." alt="" coords="235,411,359,437"/>
+<area shape="rect" id="node22" href="$coap__cache_8c.html#ab69a4a3ec71acd1ae5f805af2a4d20b7" title=" " alt="" coords="246,461,349,488"/>
+<area shape="rect" id="node4" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility." alt="" coords="657,44,736,71"/>
+<area shape="rect" id="node5" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="817,44,928,71"/>
+<area shape="rect" id="node7" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility." alt="" coords="454,107,549,133"/>
+<area shape="rect" id="node11" href="$group__pdu.html#gacb114ef7bdb588870ded91efc3c3d6d2" title="Retrieves the data from a PDU, with support for large bodies of data that spans multiple PDUs." alt="" coords="430,259,573,285"/>
+<area shape="rect" id="node13" href="$option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result." alt="" coords="444,335,559,361"/>
+<area shape="rect" id="node16" href="$group__opt__filter.html#gaecbb0b2fe1f6244aa6121d019070704b" title="Checks if number is contained in filter." alt="" coords="427,397,576,424"/>
+<area shape="rect" id="node21" href="$option_8c.html#a70fa9db0450134640b80cbf7c3720688" title=" " alt="" coords="455,448,547,475"/>
+<area shape="rect" id="node17" href="$option_8c.html#ab87ea79da1603a15ac624388a335bba6" title="Applies op on filter with respect to number." alt="" coords="624,397,769,424"/>
+<area shape="rect" id="node18" href="$encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="837,372,908,399"/>
+<area shape="rect" id="node20" href="$option_8c.html#ad65a9bd8fcfb4ba4270819e6f87f5bcf" title="Returns true iff number denotes an option number larger than 255." alt="" coords="820,423,925,449"/>
+<area shape="rect" id="node19" href="$encode_8c.html#a5732d87decbffe771159ea02a5e25488" title=" " alt="" coords="976,372,1053,399"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="coap_session_set_type_client" name="coap_session_set_type_client">
+<area shape="rect" id="node1" title="Set the session type to client." alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node2" href="$group__session.html#ga678a93d1dd7e1a9a52f4686778eef95b" title="Increment reference counter on a session." alt="" coords="212,13,375,39"/>
+</map>

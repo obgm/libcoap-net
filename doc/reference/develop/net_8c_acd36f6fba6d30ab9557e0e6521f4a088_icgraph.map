@@ -1,0 +1,10 @@
+<map id="coap_read_session" name="coap_read_session">
+<area shape="rect" id="node1" title=" " alt="" coords="727,31,861,57"/>
+<area shape="rect" id="node2" href="$group__app__io__internal.html#ga503f851fa137eb8a9c2936e2098c5eb9" title="Process all the epoll events." alt="" coords="556,5,679,32"/>
+<area shape="rect" id="node6" href="$group__app__io__internal.html#ga2208802b0711ad20df07271b751b41dc" title="Processes any outstanding read, write, accept or connect I/O as indicated in the coap_socket_t struct..." alt="" coords="565,56,670,83"/>
+<area shape="rect" id="node3" href="$group__app__io.html#ga2758ed5fdd6ce79ec95ea8dbf72a5644" title="The main message processing loop with additional fds for internal select." alt="" coords="332,5,508,32"/>
+<area shape="rect" id="node4" href="$group__app__io.html#ga082f7bbf15d3f37c31c2a0a5e78ea4cf" title="The main I/O processing function." alt="" coords="164,5,284,32"/>
+<area shape="rect" id="node5" href="$net_8h.html#ac6b34aa979ec545eb710e45a26c98fc1" title=" " alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node7" href="$net_8h.html#af937985e2b14a287a849663574d59bcb" title=" " alt="" coords="379,56,461,83"/>
+<area shape="rect" id="node8" href="$coap__io__contiki_8c.html#a75a7c93e10ca7858449ba304aad4ea37" title=" " alt="" coords="169,56,279,83"/>
+</map>

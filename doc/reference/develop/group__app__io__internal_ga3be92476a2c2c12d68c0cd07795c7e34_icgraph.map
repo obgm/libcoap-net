@@ -1,0 +1,7 @@
+<map id="coap_io_prepare_epoll" name="coap_io_prepare_epoll">
+<area shape="rect" id="node1" title="Any now timed out delayed packet is transmitted, along with any packets associated with requested obs..." alt="" coords="727,31,877,57"/>
+<area shape="rect" id="node2" href="$group__app__io__internal.html#ga503f851fa137eb8a9c2936e2098c5eb9" title="Process all the epoll events." alt="" coords="556,5,679,32"/>
+<area shape="rect" id="node3" href="$group__app__io.html#ga2758ed5fdd6ce79ec95ea8dbf72a5644" title="The main message processing loop with additional fds for internal select." alt="" coords="332,31,508,57"/>
+<area shape="rect" id="node4" href="$group__app__io.html#ga082f7bbf15d3f37c31c2a0a5e78ea4cf" title="The main I/O processing function." alt="" coords="164,31,284,57"/>
+<area shape="rect" id="node5" href="$net_8h.html#ac6b34aa979ec545eb710e45a26c98fc1" title=" " alt="" coords="5,31,116,57"/>
+</map>

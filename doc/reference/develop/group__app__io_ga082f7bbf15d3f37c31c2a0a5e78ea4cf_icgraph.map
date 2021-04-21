@@ -1,0 +1,5 @@
+<map id="coap_io_process" name="coap_io_process">
+<area shape="rect" id="node1" title="The main I/O processing function." alt="" coords="229,5,349,32"/>
+<area shape="rect" id="node2" href="$group__app__io.html#ga2758ed5fdd6ce79ec95ea8dbf72a5644" title="The main message processing loop with additional fds for internal select." alt="" coords="5,5,181,32"/>
+<area shape="rect" id="node3" href="$net_8h.html#ac6b34aa979ec545eb710e45a26c98fc1" title=" " alt="" coords="38,56,149,83"/>
+</map>
