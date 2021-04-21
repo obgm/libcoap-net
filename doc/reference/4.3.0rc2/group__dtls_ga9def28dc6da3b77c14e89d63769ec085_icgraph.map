@@ -1,0 +1,14 @@
+<map id="coap_dtls_is_supported" name="coap_dtls_is_supported">
+<area shape="rect" id="node1" title="Check whether DTLS is available." alt="" coords="715,203,873,229"/>
+<area shape="rect" id="node2" href="$group__context.html#ga9f691eabd30bdc89235a78cc4d51282a" title="Set the context&#39;s default PKI information for a server." alt="" coords="512,5,661,32"/>
+<area shape="rect" id="node3" href="$group__context.html#ga7b56f148fda46ca44655e1a9b373b97e" title="Set the context&#39;s default Root CA information for a client or server." alt="" coords="512,57,661,98"/>
+<area shape="rect" id="node4" href="$group__context.html#ga0b3cccac64989264bc5f832183c2b45e" title="Set the context&#39;s default PSK hint and/or key for a server." alt="" coords="507,123,667,149"/>
+<area shape="rect" id="node6" href="$group__session.html#ga9ce8da7d62a9c35be01208c44e8c7737" title="Creates a new client session to the designated server with PKI credentials." alt="" coords="258,177,453,204"/>
+<area shape="rect" id="node7" href="$group__session.html#gac9d4dbb58c94b63231d615fe27203939" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="252,287,459,313"/>
+<area shape="rect" id="node9" href="$group__context.html#ga8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="290,367,421,393"/>
+<area shape="rect" id="node10" href="$group__session.html#gab5232b5141e191638ee6b7da6239dd1b" title="Create a new endpoint for communicating with peers." alt="" coords="518,392,655,419"/>
+<area shape="rect" id="node11" href="$coap__session_8c.html#a78865254d0191854b0b7c35f28eefe71" title=" " alt="" coords="514,225,659,266"/>
+<area shape="rect" id="node5" href="$group__context.html#ga665601c3c9ac88ef92125c1e62d679b2" title="Set the context&#39;s default PSK hint and/or key for a server." alt="" coords="279,123,432,149"/>
+<area shape="rect" id="node8" href="$group__session.html#ga5faf4dd14fcee5d87dd71eacfddf255a" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="5,287,204,313"/>
+<area shape="rect" id="node12" href="$group__session.html#ga6c9b57585703c357b0222b674044a88d" title="Creates a new client session to the designated server." alt="" coords="270,232,441,259"/>
+</map>

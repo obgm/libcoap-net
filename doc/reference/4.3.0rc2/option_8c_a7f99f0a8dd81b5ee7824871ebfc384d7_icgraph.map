@@ -1,0 +1,4 @@
+<map id="coap_internal_delete" name="coap_internal_delete">
+<area shape="rect" id="node1" title=" " alt="" coords="188,5,329,32"/>
+<area shape="rect" id="node2" href="$group__opt__filter.html#ga476a30348f07ce45d0e1a3be0d1a1c21" title="Removes all entries from the optlist_chain, freeing off their memory usage." alt="" coords="5,5,140,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="rol" name="rol">
+<area shape="rect" id="node1" title=" " alt="" coords="728,81,767,108"/>
+<area shape="rect" id="node2" href="$murmur3_8c.html#a3a9fa631b5897f22b2e89761797f83dc" title=" " alt="" coords="529,56,680,83"/>
+<area shape="rect" id="node6" href="$murmur3_8c.html#a9c4ffffe36c11c54243a9282fe837bd6" title="Finalizes the given murmur3 context mctx and calculates the resulting murmur3 hash value." alt="" coords="337,107,480,133"/>
+<area shape="rect" id="node3" href="$murmur3_8c.html#a0ec6fef9107f573193714ff74f75643d" title=" " alt="" coords="336,5,481,32"/>
+<area shape="rect" id="node4" href="$murmur3_8c.html#a34b43da0fa597c48373e46641890dec0" title="Updates the state of the murmur3 context object mctx with len bytes from data." alt="" coords="148,56,288,83"/>
+<area shape="rect" id="node5" href="$murmur3_8c.html#addca9a16405fcfd3681c0451dd5d0af8" title="Calculcates the murmur3 hash value of data." alt="" coords="5,81,100,108"/>
+</map>

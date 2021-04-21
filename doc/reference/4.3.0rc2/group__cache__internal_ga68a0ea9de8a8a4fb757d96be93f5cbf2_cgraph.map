@@ -1,0 +1,5 @@
+<map id="coap_digest_setup" name="coap_digest_setup">
+<area shape="rect" id="node1" title="Initialize a coap_digest." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility." alt="" coords="184,5,279,32"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="327,5,453,32"/>
+</map>
