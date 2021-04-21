@@ -2,12 +2,10 @@
 layout: home
 ---
 
-<!--
 <div class="alert alert-dismissible alert-success">
 <button type="button" class="close" data-dismiss="alert">&times;</button>
-<a href="//github.com/obgm/libcoap/releases/tag/v4.3.0" class="alert-link">Version 4.3</a> is out! <strong>Try now!</strong>
- </div>
- -->
+ Try <a href="//github.com/obgm/libcoap/releases/tag/v4.3.0-rc2" class="alert-link">Release Candidate 2 for Version 4.3</a>
+</div>
 
 <div class="jumbotron">
 
