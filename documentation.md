@@ -34,3 +34,10 @@ of the application programming interface:
 The GitHub project
 [libcoap-minimal](//github.com/obgm/libcoap-minimal) provides a
 minimal client and server example in C++.
+
+## Updating Application Code from 4.2.1 to 4.3.0
+
+With libcoap 4.3.0, the public API has been changed
+considerably. Applications that have been developed for API version 2
+will fail to compile with API version 3. The necessary updates to API
+v2 applications are documented in [this Wiki page](https://github.com/obgm/libcoap/wiki/Updating-application-code-from-4.2.1-to-4.3.0).
