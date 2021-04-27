@@ -1,9 +1,0 @@
-<map id="coap_new_uri" name="coap_new_uri">
-<area shape="rect" id="node1" title="Creates a new coap_uri_t object from the specified URI." alt="" coords="5,56,108,83"/>
-<area shape="rect" id="node2" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility." alt="" coords="168,5,247,32"/>
-<area shape="rect" id="node4" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility." alt="" coords="160,56,255,83"/>
-<area shape="rect" id="node6" href="$group__uri__parse.html#ga9b19917fbf64f3a35a52d31ae5f6f76c" title="Parses a given string into URI components." alt="" coords="156,107,259,133"/>
-<area shape="rect" id="node3" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="317,5,427,32"/>
-<area shape="rect" id="node5" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="309,56,435,83"/>
-<area shape="rect" id="node7" href="$uri_8c.html#a8890896e5d2defbaa2558aaea33b4c8a" title=" " alt="" coords="307,107,437,133"/>
-</map>

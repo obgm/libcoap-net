@@ -1,7 +1,0 @@
-<map id="coap_make_session" name="coap_make_session">
-<area shape="rect" id="node1" title=" " alt="" coords="5,81,147,108"/>
-<area shape="rect" id="node2" href="$address_8h.html#ada8c7f0dd95000bb418860b970d8cb9f" title=" " alt="" coords="195,5,333,32"/>
-<area shape="rect" id="node3" href="$address_8c.html#a59e19389468d5ced36778ed07546bce2" title="Resets the given coap_address_t object addr to its default values." alt="" coords="201,56,327,83"/>
-<area shape="rect" id="node4" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="201,107,327,133"/>
-<area shape="rect" id="node5" href="$group__coap__prng.html#gac64ef6bcef630d4c1e683baa269b4670" title="Fills buf with len random bytes using the default pseudo random number generator." alt="" coords="223,157,305,184"/>
-</map>

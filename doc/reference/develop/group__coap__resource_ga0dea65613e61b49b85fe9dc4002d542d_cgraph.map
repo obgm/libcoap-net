@@ -1,9 +1,0 @@
-<map id="coap_resource_proxy_uri_init" name="coap_resource_proxy_uri_init">
-<area shape="rect" id="node1" title="Creates a new resource object for handling proxy URIs." alt="" coords="5,74,152,115"/>
-<area shape="rect" id="node2" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility." alt="" coords="232,5,311,32"/>
-<area shape="rect" id="node4" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility." alt="" coords="403,56,498,83"/>
-<area shape="rect" id="node5" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="559,107,685,133"/>
-<area shape="rect" id="node6" href="$group__string.html#ga983bc4d64851286070261bcc98baaa57" title="Returns a new const string object with at least size+1 bytes storage allocated, and the provided data..." alt="" coords="200,157,343,184"/>
-<area shape="rect" id="node3" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="395,5,506,32"/>
-<area shape="rect" id="node7" href="$group__string.html#ga48a2c3c1cc1cf95fc8443179c081ccb1" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="391,157,511,184"/>
-</map>

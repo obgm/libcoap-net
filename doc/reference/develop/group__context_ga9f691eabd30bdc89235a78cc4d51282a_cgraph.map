@@ -1,5 +1,0 @@
-<map id="coap_context_set_pki" name="coap_context_set_pki">
-<area shape="rect" id="node1" title="Set the context&#39;s default PKI information for a server." alt="" coords="5,31,155,57"/>
-<area shape="rect" id="node2" href="$coap__notls_8c.html#a19d8de5e016059db3913f5fe88c57d08" title=" " alt="" coords="203,5,380,32"/>
-<area shape="rect" id="node3" href="$group__dtls.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available." alt="" coords="212,56,371,83"/>
-</map>

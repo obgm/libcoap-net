@@ -1,4 +1,0 @@
-<map id="coap_context_set_psk2" name="coap_context_set_psk2">
-<area shape="rect" id="node1" title="Set the context&#39;s default PSK hint and/or key for a server." alt="" coords="207,5,367,32"/>
-<area shape="rect" id="node2" href="$group__context.html#ga665601c3c9ac88ef92125c1e62d679b2" title="Set the context&#39;s default PSK hint and/or key for a server." alt="" coords="5,5,159,32"/>
-</map>

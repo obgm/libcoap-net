@@ -1,5 +1,0 @@
-<map id="coap_session_set_ack_timeout" name="coap_session_set_ack_timeout">
-<area shape="rect" id="node1" title="Set the CoAP initial ack response timeout before the next re&#45;transmit." alt="" coords="5,5,160,47"/>
-<area shape="rect" id="node2" href="$group__logging.html#ga8b690dbed6cc3a5beb81ba5d2d27d290" title="Get session description." alt="" coords="208,13,332,39"/>
-<area shape="rect" id="node3" href="$group__logging.html#ga6a4f5ef637bf85aa161adfe73ac81ff0" title="Print the address into the defined buffer." alt="" coords="380,13,495,39"/>
-</map>

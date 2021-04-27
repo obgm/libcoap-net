@@ -1,5 +1,0 @@
-<map id="coap_make_addr_hash" name="coap_make_addr_hash">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,161,57"/>
-<area shape="rect" id="node2" href="$address_8h.html#ada8c7f0dd95000bb418860b970d8cb9f" title=" " alt="" coords="219,5,357,32"/>
-<area shape="rect" id="node3" href="$address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="209,56,367,83"/>
-</map>
