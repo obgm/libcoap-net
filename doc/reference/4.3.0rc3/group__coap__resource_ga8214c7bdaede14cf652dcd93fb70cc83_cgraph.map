@@ -1,0 +1,7 @@
+<map id="coap_resource_unknown_init" name="coap_resource_unknown_init">
+<area shape="rect" id="node1" title="Creates a new resource object for the unknown resource handler with support for PUT." alt="" coords="5,31,196,57"/>
+<area shape="rect" id="node2" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="609,5,736,32"/>
+<area shape="rect" id="node3" href="$group__string.html#ga983bc4d64851286070261bcc98baaa57" title="Returns a new const string object with at least size+1 bytes storage allocated, and the provided data..." alt="" coords="247,31,390,57"/>
+<area shape="rect" id="node5" href="$group__coap__resource.html#ga7cfdc36af9730f2fd5b75fd4180bc9a9" title="Registers the specified handler as message handler for the request type method." alt="" coords="244,81,393,108"/>
+<area shape="rect" id="node4" href="$group__string.html#ga48a2c3c1cc1cf95fc8443179c081ccb1" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="441,31,561,57"/>
+</map>

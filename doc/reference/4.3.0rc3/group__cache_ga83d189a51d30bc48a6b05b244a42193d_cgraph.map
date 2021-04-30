@@ -1,0 +1,7 @@
+<map id="coap_cache_ignore_options" name="coap_cache_ignore_options">
+<area shape="rect" id="node1" title="Define the CoAP options that are not to be included when calculating the cache&#45;key." alt="" coords="5,31,188,57"/>
+<area shape="rect" id="node2" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility." alt="" coords="244,5,323,32"/>
+<area shape="rect" id="node4" href="$mem_8h.html#a1539cf5011cdfb11500b476f4dbe9393" title="Wrapper function to coap_malloc_type() for backwards compatibility." alt="" coords="236,56,331,83"/>
+<area shape="rect" id="node3" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="387,5,497,32"/>
+<area shape="rect" id="node5" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="379,56,505,83"/>
+</map>

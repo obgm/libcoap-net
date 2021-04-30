@@ -1,0 +1,4 @@
+<map id="coap_delete_resource" name="coap_delete_resource">
+<area shape="rect" id="node1" title="Deletes a resource identified by resource." alt="" coords="188,5,337,32"/>
+<area shape="rect" id="node2" href="$group__coap__resource.html#ga9a5f0705912b0a35a3d5764e86b94004" title="Registers the given resource for context." alt="" coords="5,5,140,32"/>
+</map>

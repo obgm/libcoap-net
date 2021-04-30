@@ -1,0 +1,7 @@
+<map id="coap_session_send" name="coap_session_send">
+<area shape="rect" id="node1" title="Function interface for datagram data transmission." alt="" coords="5,56,143,83"/>
+<area shape="rect" id="node2" href="$group__logging.html#ga8b690dbed6cc3a5beb81ba5d2d27d290" title="Get session description." alt="" coords="194,5,318,32"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#a3728d8a61188dd4b3afd1aff807109f7" title=" " alt="" coords="191,56,321,83"/>
+<area shape="rect" id="node5" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution." alt="" coords="213,107,299,133"/>
+<area shape="rect" id="node3" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="369,5,484,32"/>
+</map>

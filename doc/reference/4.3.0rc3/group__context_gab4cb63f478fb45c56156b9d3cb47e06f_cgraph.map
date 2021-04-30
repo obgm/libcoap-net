@@ -1,0 +1,7 @@
+<map id="coap_join_mcast_group_intf" name="coap_join_mcast_group_intf">
+<area shape="rect" id="node1" title="Function interface for joining a multicast group for listening for the currently defined endpoints th..." alt="" coords="5,56,189,83"/>
+<area shape="rect" id="node2" href="$address_8c.html#a59e19389468d5ced36778ed07546bce2" title="Resets the given coap_address_t object addr to its default values." alt="" coords="246,5,373,32"/>
+<area shape="rect" id="node3" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="252,56,367,83"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#ad3119e077bde4ee15a65271de0b70531" title=" " alt="" coords="237,107,381,133"/>
+<area shape="rect" id="node5" href="$coap__io_8c.html#ae0cc13e29656551862a46150320f9390" title=" " alt="" coords="429,99,569,141"/>
+</map>
