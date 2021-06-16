@@ -1,0 +1,5 @@
+<map id="coap_dtls_context_set_pki" name="coap_dtls_context_set_pki">
+<area shape="rect" id="node1" title=" " alt="" coords="248,31,425,57"/>
+<area shape="rect" id="node2" href="$group__context.html#ga9f691eabd30bdc89235a78cc4d51282a" title="Set the context&#39;s default PKI information for a server." alt="" coords="28,5,177,32"/>
+<area shape="rect" id="node3" href="$group__session.html#ga9ce8da7d62a9c35be01208c44e8c7737" title="Creates a new client session to the designated server with PKI credentials." alt="" coords="5,56,200,83"/>
+</map>

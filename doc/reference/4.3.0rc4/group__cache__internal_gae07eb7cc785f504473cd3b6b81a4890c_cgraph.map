@@ -1,0 +1,8 @@
+<map id="coap_expire_cache_entries" name="coap_expire_cache_entries">
+<area shape="rect" id="node1" title="Expire coap_cache_entry_t entries." alt="" coords="5,81,185,108"/>
+<area shape="rect" id="node2" href="$group__cache.html#ga09e46fc4bba8b37115a3fb964b76b21c" title="Remove a cache&#45;entry from the hash list and free off all the appropriate contents apart from app_data..." alt="" coords="233,56,404,83"/>
+<area shape="rect" id="node6" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution." alt="" coords="276,107,361,133"/>
+<area shape="rect" id="node3" href="$group__cache.html#ga1930bf91ebbff5d5974ce0d55d2895b3" title="Delete the cache&#45;key." alt="" coords="452,5,615,32"/>
+<area shape="rect" id="node4" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="663,56,773,83"/>
+<area shape="rect" id="node5" href="$group__pdu.html#ga48581f968a30ef4278702eb1c16b7a90" title="Dispose of an CoAP PDU and frees associated storage." alt="" coords="473,107,593,133"/>
+</map>

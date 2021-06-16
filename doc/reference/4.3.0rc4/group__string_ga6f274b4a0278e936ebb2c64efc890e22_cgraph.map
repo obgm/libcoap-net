@@ -1,0 +1,5 @@
+<map id="coap_new_bin_const" name="coap_new_bin_const">
+<area shape="rect" id="node1" title="Take the specified byte array (text) and create a coap_bin_const_t * Returns a new const binary objec..." alt="" coords="5,5,149,32"/>
+<area shape="rect" id="node2" href="$group__string.html#ga48a2c3c1cc1cf95fc8443179c081ccb1" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="197,5,317,32"/>
+<area shape="rect" id="node3" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="365,5,492,32"/>
+</map>

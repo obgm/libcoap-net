@@ -1,0 +1,5 @@
+<map id="dots" name="dots">
+<area shape="rect" id="node1" title="Checks if path segment s consists of one or two dots." alt="" coords="359,5,405,32"/>
+<area shape="rect" id="node2" href="$uri_8c.html#a517b4456d0a079f5886599dccce09a2a" title="Splits the given string into segments." alt="" coords="167,5,311,32"/>
+<area shape="rect" id="node3" href="$group__uri__parse.html#ga4a01c4a81338c39d0a2fb1e3859a6fb0" title="Splits the given URI path into segments." alt="" coords="5,5,119,32"/>
+</map>

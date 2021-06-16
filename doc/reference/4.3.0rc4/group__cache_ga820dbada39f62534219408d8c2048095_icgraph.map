@@ -1,0 +1,4 @@
+<map id="coap_cache_get_by_key" name="coap_cache_get_by_key">
+<area shape="rect" id="node1" title="Searches for a cache&#45;entry identified by cache_key." alt="" coords="220,5,387,32"/>
+<area shape="rect" id="node2" href="$group__cache.html#ga13c59dcaba2fc8b10653a483227f7347" title="Searches for a cache&#45;entry corresponding to pdu." alt="" coords="5,5,172,32"/>
+</map>
