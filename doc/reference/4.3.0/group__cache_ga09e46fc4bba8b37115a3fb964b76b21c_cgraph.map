@@ -1,0 +1,6 @@
+<map id="coap_delete_cache_entry" name="coap_delete_cache_entry">
+<area shape="rect" id="node1" title="Remove a cache&#45;entry from the hash list and free off all the appropriate contents apart from app_data..." alt="" coords="5,56,176,83"/>
+<area shape="rect" id="node2" href="$group__cache.html#ga1930bf91ebbff5d5974ce0d55d2895b3" title="Delete the cache&#45;key." alt="" coords="224,5,387,32"/>
+<area shape="rect" id="node3" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="435,56,545,83"/>
+<area shape="rect" id="node4" href="$group__pdu.html#ga48581f968a30ef4278702eb1c16b7a90" title="Dispose of an CoAP PDU and frees associated storage." alt="" coords="245,107,365,133"/>
+</map>

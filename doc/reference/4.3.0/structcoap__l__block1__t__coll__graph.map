@@ -1,0 +1,4 @@
+<map id="coap_l_block1_t" name="coap_l_block1_t">
+<area shape="rect" id="node1" title="Structure to keep track of block1 specific information (Requests)" alt="" coords="5,95,121,121"/>
+<area shape="rect" id="node2" href="$structcoap__binary__t.html" title="CoAP binary data definition." alt="" coords="12,5,115,32"/>
+</map>

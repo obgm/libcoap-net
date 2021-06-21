@@ -40,10 +40,7 @@ header_pages:
 # by the most recent release.
 versions:
   - develop
-  - 4.3.0rc4
-  - 4.3.0rc3
-  - 4.3.0rc2
-  - 4.3.0rc1
+  - 4.3.0
   - 4.2.1
   - 4.2.0
   - 4.1.2

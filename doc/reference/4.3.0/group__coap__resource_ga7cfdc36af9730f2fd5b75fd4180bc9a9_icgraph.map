@@ -1,0 +1,4 @@
+<map id="coap_register_handler" name="coap_register_handler">
+<area shape="rect" id="node1" title="Registers the specified handler as message handler for the request type method." alt="" coords="244,5,393,32"/>
+<area shape="rect" id="node2" href="$group__coap__resource.html#ga8214c7bdaede14cf652dcd93fb70cc83" title="Creates a new resource object for the unknown resource handler with support for PUT." alt="" coords="5,5,196,32"/>
+</map>
