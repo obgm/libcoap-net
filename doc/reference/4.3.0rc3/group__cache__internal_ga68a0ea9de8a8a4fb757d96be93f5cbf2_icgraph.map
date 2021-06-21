@@ -1,6 +1,0 @@
-<map id="coap_digest_setup" name="coap_digest_setup">
-<area shape="rect" id="node1" title="Initialize a coap_digest." alt="" coords="431,31,561,57"/>
-<area shape="rect" id="node2" href="$group__cache.html#ga8101e198de5e07d24c3ad1b37b128302" title="Calculates a cache&#45;key for the given CoAP PDU." alt="" coords="220,31,383,57"/>
-<area shape="rect" id="node3" href="$group__cache.html#ga13c59dcaba2fc8b10653a483227f7347" title="Searches for a cache&#45;entry corresponding to pdu." alt="" coords="5,5,172,32"/>
-<area shape="rect" id="node4" href="$group__cache.html#gaa1fff4be228b51f08a9dba8dcb78f9c0" title="Create a new cache&#45;entry hash keyed by cache&#45;key derived from the PDU." alt="" coords="9,56,168,83"/>
-</map>

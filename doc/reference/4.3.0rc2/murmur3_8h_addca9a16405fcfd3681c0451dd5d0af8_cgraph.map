@@ -1,9 +1,0 @@
-<map id="murmur3_32" name="murmur3_32">
-<area shape="rect" id="node1" title="Calculcates the murmur3 hash value of data." alt="" coords="5,56,100,83"/>
-<area shape="rect" id="node2" href="$murmur3_8c.html#a9c4ffffe36c11c54243a9282fe837bd6" title="Finalizes the given murmur3 context mctx and calculates the resulting murmur3 hash value." alt="" coords="337,5,480,32"/>
-<area shape="rect" id="node4" href="$murmur3_8c.html#aebbf8fd6f4f229a80c064b80ad180967" title="Initializes the provided murmur3 context object mctx." alt="" coords="159,56,277,83"/>
-<area shape="rect" id="node5" href="$murmur3_8c.html#a34b43da0fa597c48373e46641890dec0" title="Updates the state of the murmur3 context object mctx with len bytes from data." alt="" coords="148,107,288,133"/>
-<area shape="rect" id="node3" href="$murmur3_8c.html#a02407140a364ff1c91fd7f676180a597" title=" " alt="" coords="728,31,767,57"/>
-<area shape="rect" id="node6" href="$murmur3_8c.html#a3a9fa631b5897f22b2e89761797f83dc" title=" " alt="" coords="529,56,680,83"/>
-<area shape="rect" id="node7" href="$murmur3_8c.html#a0ec6fef9107f573193714ff74f75643d" title=" " alt="" coords="336,107,481,133"/>
-</map>

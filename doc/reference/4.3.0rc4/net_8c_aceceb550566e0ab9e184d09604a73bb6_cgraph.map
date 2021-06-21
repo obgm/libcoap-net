@@ -1,9 +1,0 @@
-<map id="coap_startup" name="coap_startup">
-<area shape="rect" id="node1" title=" " alt="" coords="5,132,103,159"/>
-<area shape="rect" id="node2" href="$group__clock.html#ga4722a7e40ba99c4d3feba19de1b980be" title="Initializes the internal clock." alt="" coords="164,5,276,32"/>
-<area shape="rect" id="node3" href="$group__dtls__internal.html#ga1e81d904e13ccf3af6a56ab3ebdc8a34" title="Initialize the underlying (D)TLS Library layer." alt="" coords="157,56,283,83"/>
-<area shape="rect" id="node4" href="$mem_8h.html#a65d0fc0fe6cad555b56e92ccb57613ba" title="Initializes libcoap&#39;s memory management." alt="" coords="156,107,284,133"/>
-<area shape="rect" id="node5" href="$group__coap__prng.html#gad76671795963d06c73340041e54f63f2" title="Seeds the default random number generation function with the given seed." alt="" coords="167,157,273,184"/>
-<area shape="rect" id="node6" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution." alt="" coords="177,208,263,235"/>
-<area shape="rect" id="node7" href="$group__clock.html#gaefd1d943d41dc7a8c32188741bad4844" title="Helper function that converts coap ticks to POSIX wallclock time in us." alt="" coords="151,259,289,285"/>
-</map>

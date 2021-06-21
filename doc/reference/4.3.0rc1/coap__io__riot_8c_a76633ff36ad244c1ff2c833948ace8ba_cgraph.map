@@ -1,5 +1,0 @@
-<map id="coap_network_read" name="coap_network_read">
-<area shape="rect" id="node1" title="Function interface for reading data." alt="" coords="5,31,140,57"/>
-<area shape="rect" id="node2" href="$group__logging.html#ga10c3fbd56b0eb3a8722b27a65fc9b0ce" title="Get the current logging level." alt="" coords="188,5,321,32"/>
-<area shape="rect" id="node3" href="$group__logging.html#ga6a4f5ef637bf85aa161adfe73ac81ff0" title="Print the address into the defined buffer." alt="" coords="197,56,312,83"/>
-</map>

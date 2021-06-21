@@ -1,9 +1,0 @@
-<map id="coap_delete_attr" name="coap_delete_attr">
-<area shape="rect" id="node1" title="Deletes an attribute." alt="" coords="775,31,893,57"/>
-<area shape="rect" id="node2" href="$resource_8c.html#a1307a6b8dadd6d005352ce02f6cf392f" title=" " alt="" coords="591,31,727,57"/>
-<area shape="rect" id="node3" href="$group__coap__resource.html#ga9a5f0705912b0a35a3d5764e86b94004" title="Registers the given resource for context." alt="" coords="184,5,319,32"/>
-<area shape="rect" id="node4" href="$group__coap__resource__internal.html#ga1fae3046ad94fce85a7ea23455328958" title="Deletes all resources from given context and frees their storage." alt="" coords="367,81,543,108"/>
-<area shape="rect" id="node7" href="$group__coap__resource.html#gad3521b724ad4961e6bb11801fd82a3e3" title="Deletes a resource identified by resource." alt="" coords="380,31,529,57"/>
-<area shape="rect" id="node5" href="$net_8c.html#a4a0717822713783908dd33d300440b2e" title="CoAP stack context must be released with coap_free_context()." alt="" coords="187,81,316,108"/>
-<area shape="rect" id="node6" href="$net_8c.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,81,136,108"/>
-</map>

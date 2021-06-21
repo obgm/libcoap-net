@@ -1,5 +1,0 @@
-<map id="coap_delete_attr" name="coap_delete_attr">
-<area shape="rect" id="node1" title="Deletes an attribute." alt="" coords="5,31,124,57"/>
-<area shape="rect" id="node2" href="$group__string.html#ga4c283744d0fa51b553bf3fc52488e4b0" title="Deletes the given const string and releases any memory allocated." alt="" coords="172,5,325,32"/>
-<area shape="rect" id="node3" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="373,31,484,57"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="coap_session_str" name="coap_session_str">
-<area shape="rect" id="node1" title="Get session description." alt="" coords="5,5,129,32"/>
-<area shape="rect" id="node2" href="$group__logging.html#ga6a4f5ef637bf85aa161adfe73ac81ff0" title="Print the address into the defined buffer." alt="" coords="177,5,292,32"/>
-</map>

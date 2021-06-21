@@ -1,4 +1,0 @@
-<map id="coap_delete_bin_const" name="coap_delete_bin_const">
-<area shape="rect" id="node1" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="5,5,160,32"/>
-<area shape="rect" id="node2" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="208,5,319,32"/>
-</map>

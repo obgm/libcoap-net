@@ -1,7 +1,0 @@
-<map id="coap_block_delete_lg_crcv" name="coap_block_delete_lg_crcv">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,184,83"/>
-<area shape="rect" id="node2" href="$group__string.html#ga5881b7726f26833abb90e30bd23730af" title="Deletes the given coap_binary_t object and releases any memory allocated." alt="" coords="232,5,367,32"/>
-<area shape="rect" id="node3" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="417,31,527,57"/>
-<area shape="rect" id="node4" href="$group__logging.html#ga8b690dbed6cc3a5beb81ba5d2d27d290" title="Get session description." alt="" coords="237,107,361,133"/>
-<area shape="rect" id="node5" href="$group__logging.html#ga6a4f5ef637bf85aa161adfe73ac81ff0" title="Print the address into the defined buffer." alt="" coords="415,107,529,133"/>
-</map>

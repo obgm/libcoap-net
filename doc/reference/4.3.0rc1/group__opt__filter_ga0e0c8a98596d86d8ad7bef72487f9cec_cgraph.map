@@ -1,4 +1,0 @@
-<map id="coap_new_optlist" name="coap_new_optlist">
-<area shape="rect" id="node1" title="Create a new optlist entry." alt="" coords="5,5,128,32"/>
-<area shape="rect" id="node2" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="176,5,303,32"/>
-</map>

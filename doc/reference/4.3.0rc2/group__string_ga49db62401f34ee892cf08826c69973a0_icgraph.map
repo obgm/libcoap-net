@@ -1,5 +1,0 @@
-<map id="coap_delete_bin_const" name="coap_delete_bin_const">
-<area shape="rect" id="node1" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="203,46,357,73"/>
-<area shape="rect" id="node2" href="$group__session__internal.html#ga241d1a2311c1dcbdca0e6860237acf91" title="Refresh the session&#39;s current Identity Hint (PSK)." alt="" coords="5,5,155,47"/>
-<area shape="rect" id="node3" href="$group__session__internal.html#gaa40e39af285755517824c26095494f91" title="Refresh the session&#39;s current pre&#45;shared key (PSK)." alt="" coords="5,71,155,112"/>
-</map>

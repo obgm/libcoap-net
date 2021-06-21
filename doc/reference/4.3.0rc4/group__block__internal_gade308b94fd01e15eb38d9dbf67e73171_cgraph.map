@@ -1,8 +1,0 @@
-<map id="coap_block_check_lg_crcv_timeouts" name="coap_block_check_lg_crcv_timeouts">
-<area shape="rect" id="node1" title=" " alt="" coords="5,49,152,90"/>
-<area shape="rect" id="node2" href="$group__block__internal.html#ga5fcd0b912223ec083d4f6f68f5e8cc61" title=" " alt="" coords="200,56,379,83"/>
-<area shape="rect" id="node3" href="$group__string.html#ga5881b7726f26833abb90e30bd23730af" title="Deletes the given coap_binary_t object and releases any memory allocated." alt="" coords="427,5,561,32"/>
-<area shape="rect" id="node4" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="611,31,722,57"/>
-<area shape="rect" id="node5" href="$group__logging.html#ga8b690dbed6cc3a5beb81ba5d2d27d290" title="Get session description." alt="" coords="432,107,556,133"/>
-<area shape="rect" id="node6" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="609,107,724,133"/>
-</map>

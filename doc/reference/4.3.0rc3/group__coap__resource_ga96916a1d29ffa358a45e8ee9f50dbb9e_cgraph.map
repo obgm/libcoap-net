@@ -1,6 +1,0 @@
-<map id="coap_resource_init" name="coap_resource_init">
-<area shape="rect" id="node1" title="Creates a new resource object and initializes the link field to the string uri_path." alt="" coords="5,5,136,32"/>
-<area shape="rect" id="node2" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="543,5,669,32"/>
-<area shape="rect" id="node3" href="$group__string.html#ga983bc4d64851286070261bcc98baaa57" title="Returns a new const string object with at least size+1 bytes storage allocated, and the provided data..." alt="" coords="184,31,327,57"/>
-<area shape="rect" id="node4" href="$group__string.html#ga48a2c3c1cc1cf95fc8443179c081ccb1" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="375,31,495,57"/>
-</map>

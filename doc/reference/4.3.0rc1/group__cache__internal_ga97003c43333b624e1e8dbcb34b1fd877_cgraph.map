@@ -1,6 +1,0 @@
-<map id="coap_digest_final" name="coap_digest_final">
-<area shape="rect" id="node1" title="Finalize the coap_digest information into the provided digest_buffer." alt="" coords="5,5,128,32"/>
-<area shape="rect" id="node2" href="$group__cache__internal.html#ga37ed3d3914023efe3ed1d05b13325192" title="Free off coap_digest_ctx_t." alt="" coords="176,5,297,32"/>
-<area shape="rect" id="node3" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility." alt="" coords="345,5,424,32"/>
-<area shape="rect" id="node4" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="472,5,583,32"/>
-</map>

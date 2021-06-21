@@ -1,5 +1,0 @@
-<map id="coap_add_token" name="coap_add_token">
-<area shape="rect" id="node1" title="Adds token of length len to pdu." alt="" coords="5,5,123,32"/>
-<area shape="rect" id="node2" href="$group__pdu__internal.html#gad741bcd3525c8d24389e4604c1cacb50" title="Dynamically grows the size of pdu to new_size if needed." alt="" coords="171,5,333,32"/>
-<area shape="rect" id="node3" href="$group__pdu__internal.html#gadd46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size." alt="" coords="381,5,501,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="coap_split_query" name="coap_split_query">
-<area shape="rect" id="node1" title="Splits the given URI query into segments." alt="" coords="5,56,125,83"/>
-<area shape="rect" id="node2" href="$uri_8c.html#a7765779604c7c1166e99179722d4bdd8" title=" " alt="" coords="173,56,265,83"/>
-<area shape="rect" id="node3" href="$uri_8c.html#a9a39cbf2ed89a758ced3f9fecd125b50" title="Writes a coap option from given string s to buf." alt="" coords="313,56,465,83"/>
-<area shape="rect" id="node4" href="$uri_8c.html#a5cd1953aed32e942af08e39d396fb8fd" title="Runs through the given path (or query) segment and checks if percent&#45;encodings are correct." alt="" coords="525,5,640,32"/>
-<area shape="rect" id="node5" href="$group__opt__filter.html#gafebbd04a7895df694a9345dad0275aeb" title="Encodes the given delta and length values into opt." alt="" coords="513,56,652,83"/>
-<area shape="rect" id="node6" href="$uri_8c.html#a2c99e399450162db911d50c8411722ab" title="Decodes percent&#45;encoded characters while copying the string seg of size length to buf." alt="" coords="522,107,643,133"/>
-</map>

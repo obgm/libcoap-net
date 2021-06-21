@@ -1,4 +1,0 @@
-<map id="coap_get_data" name="coap_get_data">
-<area shape="rect" id="node1" title="Retrieves the length and data pointer of specified PDU." alt="" coords="5,5,112,32"/>
-<area shape="rect" id="node2" href="$pdu_8c.html#acb114ef7bdb588870ded91efc3c3d6d2" title="Retrieves the data from a PDU, with support for large bodies of data that spans multiple PDUs." alt="" coords="160,5,303,32"/>
-</map>

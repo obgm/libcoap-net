@@ -1,4 +1,0 @@
-<map id="coap_pdu_check_resize" name="coap_pdu_check_resize">
-<area shape="rect" id="node1" title="Dynamically grows the size of pdu to new_size if needed." alt="" coords="5,5,168,32"/>
-<area shape="rect" id="node2" href="$group__pdu__internal.html#gadd46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size." alt="" coords="216,5,336,32"/>
-</map>

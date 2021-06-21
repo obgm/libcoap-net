@@ -1,5 +1,0 @@
-<map id="coap_prng_init" name="coap_prng_init">
-<area shape="rect" id="node1" title="Seeds the default random number generation function with the given seed." alt="" coords="329,5,436,32"/>
-<area shape="rect" id="node2" href="$net_8c.html#aceceb550566e0ab9e184d09604a73bb6" title=" " alt="" coords="184,5,281,32"/>
-<area shape="rect" id="node3" href="$net_8c.html#a8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,5,136,32"/>
-</map>

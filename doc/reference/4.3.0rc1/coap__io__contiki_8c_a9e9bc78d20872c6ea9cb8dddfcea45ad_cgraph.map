@@ -1,9 +1,0 @@
-<map id="coap_network_send" name="coap_network_send">
-<area shape="rect" id="node1" title=" " alt="" coords="5,81,144,108"/>
-<area shape="rect" id="node2" href="$address_8h.html#a021998c955a6787c5cab7b1c385bef63" title="Checks if given address object a denotes the wildcard address." alt="" coords="208,5,349,32"/>
-<area shape="rect" id="node4" href="$coap__debug_8c.html#af01fc56422e6401f529b053b61e65cad" title="Check to see whether a packet should be sent or not." alt="" coords="192,56,365,83"/>
-<area shape="rect" id="node6" href="$address_8c.html#a5b47d6fe47a54a0798eddb9ea77005ea" title="Checks if given address a denotes a multicast address." alt="" coords="223,107,334,133"/>
-<area shape="rect" id="node7" href="$coap__io__contiki_8c.html#ad3119e077bde4ee15a65271de0b70531" title=" " alt="" coords="207,157,351,184"/>
-<area shape="rect" id="node3" href="$address_8h.html#a3aadd5b560a9e7424b572bb213aa4439" title=" " alt="" coords="413,5,592,32"/>
-<area shape="rect" id="node5" href="$group__coap__prng.html#gac64ef6bcef630d4c1e683baa269b4670" title="Fills buf with len random bytes using the default pseudo random number generator." alt="" coords="461,56,544,83"/>
-</map>

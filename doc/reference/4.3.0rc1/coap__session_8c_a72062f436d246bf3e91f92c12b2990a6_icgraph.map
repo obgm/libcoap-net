@@ -1,4 +1,0 @@
-<map id="coap_new_client_session_psk2" name="coap_new_client_session_psk2">
-<area shape="rect" id="node1" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="252,5,459,32"/>
-<area shape="rect" id="node2" href="$coap__session_8c.html#a40790c70df0b38fe89f3fb2ad255d662" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="5,5,204,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="coap_delete_bin_const" name="coap_delete_bin_const">
-<area shape="rect" id="node1" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="203,46,357,73"/>
-<area shape="rect" id="node2" href="$coap__session_8c.html#a241d1a2311c1dcbdca0e6860237acf91" title=" " alt="" coords="5,5,155,47"/>
-<area shape="rect" id="node3" href="$coap__session_8c.html#aa40e39af285755517824c26095494f91" title=" " alt="" coords="5,71,155,112"/>
-</map>

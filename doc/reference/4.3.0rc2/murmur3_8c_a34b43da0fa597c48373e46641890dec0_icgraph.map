@@ -1,4 +1,0 @@
-<map id="murmur3_32_update" name="murmur3_32_update">
-<area shape="rect" id="node1" title="Updates the state of the murmur3 context object mctx with len bytes from data." alt="" coords="148,5,288,32"/>
-<area shape="rect" id="node2" href="$murmur3_8c.html#addca9a16405fcfd3681c0451dd5d0af8" title="Calculcates the murmur3 hash value of data." alt="" coords="5,5,100,32"/>
-</map>

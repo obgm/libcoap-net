@@ -1,7 +1,0 @@
-<map id="coap_log_impl" name="coap_log_impl">
-<area shape="rect" id="node1" title="Writes the given text to COAP_ERR_FD (for level &lt;= LOG_CRIT) or COAP_DEBUG_FD (for level &gt;= LOG_ERR)." alt="" coords="5,31,111,57"/>
-<area shape="rect" id="node2" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution." alt="" coords="173,5,259,32"/>
-<area shape="rect" id="node3" href="$coap__debug_8c.html#ac22594f737f12f0c3947d2934070cd93" title=" " alt="" coords="159,56,273,83"/>
-<area shape="rect" id="node4" href="$group__clock.html#gaaa7cb35533d86c8f87eac2ad42de0323" title="Helper function that converts coap ticks to wallclock time." alt="" coords="331,31,450,57"/>
-<area shape="rect" id="node5" href="$group__clock.html#gaefd1d943d41dc7a8c32188741bad4844" title="Helper function that converts coap ticks to POSIX wallclock time in us." alt="" coords="321,81,460,108"/>
-</map>

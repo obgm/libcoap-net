@@ -1,4 +1,0 @@
-<map id="coap_network_read" name="coap_network_read">
-<area shape="rect" id="node1" title="Function interface for reading data." alt="" coords="184,5,319,32"/>
-<area shape="rect" id="node2" href="$group__context.html#ga8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,5,136,32"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="coap_new_string" name="coap_new_string">
-<area shape="rect" id="node1" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="5,5,125,32"/>
-<area shape="rect" id="node2" href="$mem_8h.html#a0204710ce56cbaa4f062b7f2622857f5" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="173,5,300,32"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="coap_dtls_context_set_cpsk" name="coap_dtls_context_set_cpsk">
-<area shape="rect" id="node1" title=" " alt="" coords="507,5,695,32"/>
-<area shape="rect" id="node2" href="$group__session.html#gac9d4dbb58c94b63231d615fe27203939" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="252,5,459,32"/>
-<area shape="rect" id="node3" href="$group__session.html#ga5faf4dd14fcee5d87dd71eacfddf255a" title="Creates a new client session to the designated server with PSK credentials." alt="" coords="5,5,204,32"/>
-</map>

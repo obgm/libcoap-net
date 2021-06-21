@@ -1,5 +1,0 @@
-<map id="coap_socket_bind_udp" name="coap_socket_bind_udp">
-<area shape="rect" id="node1" title=" " alt="" coords="369,5,524,32"/>
-<area shape="rect" id="node2" href="$group__session.html#gab5232b5141e191638ee6b7da6239dd1b" title="Create a new endpoint for communicating with peers." alt="" coords="184,5,321,32"/>
-<area shape="rect" id="node3" href="$group__context.html#ga8baf4e3608ff5eb00adac694fe25eb60" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,5,136,32"/>
-</map>

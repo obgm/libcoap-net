@@ -1,5 +1,0 @@
-<map id="coap_split_path_impl" name="coap_split_path_impl">
-<area shape="rect" id="node1" title="Splits the given string into segments." alt="" coords="5,31,149,57"/>
-<area shape="rect" id="node2" href="$uri_8c.html#a4163dae83e43872640dc52914271306f" title="Checks if path segment s consists of one or two dots." alt="" coords="205,5,252,32"/>
-<area shape="rect" id="node3" href="$uri_8c.html#a480038916e84b8f454c62772258d57e6" title="A length&#45;safe version of strchr()." alt="" coords="197,56,260,83"/>
-</map>
