@@ -68,8 +68,9 @@ layout: home
           <a href="//tools.ietf.org/html/rfc7959">block-wise transfer</a>,
           <a href="//tools.ietf.org/html/rfc8132">FETCH/PATCH</a>,
           <a href="https://tools.ietf.org/html/rfc7967">No-Response</a>,
-          <a href="https://tools.ietf.org/html/rfc8323">TCP</a>, and
-          <a href="//tools.ietf.org/html/rfc8768">Hop-Limit</a>.
+          <a href="https://tools.ietf.org/html/rfc8323">TCP</a>,
+          <a href="//tools.ietf.org/html/rfc8768">Hop-Limit</a>,
+          <a href="//tools.ietf.org/html/rfc9175">Echo- and Request-Tags</a>.
           Example
           implementations show how these features can be used in applications.
           </p>
