@@ -7,29 +7,36 @@ development is envisioned to go.
 
 ## Release 4.3
 
-* Separate public API from internal API, code cleanup
+* Separate public API from internal API, code cleanup ✓
 * improve fuzzer tests and unit tests
 * [OSCORE](https://tools.ietf.org/html/rfc8613)
-  support (work in progress)
+  support (will be included in Release 4.3.2)
+* [Q-Block](https://tools.ietf.org/html/rfc9177)
+  support (will be included in Release 4.3.2)
 
-### RIOT-OS Support
+### RIOT-OS Support ❌
 
 Work is already in progress to update the libcoap package for
 [RIOT-OS](https://www.riot-os.org).
 
 ### Examples
 
-* Port the resource directory server to the latest specification
-* Equip coap-server example with COMI-aligned Host MIB
+* Port the resource directory server to the latest specification ❌
+* Equip coap-server example with COMI-aligned Host MIB ❌
 * possibly add DTLS support to existing examples for LwIP, Contiki
 
-### Retransmission Tasks for POSIX
+### Retransmission Tasks for POSIX (✓)
 
 The lwip and Contiki versions are able to handle retransmissions
 automatically.  There is code that does this for POSIX as well, but it
 needs more testing and a fallback implementation in case the RT timer
 API is not available. This might also imply making the libcoap core
 MT-safe.
+
+**Update**: A different approach has been taken for the main loop
+management. Applications now can select between APIs that do the
+complete work and a set of functions that provide fine-grained access
+to the retransmission logic.
 
 ## Release 4.2  ✓
 
