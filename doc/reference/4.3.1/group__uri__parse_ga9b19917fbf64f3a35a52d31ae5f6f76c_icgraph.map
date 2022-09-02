@@ -1,0 +1,4 @@
+<map id="coap_split_uri" name="coap_split_uri">
+<area shape="rect" id="node1" title="Parses a given string into URI components." alt="" coords="156,5,259,32"/>
+<area shape="rect" id="node2" href="$uri_8c.html#aee99e6e8fd8df58150ec10e66c8dc265" title="Creates a new coap_uri_t object from the specified URI." alt="" coords="5,5,108,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="coap_block_check_lg_xmit_timeouts" name="coap_block_check_lg_xmit_timeouts">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,152,141"/>
+<area shape="rect" id="node2" href="$group__block__internal.html#ga97dae4d1698d414de1d80c5efbdc6dce" title=" " alt="" coords="200,81,379,108"/>
+<area shape="rect" id="node8" href="$group__context.html#ga5e2cee998ccf618ac07aa54f5e5f8743" title="Invokes the event handler of context for the given event and data." alt="" coords="222,132,357,159"/>
+<area shape="rect" id="node3" href="$group__string.html#ga5881b7726f26833abb90e30bd23730af" title="Deletes the given coap_binary_t object and releases any memory allocated." alt="" coords="427,5,561,32"/>
+<area shape="rect" id="node4" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="611,56,722,83"/>
+<area shape="rect" id="node5" href="$group__string.html#gad991c87cfcf9b2414d2dc430c8701ed3" title="Deletes the given string and releases any memory allocated." alt="" coords="429,107,559,133"/>
+<area shape="rect" id="node6" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="432,157,556,184"/>
+<area shape="rect" id="node7" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="609,157,724,184"/>
+</map>

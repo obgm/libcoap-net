@@ -1,0 +1,5 @@
+<map id="coap_session_set_probing_rate" name="coap_session_set_probing_rate">
+<area shape="rect" id="node1" title="Set the CoAP probing rate when there is no response RFC7252 PROBING_RATE." alt="" coords="5,5,211,32"/>
+<area shape="rect" id="node2" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="259,5,383,32"/>
+<area shape="rect" id="node3" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="431,5,545,32"/>
+</map>

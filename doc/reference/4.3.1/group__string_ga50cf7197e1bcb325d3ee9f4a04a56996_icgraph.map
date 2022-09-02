@@ -1,0 +1,7 @@
+<map id="coap_new_bin_const" name="coap_new_bin_const">
+<area shape="rect" id="node1" title="Take the specified byte array (text) and create a coap_bin_const_t * Returns a new const binary objec..." alt="" coords="203,97,347,124"/>
+<area shape="rect" id="node2" href="$group__context.html#gaeadf53fc0202c2a9c881406d4aa12a4c" title="Sends a CoAP message to given peer." alt="" coords="37,5,123,32"/>
+<area shape="rect" id="node3" href="$group__session__internal.html#ga241d1a2311c1dcbdca0e6860237acf91" title="Refresh the session&#39;s current Identity Hint (PSK)." alt="" coords="5,57,155,98"/>
+<area shape="rect" id="node4" href="$group__session__internal.html#gabf03da17a2f79fd94e20c58cd05e5d0e" title="Refresh the session&#39;s current pre&#45;shared identity (PSK)." alt="" coords="5,122,155,163"/>
+<area shape="rect" id="node5" href="$group__session__internal.html#gaa40e39af285755517824c26095494f91" title="Refresh the session&#39;s current pre&#45;shared key (PSK)." alt="" coords="5,187,155,229"/>
+</map>

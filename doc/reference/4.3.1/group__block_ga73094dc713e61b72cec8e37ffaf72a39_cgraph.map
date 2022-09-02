@@ -1,0 +1,6 @@
+<map id="coap_add_block" name="coap_add_block">
+<area shape="rect" id="node1" title="Adds the block_num block of size 1 &lt;&lt; (block_szx + 4) from source data to pdu." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node2" href="$group__pdu.html#gaf71a3f810ab9f0f657c25c425826af40" title="Adds given data to the pdu that is passed as first parameter." alt="" coords="169,5,280,32"/>
+<area shape="rect" id="node3" href="$group__pdu.html#ga3b73fa26504e7a8da604375d1146b7e3" title="Adds given data to the pdu that is passed as first parameter but does not." alt="" coords="328,5,471,32"/>
+<area shape="rect" id="node4" href="$group__pdu__internal.html#gadd46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size." alt="" coords="519,5,639,32"/>
+</map>

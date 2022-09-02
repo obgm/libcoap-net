@@ -1,0 +1,5 @@
+<map id="coap_address_init" name="coap_address_init">
+<area shape="rect" id="node1" title="Resets the given coap_address_t object addr to its default values." alt="" coords="208,31,335,57"/>
+<area shape="rect" id="node2" href="$coap__session_8c.html#abbced7fe52bfe180c6eb29d8df385954" title=" " alt="" coords="12,5,153,32"/>
+<area shape="rect" id="node3" href="$coap__io_8c.html#a9d1deb43ee288c60730c3c8c5df8ec73" title=" " alt="" coords="5,56,160,83"/>
+</map>

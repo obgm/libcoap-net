@@ -1,0 +1,25 @@
+<map id="coap_session_free" name="coap_session_free">
+<area shape="rect" id="node1" title=" " alt="" coords="5,378,136,405"/>
+<area shape="rect" id="node2" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="184,49,339,75"/>
+<area shape="rect" id="node3" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="827,353,937,379"/>
+<area shape="rect" id="node4" href="$group__session__internal.html#gab91ca670624ee770714727efff274c49" title=" " alt="" coords="190,378,333,405"/>
+<area shape="rect" id="node10" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="627,707,751,734"/>
+<area shape="rect" id="node5" href="$group__block__internal.html#ga5fcd0b912223ec083d4f6f68f5e8cc61" title=" " alt="" coords="387,530,565,557"/>
+<area shape="rect" id="node6" href="$group__block__internal.html#ga0f15ee33e2d5d188d0402f14631754e6" title=" " alt="" coords="387,581,565,607"/>
+<area shape="rect" id="node7" href="$group__block__internal.html#ga97dae4d1698d414de1d80c5efbdc6dce" title=" " alt="" coords="387,682,565,709"/>
+<area shape="rect" id="node12" href="$group__block.html#gaef76c2fd8695bd2f3d30e8a49c09becb" title="Cancel an observe that is being tracked by the client large receive logic." alt="" coords="402,226,550,253"/>
+<area shape="rect" id="node13" href="$group__cache.html#ga09e46fc4bba8b37115a3fb964b76b21c" title="Remove a cache&#45;entry from the hash list and free off all the appropriate contents apart from app_data..." alt="" coords="391,277,561,303"/>
+<area shape="rect" id="node14" href="$group__context__internal.html#ga44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node." alt="" coords="413,378,539,405"/>
+<area shape="rect" id="node15" href="$group__pdu.html#ga48581f968a30ef4278702eb1c16b7a90" title="Dispose of an CoAP PDU and frees associated storage." alt="" coords="629,327,749,354"/>
+<area shape="rect" id="node18" href="$coap__notls_8c.html#abf29e940a61e2e12dbdf98424f5e166c" title=" " alt="" coords="397,429,555,455"/>
+<area shape="rect" id="node19" href="$mem_8h.html#a1e46a1505bb13f03fdacd5d1b32502a6" title="Wrapper function to coap_free_type() for backwards compatibility." alt="" coords="649,226,728,253"/>
+<area shape="rect" id="node20" href="$coap__io_8c.html#a2de382e7795c908d1a376da8c338386d" title=" " alt="" coords="409,74,543,101"/>
+<area shape="rect" id="node23" href="$coap__notls_8c.html#af611fa47e272350b1d4d83c4be9e4c5c" title=" " alt="" coords="400,479,552,506"/>
+<area shape="rect" id="node8" href="$group__string.html#ga5881b7726f26833abb90e30bd23730af" title="Deletes the given coap_binary_t object and releases any memory allocated." alt="" coords="621,651,756,678"/>
+<area shape="rect" id="node9" href="$group__string.html#gad991c87cfcf9b2414d2dc430c8701ed3" title="Deletes the given string and releases any memory allocated." alt="" coords="623,494,754,521"/>
+<area shape="rect" id="node11" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="825,707,939,734"/>
+<area shape="rect" id="node16" href="$net_8c.html#aa2f296838e4a779197c43b254e385ddc" title=" " alt="" coords="631,378,746,405"/>
+<area shape="rect" id="node17" href="$group__session.html#ga9aee135ba884d7c143b11bc42fd23e53" title="Decrement reference counter on a session." alt="" coords="613,434,764,461"/>
+<area shape="rect" id="node21" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="617,74,761,101"/>
+<area shape="rect" id="node22" href="$coap__io_8c.html#ae0cc13e29656551862a46150320f9390" title=" " alt="" coords="812,67,952,108"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="coap_malloc" name="coap_malloc">
+<area shape="rect" id="node1" title="Wrapper function to coap_malloc_type() for backwards compatibility." alt="" coords="196,56,291,83"/>
+<area shape="rect" id="node2" href="$uri_8c.html#ad75ec78bfe175cd75f19d7e845c774f8" title="Clones the specified coap_uri_t object." alt="" coords="22,5,131,32"/>
+<area shape="rect" id="node3" href="$uri_8c.html#aee99e6e8fd8df58150ec10e66c8dc265" title="Creates a new coap_uri_t object from the specified URI." alt="" coords="25,56,128,83"/>
+<area shape="rect" id="node4" href="$group__coap__async.html#ga14b20d8c5bf07bdda9f8bc6777540a84" title="Allocates a new coap_async_t object and fills its fields according to the given request." alt="" coords="5,107,148,133"/>
+</map>

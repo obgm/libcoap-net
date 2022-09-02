@@ -1,0 +1,10 @@
+<map id="coap_address.h" name="coap_address.h">
+<area shape="rect" id="node1" title="Representation of network addresses." alt="" coords="164,5,279,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,75,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="99,80,165,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="189,80,254,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="279,80,369,107"/>
+<area shape="rect" id="node6" href="$libcoap_8h.html" title="Platform specific header file for CoAP stack." alt="" coords="393,80,468,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="329,155,415,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="439,155,537,181"/>
+</map>

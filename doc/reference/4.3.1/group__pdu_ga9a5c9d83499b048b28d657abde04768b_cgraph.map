@@ -1,0 +1,23 @@
+<map id="coap_add_option" name="coap_add_option">
+<area shape="rect" id="node1" title="Adds option of given number to pdu that is passed as first parameter." alt="" coords="5,274,125,301"/>
+<area shape="rect" id="node2" href="$group__pdu__internal.html#gaf5852382a0595538ac113f44a6f36509" title="Adds option of given number to pdu that is passed as first parameter." alt="" coords="173,274,343,301"/>
+<area shape="rect" id="node3" href="$pdu_8c.html#a81deae4b462b64f7cd6a1371efec07a7" title=" " alt="" coords="593,223,717,250"/>
+<area shape="rect" id="node4" href="$group__opt__filter.html#gac766f0e78b5ef3ffc8c67d993c6ca8b6" title="Retrieves the first option of number number from pdu." alt="" coords="391,122,525,149"/>
+<area shape="rect" id="node16" href="$group__pdu__internal.html#ga24f3c35d834ec06d051a05a2572efb62" title="Inserts option of given number in the pdu with the appropriate data." alt="" coords="393,274,523,301"/>
+<area shape="rect" id="node17" href="$group__opt__filter.html#ga358cb455deaefca1b1234298f018c9ab" title="Encodes option with given delta into opt." alt="" coords="593,325,717,351"/>
+<area shape="rect" id="node19" href="$group__opt__filter.html#ga55f19454026048e906139d575feddecb" title="Compute storage bytes needed for an option with given delta and length." alt="" coords="577,375,732,402"/>
+<area shape="rect" id="node20" href="$group__pdu__internal.html#gad741bcd3525c8d24389e4604c1cacb50" title="Dynamically grows the size of pdu to new_size if needed." alt="" coords="573,426,736,453"/>
+<area shape="rect" id="node5" href="$group__opt__filter.html#gab32cbf963c82364063041e5c84ca279a" title="Clears filter filter." alt="" coords="593,5,717,47"/>
+<area shape="rect" id="node6" href="$group__opt__filter.html#gafdbe6036d408220bbfa6eb2d7bd2443f" title="Sets the corresponding entry for number in filter." alt="" coords="784,71,933,98"/>
+<area shape="rect" id="node11" href="$group__opt__filter.html#ga46d7817d055728114b3c62499426b25c" title="Initializes the given option iterator oi to point to the beginning of the pdu&#39;s option list." alt="" coords="573,173,736,199"/>
+<area shape="rect" id="node12" href="$group__opt__filter.html#ga19d4dbbc03ef362996964fbfdd1d4c7b" title="Updates the iterator oi to point to the next option." alt="" coords="593,122,717,149"/>
+<area shape="rect" id="node7" href="$coap__option_8c.html#ab87ea79da1603a15ac624388a335bba6" title="Applies op on filter with respect to number." alt="" coords="981,97,1127,123"/>
+<area shape="rect" id="node8" href="$encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="1192,71,1263,98"/>
+<area shape="rect" id="node10" href="$coap__option_8c.html#ad65a9bd8fcfb4ba4270819e6f87f5bcf" title="Returns true iff number denotes an option number larger than 255." alt="" coords="1175,122,1280,149"/>
+<area shape="rect" id="node9" href="$encode_8c.html#a5732d87decbffe771159ea02a5e25488" title=" " alt="" coords="1328,71,1405,98"/>
+<area shape="rect" id="node13" href="$coap__option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result." alt="" coords="801,249,916,275"/>
+<area shape="rect" id="node14" href="$group__opt__filter.html#gaecbb0b2fe1f6244aa6121d019070704b" title="Checks if number is contained in filter." alt="" coords="784,122,933,149"/>
+<area shape="rect" id="node15" href="$coap__option_8c.html#a70fa9db0450134640b80cbf7c3720688" title=" " alt="" coords="813,173,905,199"/>
+<area shape="rect" id="node18" href="$group__opt__filter.html#gafebbd04a7895df694a9345dad0275aeb" title="Encodes the given delta and length values into opt." alt="" coords="789,325,928,351"/>
+<area shape="rect" id="node21" href="$group__pdu__internal.html#gadd46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size." alt="" coords="799,426,919,453"/>
+</map>

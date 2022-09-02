@@ -1,0 +1,4 @@
+<map id="coap_pdu_duplicate" name="coap_pdu_duplicate">
+<area shape="rect" id="node1" title="Duplicate an existing PDU." alt="" coords="196,5,333,32"/>
+<area shape="rect" id="node2" href="$group__coap__async.html#ga14b20d8c5bf07bdda9f8bc6777540a84" title="Allocates a new coap_async_t object and fills its fields according to the given request." alt="" coords="5,5,148,32"/>
+</map>

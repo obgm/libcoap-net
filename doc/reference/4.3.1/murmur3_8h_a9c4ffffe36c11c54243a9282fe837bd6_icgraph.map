@@ -1,0 +1,4 @@
+<map id="murmur3_32_finalize" name="murmur3_32_finalize">
+<area shape="rect" id="node1" title="Finalizes the given murmur3 context mctx and calculates the resulting murmur3 hash value." alt="" coords="148,5,291,32"/>
+<area shape="rect" id="node2" href="$murmur3_8c.html#addca9a16405fcfd3681c0451dd5d0af8" title="Calculcates the murmur3 hash value of data." alt="" coords="5,5,100,32"/>
+</map>

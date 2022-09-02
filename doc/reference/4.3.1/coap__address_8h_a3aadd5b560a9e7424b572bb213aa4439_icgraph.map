@@ -1,0 +1,6 @@
+<map id="_coap_address_isany_impl" name="_coap_address_isany_impl">
+<area shape="rect" id="node1" title=" " alt="" coords="560,5,739,32"/>
+<area shape="rect" id="node2" href="$coap__address_8h.html#a021998c955a6787c5cab7b1c385bef63" title="Checks if given address object a denotes the wildcard address." alt="" coords="371,5,512,32"/>
+<area shape="rect" id="node3" href="$coap__io_8c.html#a9e9bc78d20872c6ea9cb8dddfcea45ad" title="Function interface for data transmission." alt="" coords="184,5,323,32"/>
+<area shape="rect" id="node4" href="$group__context.html#ga1ab369ca0a3c4fe7f8a9e0536346ff71" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,5,136,32"/>
+</map>

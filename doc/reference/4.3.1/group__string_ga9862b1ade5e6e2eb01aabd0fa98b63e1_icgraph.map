@@ -1,0 +1,16 @@
+<map id="coap_new_string" name="coap_new_string">
+<area shape="rect" id="node1" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="600,214,720,241"/>
+<area shape="rect" id="node2" href="$block_8c.html#a4d4d27db5bb7929f8f55fe8a3dfeea8b" title=" " alt="" coords="213,5,358,47"/>
+<area shape="rect" id="node3" href="$group__uri__parse.html#gaf625b48713927c0c7cf9fb994ab7a7d4" title="Extract query string from request PDU according to escape rules in 6.5.8." alt="" coords="423,189,537,215"/>
+<area shape="rect" id="node4" href="$group__uri__parse.html#ga11d902f573bcfee188d5ccd4903d0393" title="Extract uri_path string from request PDU." alt="" coords="416,239,544,266"/>
+<area shape="rect" id="node5" href="$group__string.html#ga50cf7197e1bcb325d3ee9f4a04a56996" title="Take the specified byte array (text) and create a coap_bin_const_t * Returns a new const binary objec..." alt="" coords="408,298,552,325"/>
+<area shape="rect" id="node10" href="$group__string.html#ga4ddcb94c1d26bd87a5ed1af801f35793" title="Returns a new binary object with at least size bytes storage allocated." alt="" coords="419,122,541,149"/>
+<area shape="rect" id="node14" href="$group__string.html#gaac769e3d5cea5481436c9eb3cb28d92a" title="Returns a new const string object with at least size+1 bytes storage allocated, and the provided data..." alt="" coords="409,349,551,375"/>
+<area shape="rect" id="node6" href="$group__context.html#gaeadf53fc0202c2a9c881406d4aa12a4c" title="Sends a CoAP message to given peer." alt="" coords="243,247,328,274"/>
+<area shape="rect" id="node7" href="$group__session__internal.html#ga241d1a2311c1dcbdca0e6860237acf91" title="Refresh the session&#39;s current Identity Hint (PSK)." alt="" coords="211,299,360,340"/>
+<area shape="rect" id="node8" href="$group__session__internal.html#gabf03da17a2f79fd94e20c58cd05e5d0e" title="Refresh the session&#39;s current pre&#45;shared identity (PSK)." alt="" coords="211,364,360,405"/>
+<area shape="rect" id="node9" href="$group__session__internal.html#gaa40e39af285755517824c26095494f91" title="Refresh the session&#39;s current pre&#45;shared key (PSK)." alt="" coords="211,429,360,471"/>
+<area shape="rect" id="node11" href="$group__block.html#gaf7f4a656ce3911d46e03504b503643d6" title="Re&#45;assemble payloads into a body." alt="" coords="5,97,163,123"/>
+<area shape="rect" id="node12" href="$group__string.html#ga529215b162db2045c934c3cea1c17e60" title="Resizes the given coap_binary_t object." alt="" coords="218,122,353,149"/>
+<area shape="rect" id="node13" href="$group__asn1.html#ga2651414d8dfa01e3dca3ca076730bdfd" title="Get the asn1 tag and data from the current ptr." alt="" coords="235,197,335,223"/>
+</map>

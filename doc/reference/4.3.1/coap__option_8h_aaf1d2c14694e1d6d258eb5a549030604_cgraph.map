@@ -1,0 +1,8 @@
+<map id="coap_option_clrb" name="coap_option_clrb">
+<area shape="rect" id="node1" title="Clears the corresponding bit for type in filter." alt="" coords="5,31,125,57"/>
+<area shape="rect" id="node2" href="$group__opt__filter.html#ga9fba33df6876f251ae59678a83508ac4" title="Clears the corresponding entry for number in filter." alt="" coords="173,23,297,65"/>
+<area shape="rect" id="node3" href="$coap__option_8c.html#ab87ea79da1603a15ac624388a335bba6" title="Applies op on filter with respect to number." alt="" coords="345,31,491,57"/>
+<area shape="rect" id="node4" href="$encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="556,5,627,32"/>
+<area shape="rect" id="node6" href="$coap__option_8c.html#ad65a9bd8fcfb4ba4270819e6f87f5bcf" title="Returns true iff number denotes an option number larger than 255." alt="" coords="539,56,644,83"/>
+<area shape="rect" id="node5" href="$encode_8c.html#a5732d87decbffe771159ea02a5e25488" title=" " alt="" coords="692,5,769,32"/>
+</map>

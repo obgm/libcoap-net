@@ -1,0 +1,5 @@
+<map id="coap_remove_from_queue" name="coap_remove_from_queue">
+<area shape="rect" id="node1" title="This function removes the element with given id from the list given list." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node2" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="228,5,352,32"/>
+<area shape="rect" id="node3" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="400,5,515,32"/>
+</map>

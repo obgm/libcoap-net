@@ -1,0 +1,8 @@
+<map id="coap_block_delete_lg_xmit" name="coap_block_delete_lg_xmit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,184,108"/>
+<area shape="rect" id="node2" href="$group__string.html#ga5881b7726f26833abb90e30bd23730af" title="Deletes the given coap_binary_t object and releases any memory allocated." alt="" coords="232,5,367,32"/>
+<area shape="rect" id="node3" href="$mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="417,56,527,83"/>
+<area shape="rect" id="node4" href="$group__string.html#gad991c87cfcf9b2414d2dc430c8701ed3" title="Deletes the given string and releases any memory allocated." alt="" coords="234,107,365,133"/>
+<area shape="rect" id="node5" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="237,157,361,184"/>
+<area shape="rect" id="node6" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="415,157,529,184"/>
+</map>

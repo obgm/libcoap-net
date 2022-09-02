@@ -1,0 +1,6 @@
+<map id="coap_tls_is_supported" name="coap_tls_is_supported">
+<area shape="rect" id="node1" title="Check whether TLS is available." alt="" coords="213,71,365,98"/>
+<area shape="rect" id="node2" href="$group__context.html#ga7b56f148fda46ca44655e1a9b373b97e" title="Set the context&#39;s default Root CA information for a client or server." alt="" coords="11,5,160,47"/>
+<area shape="rect" id="node3" href="$group__context.html#ga1ab369ca0a3c4fe7f8a9e0536346ff71" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="20,71,151,98"/>
+<area shape="rect" id="node4" href="$group__logging.html#ga4a9140f2423b4970123d795f547b6a93" title="Build a string containing the current (D)TLS library support." alt="" coords="5,122,165,149"/>
+</map>

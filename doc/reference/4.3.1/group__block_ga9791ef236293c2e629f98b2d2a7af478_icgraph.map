@@ -1,0 +1,7 @@
+<map id="coap_get_block_b" name="coap_get_block_b">
+<area shape="rect" id="node1" title="Initializes block from pdu." alt="" coords="409,71,536,98"/>
+<area shape="rect" id="node2" href="$block_8c.html#a4d4d27db5bb7929f8f55fe8a3dfeea8b" title=" " alt="" coords="216,5,361,47"/>
+<area shape="rect" id="node3" href="$group__block.html#gab4948cbc673c565b3eba270c5f784db3" title="Initializes block from pdu." alt="" coords="232,71,345,98"/>
+<area shape="rect" id="node5" href="$group__context.html#gaeadf53fc0202c2a9c881406d4aa12a4c" title="Sends a CoAP message to given peer." alt="" coords="246,122,331,149"/>
+<area shape="rect" id="node4" href="$group__block.html#ga870799d383b3d3392ca711bd7dce467b" title="Adds the appropriate part of data to the response pdu." alt="" coords="5,64,168,105"/>
+</map>

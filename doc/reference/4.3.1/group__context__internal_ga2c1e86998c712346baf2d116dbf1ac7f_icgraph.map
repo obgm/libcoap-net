@@ -1,0 +1,5 @@
+<map id="coap_delete_all" name="coap_delete_all">
+<area shape="rect" id="node1" title="Removes all items from given queue and frees the allocated storage." alt="" coords="361,29,473,56"/>
+<area shape="rect" id="node2" href="$group__context.html#ga4a0717822713783908dd33d300440b2e" title="CoAP stack context must be released with coap_free_context()." alt="" coords="184,29,313,56"/>
+<area shape="rect" id="node3" href="$group__context.html#ga1ab369ca0a3c4fe7f8a9e0536346ff71" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,29,136,56"/>
+</map>

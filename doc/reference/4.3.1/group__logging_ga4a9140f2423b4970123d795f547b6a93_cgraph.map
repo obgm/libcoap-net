@@ -1,0 +1,6 @@
+<map id="coap_string_tls_support" name="coap_string_tls_support">
+<area shape="rect" id="node1" title="Build a string containing the current (D)TLS library support." alt="" coords="5,64,165,91"/>
+<area shape="rect" id="node2" href="$group__dtls.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available." alt="" coords="213,5,372,32"/>
+<area shape="rect" id="node3" href="$group__dtls.html#ga30c05cbcf1ca5320ff0349b59f8c7fcb" title="Determine the type and version of the underlying (D)TLS library." alt="" coords="223,57,362,98"/>
+<area shape="rect" id="node4" href="$group__dtls.html#ga55b3b545f0784c7a6135021017317e1b" title="Check whether TLS is available." alt="" coords="217,123,369,149"/>
+</map>

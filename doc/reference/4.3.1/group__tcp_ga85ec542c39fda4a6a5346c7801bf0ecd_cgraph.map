@@ -1,0 +1,6 @@
+<map id="coap_socket_connect_tcp1" name="coap_socket_connect_tcp1">
+<area shape="rect" id="node1" title="Create a new TCP socket and initiate the connection." alt="" coords="5,56,187,83"/>
+<area shape="rect" id="node2" href="$coap__address_8h.html#ada8c7f0dd95000bb418860b970d8cb9f" title=" " alt="" coords="235,5,373,32"/>
+<area shape="rect" id="node3" href="$coap__io__contiki_8c.html#a2de382e7795c908d1a376da8c338386d" title=" " alt="" coords="237,56,371,83"/>
+<area shape="rect" id="node4" href="$coap__io__contiki_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="421,81,565,108"/>
+</map>

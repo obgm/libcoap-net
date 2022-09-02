@@ -1,0 +1,4 @@
+<map id="coap_resize_binary" name="coap_resize_binary">
+<area shape="rect" id="node1" title="Resizes the given coap_binary_t object." alt="" coords="211,5,345,32"/>
+<area shape="rect" id="node2" href="$group__block.html#gaf7f4a656ce3911d46e03504b503643d6" title="Re&#45;assemble payloads into a body." alt="" coords="5,5,163,32"/>
+</map>

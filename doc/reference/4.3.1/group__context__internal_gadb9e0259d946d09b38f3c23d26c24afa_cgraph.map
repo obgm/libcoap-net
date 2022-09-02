@@ -1,0 +1,10 @@
+<map id="coap_wait_ack" name="coap_wait_ack">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,115,159"/>
+<area shape="rect" id="node2" href="$group__context__internal.html#ga80d2c3b0141e98bf3f7914e7e59b9530" title="Adds node to given queue, ordered by variable t in node." alt="" coords="184,5,308,32"/>
+<area shape="rect" id="node3" href="$group__context__internal.html#ga4a9f7d31eafd7d82776f9b1a9291eea0" title="Returns the next pdu to send without removing from sendqeue." alt="" coords="187,56,305,83"/>
+<area shape="rect" id="node4" href="$group__session.html#gae37bac62f8de2cecd968ec1c26eb23b4" title="Increment reference counter on a session." alt="" coords="165,107,327,133"/>
+<area shape="rect" id="node5" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="184,157,308,184"/>
+<area shape="rect" id="node7" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution." alt="" coords="203,208,289,235"/>
+<area shape="rect" id="node8" href="$coap__io__internal_8h.html#a4a595d42b4434f9492687b9e20370c9f" title="Update the epoll timer fd as to when it is to trigger." alt="" coords="163,259,329,285"/>
+<area shape="rect" id="node6" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="377,157,492,184"/>
+</map>

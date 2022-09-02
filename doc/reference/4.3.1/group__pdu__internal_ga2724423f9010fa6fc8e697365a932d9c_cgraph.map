@@ -1,0 +1,16 @@
+<map id="coap_remove_option" name="coap_remove_option">
+<area shape="rect" id="node1" title="Removes (first) option of given number from the pdu." alt="" coords="5,132,148,159"/>
+<area shape="rect" id="node2" href="$group__opt__filter.html#ga55f19454026048e906139d575feddecb" title="Compute storage bytes needed for an option with given delta and length." alt="" coords="200,5,355,32"/>
+<area shape="rect" id="node3" href="$group__opt__filter.html#ga42d0b9d068b790ec1c490a7fb2674904" title="Returns the length of the given option." alt="" coords="219,56,336,83"/>
+<area shape="rect" id="node4" href="$coap__option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result." alt="" coords="424,107,539,133"/>
+<area shape="rect" id="node5" href="$group__opt__filter.html#ga46d7817d055728114b3c62499426b25c" title="Initializes the given option iterator oi to point to the beginning of the pdu&#39;s option list." alt="" coords="196,157,359,184"/>
+<area shape="rect" id="node6" href="$group__opt__filter.html#ga19d4dbbc03ef362996964fbfdd1d4c7b" title="Updates the iterator oi to point to the next option." alt="" coords="215,208,339,235"/>
+<area shape="rect" id="node13" href="$group__pdu__internal.html#gad741bcd3525c8d24389e4604c1cacb50" title="Dynamically grows the size of pdu to new_size if needed." alt="" coords="196,259,359,285"/>
+<area shape="rect" id="node7" href="$group__opt__filter.html#gaecbb0b2fe1f6244aa6121d019070704b" title="Checks if number is contained in filter." alt="" coords="407,157,556,184"/>
+<area shape="rect" id="node12" href="$coap__option_8c.html#a70fa9db0450134640b80cbf7c3720688" title=" " alt="" coords="435,208,527,235"/>
+<area shape="rect" id="node8" href="$coap__option_8c.html#ab87ea79da1603a15ac624388a335bba6" title="Applies op on filter with respect to number." alt="" coords="604,157,749,184"/>
+<area shape="rect" id="node9" href="$encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="815,132,885,159"/>
+<area shape="rect" id="node11" href="$coap__option_8c.html#ad65a9bd8fcfb4ba4270819e6f87f5bcf" title="Returns true iff number denotes an option number larger than 255." alt="" coords="797,183,903,209"/>
+<area shape="rect" id="node10" href="$encode_8c.html#a5732d87decbffe771159ea02a5e25488" title=" " alt="" coords="951,132,1028,159"/>
+<area shape="rect" id="node14" href="$group__pdu__internal.html#gadd46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size." alt="" coords="421,259,541,285"/>
+</map>
