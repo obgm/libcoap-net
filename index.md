@@ -22,7 +22,7 @@ layout: home
   <a href="//ietf.org">Internet Engineering Task Force (IETF)</a> as <a
   href="//tools.ietf.org/html/rfc7252">RFC 7252</a>.</p>
 
-  <p><a class="btn btn-primary btn-lg" href="http://coap.technology/"
+  <p><a class="btn btn-primary btn-lg" href="https://coap.space/"
   role="button">Learn more</a></p>
 </div>
 
@@ -50,7 +50,7 @@ layout: home
           <p class="card-text">libcoap has successfully participated in several ETSI IoT CoAP
           plugtests and is in daily use by various IOT projects in industry and
           academia. Tools to test against can also be found at
-          <a href="http://coap.technology/">coap.technology</a>.</p>
+          <a href="https://coap.space/">coap.space</a>.</p>
         </div>
       </div>
     </div>
