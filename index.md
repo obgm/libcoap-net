@@ -72,7 +72,8 @@ layout: home
           <a href="//tools.ietf.org/html/rfc8768">Hop-Limit</a>,
           <a href="//tools.ietf.org/html/rfc7390">group communication</a>,
           <a href="//tools.ietf.org/html/rfc8516">Too Many Requests Response</a>,
-          <a href="//tools.ietf.org/html/rfc9175">Echo- and Request-Tags</a>.
+          <a href="//tools.ietf.org/html/rfc9175">Echo- and Request-Tags</a>,
+          <a href="//tools.ietf.org/html/rfc9177">Block-Wise Transfer Options Supporting Robust Transmission</a>.
           Example
           implementations show how these features can be used in applications.
           </p>
