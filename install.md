@@ -68,7 +68,7 @@ There is currently no DTLS support for libcoap with Contiki.
 Using libcoap with LwIP requires a hand-crafted Makefile. Please refer
 to ```examples/lwip/Makefile``` to see how this is done.
 
-There is currently no DTLS support for libcoap with LwIP.
+There is DTLS (TinyDTLS) support for libcoap with LwIP.
 
 ### TinyOS
 
