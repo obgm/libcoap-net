@@ -13,6 +13,10 @@ development is envisioned to go.
   support (will be included in Release 4.3.2)
 * [Q-Block](https://tools.ietf.org/html/rfc9177)
   support (will be included in Release 4.3.2)
+* [RIOT-OS](https://riot-os.org)
+  support (will be included in Release 4.3.2)
+* [TinyDTLS](https://projects.eclipse.org/projects/iot.tinydtls)
+  support for LwIP (will be included in Release 4.3.2)
 
 ### RIOT-OS Support ❌
 
@@ -23,7 +27,7 @@ Work is already in progress to update the libcoap package for
 
 * Port the resource directory server to the latest specification ❌
 * Equip coap-server example with COMI-aligned Host MIB ❌
-* possibly add DTLS support to existing examples for LwIP, Contiki
+* possibly add DTLS support to existing examples for Contiki
 
 ### Retransmission Tasks for POSIX (✓)
 
