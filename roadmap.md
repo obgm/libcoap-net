@@ -18,11 +18,6 @@ development is envisioned to go.
 * [TinyDTLS](https://projects.eclipse.org/projects/iot.tinydtls)
   support for LwIP (will be included in Release 4.3.2)
 
-### RIOT-OS Support ❌
-
-Work is already in progress to update the libcoap package for
-[RIOT-OS](https://www.riot-os.org).
-
 ### Examples
 
 * Port the resource directory server to the latest specification ❌
