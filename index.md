@@ -20,7 +20,7 @@ layout: home
 
   <p>The Constrained Application Protocol (CoAP) was standardized in the
   <a href="//ietf.org">Internet Engineering Task Force (IETF)</a> as <a
-  href="//tools.ietf.org/html/rfc7252">RFC 7252</a>.</p>
+  href="//www.rfc-editor.org/rfc/rfc7252">RFC 7252</a>.</p>
 
   <p><a class="btn btn-primary btn-lg" href="https://coap.space/"
   role="button">Learn more</a></p>
@@ -64,17 +64,17 @@ layout: home
           <h4 class="card-title">CoAP-Extensions</h4>
           <p class="card-text">The library provides the core functionality for development of
           resource-efficient CoAP servers and clients, including
-          <a href="//tools.ietf.org/html/rfc7641">resource observation</a>,
-          <a href="//tools.ietf.org/html/rfc7959">block-wise transfer</a>,
-          <a href="//tools.ietf.org/html/rfc8132">FETCH/PATCH</a>,
-          <a href="https://tools.ietf.org/html/rfc7967">No-Response</a>,
-          <a href="https://tools.ietf.org/html/rfc8323">TCP</a>,
-          <a href="//tools.ietf.org/html/rfc8613">OSCORE</a>,
-          <a href="//tools.ietf.org/html/rfc8768">Hop-Limit</a>,
-          <a href="//tools.ietf.org/html/rfc7390">group communication</a>,
-          <a href="//tools.ietf.org/html/rfc8516">Too Many Requests Response</a>,
-          <a href="//tools.ietf.org/html/rfc9175">Echo- and Request-Tags</a>,
-          <a href="//tools.ietf.org/html/rfc9177">Block-Wise Transfer Options Supporting Robust Transmission</a>.
+          <a href="//www.rfc-editor.org/rfc/rfc7641">resource observation</a>,
+          <a href="//www.rfc-editor.org/rfc/rfc7959">block-wise transfer</a>,
+          <a href="//www.rfc-editor.org/rfc/rfc8132">FETCH/PATCH</a>,
+          <a href="//www.rfc-editor.org/rfc/rfc7967">No-Response</a>,
+          <a href="//www.rfc-editor.org/rfc/rfc8323">TCP</a>,
+          <a href="//www.rfc-editor.org/rfc/rfc8613">OSCORE</a>,
+          <a href="//www.rfc-editor.org/rfc/rfc8768">Hop-Limit</a>,
+          <a href="//www.rfc-editor.org/rfc/rfc7390">group communication</a>,
+          <a href="//www.rfc-editor.org/rfc/rfc8516">Too Many Requests Response</a>,
+          <a href="//www.rfc-editor.org/rfc/rfc9175">Echo- and Request-Tags</a>,
+          <a href="//www.rfc-editor.org/rfc/rfc9177">Block-Wise Transfer Options Supporting Robust Transmission</a>.
           Example
           implementations show how these features can be used in applications.
           </p>
@@ -93,7 +93,7 @@ layout: home
           generate simple requests for retrieval and modification of resources
           on a remote server. <code>coap-server</code> is a basic server application that
           illustrates various server-side features of libcoap, while <code>coap-rd</code>
-          implements a simple <a href="//tools.ietf.org/html/draft-ietf-core-resource-directory">CoAP
+          implements a simple <a href="//www.rfc-editor.org/rfc/rfc9176">CoAP
           Resource Directory</a>.
           </p>
         </div>
