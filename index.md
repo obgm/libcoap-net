@@ -69,6 +69,7 @@ layout: home
           <a href="//tools.ietf.org/html/rfc8132">FETCH/PATCH</a>,
           <a href="https://tools.ietf.org/html/rfc7967">No-Response</a>,
           <a href="https://tools.ietf.org/html/rfc8323">TCP</a>,
+          <a href="//tools.ietf.org/html/rfc8613">OSCORE</a>,
           <a href="//tools.ietf.org/html/rfc8768">Hop-Limit</a>,
           <a href="//tools.ietf.org/html/rfc7390">group communication</a>,
           <a href="//tools.ietf.org/html/rfc8516">Too Many Requests Response</a>,
