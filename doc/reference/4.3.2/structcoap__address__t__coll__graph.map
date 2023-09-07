@@ -1,0 +1,4 @@
+<map id="coap_address_t" name="coap_address_t">
+<area shape="rect" id="node1" title="Multi&#45;purpose address abstraction." alt="" coords="15,95,137,121"/>
+<area shape="rect" id="node2" href="$structcoap__sockaddr__un.html" title=" " alt="" coords="5,5,147,32"/>
+</map>

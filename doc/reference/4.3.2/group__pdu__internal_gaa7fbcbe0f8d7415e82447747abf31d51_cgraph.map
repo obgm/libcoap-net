@@ -1,0 +1,10 @@
+<map id="coap_pdu_parse_opt" name="coap_pdu_parse_opt">
+<area shape="rect" id="node1" title="Verify consistency in the given CoAP PDU structure and locate the data." alt="" coords="5,132,160,159"/>
+<area shape="rect" id="node2" href="$group__opt__filter.html#ga42d0b9d068b790ec1c490a7fb2674904" title="Returns the length of the given option." alt="" coords="240,5,369,32"/>
+<area shape="rect" id="node3" href="$coap__pdu_8c.html#ac3aa3c4ad5539cf2545e9636d134ac51" title=" " alt="" coords="208,56,401,83"/>
+<area shape="rect" id="node4" href="$coap__pdu_8c.html#a35dc1ec51b2b6433497dc99542f419c8" title=" " alt="" coords="210,107,399,133"/>
+<area shape="rect" id="node5" href="$coap__pdu_8c.html#a12840271a2e52ffc097d95de6e0c721a" title="Advances *optp to next option if still in PDU." alt="" coords="237,157,372,184"/>
+<area shape="rect" id="node7" href="$coap__pdu_8c.html#a2763c085b50e161fae35c69a54004116" title=" " alt="" coords="259,208,350,235"/>
+<area shape="rect" id="node8" href="$coap__pdu_8c.html#a9e6843290a3b4f46af69e2e6076e006f" title=" " alt="" coords="255,259,354,285"/>
+<area shape="rect" id="node6" href="$coap__option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result." alt="" coords="449,157,573,184"/>
+</map>

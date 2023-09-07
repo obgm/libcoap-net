@@ -1,0 +1,4 @@
+<map id="coap_add_block" name="coap_add_block">
+<area shape="rect" id="node1" title="Adds the block_num block of size 1 &lt;&lt; (block_szx + 4) from source data to pdu." alt="" coords="231,13,357,39"/>
+<area shape="rect" id="node2" href="$group__block.html#ga870799d383b3d3392ca711bd7dce467b" title="Adds the appropriate part of data to the response pdu." alt="" coords="5,5,183,47"/>
+</map>

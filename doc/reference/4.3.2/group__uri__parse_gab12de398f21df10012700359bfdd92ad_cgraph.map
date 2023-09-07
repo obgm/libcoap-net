@@ -1,0 +1,24 @@
+<map id="coap_uri_into_options" name="coap_uri_into_options">
+<area shape="rect" id="node1" title="Takes a coap_uri_t and then adds CoAP options into the optlist_chain." alt="" coords="5,259,169,285"/>
+<area shape="rect" id="node2" href="$group__encode.html#ga1f68ace3f70824f5c9427d5bfac50da3" title="Encodes multiple&#45;length byte sequences." alt="" coords="231,5,401,32"/>
+<area shape="rect" id="node3" href="$coap__uri_8c.html#af90c7b99dd4619c34f7c90ce67998a1f" title="Determines from the host whether this is a Unix Domain socket request." alt="" coords="217,56,415,83"/>
+<area shape="rect" id="node4" href="$group__opt__filter.html#gad867c028a9dc7b4be543223cc685c57c" title="Adds optlist to the given optlist_chain." alt="" coords="243,107,389,133"/>
+<area shape="rect" id="node5" href="$group__opt__filter.html#ga21df6c3988187909d52a3218eb2f12ef" title="Create a new optlist entry." alt="" coords="249,157,383,184"/>
+<area shape="rect" id="node7" href="$group__opt__filter.html#ga42d0b9d068b790ec1c490a7fb2674904" title="Returns the length of the given option." alt="" coords="251,208,381,235"/>
+<area shape="rect" id="node8" href="$coap__option_8c.html#a683c0121b4028a90f612809437aaa3d0" title="Returns the size of the given option, taking into account a possible option jump." alt="" coords="259,259,373,285"/>
+<area shape="rect" id="node10" href="$group__opt__filter.html#gaec4e944d39722779cac610ed22ee09db" title="Returns a pointer to the value of the given option." alt="" coords="254,309,378,336"/>
+<area shape="rect" id="node11" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="243,360,389,387"/>
+<area shape="rect" id="node12" href="$group__uri__parse.html#ga4a01c4a81338c39d0a2fb1e3859a6fb0" title="Splits the given URI path into segments." alt="" coords="254,411,378,437"/>
+<area shape="rect" id="node21" href="$group__uri__parse.html#ga522cc4dfe723c2a3537f35ee2389ef74" title="Splits the given URI query into segments." alt="" coords="250,461,382,488"/>
+<area shape="rect" id="node22" href="$coap__uri_8h.html#a04d042f5a81b4a13bf1cc7d94920ed87" title=" " alt="" coords="239,513,393,554"/>
+<area shape="rect" id="node6" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="473,157,613,184"/>
+<area shape="rect" id="node9" href="$coap__option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result." alt="" coords="481,259,605,285"/>
+<area shape="rect" id="node13" href="$coap__uri_8c.html#a517b4456d0a079f5886599dccce09a2a" title="Splits the given string into segments." alt="" coords="463,411,623,437"/>
+<area shape="rect" id="node16" href="$coap__uri_8c.html#a7765779604c7c1166e99179722d4bdd8" title=" " alt="" coords="491,461,594,488"/>
+<area shape="rect" id="node14" href="$coap__uri_8c.html#a4163dae83e43872640dc52914271306f" title="Checks if path segment s consists of one or two dots." alt="" coords="729,360,780,387"/>
+<area shape="rect" id="node15" href="$coap__uri_8c.html#a554dbd9464384b72f9c3e72b9dcce8ee" title="A length&#45;safe version of strchr()." alt="" coords="721,411,788,437"/>
+<area shape="rect" id="node17" href="$coap__uri_8c.html#a9a39cbf2ed89a758ced3f9fecd125b50" title="Writes a coap option from given string s to buf." alt="" coords="671,461,839,488"/>
+<area shape="rect" id="node18" href="$coap__uri_8c.html#a5cd1953aed32e942af08e39d396fb8fd" title="Runs through the given path (or query) segment and checks if percent&#45;encodings are correct." alt="" coords="901,411,1025,437"/>
+<area shape="rect" id="node19" href="$group__opt__filter.html#gafebbd04a7895df694a9345dad0275aeb" title="Encodes the given delta and length values into opt." alt="" coords="887,461,1040,488"/>
+<area shape="rect" id="node20" href="$coap__uri_8c.html#a2c99e399450162db911d50c8411722ab" title="Decodes percent&#45;encoded characters while copying the string seg of size length to buf." alt="" coords="897,512,1030,539"/>
+</map>

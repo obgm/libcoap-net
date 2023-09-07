@@ -1,0 +1,8 @@
+<map id="coap_register_option" name="coap_register_option">
+<area shape="rect" id="node1" title="Registers the option type type with the given context object ctx." alt="" coords="5,31,164,57"/>
+<area shape="rect" id="node2" href="$group__opt__filter.html#gafdbe6036d408220bbfa6eb2d7bd2443f" title="Sets the corresponding entry for number in filter." alt="" coords="212,31,377,57"/>
+<area shape="rect" id="node3" href="$coap__option_8c.html#ab87ea79da1603a15ac624388a335bba6" title="Applies op on filter with respect to number." alt="" coords="425,31,587,57"/>
+<area shape="rect" id="node4" href="$coap__encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="655,5,730,32"/>
+<area shape="rect" id="node6" href="$coap__option_8c.html#ad65a9bd8fcfb4ba4270819e6f87f5bcf" title="Returns true iff number denotes an option number larger than 255." alt="" coords="635,56,751,83"/>
+<area shape="rect" id="node5" href="$coap__encode_8c.html#a1c66d23b22bbf747ff8b0a649f85f060" title=" " alt="" coords="799,5,881,32"/>
+</map>

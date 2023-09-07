@@ -1,0 +1,7 @@
+<map id="make_decoded_option" name="make_decoded_option">
+<area shape="rect" id="node1" title="Writes a coap option from given string s to buf." alt="" coords="509,31,661,57"/>
+<area shape="rect" id="node2" href="$uri_8c.html#a7765779604c7c1166e99179722d4bdd8" title=" " alt="" coords="369,31,461,57"/>
+<area shape="rect" id="node3" href="$group__uri__parse.html#ga4a01c4a81338c39d0a2fb1e3859a6fb0" title="Splits the given URI path into segments." alt="" coords="205,5,318,32"/>
+<area shape="rect" id="node5" href="$group__uri__parse.html#ga522cc4dfe723c2a3537f35ee2389ef74" title="Splits the given URI query into segments." alt="" coords="201,56,321,83"/>
+<area shape="rect" id="node4" href="$group__uri__parse.html#ga9255eafad48930b0e15581a18ef589ac" title="Takes a coap_uri_t and then adds CoAP options into the optlist_chain." alt="" coords="5,31,153,57"/>
+</map>

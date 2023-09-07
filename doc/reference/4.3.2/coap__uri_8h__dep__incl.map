@@ -1,0 +1,68 @@
+<map id="coap_uri.h" name="coap_uri.h">
+<area shape="rect" id="node1" title="Helper functions for URI treatment." alt="" coords="5924,5,6013,32"/>
+<area shape="rect" id="node2" href="$coap__pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP." alt="" coords="5920,80,6016,107"/>
+<area shape="rect" id="node3" href="$coap__address_8h.html" title="Representation of network addresses." alt="" coords="5783,155,5906,181"/>
+<area shape="rect" id="node63" href="$coap__net_8h.html" title="CoAP context interface." alt="" coords="5967,304,6060,331"/>
+<area shape="rect" id="node65" href="$coap__block_8h.html" title="CoAP Block information." alt="" coords="6031,155,6138,181"/>
+<area shape="rect" id="node66" href="$coap__debug_8h.html" title="CoAP Logging support." alt="" coords="5980,229,6092,256"/>
+<area shape="rect" id="node4" href="$coap__io_8h.html" title="Default network I/O functions." alt="" coords="5812,229,5896,256"/>
+<area shape="rect" id="node23" href="$coap__io__internal_8h.html" title="Internal network I/O functions." alt="" coords="4663,528,4804,555"/>
+<area shape="rect" id="node5" href="$coap__cache__internal_8h.html" title="CoAP cache internal information." alt="" coords="4181,304,4348,331"/>
+<area shape="rect" id="node47" href="$coap__tcp__internal_8h.html" title="CoAP TCP internal information." alt="" coords="7296,453,7446,480"/>
+<area shape="rect" id="node6" href="$coap__internal_8h.html" title="Pulls together all the internal only header files." alt="" coords="4203,379,4326,405"/>
+<area shape="rect" id="node7" href="$coap__address_8c.html" title="Handling of network addresses." alt="" coords="4434,453,4556,480"/>
+<area shape="rect" id="node8" href="$coap__asn1_8c.html" title="CoAP specific ASN.1 handling." alt="" coords="4581,453,4684,480"/>
+<area shape="rect" id="node9" href="$coap__asn1__internal_8h.html" title="CoAP ASN.1 internal information." alt="" coords="5754,453,5914,480"/>
+<area shape="rect" id="node10" href="$coap__async_8c.html" title="State handling for asynchronous messages." alt="" coords="5938,453,6047,480"/>
+<area shape="rect" id="node11" href="$coap__async__internal_8h.html" title="CoAP async internal information." alt="" coords="7470,453,7637,480"/>
+<area shape="rect" id="node12" href="$coap__block_8c.html" title="CoAP Block handling." alt="" coords="6071,453,6178,480"/>
+<area shape="rect" id="node13" href="$coap__block__internal_8h.html" title="CoAP block internal information." alt="" coords="6424,528,6588,555"/>
+<area shape="rect" id="node14" href="$coap__cache_8c.html" title="CoAP Cache handling." alt="" coords="6738,453,6847,480"/>
+<area shape="rect" id="node15" href="$coap__debug_8c.html" title="Debug utilities." alt="" coords="7042,453,7153,480"/>
+<area shape="rect" id="node16" href="$coap__dtls_8c.html" title="CoAP (D)TLS handling functions." alt="" coords="7177,453,7272,480"/>
+<area shape="rect" id="node17" href="$coap__dtls__internal_8h.html" title="Internal CoAP DTLS support." alt="" coords="45,453,198,480"/>
+<area shape="rect" id="node18" href="$coap__encode_8c.html" title="Encoding and decoding Coap data types functions." alt="" coords="222,453,341,480"/>
+<area shape="rect" id="node19" href="$coap__event_8c.html" title="Event handling." alt="" coords="365,453,473,480"/>
+<area shape="rect" id="node20" href="$coap__gnutls_8c.html" title="GnuTLS interafe functions." alt="" coords="497,453,608,480"/>
+<area shape="rect" id="node21" href="$coap__hashkey_8c.html" title="Hashkey functions." alt="" coords="632,453,755,480"/>
+<area shape="rect" id="node22" href="$coap__io_8c.html" title="Network I/O functions." alt="" coords="779,453,862,480"/>
+<area shape="rect" id="node24" href="$coap__session__internal_8h.html" title="CoAP session internal information." alt="" coords="6484,603,6663,629"/>
+<area shape="rect" id="node25" href="$coap__netif_8c.html" title="CoAP Netif handling functions." alt="" coords="6586,677,6686,704"/>
+<area shape="rect" id="node26" href="$coap__layers_8c.html" title="Layer Handling." alt="" coords="886,453,997,480"/>
+<area shape="rect" id="node27" href="$coap__layers__internal_8h.html" title="Internal layer I/O functions." alt="" coords="4784,453,4953,480"/>
+<area shape="rect" id="node28" href="$coap__mbedtls_8c.html" title="Mbed TLS specific interface functions." alt="" coords="1021,453,1145,480"/>
+<area shape="rect" id="node29" href="$coap__mem_8c.html" title="Memory handling functions." alt="" coords="1169,453,1274,480"/>
+<area shape="rect" id="node30" href="$coap__net_8c.html" title="CoAP context functions." alt="" coords="1298,453,1390,480"/>
+<area shape="rect" id="node31" href="$coap__net__internal_8h.html" title="CoAP context internal information." alt="" coords="1414,453,1565,480"/>
+<area shape="rect" id="node32" href="$coap__netif__internal_8h.html" title="Internal CoAP Netif support." alt="" coords="1589,453,1748,480"/>
+<area shape="rect" id="node33" href="$coap__notls_8c.html" title="NoTLS specific interface functions." alt="" coords="1772,453,1874,480"/>
+<area shape="rect" id="node34" href="$coap__openssl_8c.html" title="OpenSSL specific interface functions." alt="" coords="1898,453,2020,480"/>
+<area shape="rect" id="node35" href="$coap__option_8c.html" title="CoAP option handling functions." alt="" coords="2044,453,2156,480"/>
+<area shape="rect" id="node36" href="$coap__oscore_8c.html" title="CoAP OSCORE handling." alt="" coords="2180,453,2295,480"/>
+<area shape="rect" id="node37" href="$coap__pdu_8c.html" title="CoAP PDU handling." alt="" coords="2320,453,2414,480"/>
+<area shape="rect" id="node38" href="$coap__pdu__internal_8h.html" title="CoAP PDU internal information." alt="" coords="6360,453,6513,480"/>
+<area shape="rect" id="node39" href="$coap__prng_8c.html" title="Pseudo Random Number functions." alt="" coords="2438,453,2538,480"/>
+<area shape="rect" id="node40" href="$coap__resource_8c.html" title="Server resource handling functions." alt="" coords="2562,453,2689,480"/>
+<area shape="rect" id="node41" href="$coap__resource__internal_8h.html" title="Generic resource internal handling." alt="" coords="2713,453,2898,480"/>
+<area shape="rect" id="node42" href="$coap__session_8c.html" title="Session handling functions." alt="" coords="2923,453,3043,480"/>
+<area shape="rect" id="node43" href="$coap__str_8c.html" title="String handling functions." alt="" coords="3068,453,3154,480"/>
+<area shape="rect" id="node44" href="$coap__subscribe_8c.html" title="Subscription handling functions." alt="" coords="3179,453,3312,480"/>
+<area shape="rect" id="node45" href="$coap__subscribe__internal_8h.html" title="CoAP subscribe internal information." alt="" coords="3337,453,3528,480"/>
+<area shape="rect" id="node46" href="$coap__tcp_8c.html" title="CoAP TCP handling functions." alt="" coords="3552,453,3643,480"/>
+<area shape="rect" id="node48" href="$coap__time_8c.html" title="Clock handling functions." alt="" coords="3667,453,3768,480"/>
+<area shape="rect" id="node49" href="$coap__tinydtls_8c.html" title="TinyDTLS specific handling functions." alt="" coords="3792,453,3912,480"/>
+<area shape="rect" id="node50" href="$coap__uri_8c.html" title="URI handling functions." alt="" coords="3936,453,4024,480"/>
+<area shape="rect" id="node51" href="$coap__uri__internal_8h.html" title="CoAP URI internal information." alt="" coords="4048,453,4195,480"/>
+<area shape="rect" id="node52" href="$coap__ws_8c.html" title="CoAP WebSocket handling functions." alt="" coords="4220,453,4309,480"/>
+<area shape="rect" id="node53" href="$coap__ws__internal_8h.html" title="Internal CoAP WebSockets support." alt="" coords="6871,453,7018,480"/>
+<area shape="rect" id="node54" href="$oscore_8c.html" title="An implementation of the Object Security for Constrained RESTful Enviornments (RFC 8613)." alt="" coords="4333,453,4409,480"/>
+<area shape="rect" id="node55" href="$oscore_8h.html" title="An implementation of the Object Security for Constrained RESTful Environments (RFC 8613)." alt="" coords="5879,528,5956,555"/>
+<area shape="rect" id="node56" href="$oscore__cbor_8c.html" title="An implementation of the Concise Binary Object Representation (RFC)." alt="" coords="4977,453,5088,480"/>
+<area shape="rect" id="node57" href="$oscore__context_8c.html" title="An implementation of the Object Security for Constrained RESTful Environments (RFC 8613)." alt="" coords="5112,453,5244,480"/>
+<area shape="rect" id="node58" href="$oscore__context_8h.html" title="An implementation of the Object Security for Constrained RESTful Enviornments (RFC 8613)." alt="" coords="6202,453,6335,480"/>
+<area shape="rect" id="node60" href="$oscore__cose_8c.html" title="An implementation of the CBOR Object Signing and Encryption (RFC)." alt="" coords="5268,453,5381,480"/>
+<area shape="rect" id="node61" href="$oscore__crypto_8c.html" title="An implementation of the Hash Based Key Derivation Function (RFC) and wrappers for AES&#45;CCM*." alt="" coords="5405,453,5529,480"/>
+<area shape="rect" id="node62" href="$oscore__crypto_8h.html" title="An implementation of the Hash Based Key Derivation Function (RFC) and wrappers for AES&#45;CCM*." alt="" coords="5554,453,5679,480"/>
+<area shape="rect" id="node59" href="$coap__oscore__internal_8h.html" title="CoAP OSCORE internal information." alt="" coords="6182,528,6354,555"/>
+<area shape="rect" id="node64" href="$coap__async_8h.html" title="State management for asynchronous messages." alt="" coords="5958,379,6069,405"/>
+</map>

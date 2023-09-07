@@ -1,0 +1,91 @@
+<map id="check_token_size" name="check_token_size">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1289,141,1316"/>
+<area shape="rect" id="node2" href="$group__context.html#ga47427850288b1d6e73d4b35d633d100e" title="Creates a new ACK PDU with specified error code." alt="" coords="789,681,980,708"/>
+<area shape="rect" id="node36" href="$group__context__internal.html#ga7d1802ed0aab8ba0b1e00f81c15869bd" title="Sends a CoAP message to given peer." alt="" coords="593,1315,741,1341"/>
+<area shape="rect" id="node88" href="$group__context.html#ga7f4dd3326d1d0619a5baa9812bef6906" title="Sends an RST message with code 0 for the specified request to dst." alt="" coords="189,1340,304,1367"/>
+<area shape="rect" id="node3" href="$group__pdu.html#gaf71a3f810ab9f0f657c25c425826af40" title="Adds given data to the pdu that is passed as first parameter." alt="" coords="1063,859,1183,885"/>
+<area shape="rect" id="node7" href="$group__pdu__internal.html#gaf5852382a0595538ac113f44a6f36509" title="Adds option of given number to pdu that is passed as first parameter." alt="" coords="1028,301,1217,328"/>
+<area shape="rect" id="node15" href="$group__opt__filter.html#ga46d7817d055728114b3c62499426b25c" title="Initializes the given option iterator oi to point to the beginning of the pdu&#39;s option list." alt="" coords="1527,656,1711,683"/>
+<area shape="rect" id="node16" href="$group__opt__filter.html#ga19d4dbbc03ef362996964fbfdd1d4c7b" title="Updates the iterator oi to point to the next option." alt="" coords="1551,437,1688,464"/>
+<area shape="rect" id="node26" href="$group__pdu.html#ga923f81168ccbbaac1a4ca50837d7be94" title="Adds token of length len to pdu." alt="" coords="1059,605,1186,632"/>
+<area shape="rect" id="node27" href="$group__pdu.html#ga48581f968a30ef4278702eb1c16b7a90" title="Dispose of an CoAP PDU and frees associated storage." alt="" coords="2277,1704,2409,1731"/>
+<area shape="rect" id="node29" href="$group__opt__filter.html#ga42d0b9d068b790ec1c490a7fb2674904" title="Returns the length of the given option." alt="" coords="1807,985,1937,1012"/>
+<area shape="rect" id="node30" href="$group__opt__filter.html#gaec4e944d39722779cac610ed22ee09db" title="Returns a pointer to the value of the given option." alt="" coords="1810,1188,1934,1215"/>
+<area shape="rect" id="node31" href="$group__opt__filter.html#ga9fba33df6876f251ae59678a83508ac4" title="Clears the corresponding entry for number in filter." alt="" coords="1053,11,1192,53"/>
+<area shape="rect" id="node32" href="$group__pdu.html#gac64ca0d18b0677ac535607f6c3901397" title="Creates a new CoAP PDU with at least enough storage space for the given size maximum message size." alt="" coords="1067,1365,1179,1392"/>
+<area shape="rect" id="node35" href="$group__pdu.html#ga0820d2413f167cd92f8267bf0aaa6ecb" title="Returns a human&#45;readable response phrase for the specified CoAP response code." alt="" coords="1037,555,1208,581"/>
+<area shape="rect" id="node4" href="$group__pdu.html#ga3b73fa26504e7a8da604375d1146b7e3" title="Adds given data to the pdu that is passed as first parameter but does not." alt="" coords="1284,759,1441,785"/>
+<area shape="rect" id="node5" href="$group__pdu__internal.html#gadd46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size." alt="" coords="1807,757,1937,784"/>
+<area shape="rect" id="node6" href="$coap__mem_8h.html#a7f7999876af136d327a5689d26ed8e77" title="Reallocates a chunk p of bytes created by coap_malloc_type() or coap_realloc_type() and returns a poi..." alt="" coords="2043,757,2183,784"/>
+<area shape="rect" id="node8" href="$group__opt__filter.html#gac766f0e78b5ef3ffc8c67d993c6ca8b6" title="Retrieves the first option of number number from pdu." alt="" coords="1289,504,1436,531"/>
+<area shape="rect" id="node20" href="$group__pdu__internal.html#ga24f3c35d834ec06d051a05a2572efb62" title="Inserts option of given number in the pdu with the appropriate data." alt="" coords="1290,301,1435,328"/>
+<area shape="rect" id="node21" href="$group__opt__filter.html#ga358cb455deaefca1b1234298f018c9ab" title="Encodes option with given delta into opt." alt="" coords="1552,149,1687,176"/>
+<area shape="rect" id="node23" href="$group__opt__filter.html#ga55f19454026048e906139d575feddecb" title="Compute storage bytes needed for an option with given delta and length." alt="" coords="1535,336,1703,363"/>
+<area shape="rect" id="node24" href="$group__pdu__internal.html#ga9ce159d2a0acd2e4c1d3fbbb89ff2229" title="Check whether the option is allowed to be repeated or not." alt="" coords="1508,217,1731,244"/>
+<area shape="rect" id="node25" href="$group__pdu__internal.html#gad741bcd3525c8d24389e4604c1cacb50" title="Dynamically grows the size of pdu to new_size if needed." alt="" coords="1532,539,1707,565"/>
+<area shape="rect" id="node9" href="$group__opt__filter.html#gab32cbf963c82364063041e5c84ca279a" title="Clears filter filter." alt="" coords="1550,590,1689,631"/>
+<area shape="rect" id="node10" href="$group__opt__filter.html#gafdbe6036d408220bbfa6eb2d7bd2443f" title="Sets the corresponding entry for number in filter." alt="" coords="1789,488,1955,515"/>
+<area shape="rect" id="node11" href="$coap__option_8c.html#ab87ea79da1603a15ac624388a335bba6" title="Applies op on filter with respect to number." alt="" coords="2032,387,2193,413"/>
+<area shape="rect" id="node12" href="$coap__encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="2306,361,2381,388"/>
+<area shape="rect" id="node14" href="$coap__option_8c.html#ad65a9bd8fcfb4ba4270819e6f87f5bcf" title="Returns true iff number denotes an option number larger than 255." alt="" coords="2285,412,2401,439"/>
+<area shape="rect" id="node13" href="$coap__encode_8c.html#a1c66d23b22bbf747ff8b0a649f85f060" title=" " alt="" coords="2503,361,2585,388"/>
+<area shape="rect" id="node17" href="$coap__option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result." alt="" coords="1810,336,1934,363"/>
+<area shape="rect" id="node18" href="$group__opt__filter.html#gaecbb0b2fe1f6244aa6121d019070704b" title="Checks if number is contained in filter." alt="" coords="1789,387,1955,413"/>
+<area shape="rect" id="node19" href="$coap__option_8c.html#a70fa9db0450134640b80cbf7c3720688" title=" " alt="" coords="1821,437,1923,464"/>
+<area shape="rect" id="node22" href="$group__opt__filter.html#gafebbd04a7895df694a9345dad0275aeb" title="Encodes the given delta and length values into opt." alt="" coords="1795,149,1949,176"/>
+<area shape="rect" id="node28" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="2483,1881,2605,1908"/>
+<area shape="rect" id="node33" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="1802,1821,1942,1848"/>
+<area shape="rect" id="node34" href="$group__pdu__internal.html#ga9dbdf354e2da5e80fea4c0d4a8df6d05" title="Clears any contents from pdu and resets used_size, and data pointers." alt="" coords="1301,1365,1424,1392"/>
+<area shape="rect" id="node37" href="$group__context__internal.html#ga816e87e31e2b90ada89eed085f016d93" title="Calculates the initial timeout based on the session CoAP transmission parameters &#39;ack_timeout&#39;,..." alt="" coords="1291,1821,1435,1848"/>
+<area shape="rect" id="node38" href="$group__encode.html#ga8bfaf6132a57d1f9e25282d61d7ed773" title="Decodes multiple&#45;length byte sequences." alt="" coords="1783,1315,1961,1341"/>
+<area shape="rect" id="node39" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="2027,1704,2198,1731"/>
+<area shape="rect" id="node40" href="$group__encode.html#gad65e8f128870c6d06e9c4ece4c62a3fb" title="Encodes multiple&#45;length byte sequences." alt="" coords="795,2075,974,2101"/>
+<area shape="rect" id="node41" href="$group__context__internal.html#gadbf4c617bdb13f0b61f83dca2ecdcc9e" title="Creates a new node suitable for adding to the CoAP sendqueue." alt="" coords="1299,1872,1426,1899"/>
+<area shape="rect" id="node43" href="$group__oscore__internal.html#ga1b2a4576c9e4beaebbff9bcf53da0033" title="Encrypts the specified pdu when OSCORE encryption is required on session." alt="" coords="801,2126,969,2167"/>
+<area shape="rect" id="node44" href="$group__pdu__internal.html#gab5e81fe5717f977c62b7ef427d946c35" title="Compose the protocol specific header for the specified PDU." alt="" coords="789,808,980,835"/>
+<area shape="rect" id="node45" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="2481,2632,2607,2659"/>
+<area shape="rect" id="node48" href="$group__coap__prng.html#gac64ef6bcef630d4c1e683baa269b4670" title="Fills buf with len random bytes using the default pseudo random number generator." alt="" coords="1318,2531,1407,2557"/>
+<area shape="rect" id="node49" href="$group__oscore__internal.html#gaabcd301c7b9ed4a216fd9db1a750b40c" title="Convert PDU to use Proxy&#45;Scheme option if Proxy&#45;Uri option is present." alt="" coords="804,1011,965,1053"/>
+<area shape="rect" id="node50" href="$coap__net_8c.html#a0c600aed61c8a8402d31ef795df3b0b6" title=" " alt="" coords="823,1543,946,1569"/>
+<area shape="rect" id="node51" href="$group__session__internal.html#ga192c2ce0f620200797ee34ac6f5d04c7" title=" " alt="" coords="1031,1973,1214,2000"/>
+<area shape="rect" id="node83" href="$group__pdu__internal.html#gab46558ad80403bf37b915a8adc15e3f4" title="Updates existing first option of given number in the pdu with the new data." alt="" coords="1046,403,1199,429"/>
+<area shape="rect" id="node84" href="$group__context__internal.html#gadb9e0259d946d09b38f3c23d26c24afa" title=" " alt="" coords="1560,2607,1679,2633"/>
+<area shape="rect" id="node42" href="$coap__net_8c.html#ad76ef4794cfee9fd5d3cd65e30f77b5d" title=" " alt="" coords="1548,1872,1691,1899"/>
+<area shape="rect" id="node46" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="2661,2607,2833,2633"/>
+<area shape="rect" id="node47" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="2675,2657,2820,2684"/>
+<area shape="rect" id="node71" href="$group__session__internal.html#gaaf20c9b0b2ad3168c15e535a67ea3ce5" title="Send a pdu according to the session&#39;s protocol." alt="" coords="1033,1441,1212,1468"/>
+<area shape="rect" id="node52" href="$group__context__internal.html#ga43de575f0b566b457b90b4aa2f933672" title="This function removes the element with given id from the list given list." alt="" coords="1265,2227,1460,2253"/>
+<area shape="rect" id="node53" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="2277,2455,2410,2481"/>
+<area shape="rect" id="node55" href="$group__session.html#ga9aee135ba884d7c143b11bc42fd23e53" title="Decrement reference counter on a session." alt="" coords="1281,1973,1445,2000"/>
+<area shape="rect" id="node54" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="2475,2455,2613,2481"/>
+<area shape="rect" id="node56" href="$group__session__internal.html#gab3d24595515d6f66805791a7f821d5e7" title=" " alt="" coords="1548,2049,1691,2076"/>
+<area shape="rect" id="node57" href="$group__session__internal.html#gab91ca670624ee770714727efff274c49" title=" " alt="" coords="1795,2075,1949,2101"/>
+<area shape="rect" id="node70" href="$group__session.html#gae37bac62f8de2cecd968ec1c26eb23b4" title="Increment reference counter on a session." alt="" coords="1783,2531,1961,2557"/>
+<area shape="rect" id="node58" href="$group__block__internal.html#ga5fcd0b912223ec083d4f6f68f5e8cc61" title=" " alt="" coords="2015,2075,2211,2101"/>
+<area shape="rect" id="node59" href="$group__block__internal.html#ga0f15ee33e2d5d188d0402f14631754e6" title=" " alt="" coords="2015,2125,2211,2152"/>
+<area shape="rect" id="node60" href="$group__block__internal.html#ga97dae4d1698d414de1d80c5efbdc6dce" title=" " alt="" coords="2013,2024,2212,2051"/>
+<area shape="rect" id="node63" href="$group__block.html#gaef76c2fd8695bd2f3d30e8a49c09becb" title="Cancel an observe that is being tracked by the client large receive logic." alt="" coords="2032,2176,2193,2203"/>
+<area shape="rect" id="node64" href="$group__block__internal.html#ga8be3c172347c4911d683e6fd7855dea3" title="The function checks if the token needs to be updated before PDU is presented to the application (only..." alt="" coords="2016,2227,2209,2253"/>
+<area shape="rect" id="node65" href="$group__cache.html#ga09e46fc4bba8b37115a3fb964b76b21c" title="Remove a cache&#45;entry from the hash list and free off all the appropriate contents apart from app_data..." alt="" coords="2019,2277,2206,2304"/>
+<area shape="rect" id="node66" href="$group__context__internal.html#ga44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node." alt="" coords="2043,1755,2183,1781"/>
+<area shape="rect" id="node68" href="$group__oscore__internal.html#gab3de65a4c87638438bc2cb6e5b30e312" title="Cleanup all allocated OSCORE association information." alt="" coords="2037,1958,2188,1999"/>
+<area shape="rect" id="node69" href="$group__string.html#ga4c283744d0fa51b553bf3fc52488e4b0" title="Deletes the given const string and releases any memory allocated." alt="" coords="2260,2219,2427,2245"/>
+<area shape="rect" id="node61" href="$group__string.html#ga5881b7726f26833abb90e30bd23730af" title="Deletes the given coap_binary_t object and releases any memory allocated." alt="" coords="2269,2059,2418,2085"/>
+<area shape="rect" id="node62" href="$group__string.html#gad991c87cfcf9b2414d2dc430c8701ed3" title="Deletes the given string and releases any memory allocated." alt="" coords="2271,1957,2416,1984"/>
+<area shape="rect" id="node67" href="$coap__net_8c.html#aa2f296838e4a779197c43b254e385ddc" title=" " alt="" coords="2281,1805,2406,1832"/>
+<area shape="rect" id="node72" href="$group__logging.html#ga3123fcde8310c0f7cb48897a683baef6" title="Display the contents of the specified pdu." alt="" coords="1300,1441,1425,1468"/>
+<area shape="rect" id="node73" href="$group__pdu.html#gab8ab682509ebdb989cf5d10170612cf0" title="Retrieves the length and data pointer of specified PDU." alt="" coords="1561,1771,1678,1797"/>
+<area shape="rect" id="node75" href="$group__logging.html#ga10c3fbd56b0eb3a8722b27a65fc9b0ce" title="Get the current logging level." alt="" coords="1546,1619,1693,1645"/>
+<area shape="rect" id="node76" href="$group__block.html#gaac6c90297abc6e2da80a6212b0d10e99" title="Returns the value of field num in the given block option block_opt." alt="" coords="1540,1264,1699,1291"/>
+<area shape="rect" id="node77" href="$coap__debug_8c.html#a70db69adf2511b8264abad9fd8218d58" title="Returns 1 if the given content_format is either unknown or known to carry binary data." alt="" coords="1579,1669,1660,1696"/>
+<area shape="rect" id="node78" href="$coap__debug_8c.html#a9a3a1996a752f7b4bf512d235b2345e4" title="Returns a textual description of the method or response code." alt="" coords="1553,1720,1685,1747"/>
+<area shape="rect" id="node79" href="$coap__debug_8c.html#aa80e7b9d5e65c3483541fcc13da62949" title="Returns a textual description of the option name." alt="" coords="1548,1365,1691,1392"/>
+<area shape="rect" id="node80" href="$coap__debug_8c.html#ae278ff13c04275166fb39b1892076b19" title="Returns a textual description of the message type t." alt="" coords="1554,1416,1685,1443"/>
+<area shape="rect" id="node81" href="$coap__debug_8c.html#af117a9e7fbf2a7d61922631cc747c3e9" title=" " alt="" coords="1540,1517,1699,1544"/>
+<area shape="rect" id="node82" href="$coap__debug_8c.html#a9e3ba28934c772ce97c390e4ff4c776f" title=" " alt="" coords="1561,1568,1677,1595"/>
+<area shape="rect" id="node74" href="$group__pdu.html#gacb114ef7bdb588870ded91efc3c3d6d2" title="Retrieves the data from a PDU, with support for large bodies of data that spans multiple PDUs." alt="" coords="1793,1771,1951,1797"/>
+<area shape="rect" id="node85" href="$group__context__internal.html#ga80d2c3b0141e98bf3f7914e7e59b9530" title="Adds node to given queue, ordered by variable t in node." alt="" coords="1804,2683,1940,2709"/>
+<area shape="rect" id="node86" href="$group__context.html#ga757eecd5cda6e32472313df73a9297fd" title="Returns the current value of an internal tick counter." alt="" coords="1827,2733,1917,2760"/>
+<area shape="rect" id="node87" href="$coap__io__internal_8h.html#a4a595d42b4434f9492687b9e20370c9f" title="Update the epoll timer fd as to when it is to trigger." alt="" coords="1779,2632,1965,2659"/>
+<area shape="rect" id="node89" href="$group__context.html#ga8f46c87e4908ae0ee8c9a0e3e15f8f4a" title="Helper function to create and send a message with type (usually ACK or RST)." alt="" coords="352,1340,545,1367"/>
+</map>

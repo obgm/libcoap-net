@@ -1,0 +1,5 @@
+<map id="coap_remove_option" name="coap_remove_option">
+<area shape="rect" id="node1" title="Removes (first) option of given number from the pdu." alt="" coords="213,42,372,69"/>
+<area shape="rect" id="node2" href="$coap__block_8c.html#a7ac9ac5682c27cf4b80b8e1bb28c330c" title=" " alt="" coords="5,5,165,47"/>
+<area shape="rect" id="node3" href="$group__context.html#gaeadf53fc0202c2a9c881406d4aa12a4c" title="Sends a CoAP message to given peer." alt="" coords="40,71,131,98"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="pdu.h" name="pdu.h">
+<area shape="rect" id="node1" title="Pre&#45;defined constants that reflect defaults for CoAP." alt="" coords="119,5,173,32"/>
+<area shape="rect" id="node2" href="$coap__option_8h.html" title="Helpers for handling options in CoAP PDUs." alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node3" href="$uri_8h.html" title="Helper functions for URI treatment." alt="" coords="184,80,231,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="113,155,179,181"/>
+<area shape="rect" id="node5" href="$coap__str_8h.html" title="Strings to be used in the CoAP library." alt="" coords="203,155,286,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="212,229,277,256"/>
+</map>

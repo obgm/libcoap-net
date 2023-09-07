@@ -1,0 +1,10 @@
+<map id="oscore_cbor_get_string_array" name="oscore_cbor_get_string_array">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,177,141"/>
+<area shape="rect" id="node2" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="267,5,407,32"/>
+<area shape="rect" id="node3" href="$group__oscore__cbor__internal.html#gab692e501836c4d9d82147c2e316f43f3" title=" " alt="" coords="252,56,421,83"/>
+<area shape="rect" id="node5" href="$group__oscore__cbor__internal.html#ga3629a66f8876ce66b6cd233f92e9e7f6" title=" " alt="" coords="225,157,448,184"/>
+<area shape="rect" id="node7" href="$group__oscore__cbor__internal.html#ga91cd1cf8a776f9f27c91932da7786675" title=" " alt="" coords="255,209,419,250"/>
+<area shape="rect" id="node8" href="$group__oscore__cbor__internal.html#ga8bfcfbef6864e79da3d3ca0f74290a06" title=" " alt="" coords="251,107,423,133"/>
+<area shape="rect" id="node4" href="$oscore__cbor_8c.html#a902c77b8cd89c65064985c8f5bb16da9" title=" " alt="" coords="496,107,601,133"/>
+<area shape="rect" id="node6" href="$oscore__cbor_8c.html#a575a02cbfa6b36b6a146f793915847e8" title=" " alt="" coords="509,187,588,213"/>
+</map>

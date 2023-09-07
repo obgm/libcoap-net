@@ -1,0 +1,7 @@
+<map id="coap_ticks_to_rt_us" name="coap_ticks_to_rt_us">
+<area shape="rect" id="node1" title="Helper function that converts coap ticks to POSIX wallclock time in us." alt="" coords="375,31,525,57"/>
+<area shape="rect" id="node2" href="$coap__net_8c.html#aceceb550566e0ab9e184d09604a73bb6" title=" " alt="" coords="208,5,315,32"/>
+<area shape="rect" id="node4" href="$coap__debug_8c.html#ac22594f737f12f0c3947d2934070cd93" title=" " alt="" coords="196,56,327,83"/>
+<area shape="rect" id="node3" href="$group__context.html#ga1ab369ca0a3c4fe7f8a9e0536346ff71" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node5" href="$group__logging.html#ga9cdced532dd20942747e340f359ad278" title="Writes the given text to COAP_ERR_FD (for level &lt;= COAP_LOG_CRIT) or COAP_DEBUG_FD (for level &gt;= COAP..." alt="" coords="19,56,135,83"/>
+</map>

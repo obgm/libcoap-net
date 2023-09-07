@@ -1,0 +1,12 @@
+<map id="coap_socket_bind_udp" name="coap_socket_bind_udp">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,173,184"/>
+<area shape="rect" id="node2" href="$coap__address_8c.html#ad1c3d640d43a55084e0aece91b38fa4e" title=" " alt="" coords="242,5,391,32"/>
+<area shape="rect" id="node3" href="$coap__address_8c.html#a59e19389468d5ced36778ed07546bce2" title="Resets the given coap_address_t object addr to its default values." alt="" coords="247,56,386,83"/>
+<area shape="rect" id="node4" href="$coap__address_8c.html#a53db74f2c091df389aa8bbd809e098b6" title="Checks if given address a denotes a broadcast address." alt="" coords="482,143,595,169"/>
+<area shape="rect" id="node6" href="$coap__address_8c.html#a5b47d6fe47a54a0798eddb9ea77005ea" title="Checks if given address a denotes a multicast address." alt="" coords="257,157,376,184"/>
+<area shape="rect" id="node7" href="$coap__io_8c.html#a2de382e7795c908d1a376da8c338386d" title="Function interface to close off a socket." alt="" coords="245,208,388,235"/>
+<area shape="rect" id="node8" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="460,223,617,249"/>
+<area shape="rect" id="node10" href="$coap__io__internal_8h.html#a1086276cc42228e6b0b1c72b4f72fa84" title=" " alt="" coords="221,309,412,336"/>
+<area shape="rect" id="node5" href="$group__context.html#ga757eecd5cda6e32472313df73a9297fd" title="Returns the current value of an internal tick counter." alt="" coords="697,143,787,169"/>
+<area shape="rect" id="node9" href="$coap__io_8c.html#a198ae48fdbe1762be87328d3a5f5f4b2" title=" " alt="" coords="665,215,819,257"/>
+</map>

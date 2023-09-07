@@ -1,0 +1,4 @@
+<map id="coap_session_max_pdu_rcv_size" name="coap_session_max_pdu_rcv_size">
+<area shape="rect" id="node1" title="Get maximum acceptable receive PDU size." alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node2" href="$coap__session_8c.html#ac88573ca6dc25622d89afa8a0504916d" title=" " alt="" coords="229,5,405,47"/>
+</map>

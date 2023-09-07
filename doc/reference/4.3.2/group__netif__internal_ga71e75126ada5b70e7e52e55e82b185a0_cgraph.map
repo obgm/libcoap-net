@@ -1,0 +1,13 @@
+<map id="coap_netif_strm_write" name="coap_netif_strm_write">
+<area shape="rect" id="node1" title="Function interface for netif stream data transmission." alt="" coords="5,161,172,188"/>
+<area shape="rect" id="node2" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="225,85,358,112"/>
+<area shape="rect" id="node7" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="411,136,568,163"/>
+<area shape="rect" id="node9" href="$coap__io_8c.html#a53d8fd138fc5bf331c2bf71d72ac4848" title="Function interface for data stream sending off a socket." alt="" coords="220,187,363,213"/>
+<area shape="rect" id="node11" href="$group__context.html#ga757eecd5cda6e32472313df73a9297fd" title="Returns the current value of an internal tick counter." alt="" coords="246,237,337,264"/>
+<area shape="rect" id="node3" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="426,35,553,61"/>
+<area shape="rect" id="node6" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="420,85,559,112"/>
+<area shape="rect" id="node4" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="616,5,788,32"/>
+<area shape="rect" id="node5" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="629,56,775,83"/>
+<area shape="rect" id="node8" href="$coap__io_8c.html#a198ae48fdbe1762be87328d3a5f5f4b2" title=" " alt="" coords="625,129,779,170"/>
+<area shape="rect" id="node10" href="$coap__io__internal_8h.html#ada1a4c92a688b7940a0ee02566157638" title="Epoll specific function to modify the state of events that epoll is tracking on the appropriate file ..." alt="" coords="414,187,565,213"/>
+</map>

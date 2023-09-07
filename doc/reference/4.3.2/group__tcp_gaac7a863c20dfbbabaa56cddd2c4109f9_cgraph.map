@@ -1,0 +1,5 @@
+<map id="coap_socket_accept_tcp" name="coap_socket_accept_tcp">
+<area shape="rect" id="node1" title="Accept a new incoming TCP session." alt="" coords="5,13,184,39"/>
+<area shape="rect" id="node2" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="232,13,389,39"/>
+<area shape="rect" id="node3" href="$coap__io_8c.html#a198ae48fdbe1762be87328d3a5f5f4b2" title=" " alt="" coords="437,5,591,47"/>
+</map>

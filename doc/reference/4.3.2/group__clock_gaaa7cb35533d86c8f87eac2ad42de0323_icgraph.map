@@ -1,0 +1,6 @@
+<map id="coap_ticks_to_rt" name="coap_ticks_to_rt">
+<area shape="rect" id="node1" title="Helper function that converts coap ticks to wallclock time." alt="" coords="377,42,505,69"/>
+<area shape="rect" id="node2" href="$coap__block_8c.html#a7ac9ac5682c27cf4b80b8e1bb28c330c" title=" " alt="" coords="169,5,329,47"/>
+<area shape="rect" id="node3" href="$coap__debug_8c.html#ac22594f737f12f0c3947d2934070cd93" title=" " alt="" coords="184,71,315,98"/>
+<area shape="rect" id="node4" href="$group__logging.html#ga9cdced532dd20942747e340f359ad278" title="Writes the given text to COAP_ERR_FD (for level &lt;= COAP_LOG_CRIT) or COAP_DEBUG_FD (for level &gt;= COAP..." alt="" coords="5,71,121,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="coap_clock_init" name="coap_clock_init">
+<area shape="rect" id="node1" title="Initializes the internal clock." alt="" coords="351,5,473,32"/>
+<area shape="rect" id="node2" href="$coap__net_8c.html#aceceb550566e0ab9e184d09604a73bb6" title=" " alt="" coords="196,5,303,32"/>
+<area shape="rect" id="node3" href="$group__context.html#ga1ab369ca0a3c4fe7f8a9e0536346ff71" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,5,148,32"/>
+</map>

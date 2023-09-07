@@ -1,0 +1,5 @@
+<map id="coap_free_endpoint" name="coap_free_endpoint">
+<area shape="rect" id="node1" title=" " alt="" coords="361,5,496,32"/>
+<area shape="rect" id="node2" href="$group__context.html#ga4a0717822713783908dd33d300440b2e" title="CoAP stack context must be released with coap_free_context()." alt="" coords="184,5,313,32"/>
+<area shape="rect" id="node3" href="$group__context.html#ga1ab369ca0a3c4fe7f8a9e0536346ff71" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,5,136,32"/>
+</map>

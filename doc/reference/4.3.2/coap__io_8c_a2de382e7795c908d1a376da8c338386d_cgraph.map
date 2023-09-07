@@ -1,0 +1,5 @@
+<map id="coap_socket_close" name="coap_socket_close">
+<area shape="rect" id="node1" title="Function interface to close off a socket." alt="" coords="5,13,148,39"/>
+<area shape="rect" id="node2" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="196,13,353,39"/>
+<area shape="rect" id="node3" href="$coap__io_8c.html#a198ae48fdbe1762be87328d3a5f5f4b2" title=" " alt="" coords="401,5,555,47"/>
+</map>

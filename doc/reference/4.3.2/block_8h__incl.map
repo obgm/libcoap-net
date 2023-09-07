@@ -1,0 +1,11 @@
+<map id="block.h" name="block.h">
+<area shape="rect" id="node1" title="CoAP Block information." alt="" coords="173,5,237,32"/>
+<area shape="rect" id="node2" href="$coap__encode_8h.html" title="Encoding and decoding of CoAP data types." alt="" coords="57,80,167,107"/>
+<area shape="rect" id="node5" href="$coap__option_8h.html" title="Helpers for handling options in CoAP PDUs." alt="" coords="153,155,255,181"/>
+<area shape="rect" id="node6" href="$pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP." alt="" coords="255,80,310,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,155,77,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="242,229,307,256"/>
+<area shape="rect" id="node7" href="$uri_8h.html" title="Helper functions for URI treatment." alt="" coords="331,155,378,181"/>
+<area shape="rect" id="node8" href="$coap__str_8h.html" title="Strings to be used in the CoAP library." alt="" coords="332,229,415,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="341,304,406,331"/>
+</map>

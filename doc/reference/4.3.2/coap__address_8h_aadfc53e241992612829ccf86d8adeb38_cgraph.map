@@ -1,0 +1,8 @@
+<map id="coap_get_available_scheme_hint_bits" name="coap_get_available_scheme_hint_bits">
+<area shape="rect" id="node1" title="Determine and set up scheme_hint_bits for a server that can be used in a call to coap_resolve_address..." alt="" coords="5,99,153,141"/>
+<area shape="rect" id="node2" href="$group__dtls.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available." alt="" coords="201,5,376,32"/>
+<area shape="rect" id="node3" href="$coap__tcp_8c.html#a2d25d72f564c765b85708b26ee01e27e" title="Check whether TCP is available." alt="" coords="203,56,374,83"/>
+<area shape="rect" id="node4" href="$group__dtls.html#ga55b3b545f0784c7a6135021017317e1b" title="Check whether TLS is available." alt="" coords="205,107,372,133"/>
+<area shape="rect" id="node5" href="$group__ws.html#ga85ebb276d1475de14d90e103b255c749" title="Check whether WebSockets is available." alt="" coords="205,157,373,184"/>
+<area shape="rect" id="node6" href="$group__ws.html#gae3150f4272480b18b3771e6b6465624e" title="Check whether Secure WebSockets is available." alt="" coords="201,208,376,235"/>
+</map>

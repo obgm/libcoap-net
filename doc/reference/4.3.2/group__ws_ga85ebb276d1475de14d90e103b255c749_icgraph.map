@@ -1,0 +1,11 @@
+<map id="coap_ws_is_supported" name="coap_ws_is_supported">
+<area shape="rect" id="node1" title="Check whether WebSockets is available." alt="" coords="645,97,813,123"/>
+<area shape="rect" id="node2" href="$coap__address_8c.html#aadfc53e241992612829ccf86d8adeb38" title="Determine and set up scheme_hint_bits for a server that can be used in a call to coap_resolve_address..." alt="" coords="424,5,572,47"/>
+<area shape="rect" id="node3" href="$coap__address_8c.html#ab03b6dbb9be4439180ba52717d14c5d9" title="Resolve the specified address into a set of coap_address_t that can be used to bind() (local) or conn..." alt="" coords="399,71,597,98"/>
+<area shape="rect" id="node4" href="$coap__uri_8c.html#a8890896e5d2defbaa2558aaea33b4c8a" title=" " alt="" coords="427,122,569,149"/>
+<area shape="rect" id="node9" href="$group__logging.html#ga4a9140f2423b4970123d795f547b6a93" title="Build a string containing the current (D)TLS library support." alt="" coords="410,173,586,199"/>
+<area shape="rect" id="node5" href="$group__uri__parse.html#gaa86cf4fdd1773d3b4270daac72ba9eba" title="Parses a given string into URI components." alt="" coords="195,97,351,123"/>
+<area shape="rect" id="node7" href="$group__uri__parse.html#ga9b19917fbf64f3a35a52d31ae5f6f76c" title="Parses a given string into URI components." alt="" coords="217,147,329,174"/>
+<area shape="rect" id="node6" href="$group__uri__parse.html#ga11d902f573bcfee188d5ccd4903d0393" title="Extract uri_path string from request PDU." alt="" coords="5,97,147,123"/>
+<area shape="rect" id="node8" href="$coap__uri_8c.html#aee99e6e8fd8df58150ec10e66c8dc265" title="Creates a new coap_uri_t object from the specified URI." alt="" coords="21,147,131,174"/>
+</map>

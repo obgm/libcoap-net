@@ -1,0 +1,7 @@
+<map id="coap_async_set_delay" name="coap_async_set_delay">
+<area shape="rect" id="node1" title="Update the delay timeout, so changing when the registered async triggers." alt="" coords="5,56,160,83"/>
+<area shape="rect" id="node2" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="229,5,353,32"/>
+<area shape="rect" id="node4" href="$group__clock.html#ga350826988e63ff446a2a84034ecdf43d" title="Sets t to the internal time with COAP_TICKS_PER_SECOND resolution." alt="" coords="249,56,334,83"/>
+<area shape="rect" id="node5" href="$coap__io__internal_8h.html#a4a595d42b4434f9492687b9e20370c9f" title="Update the epoll timer fd as to when it is to trigger." alt="" coords="208,107,375,133"/>
+<area shape="rect" id="node3" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="423,5,537,32"/>
+</map>

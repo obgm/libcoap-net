@@ -1,0 +1,14 @@
+<map id="coap_address.h" name="coap_address.h">
+<area shape="rect" id="node1" title="Representation of network addresses." alt="" coords="229,5,352,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="633,229,703,256"/>
+<area shape="rect" id="node4" title=" " alt="" coords="247,304,318,331"/>
+<area shape="rect" id="node5" title=" " alt="" coords="300,80,396,107"/>
+<area shape="rect" id="node6" href="$libcoap_8h.html" title="Platform specific header file for CoAP stack." alt="" coords="194,80,275,107"/>
+<area shape="rect" id="node9" href="$coap__pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP." alt="" coords="448,80,587,107"/>
+<area shape="rect" id="node7" title=" " alt="" coords="283,155,379,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="155,155,258,181"/>
+<area shape="rect" id="node10" href="$coap__option_8h.html" title="Helpers for handling options in CoAP PDUs." alt="" coords="517,155,630,181"/>
+<area shape="rect" id="node11" href="$coap__uri_8h.html" title="Helper functions for URI treatment." alt="" coords="403,155,493,181"/>
+<area shape="rect" id="node12" href="$coap__str_8h.html" title="Strings to be used in the CoAP library." alt="" coords="321,229,409,256"/>
+</map>

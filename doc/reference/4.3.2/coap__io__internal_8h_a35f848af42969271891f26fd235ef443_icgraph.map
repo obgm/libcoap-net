@@ -1,0 +1,4 @@
+<map id="coap_socket_send" name="coap_socket_send">
+<area shape="rect" id="node1" title="Function interface for data transmission." alt="" coords="224,5,364,32"/>
+<area shape="rect" id="node2" href="$group__netif__internal.html#ga3cda89bfc93e09726c4af63fbe942276" title="Function interface for netif datagram data transmission." alt="" coords="5,5,176,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="coap_opt_size" name="coap_opt_size">
+<area shape="rect" id="node1" title="Returns the size of the given option, taking into account a possible option jump." alt="" coords="217,5,332,32"/>
+<area shape="rect" id="node2" href="$group__uri__parse.html#gab12de398f21df10012700359bfdd92ad" title="Takes a coap_uri_t and then adds CoAP options into the optlist_chain." alt="" coords="5,5,169,32"/>
+</map>

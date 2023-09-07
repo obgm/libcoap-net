@@ -1,0 +1,4 @@
+<map id="coap_dtls_new_server_session" name="coap_dtls_new_server_session">
+<area shape="rect" id="node1" title="Create a new DTLS server&#45;side session." alt="" coords="204,5,371,47"/>
+<area shape="rect" id="node2" href="$group__dtls__internal.html#ga48cfe10be474a4ca9755611da566ce4b" title="Layer function interface for layer below DTLS connect being established." alt="" coords="5,13,156,39"/>
+</map>

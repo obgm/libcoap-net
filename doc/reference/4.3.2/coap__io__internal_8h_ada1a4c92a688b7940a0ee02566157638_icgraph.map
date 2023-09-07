@@ -1,0 +1,16 @@
+<map id="coap_epoll_ctl_mod" name="coap_epoll_ctl_mod">
+<area shape="rect" id="node1" title="Epoll specific function to modify the state of events that epoll is tracking on the appropriate file ..." alt="" coords="1515,107,1665,133"/>
+<area shape="rect" id="node2" href="$group__app__io__internal.html#ga503f851fa137eb8a9c2936e2098c5eb9" title="Process all the epoll events." alt="" coords="1328,81,1463,108"/>
+<area shape="rect" id="node13" href="$coap__io_8c.html#a53d8fd138fc5bf331c2bf71d72ac4848" title="Function interface for data stream sending off a socket." alt="" coords="1324,132,1467,159"/>
+<area shape="rect" id="node3" href="$group__app__io.html#ga2758ed5fdd6ce79ec95ea8dbf72a5644" title="The main message processing loop with additional fds for internal select." alt="" coords="1085,81,1276,108"/>
+<area shape="rect" id="node4" href="$group__app__io.html#ga082f7bbf15d3f37c31c2a0a5e78ea4cf" title="The main I/O processing function." alt="" coords="908,81,1037,108"/>
+<area shape="rect" id="node5" href="$group__context__internal.html#ga5d013d40174c7c217b24bf624f9d7310" title="Delay the sending of the first client request until some other negotiation has completed." alt="" coords="689,31,860,57"/>
+<area shape="rect" id="node11" href="$group__app__io.html#gaca10debdb496ee890c45fe49a5799330" title="Check to see if there is any i/o pending for the context." alt="" coords="709,81,840,108"/>
+<area shape="rect" id="node12" href="$coap__net_8h.html#ac6b34aa979ec545eb710e45a26c98fc1" title=" " alt="" coords="715,132,834,159"/>
+<area shape="rect" id="node6" href="$group__context.html#gaeadf53fc0202c2a9c881406d4aa12a4c" title="Sends a CoAP message to given peer." alt="" coords="491,5,582,32"/>
+<area shape="rect" id="node7" href="$group__session.html#ga4368ee622c681bf7cf0b7cfe99c8ab37" title="Get maximum acceptable PDU size." alt="" coords="432,56,641,83"/>
+<area shape="rect" id="node8" href="$group__pdu.html#ga6ab63e25c7c9eed3de00b0e1153b33b6" title="Creates a new CoAP PDU." alt="" coords="249,31,368,57"/>
+<area shape="rect" id="node9" href="$group__pdu.html#gabf10450d37381b133fb780480b4fca1b" title="Duplicate an existing PDU." alt="" coords="233,81,384,108"/>
+<area shape="rect" id="node10" href="$group__oscore__internal.html#ga8cf885624714b9a4705974adf2629cb2" title=" " alt="" coords="5,81,185,108"/>
+<area shape="rect" id="node14" href="$group__netif__internal.html#ga71e75126ada5b70e7e52e55e82b185a0" title="Function interface for netif stream data transmission." alt="" coords="1097,132,1264,159"/>
+</map>

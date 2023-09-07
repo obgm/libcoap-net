@@ -1,0 +1,7 @@
+<map id="coap_split_uri_sub" name="coap_split_uri_sub">
+<area shape="rect" id="node1" title=" " alt="" coords="371,31,501,57"/>
+<area shape="rect" id="node2" href="$group__uri__parse.html#gaa86cf4fdd1773d3b4270daac72ba9eba" title="Parses a given string into URI components." alt="" coords="181,5,323,32"/>
+<area shape="rect" id="node4" href="$group__uri__parse.html#ga9b19917fbf64f3a35a52d31ae5f6f76c" title="Parses a given string into URI components." alt="" coords="201,56,303,83"/>
+<area shape="rect" id="node3" href="$group__uri__parse.html#ga11d902f573bcfee188d5ccd4903d0393" title="Extract uri_path string from request PDU." alt="" coords="5,5,133,32"/>
+<area shape="rect" id="node5" href="$uri_8c.html#aee99e6e8fd8df58150ec10e66c8dc265" title="Creates a new coap_uri_t object from the specified URI." alt="" coords="18,56,121,83"/>
+</map>
