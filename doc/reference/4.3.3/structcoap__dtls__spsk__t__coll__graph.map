@@ -1,0 +1,5 @@
+<map id="coap_dtls_spsk_t" name="coap_dtls_spsk_t">
+<area shape="rect" id="node1" title="The structure used for defining the Server PSK setup data to be used." alt="" coords="6,213,139,240"/>
+<area shape="rect" id="node2" href="$structcoap__bin__const__t.html" title="CoAP binary data definition with const data." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node3" href="$structcoap__dtls__spsk__info__t.html" title="The structure that holds the Server Pre&#45;Shared Key and Identity Hint information." alt="" coords="221,109,386,136"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="oscore_free_context" name="oscore_free_context">
+<area shape="rect" id="node1" title=" " alt="" coords="5,28,160,55"/>
+<area shape="rect" id="node2" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="419,28,589,55"/>
+<area shape="rect" id="node3" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="637,28,760,55"/>
+<area shape="rect" id="node4" href="$oscore__context_8c.html#a57f44a2f5848c4badcbab9c2b232dff6" title=" " alt="" coords="208,79,371,105"/>
+</map>

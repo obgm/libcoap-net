@@ -1,0 +1,5 @@
+<map id="coap_address_equals" name="coap_address_equals">
+<area shape="rect" id="node1" title="Compares given address objects a and b." alt="" coords="252,31,413,57"/>
+<area shape="rect" id="node2" href="$coap__address_8c.html#ab03b6dbb9be4439180ba52717d14c5d9" title="Resolve the specified address into a set of coap_address_t that can be used to bind() (local) or conn..." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node3" href="$group__session.html#gaa0454daea8a43056650652165e8984b6" title="Get the session associated with the specified remote_addr and index." alt="" coords="7,56,203,83"/>
+</map>

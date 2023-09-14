@@ -1,0 +1,4 @@
+<map id="coap_crypto_aes_ccm_t" name="coap_crypto_aes_ccm_t">
+<area shape="rect" id="node1" title="The structure that holds the AES Crypto information." alt="" coords="5,95,183,121"/>
+<area shape="rect" id="node2" href="$structcoap__bin__const__t.html" title="CoAP binary data definition with const data." alt="" coords="27,5,161,32"/>
+</map>

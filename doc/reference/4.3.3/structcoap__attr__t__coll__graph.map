@@ -1,0 +1,4 @@
+<map id="coap_attr_t" name="coap_attr_t">
+<area shape="rect" id="node1" title="Limits the number of subscribers for each resource that this server support." alt="" coords="23,109,118,136"/>
+<area shape="rect" id="node2" href="$structcoap__str__const__t.html" title="CoAP string data definition with const data." alt="" coords="5,5,136,32"/>
+</map>

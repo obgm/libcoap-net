@@ -1,0 +1,11 @@
+<map id="coap_block_delete_lg_xmit" name="coap_block_delete_lg_xmit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,204,108"/>
+<area shape="rect" id="node2" href="$group__string.html#ga5881b7726f26833abb90e30bd23730af" title="Deletes the given coap_binary_t object and releases any memory allocated." alt="" coords="252,5,401,32"/>
+<area shape="rect" id="node3" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="457,56,580,83"/>
+<area shape="rect" id="node4" href="$group__string.html#gad991c87cfcf9b2414d2dc430c8701ed3" title="Deletes the given string and releases any memory allocated." alt="" coords="254,107,399,133"/>
+<area shape="rect" id="node5" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="260,157,393,184"/>
+<area shape="rect" id="node6" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="455,132,582,159"/>
+<area shape="rect" id="node9" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="449,183,588,209"/>
+<area shape="rect" id="node7" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="636,107,808,133"/>
+<area shape="rect" id="node8" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="649,157,795,184"/>
+</map>

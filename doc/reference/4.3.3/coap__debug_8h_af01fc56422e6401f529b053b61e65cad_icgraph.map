@@ -1,0 +1,5 @@
+<map id="coap_debug_send_packet" name="coap_debug_send_packet">
+<area shape="rect" id="node1" title="Check to see whether a packet should be sent or not." alt="" coords="412,5,600,32"/>
+<area shape="rect" id="node2" href="$coap__io_8c.html#a35f848af42969271891f26fd235ef443" title="Function interface for data transmission." alt="" coords="224,5,364,32"/>
+<area shape="rect" id="node3" href="$group__netif__internal.html#ga3cda89bfc93e09726c4af63fbe942276" title="Function interface for netif datagram data transmission." alt="" coords="5,5,176,32"/>
+</map>

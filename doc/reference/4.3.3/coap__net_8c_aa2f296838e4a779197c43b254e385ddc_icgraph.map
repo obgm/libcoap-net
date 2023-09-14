@@ -1,0 +1,51 @@
+<map id="coap_free_node" name="coap_free_node">
+<area shape="rect" id="node1" title=" " alt="" coords="4449,519,4575,545"/>
+<area shape="rect" id="node2" href="$group__context__internal.html#ga44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node." alt="" coords="4261,519,4401,545"/>
+<area shape="rect" id="node3" href="$group__context__internal.html#gafad345e14c98d46913c4c71fffe878f4" title="Cancels all outstanding messages for session session that have the specified token." alt="" coords="2693,955,2892,981"/>
+<area shape="rect" id="node5" href="$group__context__internal.html#ga7bb944fc52f772655356d95724317401" title="Dispatches the PDUs from the receive queue in given context." alt="" coords="2151,651,2265,677"/>
+<area shape="rect" id="node22" href="$group__context__internal.html#gadd0197ad2daf24535c85e0ba1d28f099" title="Cancels all outstanding messages for session session." alt="" coords="4055,433,4213,474"/>
+<area shape="rect" id="node23" href="$group__session.html#gad3377d3198c10fa086502035ded9c268" title="Notify session that it has failed." alt="" coords="3171,271,3373,297"/>
+<area shape="rect" id="node32" href="$group__context__internal.html#ga2c1e86998c712346baf2d116dbf1ac7f" title="Removes all items from given queue and frees the allocated storage." alt="" coords="3873,1232,3997,1259"/>
+<area shape="rect" id="node35" href="$group__context__internal.html#gaad5ccd0b3161f63c0854c2624e892ef4" title="Handles retransmissions of confirmable messages." alt="" coords="2729,296,2857,323"/>
+<area shape="rect" id="node36" href="$group__session__internal.html#gaa8b3a2da8480911b0216dad076038cb6" title="Notify session that it has just connected or reconnected." alt="" coords="2940,499,3123,525"/>
+<area shape="rect" id="node37" href="$group__session__internal.html#gab91ca670624ee770714727efff274c49" title=" " alt="" coords="4057,381,4211,408"/>
+<area shape="rect" id="node49" href="$coap__net_8c.html#a8fe30a827bdd0d518fc5c5a3a860dfde" title=" " alt="" coords="1516,528,1665,555"/>
+<area shape="rect" id="node4" href="$coap__net_8c.html#a6b355153e3bba3af3df1e72f33ced85c" title="This function cancels outstanding messages for the session and token specified in sent." alt="" coords="2330,955,2433,981"/>
+<area shape="rect" id="node6" href="$group__context__internal.html#gae6b8ca457dd41f23372f9e9a7159312b" title="Parses and interprets a CoAP datagram with context ctx." alt="" coords="1949,549,2103,576"/>
+<area shape="rect" id="node8" href="$coap__net_8c.html#acd36f6fba6d30ab9557e0e6521f4a088" title=" " alt="" coords="1518,477,1663,504"/>
+<area shape="rect" id="node7" href="$coap__net_8c.html#a8534f7860b14e0743529daff196a27ce" title=" " alt="" coords="1723,521,1901,562"/>
+<area shape="rect" id="node9" href="$group__app__io__internal.html#ga503f851fa137eb8a9c2936e2098c5eb9" title="Process all the epoll events." alt="" coords="1324,457,1459,484"/>
+<area shape="rect" id="node20" href="$group__app__io__internal.html#ga2208802b0711ad20df07271b751b41dc" title="Processes any outstanding read, write, accept or connect I/O as indicated in the coap_socket_t struct..." alt="" coords="1334,519,1449,545"/>
+<area shape="rect" id="node10" href="$group__app__io.html#ga2758ed5fdd6ce79ec95ea8dbf72a5644" title="The main message processing loop with additional fds for internal select." alt="" coords="1085,457,1276,484"/>
+<area shape="rect" id="node11" href="$group__app__io.html#ga082f7bbf15d3f37c31c2a0a5e78ea4cf" title="The main I/O processing function." alt="" coords="908,691,1037,717"/>
+<area shape="rect" id="node12" href="$group__context__internal.html#ga5d013d40174c7c217b24bf624f9d7310" title="Delay the sending of the first client request until some other negotiation has completed." alt="" coords="689,1005,860,1032"/>
+<area shape="rect" id="node18" href="$group__app__io.html#gaca10debdb496ee890c45fe49a5799330" title="Check to see if there is any i/o pending for the context." alt="" coords="709,665,840,692"/>
+<area shape="rect" id="node19" href="$coap__net_8h.html#ac6b34aa979ec545eb710e45a26c98fc1" title=" " alt="" coords="715,716,834,743"/>
+<area shape="rect" id="node13" href="$group__context.html#gaeadf53fc0202c2a9c881406d4aa12a4c" title="Sends a CoAP message to given peer." alt="" coords="491,1056,582,1083"/>
+<area shape="rect" id="node14" href="$group__session.html#ga4368ee622c681bf7cf0b7cfe99c8ab37" title="Get maximum acceptable PDU size." alt="" coords="432,1005,641,1032"/>
+<area shape="rect" id="node15" href="$group__pdu.html#ga6ab63e25c7c9eed3de00b0e1153b33b6" title="Creates a new CoAP PDU." alt="" coords="249,980,368,1007"/>
+<area shape="rect" id="node16" href="$group__pdu.html#gabf10450d37381b133fb780480b4fca1b" title="Duplicate an existing PDU." alt="" coords="233,1031,384,1057"/>
+<area shape="rect" id="node17" href="$group__oscore__internal.html#ga8cf885624714b9a4705974adf2629cb2" title=" " alt="" coords="5,1031,185,1057"/>
+<area shape="rect" id="node21" href="$coap__net_8h.html#af937985e2b14a287a849663574d59bcb" title=" " alt="" coords="1136,519,1225,545"/>
+<area shape="rect" id="node24" href="$group__dtls__internal.html#ga48cfe10be474a4ca9755611da566ce4b" title="Layer function interface for layer below DTLS connect being established." alt="" coords="2956,245,3107,272"/>
+<area shape="rect" id="node25" href="$group__app__io__internal.html#gaf0cbbb00a6f2f8ac885f0e1575534e34" title="Iterates through all the coap_socket_t structures embedded in endpoints or sessions associated with t..." alt="" coords="2497,220,2645,247"/>
+<area shape="rect" id="node28" href="$group__session__internal.html#ga2f455ec1572982a5ae404beac0cfbd53" title="Notify session transport has just connected and CSM exchange can now start." alt="" coords="2941,397,3122,424"/>
+<area shape="rect" id="node30" href="$group__dtls__internal.html#ga429233d1be917c4f121a0e0771a98c5a" title="Layer function interface for layer below TLS accept/connect being established." alt="" coords="2960,195,3103,221"/>
+<area shape="rect" id="node31" href="$coap__net_8c.html#ac4cbcfd073489b57805db665ce3d0681" title=" " alt="" coords="2727,397,2859,424"/>
+<area shape="rect" id="node26" href="$group__app__io__internal.html#ga3be92476a2c2c12d68c0cd07795c7e34" title="Any now timed out delayed packet is transmitted, along with any packets associated with requested obs..." alt="" coords="1507,347,1675,373"/>
+<area shape="rect" id="node27" href="$coap__net_8h.html#ab54010e3cade80e1417870c87dcd0402" title=" " alt="" coords="2335,296,2428,323"/>
+<area shape="rect" id="node29" href="$group__session__internal.html#ga8188aaad0d95aaaa7f517c5b0baffc27" title="Layer function interface for layer below session accept/connect being established." alt="" coords="2705,347,2880,373"/>
+<area shape="rect" id="node33" href="$group__context.html#ga4a0717822713783908dd33d300440b2e" title="CoAP stack context must be released with coap_free_context()." alt="" coords="3441,1213,3584,1240"/>
+<area shape="rect" id="node34" href="$group__context.html#ga1ab369ca0a3c4fe7f8a9e0536346ff71" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="3201,1213,3343,1240"/>
+<area shape="rect" id="node38" href="$group__session__internal.html#gab3d24595515d6f66805791a7f821d5e7" title=" " alt="" coords="3864,381,4007,408"/>
+<area shape="rect" id="node39" href="$group__session.html#ga9aee135ba884d7c143b11bc42fd23e53" title="Decrement reference counter on a session." alt="" coords="3652,632,3816,659"/>
+<area shape="rect" id="node40" href="$group__session__internal.html#ga192c2ce0f620200797ee34ac6f5d04c7" title=" " alt="" coords="3421,632,3604,659"/>
+<area shape="rect" id="node41" href="$group__context__internal.html#ga7d1802ed0aab8ba0b1e00f81c15869bd" title="Sends a CoAP message to given peer." alt="" coords="2957,625,3105,652"/>
+<area shape="rect" id="node48" href="$coap__net_8c.html#a0c600aed61c8a8402d31ef795df3b0b6" title=" " alt="" coords="3211,600,3333,627"/>
+<area shape="rect" id="node42" href="$coap__net_8c.html#ad02a6d6c0f94ef455980d531575d1d0c" title=" " alt="" coords="2313,499,2449,525"/>
+<area shape="rect" id="node43" href="$group__context.html#ga059557785c3f40b683269ba4090203e8" title="Sends an ACK message with code 0 for the specified request to dst." alt="" coords="2732,600,2853,627"/>
+<area shape="rect" id="node44" href="$group__context.html#ga95c41b8af7a987b4e376db0a70370006" title="Sends an error response with code code for request request to dst." alt="" coords="2728,803,2857,829"/>
+<area shape="rect" id="node45" href="$group__context.html#ga8f46c87e4908ae0ee8c9a0e3e15f8f4a" title="Helper function to create and send a message with type (usually ACK or RST)." alt="" coords="2696,651,2889,677"/>
+<area shape="rect" id="node47" href="$coap__session_8c.html#a1aeb41a0f4f9a70e4ff5f58cdae96b5a" title="Send a ping message for the session." alt="" coords="2701,448,2884,475"/>
+<area shape="rect" id="node46" href="$group__context.html#ga7f4dd3326d1d0619a5baa9812bef6906" title="Sends an RST message with code 0 for the specified request to dst." alt="" coords="2514,600,2629,627"/>
+</map>

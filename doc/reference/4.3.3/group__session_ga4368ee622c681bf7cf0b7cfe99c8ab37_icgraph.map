@@ -1,0 +1,6 @@
+<map id="coap_session_max_pdu_size" name="coap_session_max_pdu_size">
+<area shape="rect" id="node1" title="Get maximum acceptable PDU size." alt="" coords="432,31,641,57"/>
+<area shape="rect" id="node2" href="$group__pdu.html#ga6ab63e25c7c9eed3de00b0e1153b33b6" title="Creates a new CoAP PDU." alt="" coords="249,5,368,32"/>
+<area shape="rect" id="node3" href="$group__pdu.html#gabf10450d37381b133fb780480b4fca1b" title="Duplicate an existing PDU." alt="" coords="233,56,384,83"/>
+<area shape="rect" id="node4" href="$group__oscore__internal.html#ga8cf885624714b9a4705974adf2629cb2" title=" " alt="" coords="5,56,185,83"/>
+</map>

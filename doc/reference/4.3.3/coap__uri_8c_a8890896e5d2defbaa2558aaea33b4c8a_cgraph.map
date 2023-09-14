@@ -1,0 +1,7 @@
+<map id="coap_split_uri_sub" name="coap_split_uri_sub">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,148,108"/>
+<area shape="rect" id="node2" href="$group__dtls.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available." alt="" coords="196,5,371,32"/>
+<area shape="rect" id="node3" href="$coap__tcp_8c.html#a2d25d72f564c765b85708b26ee01e27e" title="Check whether TCP is available." alt="" coords="198,56,369,83"/>
+<area shape="rect" id="node4" href="$group__ws.html#ga85ebb276d1475de14d90e103b255c749" title="Check whether WebSockets is available." alt="" coords="199,107,367,133"/>
+<area shape="rect" id="node5" href="$group__ws.html#gae3150f4272480b18b3771e6b6465624e" title="Check whether Secure WebSockets is available." alt="" coords="196,157,371,184"/>
+</map>

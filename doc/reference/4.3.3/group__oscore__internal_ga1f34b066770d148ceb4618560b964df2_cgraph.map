@@ -1,0 +1,7 @@
+<map id="oscore_delete_association" name="oscore_delete_association">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,200,83"/>
+<area shape="rect" id="node2" href="$group__oscore__internal.html#ga8718a58f809d51b7f05dc988b08bc523" title=" " alt="" coords="248,56,427,83"/>
+<area shape="rect" id="node3" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="475,5,645,32"/>
+<area shape="rect" id="node4" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="693,56,816,83"/>
+<area shape="rect" id="node5" href="$group__pdu.html#ga48581f968a30ef4278702eb1c16b7a90" title="Dispose of an CoAP PDU and frees associated storage." alt="" coords="494,107,626,133"/>
+</map>

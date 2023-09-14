@@ -1,0 +1,4 @@
+<map id="coap_insert_optlist" name="coap_insert_optlist">
+<area shape="rect" id="node1" title="Adds optlist to the given optlist_chain." alt="" coords="217,5,363,32"/>
+<area shape="rect" id="node2" href="$group__uri__parse.html#gab12de398f21df10012700359bfdd92ad" title="Takes a coap_uri_t and then adds CoAP options into the optlist_chain." alt="" coords="5,5,169,32"/>
+</map>

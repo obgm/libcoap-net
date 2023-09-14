@@ -1,0 +1,26 @@
+<map id="coap_session_release" name="coap_session_release">
+<area shape="rect" id="node1" title="Decrement reference counter on a session." alt="" coords="5,469,169,496"/>
+<area shape="rect" id="node2" href="$group__session__internal.html#gab3d24595515d6f66805791a7f821d5e7" title=" " alt="" coords="217,183,360,209"/>
+<area shape="rect" id="node3" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="649,157,819,184"/>
+<area shape="rect" id="node4" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="1104,360,1227,387"/>
+<area shape="rect" id="node5" href="$group__session__internal.html#gab91ca670624ee770714727efff274c49" title=" " alt="" coords="420,411,575,437"/>
+<area shape="rect" id="node11" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="898,56,1031,83"/>
+<area shape="rect" id="node24" href="$group__session.html#gae37bac62f8de2cecd968ec1c26eb23b4" title="Increment reference counter on a session." alt="" coords="408,208,587,235"/>
+<area shape="rect" id="node6" href="$group__block__internal.html#ga5fcd0b912223ec083d4f6f68f5e8cc61" title=" " alt="" coords="636,259,832,285"/>
+<area shape="rect" id="node7" href="$group__block__internal.html#ga0f15ee33e2d5d188d0402f14631754e6" title=" " alt="" coords="636,309,832,336"/>
+<area shape="rect" id="node8" href="$group__block__internal.html#ga97dae4d1698d414de1d80c5efbdc6dce" title=" " alt="" coords="635,360,833,387"/>
+<area shape="rect" id="node16" href="$group__block.html#gaef76c2fd8695bd2f3d30e8a49c09becb" title="Cancel an observe that is being tracked by the client large receive logic." alt="" coords="653,411,815,437"/>
+<area shape="rect" id="node17" href="$group__block__internal.html#ga8be3c172347c4911d683e6fd7855dea3" title="The function checks if the token needs to be updated before PDU is presented to the application (only..." alt="" coords="637,461,831,488"/>
+<area shape="rect" id="node18" href="$group__cache.html#ga09e46fc4bba8b37115a3fb964b76b21c" title="Remove a cache&#45;entry from the hash list and free off all the appropriate contents apart from app_data..." alt="" coords="641,512,827,539"/>
+<area shape="rect" id="node19" href="$group__context__internal.html#ga44c39a2314035989d3e07b9d9328e08c" title="Destroys specified node." alt="" coords="664,731,804,757"/>
+<area shape="rect" id="node20" href="$group__pdu.html#ga48581f968a30ef4278702eb1c16b7a90" title="Dispose of an CoAP PDU and frees associated storage." alt="" coords="899,613,1031,640"/>
+<area shape="rect" id="node22" href="$group__oscore__internal.html#gab3de65a4c87638438bc2cb6e5b30e312" title="Cleanup all allocated OSCORE association information." alt="" coords="659,665,809,706"/>
+<area shape="rect" id="node23" href="$group__string.html#ga4c283744d0fa51b553bf3fc52488e4b0" title="Deletes the given const string and releases any memory allocated." alt="" coords="881,512,1048,539"/>
+<area shape="rect" id="node9" href="$group__string.html#ga5881b7726f26833abb90e30bd23730af" title="Deletes the given coap_binary_t object and releases any memory allocated." alt="" coords="890,309,1039,336"/>
+<area shape="rect" id="node10" href="$group__string.html#gad991c87cfcf9b2414d2dc430c8701ed3" title="Deletes the given string and releases any memory allocated." alt="" coords="892,360,1037,387"/>
+<area shape="rect" id="node12" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="1102,31,1229,57"/>
+<area shape="rect" id="node15" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="1096,81,1235,108"/>
+<area shape="rect" id="node13" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="1283,5,1455,32"/>
+<area shape="rect" id="node14" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="1296,56,1441,83"/>
+<area shape="rect" id="node21" href="$coap__net_8c.html#aa2f296838e4a779197c43b254e385ddc" title=" " alt="" coords="902,697,1027,724"/>
+</map>

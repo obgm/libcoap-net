@@ -1,0 +1,18 @@
+<map id="coap_netif_dgrm_write" name="coap_netif_dgrm_write">
+<area shape="rect" id="node1" title="Function interface for netif datagram data transmission." alt="" coords="5,259,176,285"/>
+<area shape="rect" id="node2" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="227,81,361,108"/>
+<area shape="rect" id="node7" href="$coap__io_8c.html#a35f848af42969271891f26fd235ef443" title="Function interface for data transmission." alt="" coords="224,233,364,260"/>
+<area shape="rect" id="node14" href="$group__context.html#ga757eecd5cda6e32472313df73a9297fd" title="Returns the current value of an internal tick counter." alt="" coords="892,292,983,319"/>
+<area shape="rect" id="node15" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="427,284,585,311"/>
+<area shape="rect" id="node3" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="443,31,569,57"/>
+<area shape="rect" id="node6" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="437,81,575,108"/>
+<area shape="rect" id="node4" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="660,5,832,32"/>
+<area shape="rect" id="node5" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="673,56,819,83"/>
+<area shape="rect" id="node8" href="$coap__address_8h.html#a021998c955a6787c5cab7b1c385bef63" title="Checks if given address object a denotes the wildcard address." alt="" coords="429,132,583,159"/>
+<area shape="rect" id="node10" href="$coap__debug_8c.html#af01fc56422e6401f529b053b61e65cad" title="Check to see whether a packet should be sent or not." alt="" coords="412,183,600,209"/>
+<area shape="rect" id="node12" href="$coap__address_8c.html#a5b47d6fe47a54a0798eddb9ea77005ea" title="Checks if given address a denotes a multicast address." alt="" coords="447,233,565,260"/>
+<area shape="rect" id="node9" href="$coap__address_8c.html#a682c57431a3f820090dbeaa65ab43de1" title=" " alt="" coords="648,132,844,159"/>
+<area shape="rect" id="node11" href="$group__coap__prng.html#gac64ef6bcef630d4c1e683baa269b4670" title="Fills buf with len random bytes using the default pseudo random number generator." alt="" coords="701,183,791,209"/>
+<area shape="rect" id="node13" href="$coap__address_8c.html#a53db74f2c091df389aa8bbd809e098b6" title="Checks if given address a denotes a broadcast address." alt="" coords="689,233,803,260"/>
+<area shape="rect" id="node16" href="$coap__io_8c.html#a198ae48fdbe1762be87328d3a5f5f4b2" title=" " alt="" coords="669,285,823,326"/>
+</map>

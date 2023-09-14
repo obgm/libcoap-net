@@ -1,0 +1,8 @@
+<map id="coap_session_set_nstart" name="coap_session_set_nstart">
+<area shape="rect" id="node1" title="Set the CoAP maximum concurrent transmission count of Confirmable messages RFC7252 NSTART." alt="" coords="5,56,187,83"/>
+<area shape="rect" id="node2" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="235,56,368,83"/>
+<area shape="rect" id="node3" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="422,31,549,57"/>
+<area shape="rect" id="node6" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="416,81,555,108"/>
+<area shape="rect" id="node4" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="603,5,775,32"/>
+<area shape="rect" id="node5" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="616,56,761,83"/>
+</map>

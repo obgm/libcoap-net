@@ -1,0 +1,8 @@
+<map id="coap_option_getb" name="coap_option_getb">
+<area shape="rect" id="node1" title="Gets the corresponding bit for type in filter." alt="" coords="5,31,143,57"/>
+<area shape="rect" id="node2" href="$group__opt__filter.html#gaecbb0b2fe1f6244aa6121d019070704b" title="Checks if number is contained in filter." alt="" coords="191,31,357,57"/>
+<area shape="rect" id="node3" href="$coap__option_8c.html#ab87ea79da1603a15ac624388a335bba6" title="Applies op on filter with respect to number." alt="" coords="405,31,567,57"/>
+<area shape="rect" id="node4" href="$coap__encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="635,5,710,32"/>
+<area shape="rect" id="node6" href="$coap__option_8c.html#ad65a9bd8fcfb4ba4270819e6f87f5bcf" title="Returns true iff number denotes an option number larger than 255." alt="" coords="615,56,731,83"/>
+<area shape="rect" id="node5" href="$coap__encode_8c.html#a1c66d23b22bbf747ff8b0a649f85f060" title=" " alt="" coords="779,5,861,32"/>
+</map>

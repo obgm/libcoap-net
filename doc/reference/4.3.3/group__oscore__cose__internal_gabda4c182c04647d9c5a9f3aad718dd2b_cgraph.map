@@ -1,0 +1,7 @@
+<map id="cose_encrypt0_encrypt" name="cose_encrypt0_encrypt">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,177,108"/>
+<area shape="rect" id="node2" href="$group__crypto__internal.html#ga7aa2fb061038f7921e2426bb9f8406d0" title="Encrypt the provided plaintext data." alt="" coords="225,5,421,32"/>
+<area shape="rect" id="node3" href="$group__oscore__cose__internal.html#ga5987d08cde40eb463c4229ee59d8a80a" title=" " alt="" coords="269,56,378,83"/>
+<area shape="rect" id="node4" href="$group__oscore__cose__internal.html#ga2884f3bd7547aa309d43996b36445ac3" title=" " alt="" coords="261,107,386,133"/>
+<area shape="rect" id="node5" href="$group__oscore__cose__internal.html#ga9fde80556c958b2e2a17b2e0339cbb40" title=" " alt="" coords="270,157,377,184"/>
+</map>

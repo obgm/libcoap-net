@@ -1,0 +1,7 @@
+<map id="oscore_build_key" name="oscore_build_key">
+<area shape="rect" id="node1" title=" " alt="" coords="420,56,555,83"/>
+<area shape="rect" id="node2" href="$group__oscore__internal.html#ga28cf1e32f7d4f13cd4f25aca27169580" title="oscore_add_recipient &#45; add in recipient information" alt="" coords="212,31,372,57"/>
+<area shape="rect" id="node3" href="$group__oscore__internal.html#ga8636deef153df3f5c67fba15ff3893c0" title="oscore_derive_ctx &#45; derive a osc_ctx from oscore_conf information" alt="" coords="15,5,155,32"/>
+<area shape="rect" id="node4" href="$group__oscore__internal.html#gac1dcb68cfe7c74e017f67ad7c085a492" title="oscore_duplicate_ctx &#45; duplicate a osc_ctx" alt="" coords="5,56,164,83"/>
+<area shape="rect" id="node5" href="$group__oscore__internal.html#ga77af2b488323aca8684f23dfde52e1d5" title="oscore_update_ctx &#45; update a osc_ctx with a new id_context" alt="" coords="220,132,364,159"/>
+</map>

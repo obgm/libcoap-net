@@ -1,0 +1,8 @@
+<map id="get_asn1_tag" name="get_asn1_tag">
+<area shape="rect" id="node1" title="Get the asn1 tag and data from the current ptr." alt="" coords="5,56,115,83"/>
+<area shape="rect" id="node2" href="$group__asn1.html#gab0b2cdf4081790ee762743d5557c2706" title="Get the asn1 length from the current ptr." alt="" coords="190,5,270,32"/>
+<area shape="rect" id="node3" href="$group__asn1.html#ga3ae904a62e7e1d1326b61a04d1de1333" title="Get the asn1 tag from the current ptr." alt="" coords="183,56,277,83"/>
+<area shape="rect" id="node4" href="$group__string.html#ga4ddcb94c1d26bd87a5ed1af801f35793" title="Returns a new binary object with at least size bytes storage allocated." alt="" coords="163,107,297,133"/>
+<area shape="rect" id="node5" href="$group__string.html#ga9862b1ade5e6e2eb01aabd0fa98b63e1" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="345,107,476,133"/>
+<area shape="rect" id="node6" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="524,107,664,133"/>
+</map>
