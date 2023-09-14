@@ -4,7 +4,7 @@ layout: home
 
 <div class="alert alert-dismissible alert-success">
 <button type="button" class="close" data-dismiss="alert">&times;</button>
- <a href="//github.com/obgm/libcoap/releases/tag/v4.3.2" class="alert-link">Version 4.3.2</a> is available. Try it out!
+ <a href="//github.com/obgm/libcoap/releases/tag/v4.3.3" class="alert-link">Version 4.3.3</a> is available. Try it out!
 </div>
 
 <div class="jumbotron">
