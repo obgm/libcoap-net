@@ -1,0 +1,6 @@
+<map id="is_unescaped_in_path" name="is_unescaped_in_path">
+<area shape="rect" id="node1" title=" " alt="" coords="400,31,565,57"/>
+<area shape="rect" id="node2" href="$group__uri__parse.html#ga11d902f573bcfee188d5ccd4903d0393" title="Extract uri_path string from request PDU." alt="" coords="195,5,336,32"/>
+<area shape="rect" id="node3" href="$coap__uri_8c.html#a2fe9cec4fe3abcf1606bc725bb54b009" title=" " alt="" coords="179,56,352,83"/>
+<area shape="rect" id="node4" href="$group__uri__parse.html#gaf625b48713927c0c7cf9fb994ab7a7d4" title="Extract query string from request PDU according to escape rules in 6.5.8." alt="" coords="5,56,131,83"/>
+</map>

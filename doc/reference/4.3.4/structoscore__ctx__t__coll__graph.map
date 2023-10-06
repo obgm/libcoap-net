@@ -1,0 +1,6 @@
+<map id="oscore_ctx_t" name="oscore_ctx_t">
+<area shape="rect" id="node1" title=" " alt="" coords="83,245,187,272"/>
+<area shape="rect" id="node4" href="$structoscore__recipient__ctx__t.html" title=" " alt="" coords="104,335,272,361"/>
+<area shape="rect" id="node2" href="$structcoap__bin__const__t.html" title="CoAP binary data definition with const data." alt="" coords="130,5,265,32"/>
+<area shape="rect" id="node3" href="$structoscore__sender__ctx__t.html" title=" " alt="" coords="120,125,275,152"/>
+</map>

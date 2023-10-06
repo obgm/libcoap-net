@@ -1,0 +1,9 @@
+<map id="coap_debug.h" name="coap_debug.h">
+<area shape="rect" id="node1" title="CoAP Logging support." alt="" coords="101,5,213,32"/>
+<area shape="rect" id="node2" href="$coap__pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP." alt="" coords="109,80,205,107"/>
+<area shape="rect" id="node3" href="$coap__option_8h.html" title="Helpers for handling options in CoAP PDUs." alt="" coords="5,155,119,181"/>
+<area shape="rect" id="node4" href="$coap__uri_8h.html" title="Helper functions for URI treatment." alt="" coords="195,155,284,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="121,229,192,256"/>
+<area shape="rect" id="node6" href="$coap__str_8h.html" title="Strings to be used in the CoAP library." alt="" coords="217,229,305,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="225,304,296,331"/>
+</map>

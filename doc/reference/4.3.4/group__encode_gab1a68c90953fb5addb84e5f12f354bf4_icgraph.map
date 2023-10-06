@@ -1,0 +1,5 @@
+<map id="coap_decode_var_bytes8" name="coap_decode_var_bytes8">
+<area shape="rect" id="node1" title="Decodes multiple&#45;length byte sequences." alt="" coords="260,31,447,57"/>
+<area shape="rect" id="node2" href="$group__session.html#ga7cd1fb4a073a0d9b82617eda7ea08c68" title="Initializes the token value to use as a starting point." alt="" coords="19,5,199,32"/>
+<area shape="rect" id="node3" href="$group__oscore__internal.html#ga234fa27d9cdbb176950d57e4df589e14" title=" " alt="" coords="5,56,212,83"/>
+</map>

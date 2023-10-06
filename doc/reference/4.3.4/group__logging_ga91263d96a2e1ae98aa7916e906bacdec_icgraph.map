@@ -1,0 +1,5 @@
+<map id="coap_dtls_set_log_level" name="coap_dtls_set_log_level">
+<area shape="rect" id="node1" title="Sets the (D)TLS logging level to the specified level." alt="" coords="367,5,544,32"/>
+<area shape="rect" id="node2" href="$group__dtls__internal.html#ga8e54142cbfe80389ddad38242e85a7da" title="Close down the underlying (D)TLS Library layer." alt="" coords="164,5,319,32"/>
+<area shape="rect" id="node3" href="$coap__net_8c.html#a5d1fb0b44497970b0f75fa0b38570a82" title=" " alt="" coords="5,5,116,32"/>
+</map>

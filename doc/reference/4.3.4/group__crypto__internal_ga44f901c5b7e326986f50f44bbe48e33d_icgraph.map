@@ -1,0 +1,4 @@
+<map id="coap_crypto_aead_decrypt" name="coap_crypto_aead_decrypt">
+<area shape="rect" id="node1" title="Decrypt the provided encrypted data into plaintext." alt="" coords="225,5,421,32"/>
+<area shape="rect" id="node2" href="$group__oscore__cose__internal.html#ga98bce18599d06855aef264c581359cfc" title=" " alt="" coords="5,5,177,32"/>
+</map>

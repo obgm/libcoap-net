@@ -1,0 +1,6 @@
+<map id="coap_cleanup" name="coap_cleanup">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node2" href="$coap__debug_8c.html#af04d3fda98fa6605aa09f5cb5ebbcf7e" title="Reset all the defined logging parameters." alt="" coords="171,5,311,32"/>
+<area shape="rect" id="node3" href="$group__dtls__internal.html#ga8e54142cbfe80389ddad38242e85a7da" title="Close down the underlying (D)TLS Library layer." alt="" coords="164,56,319,83"/>
+<area shape="rect" id="node4" href="$group__logging.html#ga91263d96a2e1ae98aa7916e906bacdec" title="Sets the (D)TLS logging level to the specified level." alt="" coords="367,56,544,83"/>
+</map>

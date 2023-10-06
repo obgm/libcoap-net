@@ -1,0 +1,9 @@
+<map id="oscore_hkdf_expand" name="oscore_hkdf_expand">
+<area shape="rect" id="node1" title="Derive the key using HKDF&#45;Expand() function." alt="" coords="5,107,161,133"/>
+<area shape="rect" id="node2" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="229,5,400,32"/>
+<area shape="rect" id="node3" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="479,31,601,57"/>
+<area shape="rect" id="node4" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="245,107,385,133"/>
+<area shape="rect" id="node5" href="$group__oscore__cose__internal.html#ga7e3201d1da7b81e97022f664ec0ad42f" title=" " alt="" coords="209,157,420,184"/>
+<area shape="rect" id="node6" href="$group__oscore__internal.html#gabbb735a64e3b568f67b8a22c14656cae" title="Derive the hmac hash using HMAC&#45;HASH() function." alt="" coords="241,208,388,235"/>
+<area shape="rect" id="node7" href="$group__crypto__internal.html#ga0aa162d904e3f3376605490593db87fb" title="Create a HMAC hash of the provided data." alt="" coords="468,208,612,235"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="coap_oscore_is_supported" name="coap_oscore_is_supported">
+<area shape="rect" id="node1" title="Check whether OSCORE is available." alt="" coords="229,5,423,32"/>
+<area shape="rect" id="node2" href="$group__logging.html#ga4a9140f2423b4970123d795f547b6a93" title="Build a string containing the current (D)TLS library support." alt="" coords="5,5,181,32"/>
+</map>

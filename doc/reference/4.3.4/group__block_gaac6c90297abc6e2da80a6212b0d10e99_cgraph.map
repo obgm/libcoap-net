@@ -1,0 +1,6 @@
+<map id="coap_opt_block_num" name="coap_opt_block_num">
+<area shape="rect" id="node1" title="Returns the value of field num in the given block option block_opt." alt="" coords="5,56,164,83"/>
+<area shape="rect" id="node2" href="$group__encode.html#ga8bfaf6132a57d1f9e25282d61d7ed773" title="Decodes multiple&#45;length byte sequences." alt="" coords="212,5,391,32"/>
+<area shape="rect" id="node3" href="$group__opt__filter.html#ga42d0b9d068b790ec1c490a7fb2674904" title="Returns the length of the given option." alt="" coords="237,56,366,83"/>
+<area shape="rect" id="node4" href="$group__opt__filter.html#gaec4e944d39722779cac610ed22ee09db" title="Returns a pointer to the value of the given option." alt="" coords="239,107,363,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="coap_session_get_tls" name="coap_session_get_tls">
+<area shape="rect" id="node1" title="Get the session TLS security ptr (TLS type dependent)" alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node2" href="$coap__notls_8c.html#a74ff534ece5ca8928c1a719772025b15" title=" " alt="" coords="213,5,348,32"/>
+</map>

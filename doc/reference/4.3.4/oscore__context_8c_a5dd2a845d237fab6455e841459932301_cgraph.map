@@ -1,0 +1,22 @@
+<map id="oscore_build_key" name="oscore_build_key">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,140,133"/>
+<area shape="rect" id="node2" href="$group__string.html#ga50cf7197e1bcb325d3ee9f4a04a56996" title="Take the specified byte array (text) and create a coap_bin_const_t * Returns a new const binary objec..." alt="" coords="188,31,344,57"/>
+<area shape="rect" id="node5" href="$oscore__context_8c.html#aca737c5710662b7acd7699622a8e2846" title=" " alt="" coords="209,284,323,311"/>
+<area shape="rect" id="node13" href="$group__oscore__internal.html#ga8c3d06ba7e0c3457ec6211848d180879" title="Derive the key using HKDF() function." alt="" coords="215,107,317,133"/>
+<area shape="rect" id="node3" href="$group__string.html#ga9862b1ade5e6e2eb01aabd0fa98b63e1" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="412,5,543,32"/>
+<area shape="rect" id="node4" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="646,5,786,32"/>
+<area shape="rect" id="node6" href="$group__oscore__cbor__internal.html#gae8bbc18aeabe6d51af22d14e6173cfcb" title=" " alt="" coords="393,259,562,285"/>
+<area shape="rect" id="node7" href="$group__oscore__cbor__internal.html#gab2b2acacb1b2fbf82de02ce4a4d05306" title=" " alt="" coords="619,284,813,311"/>
+<area shape="rect" id="node9" href="$group__oscore__cbor__internal.html#gab522fc54802924a45f07ccdc67ebe759" title=" " alt="" coords="392,309,563,336"/>
+<area shape="rect" id="node10" href="$group__oscore__cbor__internal.html#ga811ae8a85ef85408a783aedd97457864" title=" " alt="" coords="402,411,553,437"/>
+<area shape="rect" id="node12" href="$group__oscore__cbor__internal.html#ga33220964133ed4909c8327b9b0b31868" title=" " alt="" coords="397,360,558,387"/>
+<area shape="rect" id="node8" href="$oscore__cbor_8c.html#aba97ba36fc049fca79bd25b249ecc931" title=" " alt="" coords="906,284,977,311"/>
+<area shape="rect" id="node11" href="$oscore__cbor_8c.html#aa95dafdd02a221b90c7e7d2fc8fc35ec" title=" " alt="" coords="657,411,775,437"/>
+<area shape="rect" id="node14" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="631,56,801,83"/>
+<area shape="rect" id="node16" href="$group__oscore__internal.html#ga1ece7d2248316e24d4f1f1b2294020be" title="Derive the key using HKDF&#45;Expand() function." alt="" coords="399,107,555,133"/>
+<area shape="rect" id="node20" href="$group__oscore__internal.html#gaeca991078cf405f7dac0a983f567fb8d" title="Derive the pseudorandom key using HKDF&#45;Extract() function." alt="" coords="400,157,555,184"/>
+<area shape="rect" id="node15" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="880,81,1003,108"/>
+<area shape="rect" id="node17" href="$group__oscore__cose__internal.html#ga7e3201d1da7b81e97022f664ec0ad42f" title=" " alt="" coords="611,157,821,184"/>
+<area shape="rect" id="node18" href="$group__oscore__internal.html#gabbb735a64e3b568f67b8a22c14656cae" title="Derive the hmac hash using HMAC&#45;HASH() function." alt="" coords="643,208,789,235"/>
+<area shape="rect" id="node19" href="$group__crypto__internal.html#ga0aa162d904e3f3376605490593db87fb" title="Create a HMAC hash of the provided data." alt="" coords="869,208,1013,235"/>
+</map>

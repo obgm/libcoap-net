@@ -1,0 +1,13 @@
+<map id="coap_new_bin_const" name="coap_new_bin_const">
+<area shape="rect" id="node1" title="Take the specified byte array (text) and create a coap_bin_const_t * Returns a new const binary objec..." alt="" coords="648,195,804,221"/>
+<area shape="rect" id="node2" href="$group__context.html#gaeadf53fc0202c2a9c881406d4aa12a4c" title="Sends a CoAP message to given peer." alt="" coords="465,5,555,32"/>
+<area shape="rect" id="node3" href="$group__session__internal.html#ga241d1a2311c1dcbdca0e6860237acf91" title="Refresh the session&#39;s current Identity Hint (PSK)." alt="" coords="429,57,591,98"/>
+<area shape="rect" id="node4" href="$group__session__internal.html#gabf03da17a2f79fd94e20c58cd05e5d0e" title="Refresh the session&#39;s current pre&#45;shared identity (PSK)." alt="" coords="429,122,591,163"/>
+<area shape="rect" id="node5" href="$group__session__internal.html#gaa40e39af285755517824c26095494f91" title="Refresh the session&#39;s current pre&#45;shared key (PSK)." alt="" coords="429,187,591,229"/>
+<area shape="rect" id="node6" href="$oscore__context_8c.html#a5dd2a845d237fab6455e841459932301" title=" " alt="" coords="443,253,577,280"/>
+<area shape="rect" id="node9" href="$group__oscore__internal.html#gac1dcb68cfe7c74e017f67ad7c085a492" title="oscore_duplicate_ctx &#45; duplicate a osc_ctx" alt="" coords="5,228,164,255"/>
+<area shape="rect" id="node11" href="$group__oscore__internal.html#ga8cf885624714b9a4705974adf2629cb2" title=" " alt="" coords="420,380,600,407"/>
+<area shape="rect" id="node7" href="$group__oscore__internal.html#ga28cf1e32f7d4f13cd4f25aca27169580" title="oscore_add_recipient &#45; add in recipient information" alt="" coords="212,177,372,204"/>
+<area shape="rect" id="node8" href="$group__oscore__internal.html#ga8636deef153df3f5c67fba15ff3893c0" title="oscore_derive_ctx &#45; derive a osc_ctx from oscore_conf information" alt="" coords="15,152,155,179"/>
+<area shape="rect" id="node10" href="$group__oscore__internal.html#ga77af2b488323aca8684f23dfde52e1d5" title="oscore_update_ctx &#45; update a osc_ctx with a new id_context" alt="" coords="220,279,364,305"/>
+</map>

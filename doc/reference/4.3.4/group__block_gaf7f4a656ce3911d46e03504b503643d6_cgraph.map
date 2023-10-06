@@ -1,0 +1,10 @@
+<map id="coap_block_build_body" name="coap_block_build_body">
+<area shape="rect" id="node1" title="Re&#45;assemble payloads into a body." alt="" coords="5,56,179,83"/>
+<area shape="rect" id="node2" href="$group__string.html#ga5881b7726f26833abb90e30bd23730af" title="Deletes the given coap_binary_t object and releases any memory allocated." alt="" coords="421,5,571,32"/>
+<area shape="rect" id="node4" href="$group__string.html#ga4ddcb94c1d26bd87a5ed1af801f35793" title="Returns a new binary object with at least size bytes storage allocated." alt="" coords="429,107,563,133"/>
+<area shape="rect" id="node7" href="$group__string.html#ga529215b162db2045c934c3cea1c17e60" title="Resizes the given coap_binary_t object." alt="" coords="227,56,373,83"/>
+<area shape="rect" id="node3" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="623,5,745,32"/>
+<area shape="rect" id="node5" href="$group__string.html#ga9862b1ade5e6e2eb01aabd0fa98b63e1" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="619,107,749,133"/>
+<area shape="rect" id="node6" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="797,107,937,133"/>
+<area shape="rect" id="node8" href="$coap__mem_8h.html#a7f7999876af136d327a5689d26ed8e77" title="Reallocates a chunk p of bytes created by coap_malloc_type() or coap_realloc_type() and returns a poi..." alt="" coords="426,56,566,83"/>
+</map>

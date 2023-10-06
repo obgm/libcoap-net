@@ -1,0 +1,8 @@
+<map id="coap_split_proxy_uri" name="coap_split_proxy_uri">
+<area shape="rect" id="node1" title="Parses a given string into URI components." alt="" coords="5,81,161,108"/>
+<area shape="rect" id="node2" href="$coap__uri_8c.html#a8890896e5d2defbaa2558aaea33b4c8a" title=" " alt="" coords="209,81,352,108"/>
+<area shape="rect" id="node3" href="$group__dtls.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available." alt="" coords="400,5,575,32"/>
+<area shape="rect" id="node4" href="$coap__tcp_8c.html#a2d25d72f564c765b85708b26ee01e27e" title="Check whether TCP is available." alt="" coords="402,56,573,83"/>
+<area shape="rect" id="node5" href="$group__ws.html#ga85ebb276d1475de14d90e103b255c749" title="Check whether WebSockets is available." alt="" coords="403,107,571,133"/>
+<area shape="rect" id="node6" href="$group__ws.html#gae3150f4272480b18b3771e6b6465624e" title="Check whether Secure WebSockets is available." alt="" coords="400,157,575,184"/>
+</map>

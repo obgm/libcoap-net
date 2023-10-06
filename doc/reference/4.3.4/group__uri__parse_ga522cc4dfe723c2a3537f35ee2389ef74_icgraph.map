@@ -1,0 +1,4 @@
+<map id="coap_split_query" name="coap_split_query">
+<area shape="rect" id="node1" title="Splits the given URI query into segments." alt="" coords="217,5,349,32"/>
+<area shape="rect" id="node2" href="$group__uri__parse.html#gab12de398f21df10012700359bfdd92ad" title="Takes a coap_uri_t and then adds CoAP options into the optlist_chain." alt="" coords="5,5,169,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="coap_dtls_cpsk_info_t" name="coap_dtls_cpsk_info_t">
+<area shape="rect" id="node1" title="The structure that holds the Client PSK information." alt="" coords="5,109,171,136"/>
+<area shape="rect" id="node2" href="$structcoap__bin__const__t.html" title="CoAP binary data definition with const data." alt="" coords="21,5,155,32"/>
+</map>

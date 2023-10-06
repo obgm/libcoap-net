@@ -1,0 +1,4 @@
+<map id="coap_address_set_unix_domain" name="coap_address_set_unix_domain">
+<area shape="rect" id="node1" title="Copy the parsed unix domain host into coap_address_t structure translating %2F into / on the way." alt="" coords="252,5,425,47"/>
+<area shape="rect" id="node2" href="$coap__address_8c.html#ab03b6dbb9be4439180ba52717d14c5d9" title="Resolve the specified address into a set of coap_address_t that can be used to bind() (local) or conn..." alt="" coords="5,13,204,39"/>
+</map>

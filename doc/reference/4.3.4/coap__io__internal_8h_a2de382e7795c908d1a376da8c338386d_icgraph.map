@@ -1,0 +1,8 @@
+<map id="coap_socket_close" name="coap_socket_close">
+<area shape="rect" id="node1" title="Function interface to close off a socket." alt="" coords="248,107,391,133"/>
+<area shape="rect" id="node2" href="$group__netif__internal.html#ga3f1fabfe9b338e4624903b57779f3abb" title="Layer function interface for Netif close for a session." alt="" coords="37,5,168,32"/>
+<area shape="rect" id="node3" href="$group__tcp.html#ga1c01bf1b3043f11f948e4f3aff1b7823" title="Create a new TCP socket and then listen for new incoming TCP sessions." alt="" coords="21,56,185,83"/>
+<area shape="rect" id="node4" href="$coap__io_8c.html#a9d1deb43ee288c60730c3c8c5df8ec73" title=" " alt="" coords="19,107,187,133"/>
+<area shape="rect" id="node5" href="$group__tcp.html#ga85ec542c39fda4a6a5346c7801bf0ecd" title="Create a new TCP socket and initiate the connection." alt="" coords="5,157,200,184"/>
+<area shape="rect" id="node6" href="$group__tcp.html#gae591a90d6202a1b7f82b1aa688614520" title="Complete the TCP Connection." alt="" coords="5,208,200,235"/>
+</map>

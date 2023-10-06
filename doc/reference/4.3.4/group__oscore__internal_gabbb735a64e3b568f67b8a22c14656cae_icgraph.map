@@ -1,0 +1,11 @@
+<map id="oscore_hmac_hash" name="oscore_hmac_hash">
+<area shape="rect" id="node1" title="Derive the hmac hash using HMAC&#45;HASH() function." alt="" coords="956,68,1103,95"/>
+<area shape="rect" id="node2" href="$group__oscore__internal.html#ga1ece7d2248316e24d4f1f1b2294020be" title="Derive the key using HKDF&#45;Expand() function." alt="" coords="752,43,908,69"/>
+<area shape="rect" id="node9" href="$group__oscore__internal.html#gaeca991078cf405f7dac0a983f567fb8d" title="Derive the pseudorandom key using HKDF&#45;Extract() function." alt="" coords="753,93,907,120"/>
+<area shape="rect" id="node3" href="$group__oscore__internal.html#ga8c3d06ba7e0c3457ec6211848d180879" title="Derive the key using HKDF() function." alt="" coords="603,68,704,95"/>
+<area shape="rect" id="node4" href="$oscore__context_8c.html#a5dd2a845d237fab6455e841459932301" title=" " alt="" coords="420,68,555,95"/>
+<area shape="rect" id="node5" href="$group__oscore__internal.html#ga28cf1e32f7d4f13cd4f25aca27169580" title="oscore_add_recipient &#45; add in recipient information" alt="" coords="212,43,372,69"/>
+<area shape="rect" id="node6" href="$group__oscore__internal.html#ga8636deef153df3f5c67fba15ff3893c0" title="oscore_derive_ctx &#45; derive a osc_ctx from oscore_conf information" alt="" coords="15,5,155,32"/>
+<area shape="rect" id="node7" href="$group__oscore__internal.html#gac1dcb68cfe7c74e017f67ad7c085a492" title="oscore_duplicate_ctx &#45; duplicate a osc_ctx" alt="" coords="5,68,164,95"/>
+<area shape="rect" id="node8" href="$group__oscore__internal.html#ga77af2b488323aca8684f23dfde52e1d5" title="oscore_update_ctx &#45; update a osc_ctx with a new id_context" alt="" coords="220,144,364,171"/>
+</map>

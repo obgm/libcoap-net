@@ -1,0 +1,7 @@
+<map id="coap_address_init" name="coap_address_init">
+<area shape="rect" id="node1" title="Resets the given coap_address_t object addr to its default values." alt="" coords="473,97,612,123"/>
+<area shape="rect" id="node2" href="$coap__address_8c.html#a1d2393f9e84cdf76dfdc1343f7f0d3be" title="Copy the parsed unix domain host into coap_address_t structure translating %2F into / on the way." alt="" coords="252,5,425,47"/>
+<area shape="rect" id="node3" href="$coap__address_8c.html#ab03b6dbb9be4439180ba52717d14c5d9" title="Resolve the specified address into a set of coap_address_t that can be used to bind() (local) or conn..." alt="" coords="5,42,204,69"/>
+<area shape="rect" id="node4" href="$coap__session_8c.html#abbced7fe52bfe180c6eb29d8df385954" title=" " alt="" coords="263,122,415,149"/>
+<area shape="rect" id="node5" href="$coap__io_8c.html#a9d1deb43ee288c60730c3c8c5df8ec73" title=" " alt="" coords="255,173,423,199"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="coap_addr_hash_t" name="coap_addr_hash_t">
+<area shape="rect" id="node1" title="Only used for servers for hashing incoming packets." alt="" coords="7,184,145,211"/>
+<area shape="rect" id="node2" href="$structcoap__address__t.html" title="Multi&#45;purpose address abstraction." alt="" coords="15,95,137,121"/>
+<area shape="rect" id="node3" href="$structcoap__sockaddr__un.html" title=" " alt="" coords="5,5,147,32"/>
+</map>

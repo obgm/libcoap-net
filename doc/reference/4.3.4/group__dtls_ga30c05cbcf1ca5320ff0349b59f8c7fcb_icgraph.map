@@ -1,0 +1,5 @@
+<map id="coap_get_tls_library_version" name="coap_get_tls_library_version">
+<area shape="rect" id="node1" title="Determine the type and version of the underlying (D)TLS library." alt="" coords="448,5,601,47"/>
+<area shape="rect" id="node2" href="$group__logging.html#ga11363937b50a90ff245460e1abc13e84" title="Build a string containing the current (D)TLS library linked with and built for version." alt="" coords="225,13,400,39"/>
+<area shape="rect" id="node3" href="$group__logging.html#gace7d5d32535b328bdb5c90ef64c7d63e" title="Display the current (D)TLS library linked with and built for version." alt="" coords="5,13,177,39"/>
+</map>

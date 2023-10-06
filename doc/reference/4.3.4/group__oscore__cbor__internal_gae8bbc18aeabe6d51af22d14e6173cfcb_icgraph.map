@@ -1,0 +1,14 @@
+<map id="oscore_cbor_put_array" name="oscore_cbor_put_array">
+<area shape="rect" id="node1" title=" " alt="" coords="823,183,992,209"/>
+<area shape="rect" id="node2" href="$oscore__context_8c.html#aca737c5710662b7acd7699622a8e2846" title=" " alt="" coords="632,56,745,83"/>
+<area shape="rect" id="node8" href="$group__oscore__cose__internal.html#gae342a670968916612e000aaad6f986e7" title=" " alt="" coords="603,107,774,133"/>
+<area shape="rect" id="node9" href="$group__oscore__internal.html#gaa6687beacd22504b5f41dffd20240812" title=" " alt="" coords="603,157,775,184"/>
+<area shape="rect" id="node10" href="$group__oscore__internal.html#gad4a61fa38e3b8cb6ecd856d1c644da55" title=" " alt="" coords="617,208,760,235"/>
+<area shape="rect" id="node11" href="$group__oscore__internal.html#ga0b606067fcd28e87495362d17521ba42" title=" " alt="" coords="612,259,765,285"/>
+<area shape="rect" id="node12" href="$group__oscore__internal.html#ga8fc431cdcd518c18a69d6edcb0725a21" title=" " alt="" coords="605,309,773,336"/>
+<area shape="rect" id="node3" href="$oscore__context_8c.html#a5dd2a845d237fab6455e841459932301" title=" " alt="" coords="420,56,555,83"/>
+<area shape="rect" id="node4" href="$group__oscore__internal.html#ga28cf1e32f7d4f13cd4f25aca27169580" title="oscore_add_recipient &#45; add in recipient information" alt="" coords="212,31,372,57"/>
+<area shape="rect" id="node5" href="$group__oscore__internal.html#ga8636deef153df3f5c67fba15ff3893c0" title="oscore_derive_ctx &#45; derive a osc_ctx from oscore_conf information" alt="" coords="15,5,155,32"/>
+<area shape="rect" id="node6" href="$group__oscore__internal.html#gac1dcb68cfe7c74e017f67ad7c085a492" title="oscore_duplicate_ctx &#45; duplicate a osc_ctx" alt="" coords="5,56,164,83"/>
+<area shape="rect" id="node7" href="$group__oscore__internal.html#ga77af2b488323aca8684f23dfde52e1d5" title="oscore_update_ctx &#45; update a osc_ctx with a new id_context" alt="" coords="220,132,364,159"/>
+</map>

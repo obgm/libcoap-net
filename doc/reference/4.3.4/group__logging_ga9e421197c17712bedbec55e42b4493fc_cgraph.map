@@ -1,0 +1,5 @@
+<map id="coap_print_addr" name="coap_print_addr">
+<area shape="rect" id="node1" title="Print the address into the defined buffer." alt="" coords="5,31,132,57"/>
+<area shape="rect" id="node2" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="180,5,352,32"/>
+<area shape="rect" id="node3" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="193,56,339,83"/>
+</map>

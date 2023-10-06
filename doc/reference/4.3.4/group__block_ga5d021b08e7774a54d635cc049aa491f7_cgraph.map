@@ -1,0 +1,7 @@
+<map id="coap_add_block_b_data" name="coap_add_block_b_data">
+<area shape="rect" id="node1" title="Adds the appropriate payload data of the body to the pdu." alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node2" href="$group__pdu.html#gaf71a3f810ab9f0f657c25c425826af40" title="Adds given data to the pdu that is passed as first parameter." alt="" coords="231,5,351,32"/>
+<area shape="rect" id="node3" href="$group__pdu.html#ga3b73fa26504e7a8da604375d1146b7e3" title="Adds given data to the pdu that is passed as first parameter but does not." alt="" coords="399,5,556,32"/>
+<area shape="rect" id="node4" href="$group__pdu__internal.html#gadd46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size." alt="" coords="604,5,735,32"/>
+<area shape="rect" id="node5" href="$coap__mem_8h.html#a7f7999876af136d327a5689d26ed8e77" title="Reallocates a chunk p of bytes created by coap_malloc_type() or coap_realloc_type() and returns a poi..." alt="" coords="783,5,923,32"/>
+</map>

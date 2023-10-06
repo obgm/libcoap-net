@@ -1,0 +1,4 @@
+<map id="coap_session_send_csm" name="coap_session_send_csm">
+<area shape="rect" id="node1" title="Notify session transport has just connected and CSM exchange can now start." alt="" coords="228,5,409,32"/>
+<area shape="rect" id="node2" href="$group__session__internal.html#ga8188aaad0d95aaaa7f517c5b0baffc27" title="Layer function interface for layer below session accept/connect being established." alt="" coords="5,5,180,32"/>
+</map>

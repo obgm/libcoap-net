@@ -1,0 +1,4 @@
+<map id="coap_opt_iterator_t" name="coap_opt_iterator_t">
+<area shape="rect" id="node1" title="Iterator to run through PDU options." alt="" coords="5,95,153,121"/>
+<area shape="rect" id="node2" href="$structcoap__opt__filter__t.html" title=" " alt="" coords="14,5,145,32"/>
+</map>

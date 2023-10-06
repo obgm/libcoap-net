@@ -1,0 +1,11 @@
+<map id="coap_string_tls_support" name="coap_string_tls_support">
+<area shape="rect" id="node1" title="Build a string containing the current (D)TLS library support." alt="" coords="5,199,181,225"/>
+<area shape="rect" id="node2" href="$group__dtls.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available." alt="" coords="244,5,419,32"/>
+<area shape="rect" id="node3" href="$group__dtls.html#gaf3e03fbb617be8c9a211f920df3da3f9" title="Check whether (D)TLS PKCS11 is available." alt="" coords="254,57,409,98"/>
+<area shape="rect" id="node4" href="$group__dtls.html#gad0681195d282107d6645d3fa20cf0b9f" title="Check whether (D)TLS PKI is available." alt="" coords="231,123,432,149"/>
+<area shape="rect" id="node5" href="$group__dtls.html#ga3b031b3eaa9435cd73a2f983ee9011bb" title="Check whether (D)TLS PSK is available." alt="" coords="229,173,433,200"/>
+<area shape="rect" id="node6" href="$group__dtls.html#gae36632acdecf92b1192abc093fdf8d6d" title="Check whether (D)TLS RPK is available." alt="" coords="230,224,433,251"/>
+<area shape="rect" id="node7" href="$group__oscore.html#ga86a8e53925735713c9ee6b7d72b1c09f" title="Check whether OSCORE is available." alt="" coords="235,275,428,301"/>
+<area shape="rect" id="node8" href="$group__dtls.html#ga55b3b545f0784c7a6135021017317e1b" title="Check whether TLS is available." alt="" coords="248,325,415,352"/>
+<area shape="rect" id="node9" href="$group__ws.html#ga85ebb276d1475de14d90e103b255c749" title="Check whether WebSockets is available." alt="" coords="247,376,415,403"/>
+</map>

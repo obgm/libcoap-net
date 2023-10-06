@@ -1,0 +1,16 @@
+<map id="coap_resolve_address_info" name="coap_resolve_address_info">
+<area shape="rect" id="node1" title="Resolve the specified address into a set of coap_address_t that can be used to bind() (local) or conn..." alt="" coords="5,300,204,327"/>
+<area shape="rect" id="node2" href="$coap__address_8c.html#aece6d39e01149af8dea29b0b8cbde504" title="Compares given address objects a and b." alt="" coords="270,5,431,32"/>
+<area shape="rect" id="node3" href="$coap__address_8c.html#a59e19389468d5ced36778ed07546bce2" title="Resets the given coap_address_t object addr to its default values." alt="" coords="513,85,652,112"/>
+<area shape="rect" id="node4" href="$coap__address_8c.html#a1d2393f9e84cdf76dfdc1343f7f0d3be" title="Copy the parsed unix domain host into coap_address_t structure translating %2F into / on the way." alt="" coords="264,107,437,149"/>
+<area shape="rect" id="node5" href="$group__dtls.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available." alt="" coords="263,173,438,200"/>
+<area shape="rect" id="node6" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="289,224,412,251"/>
+<area shape="rect" id="node7" href="$coap__uri_8c.html#af90c7b99dd4619c34f7c90ce67998a1f" title="Determines from the host whether this is a Unix Domain socket request." alt="" coords="252,275,449,301"/>
+<area shape="rect" id="node8" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="281,325,421,352"/>
+<area shape="rect" id="node9" href="$coap__tcp_8c.html#a2d25d72f564c765b85708b26ee01e27e" title="Check whether TCP is available." alt="" coords="265,376,436,403"/>
+<area shape="rect" id="node10" href="$group__dtls.html#ga55b3b545f0784c7a6135021017317e1b" title="Check whether TLS is available." alt="" coords="267,427,434,453"/>
+<area shape="rect" id="node11" href="$group__ws.html#ga85ebb276d1475de14d90e103b255c749" title="Check whether WebSockets is available." alt="" coords="267,477,435,504"/>
+<area shape="rect" id="node12" href="$group__ws.html#gae3150f4272480b18b3771e6b6465624e" title="Check whether Secure WebSockets is available." alt="" coords="263,528,438,555"/>
+<area shape="rect" id="node13" href="$coap__address_8c.html#af074e389a057dde48a62725e63b442e1" title=" " alt="" coords="301,579,401,605"/>
+<area shape="rect" id="node14" href="$coap__address_8c.html#a15c4882bf12507e6b42ea1567b46abac" title="Set the port field of addr to port (in host byte order)." alt="" coords="497,579,668,605"/>
+</map>
