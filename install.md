@@ -49,19 +49,27 @@ requires [cunit](http://cunit.sourceforge.net/) and its header files.
     * ```--with-openssl``` select an OpenSSL library.
     * ```--with-mbedtls``` select an Mbed TLS library.
     * ```--with-tinydtls``` select tinyDTLS.
+    * ```--with-wolfssl``` select wolfSSL.
 * ```--enable-gcov``` enable gcov test coverage support.
 
 ### Contiki
 
 An example Contiki application can be found in `examples/contiki`. You
 need to run `configure` (possibly preceded by `autogen.sh` when cloned
-from git). The example Makefile will clone a the [Contiki
-repository](https://github.com/contiki-os/contiki) and create a
+from git). The example Makefile will clone the [Contiki-NG
+repository](https://github.com/contiki-ng/contiki-ng) and create a
 symbolic link in Contiki's `apps` directory to the libcoap root
 directory where `Makefile.libcoap` is located. After that, a simple
 server application is build by `Makefile.contiki`.
 
 There is currently no DTLS support for libcoap with Contiki.
+
+### RIOT
+
+Example RIOT application can be found under examples/riot. The
+examples/riot example Makefile will clone the RIOT repository and then
+build an example client, server and test server within the RIOT
+subdirectory.
 
 ### LwIP
 

@@ -4,7 +4,7 @@ layout: home
 
 <div class="alert alert-dismissible alert-success">
 <button type="button" class="close" data-dismiss="alert">&times;</button>
- <a href="//github.com/obgm/libcoap/releases/tag/v4.3.4" class="alert-link">Version 4.3.4</a> is available. Try it out!
+ <a href="//github.com/obgm/libcoap/releases/tag/v4.3.5" class="alert-link">Version 4.3.5</a> is available. Try it out!
 </div>
 
 <div class="jumbotron">
@@ -109,8 +109,9 @@ layout: home
           <h4 class="card-title">TLS-Support</h4>
           <p class="card-text">The library is designed to support transport
           layer security utilizing frameworks such as <a href="//gnutls.org">GnuTLS</a>,
-          <a href="//openssl.org">OpenSSL</a>, <a href="//tls.mbed.org">Mbed TLS</a>, or
-          <a href="//www.eclipse.org/tinydtls">tinydtls</a>.
+          <a href="//openssl.org">OpenSSL</a>, <a href="//tls.mbed.org">Mbed TLS</a>, 
+          <a href="//www.eclipse.org/tinydtls">tinydtls</a>, or
+          <a href="//www.wolfssl.com/">wolfSSL</a>.
           </p>
         </div>
       </div>
