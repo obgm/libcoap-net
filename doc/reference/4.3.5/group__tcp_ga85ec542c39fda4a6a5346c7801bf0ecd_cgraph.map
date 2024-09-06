@@ -1,0 +1,12 @@
+<map id="coap_socket_connect_tcp1" name="coap_socket_connect_tcp1">
+<area shape="rect" id="Node000001" title="Create a new TCP socket and initiate the connection." alt="" coords="5,55,200,80"/>
+<area shape="rect" id="Node000002" href="$coap__address_8c.html#ad1c3d640d43a55084e0aece91b38fa4e" title=" " alt="" coords="248,5,397,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,52,251,31,252,36,161,57"/>
+<area shape="rect" id="Node000003" href="$coap__io_8c.html#a2de382e7795c908d1a376da8c338386d" title="Function interface to close off a socket." alt="" coords="251,55,394,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,65,238,65,238,70,201,70"/>
+<area shape="rect" id="Node000004" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="445,80,603,105"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="167,77,248,89,343,93,431,93,431,99,342,99,248,94,166,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="394,74,432,78,431,84,394,79"/>
+<area shape="rect" id="Node000005" href="$coap__io_8c.html#a198ae48fdbe1762be87328d3a5f5f4b2" title=" " alt="" coords="651,73,804,113"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="603,90,637,90,637,95,603,95"/>
+</map>

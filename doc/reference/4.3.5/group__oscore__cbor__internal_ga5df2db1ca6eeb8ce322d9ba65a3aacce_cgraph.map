@@ -1,0 +1,17 @@
+<map id="oscore_cbor_strip_value" name="oscore_cbor_strip_value">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,184,68"/>
+<area shape="rect" id="Node000002" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="251,5,391,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,40,236,29,237,34,173,45"/>
+<area shape="rect" id="Node000003" href="$oscore__cbor_8c.html#ad0f75cc96b866a32fc5dddfffe776310" title=" " alt="" coords="232,79,409,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,65,228,74,227,79,174,71"/>
+<area shape="poly" id="edge8_Node000003_Node000003" title=" " alt="" coords="284,80,276,70,280,60,296,54,321,52,352,56,364,65,361,69,350,61,321,57,297,59,284,64,281,70,288,77"/>
+<area shape="rect" id="Node000004" href="$oscore__cbor_8c.html#a575a02cbfa6b36b6a146f793915847e8" title=" " alt="" coords="741,51,820,76"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="364,76,409,65,457,57,520,52,568,52,680,57,728,58,727,64,680,62,568,57,520,57,458,62,410,70,365,81"/>
+<area shape="rect" id="Node000005" href="$group__oscore__cbor__internal.html#ga3629a66f8876ce66b6cd233f92e9e7f6" title=" " alt="" coords="457,136,680,161"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="376,101,458,121,499,130,498,135,457,126,375,107"/>
+<area shape="rect" id="Node000007" href="$group__oscore__cbor__internal.html#ga91cd1cf8a776f9f27c91932da7786675" title=" " alt="" coords="487,71,651,111"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="410,89,473,89,473,94,410,94"/>
+<area shape="rect" id="Node000006" href="$oscore__cbor_8c.html#a902c77b8cd89c65064985c8f5bb16da9" title=" " alt="" coords="728,136,833,161"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="680,146,714,146,714,151,680,151"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="651,78,727,68,728,73,651,83"/>
+</map>

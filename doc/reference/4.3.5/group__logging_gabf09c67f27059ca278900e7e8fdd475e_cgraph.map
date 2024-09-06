@@ -1,0 +1,11 @@
+<map id="coap_session_str" name="coap_session_str">
+<area shape="rect" id="Node000001" title="Get session description." alt="" coords="5,55,139,80"/>
+<area shape="rect" id="Node000002" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="193,29,319,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,56,178,50,179,55,139,61"/>
+<area shape="rect" id="Node000005" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="187,79,325,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="139,73,173,78,173,83,138,79"/>
+<area shape="rect" id="Node000003" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="373,5,545,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,32,359,27,360,32,320,37"/>
+<area shape="rect" id="Node000004" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="387,55,532,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="320,47,373,54,373,59,319,53"/>
+</map>

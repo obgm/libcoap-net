@@ -1,0 +1,13 @@
+<map id="coap_get_available_scheme_hint_bits" name="coap_get_available_scheme_hint_bits">
+<area shape="rect" id="Node000001" title="Determine and set up scheme_hint_bits for a server that can be used in a call to coap_resolve_address..." alt="" coords="5,97,153,137"/>
+<area shape="rect" id="Node000002" href="$group__supported.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available." alt="" coords="201,5,376,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,94,150,66,200,40,219,32,221,37,202,44,152,71,110,99"/>
+<area shape="rect" id="Node000003" href="$group__supported.html#ga2d25d72f564c765b85708b26ee01e27e" title="Check whether TCP is available." alt="" coords="203,55,374,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,97,220,81,222,86,154,102"/>
+<area shape="rect" id="Node000004" href="$group__supported.html#ga55b3b545f0784c7a6135021017317e1b" title="Check whether TLS is available." alt="" coords="205,104,372,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,114,192,114,192,119,154,119"/>
+<area shape="rect" id="Node000005" href="$group__supported.html#ga85ebb276d1475de14d90e103b255c749" title="Check whether WebSockets is available." alt="" coords="205,153,373,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="154,131,222,148,220,153,153,137"/>
+<area shape="rect" id="Node000006" href="$group__supported.html#gae3150f4272480b18b3771e6b6465624e" title="Check whether Secure WebSockets is available." alt="" coords="201,203,376,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="111,135,153,162,202,188,224,196,222,201,200,192,150,166,108,139"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="coap_dtls_pki_is_supported" name="coap_dtls_pki_is_supported">
+<area shape="rect" id="Node000001" title="Check whether (D)TLS PKI is available." alt="" coords="229,5,431,31"/>
+<area shape="rect" id="Node000002" href="$group__logging.html#ga4a9140f2423b4970123d795f547b6a93" title="Build a string containing the current (D)TLS library support." alt="" coords="5,5,181,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,21,182,21,182,15,216,15"/>
+</map>

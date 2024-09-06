@@ -1,0 +1,7 @@
+<map id="coap_memory_init" name="coap_memory_init">
+<area shape="rect" id="Node000001" title="Initializes libcoap&#39;s memory management." alt="" coords="351,5,493,31"/>
+<area shape="rect" id="Node000002" href="$coap__net_8c.html#aceceb550566e0ab9e184d09604a73bb6" title=" " alt="" coords="196,5,303,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="337,21,303,21,303,15,337,15"/>
+<area shape="rect" id="Node000003" href="$group__context.html#ga1ab369ca0a3c4fe7f8a9e0536346ff71" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,5,148,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="182,21,148,21,148,15,182,15"/>
+</map>

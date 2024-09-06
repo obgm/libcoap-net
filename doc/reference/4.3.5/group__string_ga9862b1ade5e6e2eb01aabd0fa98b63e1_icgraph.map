@@ -1,0 +1,52 @@
+<map id="coap_new_string" name="coap_new_string">
+<area shape="rect" id="Node000001" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="865,295,996,321"/>
+<area shape="rect" id="Node000002" href="$coap__block_8c.html#a7ac9ac5682c27cf4b80b8e1bb28c330c" title=" " alt="" coords="443,5,603,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="917,283,879,210,850,170,816,135,765,102,710,76,654,56,603,43,604,37,656,51,712,71,768,97,819,131,854,167,884,208,922,281"/>
+<area shape="rect" id="Node000003" href="$group__uri__parse.html#gaf625b48713927c0c7cf9fb994ab7a7d4" title="Extract query string from request PDU according to escape rules in 6.5.8." alt="" coords="677,270,802,295"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="851,300,802,294,803,288,852,295"/>
+<area shape="rect" id="Node000004" href="$group__uri__parse.html#ga11d902f573bcfee188d5ccd4903d0393" title="Extract uri_path string from request PDU." alt="" coords="669,319,810,345"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="852,321,811,326,810,320,851,315"/>
+<area shape="rect" id="Node000005" href="$group__string.html#ga50cf7197e1bcb325d3ee9f4a04a56996" title="Take the specified byte array (text) and create a coap_bin_const_t * Returns a new const binary objec..." alt="" coords="661,417,817,442"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="899,330,762,419,759,414,896,326"/>
+<area shape="rect" id="Node000017" href="$group__string.html#ga4ddcb94c1d26bd87a5ed1af801f35793" title="Returns a new binary object with at least size bytes storage allocated." alt="" coords="672,146,807,171"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="901,289,755,173,758,169,904,285"/>
+<area shape="rect" id="Node000022" href="$group__string.html#gaac769e3d5cea5481436c9eb3cb28d92a" title="Returns a new const string object with at least size+1 bytes storage allocated, and the provided data..." alt="" coords="663,466,816,491"/>
+<area shape="poly" id="edge28_Node000001_Node000022" title=" " alt="" coords="919,334,879,395,851,427,819,456,795,468,792,464,816,451,848,424,875,391,914,331"/>
+<area shape="rect" id="Node000006" href="$group__app__io__internal.html#gae138b6aba5c244fb8e582e63615f5112" title="Sends a CoAP message to given peer." alt="" coords="464,295,583,321"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="713,409,668,372,612,336,580,323,582,318,615,331,672,368,717,405"/>
+<area shape="rect" id="Node000008" href="$group__session__internal.html#ga241d1a2311c1dcbdca0e6860237acf91" title="Refresh the session&#39;s current Identity Hint (PSK)." alt="" coords="442,345,605,385"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="681,415,591,388,592,383,683,410"/>
+<area shape="rect" id="Node000009" href="$group__session__internal.html#gabf03da17a2f79fd94e20c58cd05e5d0e" title="Refresh the session&#39;s current pre&#45;shared identity (PSK)." alt="" coords="442,409,605,449"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="648,432,605,432,605,427,648,427"/>
+<area shape="rect" id="Node000010" href="$group__session__internal.html#gaa40e39af285755517824c26095494f91" title="Refresh the session&#39;s current pre&#45;shared key (PSK)." alt="" coords="442,473,605,513"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="683,449,592,476,591,471,681,444"/>
+<area shape="rect" id="Node000011" href="$oscore__context_8c.html#a5dd2a845d237fab6455e841459932301" title=" " alt="" coords="456,538,591,563"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="671,450,663,455,647,473,640,491,632,509,615,527,591,540,588,536,612,523,627,506,635,488,643,470,660,451,668,446"/>
+<area shape="rect" id="Node000014" href="$group__oscore__internal.html#gac1dcb68cfe7c74e017f67ad7c085a492" title="oscore_duplicate_ctx &#45; duplicate a osc_ctx" alt="" coords="5,513,164,538"/>
+<area shape="poly" id="edge17_Node000005_Node000014" title=" " alt="" coords="668,451,663,455,651,470,645,485,641,517,637,548,629,564,615,578,564,613,516,635,470,647,424,650,377,646,327,635,211,604,178,591,147,574,99,540,103,536,150,570,180,586,213,599,328,630,378,640,424,645,469,642,514,630,561,608,612,574,625,561,632,547,636,516,640,484,647,467,659,451,664,447"/>
+<area shape="rect" id="Node000016" href="$group__oscore__internal.html#ga8cf885624714b9a4705974adf2629cb2" title=" " alt="" coords="433,665,613,690"/>
+<area shape="poly" id="edge18_Node000005_Node000016" title=" " alt="" coords="667,452,663,455,647,478,639,502,638,525,639,549,641,573,640,597,632,622,615,647,602,659,586,667,584,662,599,654,611,644,627,620,635,596,636,573,634,549,633,525,634,501,642,476,659,452,663,448"/>
+<area shape="rect" id="Node000007" href="$group__context.html#ga1c3d60f40aa03a974b4472951abae1f0" title="Sends a CoAP message to given peer." alt="" coords="253,295,344,321"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="450,311,344,311,344,305,450,305"/>
+<area shape="rect" id="Node000012" href="$group__oscore__internal.html#ga28cf1e32f7d4f13cd4f25aca27169580" title="oscore_add_recipient &#45; add in recipient information" alt="" coords="219,462,379,487"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="460,537,432,528,384,509,333,490,335,485,386,504,434,523,462,531"/>
+<area shape="rect" id="Node000013" href="$group__oscore__internal.html#ga8636deef153df3f5c67fba15ff3893c0" title="oscore_derive_ctx &#45; derive a osc_ctx from oscore_conf information" alt="" coords="15,437,155,462"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="443,534,432,527,415,507,408,486,401,467,384,452,353,438,320,429,251,423,186,429,131,439,130,434,185,424,251,418,321,424,355,433,387,447,405,464,413,485,420,505,435,523,445,530"/>
+<area shape="poly" id="edge15_Node000011_Node000014" title=" " alt="" coords="442,549,164,533,164,527,442,543"/>
+<area shape="rect" id="Node000015" href="$group__oscore__internal.html#ga77af2b488323aca8684f23dfde52e1d5" title="oscore_update_ctx &#45; update a osc_ctx with a new id_context" alt="" coords="227,563,371,589"/>
+<area shape="poly" id="edge16_Node000011_Node000015" title=" " alt="" coords="443,562,371,571,370,565,442,557"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="205,466,154,460,155,455,205,461"/>
+<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="231,493,140,515,138,510,230,488"/>
+<area shape="poly" id="edge20_Node000017_Node000002" title=" " alt="" coords="711,139,666,103,612,66,575,48,578,43,615,62,669,99,714,135"/>
+<area shape="rect" id="Node000018" href="$group__block.html#gaf7f4a656ce3911d46e03504b503643d6" title="Re&#45;assemble payloads into a body." alt="" coords="212,95,385,121"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="701,142,660,124,613,111,554,102,495,99,386,102,386,97,495,94,555,97,614,105,661,119,703,137"/>
+<area shape="rect" id="Node000019" href="$group__string.html#ga529215b162db2045c934c3cea1c17e60" title="Resizes the given coap_binary_t object." alt="" coords="450,121,597,146"/>
+<area shape="poly" id="edge22_Node000017_Node000019" title=" " alt="" coords="658,152,597,145,597,139,658,147"/>
+<area shape="rect" id="Node000020" href="$group__asn1.html#gad0d58908b4c2fa51f1a80f323bb49612" title="Abstract SPKI public key from the ASN1." alt="" coords="241,209,356,234"/>
+<area shape="poly" id="edge24_Node000017_Node000020" title=" " alt="" coords="659,173,357,216,356,211,658,167"/>
+<area shape="rect" id="Node000021" href="$group__asn1.html#ga2651414d8dfa01e3dca3ca076730bdfd" title="Get the asn1 tag and data from the current ptr." alt="" coords="469,246,578,271"/>
+<area shape="poly" id="edge25_Node000017_Node000021" title=" " alt="" coords="699,180,553,248,551,243,697,175"/>
+<area shape="poly" id="edge23_Node000019_Node000018" title=" " alt="" coords="436,126,385,120,386,115,437,121"/>
+<area shape="poly" id="edge26_Node000021_Node000020" title=" " alt="" coords="454,250,356,233,357,228,455,245"/>
+<area shape="poly" id="edge27_Node000021_Node000021" title=" " alt="" coords="562,236,551,228,523,225,500,227,488,232,486,237,492,244,488,248,480,238,484,228,499,222,523,219,553,223,565,232"/>
+</map>

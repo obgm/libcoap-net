@@ -1,0 +1,5 @@
+<map id="coap_uri_t" name="coap_uri_t">
+<area shape="rect" id="Node000001" title="Representation of parsed URI." alt="" coords="26,123,115,148"/>
+<area shape="rect" id="Node000002" href="$structcoap__str__const__t.html" title="CoAP string data definition with const data." alt="" coords="5,5,136,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,44,73,123,68,123,68,44"/>
+</map>

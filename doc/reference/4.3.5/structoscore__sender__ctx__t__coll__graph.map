@@ -1,0 +1,5 @@
+<map id="oscore_sender_ctx_t" name="oscore_sender_ctx_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,108,160,133"/>
+<area shape="rect" id="Node000002" href="$structcoap__bin__const__t.html" title="CoAP binary data definition with const data." alt="" coords="15,5,150,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,45,85,108,80,108,80,45"/>
+</map>

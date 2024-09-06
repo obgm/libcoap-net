@@ -1,0 +1,5 @@
+<map id="coap_socket_write" name="coap_socket_write">
+<area shape="rect" id="Node000001" title="Function interface for data stream sending off a socket." alt="" coords="220,5,363,31"/>
+<area shape="rect" id="Node000002" href="$group__netif__internal.html#ga71e75126ada5b70e7e52e55e82b185a0" title="Function interface for netif stream data transmission." alt="" coords="5,5,172,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,21,172,21,172,15,206,15"/>
+</map>

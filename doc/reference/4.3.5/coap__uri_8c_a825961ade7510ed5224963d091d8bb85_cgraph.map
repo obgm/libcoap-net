@@ -1,0 +1,13 @@
+<map id="coap_split_path_impl" name="coap_split_path_impl">
+<area shape="rect" id="Node000001" title="Splits the given string into segments." alt="" coords="5,55,165,80"/>
+<area shape="rect" id="Node000002" href="$coap__uri_8c.html#a791fb1dea2acffd4bec599c0a5b49fb8" title=" " alt="" coords="213,5,345,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,52,214,32,216,37,137,57"/>
+<area shape="rect" id="Node000005" href="$coap__uri_8c.html#a079c8b836090aea91f0ecf9efa57d9d6" title="Checks if path segment s consists of one or two dots." alt="" coords="254,55,305,80"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="166,65,240,65,240,70,166,70"/>
+<area shape="rect" id="Node000006" href="$coap__uri_8c.html#a554dbd9464384b72f9c3e72b9dcce8ee" title="A length&#45;safe version of strchr()." alt="" coords="246,104,313,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="137,77,233,102,232,108,135,83"/>
+<area shape="rect" id="Node000003" href="$coap__option_8c.html#a683c0121b4028a90f612809437aaa3d0" title="Returns the size of the given option, taking into account a possible option jump." alt="" coords="393,5,508,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,15,380,15,380,21,345,21"/>
+<area shape="rect" id="Node000004" href="$coap__option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result." alt="" coords="556,5,680,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="508,15,542,15,542,21,508,21"/>
+</map>

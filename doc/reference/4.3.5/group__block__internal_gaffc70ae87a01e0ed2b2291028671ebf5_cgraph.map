@@ -1,0 +1,29 @@
+<map id="coap_block_check_lg_xmit_timeouts" name="coap_block_check_lg_xmit_timeouts">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,149,164,189"/>
+<area shape="rect" id="Node000002" href="$group__block__internal.html#ga97dae4d1698d414de1d80c5efbdc6dce" title=" " alt="" coords="212,107,411,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,149,238,132,239,138,165,154"/>
+<area shape="rect" id="Node000011" href="$group__context__internal.html#ga04d740d543aecc9947d417fecfac434d" title="Invokes the event handler of context for the given event and data." alt="" coords="224,205,399,231"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="165,183,239,200,238,205,164,189"/>
+<area shape="rect" id="Node000003" href="$group__string.html#ga5881b7726f26833abb90e30bd23730af" title="Deletes the given coap_binary_t object and releases any memory allocated." alt="" coords="501,5,651,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,104,390,76,458,48,507,32,508,37,460,52,393,81,338,109"/>
+<area shape="rect" id="Node000004" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="749,56,872,81"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="377,104,458,91,606,77,735,69,735,75,606,83,459,97,378,109"/>
+<area shape="rect" id="Node000005" href="$group__string.html#gad991c87cfcf9b2414d2dc430c8701ed3" title="Deletes the given string and releases any memory allocated." alt="" coords="503,107,649,132"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="411,117,490,117,490,122,411,122"/>
+<area shape="rect" id="Node000006" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="509,156,643,181"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="381,129,496,151,495,156,380,135"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="636,28,739,50,737,56,635,33"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="635,104,737,82,739,87,636,109"/>
+<area shape="rect" id="Node000007" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="747,131,874,156"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="643,159,733,149,734,154,643,164"/>
+<area shape="rect" id="Node000010" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="741,180,880,205"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="643,173,728,182,728,187,643,178"/>
+<area shape="rect" id="Node000008" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="928,107,1100,132"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="874,133,914,128,915,134,875,139"/>
+<area shape="rect" id="Node000009" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="941,156,1087,181"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="875,149,928,155,927,161,874,154"/>
+<area shape="rect" id="Node000012" href="$coap__net_8c.html#a63049ac044a8d4c446ca4f057637890e" title=" " alt="" coords="505,205,647,231"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="399,215,491,215,491,221,399,221"/>
+<area shape="rect" id="Node000013" href="$group__Proxy.html#gac1f3d71ffdbf6f119f997df0acd3f7e7" title=" " alt="" coords="459,255,693,280"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="381,228,494,249,493,255,380,233"/>
+</map>

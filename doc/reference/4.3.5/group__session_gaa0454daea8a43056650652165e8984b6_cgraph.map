@@ -1,0 +1,5 @@
+<map id="coap_session_get_by_peer" name="coap_session_get_by_peer">
+<area shape="rect" id="Node000001" title="Get the session associated with the specified remote_addr and index." alt="" coords="5,5,201,31"/>
+<area shape="rect" id="Node000002" href="$coap__address_8c.html#aece6d39e01149af8dea29b0b8cbde504" title="Compares given address objects a and b." alt="" coords="249,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,15,236,15,236,21,202,21"/>
+</map>

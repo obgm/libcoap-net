@@ -1,0 +1,5 @@
+<map id="coap_uri_into_optlist" name="coap_uri_into_optlist">
+<area shape="rect" id="Node000001" title="Takes a coap_uri_t and then adds CoAP options into the optlist_chain." alt="" coords="217,5,375,31"/>
+<area shape="rect" id="Node000002" href="$coap__uri_8c.html#a216bce778869f5863264fc3c2498c2ed" title=" " alt="" coords="5,5,169,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,21,169,21,169,15,203,15"/>
+</map>

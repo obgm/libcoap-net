@@ -1,0 +1,7 @@
+<map id="backup_segment" name="backup_segment">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,137,31"/>
+<area shape="rect" id="Node000002" href="$coap__option_8c.html#a683c0121b4028a90f612809437aaa3d0" title="Returns the size of the given option, taking into account a possible option jump." alt="" coords="185,5,300,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,15,172,15,172,21,137,21"/>
+<area shape="rect" id="Node000003" href="$coap__option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result." alt="" coords="348,5,472,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,15,334,15,334,21,300,21"/>
+</map>

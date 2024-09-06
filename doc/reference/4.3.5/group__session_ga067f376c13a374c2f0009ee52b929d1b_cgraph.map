@@ -1,0 +1,5 @@
+<map id="coap_session_reference" name="coap_session_reference">
+<area shape="rect" id="Node000001" title="Increment reference counter on a session." alt="" coords="5,5,184,31"/>
+<area shape="rect" id="Node000002" href="$group__session__internal.html#gae3280ec7e63cc48d05fd8d3b46a838a6" title="Increment reference counter on a session." alt="" coords="232,5,437,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,15,218,15,218,21,184,21"/>
+</map>

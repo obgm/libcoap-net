@@ -1,0 +1,24 @@
+<map id="coap_netif_strm_write" name="coap_netif_strm_write">
+<area shape="rect" id="Node000001" title="Function interface for netif stream data transmission." alt="" coords="5,157,172,183"/>
+<area shape="rect" id="Node000002" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="225,81,358,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,155,243,109,244,114,124,160"/>
+<area shape="rect" id="Node000007" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="411,133,568,159"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="172,162,397,149,397,154,173,168"/>
+<area shape="rect" id="Node000009" href="$coap__io_8c.html#a53d8fd138fc5bf331c2bf71d72ac4848" title="Function interface for data stream sending off a socket." alt="" coords="220,183,363,208"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="173,178,207,182,206,187,172,183"/>
+<area shape="rect" id="Node000011" href="$group__context.html#ga757eecd5cda6e32472313df73a9297fd" title="Returns the current value of an internal tick counter." alt="" coords="246,232,337,257"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="123,180,221,218,240,225,238,230,219,223,121,185"/>
+<area shape="rect" id="Node000003" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="426,33,553,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="344,79,423,59,424,65,345,84"/>
+<area shape="rect" id="Node000006" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="420,83,559,108"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="358,92,407,92,407,97,358,97"/>
+<area shape="rect" id="Node000004" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="616,5,788,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="553,35,602,28,603,34,553,40"/>
+<area shape="rect" id="Node000005" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="629,55,775,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="553,50,616,56,615,61,553,55"/>
+<area shape="rect" id="Node000008" href="$coap__io_8c.html#a198ae48fdbe1762be87328d3a5f5f4b2" title=" " alt="" coords="625,126,779,166"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="568,143,612,143,612,149,568,149"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="342,180,424,159,425,165,344,185"/>
+<area shape="rect" id="Node000010" href="$coap__io__internal_8h.html#ada1a4c92a688b7940a0ee02566157638" title="Epoll specific function to modify the state of events that epoll is tracking on the appropriate file ..." alt="" coords="414,183,565,208"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="363,193,400,193,400,198,363,198"/>
+</map>

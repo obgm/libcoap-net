@@ -1,0 +1,29 @@
+<map id="get_byte_inc" name="get_byte_inc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="768,84,873,109"/>
+<area shape="rect" id="Node000002" href="$group__oscore__cbor__internal.html#gab692e501836c4d9d82147c2e316f43f3" title=" " alt="" coords="524,5,693,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="787,79,755,61,719,44,682,33,683,28,721,40,757,56,790,74"/>
+<area shape="rect" id="Node000004" href="$group__oscore__cbor__internal.html#ga3629a66f8876ce66b6cd233f92e9e7f6" title=" " alt="" coords="497,169,720,195"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="792,120,759,140,721,159,681,172,679,167,719,154,756,136,789,115"/>
+<area shape="rect" id="Node000011" href="$group__oscore__cbor__internal.html#ga8ceb480bb986a5e4bc80be57e98cd19d" title=" " alt="" coords="519,105,698,145"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="754,108,699,116,698,110,754,103"/>
+<area shape="rect" id="Node000012" href="$group__oscore__cbor__internal.html#ga8bfcfbef6864e79da3d3ca0f74290a06" title=" " alt="" coords="523,55,695,80"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="754,90,695,82,695,77,755,85"/>
+<area shape="rect" id="Node000003" href="$group__oscore__cbor__internal.html#ga521bef3bb3191547b6f0b2960dfe094a" title=" " alt="" coords="258,47,430,87"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="527,36,431,54,430,49,526,31"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="511,167,496,159,480,145,471,130,462,115,448,102,426,90,428,85,451,97,467,112,475,127,484,141,499,154,514,162"/>
+<area shape="rect" id="Node000005" href="$group__oscore__cbor__internal.html#gac926bfd48028a354414f857b282efe61" title=" " alt="" coords="239,112,449,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="535,169,403,140,404,135,537,164"/>
+<area shape="rect" id="Node000006" href="$group__oscore__cbor__internal.html#ga3f2da44588217a8e1c0b33fb8a9e5f97" title=" " alt="" coords="248,226,440,266"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="542,201,428,229,427,223,541,195"/>
+<area shape="rect" id="Node000008" href="$group__oscore__cbor__internal.html#gac6aff3f9bd11959df0bfa57300527cf3" title=" " alt="" coords="247,162,441,202"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="483,185,441,185,441,179,483,179"/>
+<area shape="rect" id="Node000009" href="$oscore__cbor_8c.html#ad0f75cc96b866a32fc5dddfffe776310" title=" " alt="" coords="255,315,433,340"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="578,204,451,280,376,317,373,312,448,276,575,200"/>
+<area shape="rect" id="Node000007" href="$group__oscore__cbor__internal.html#gac9dae884ef48ba58e6173757c76eaa1c" title=" " alt="" coords="5,201,191,227"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="234,234,191,229,191,223,235,229"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="233,199,191,205,190,199,233,194"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="388,305,385,301,377,297,344,293,318,295,304,300,301,306,308,313,304,316,296,306,300,296,317,290,344,288,379,292,389,297,392,302"/>
+<area shape="rect" id="Node000010" href="$group__oscore__cbor__internal.html#ga5df2db1ca6eeb8ce322d9ba65a3aacce" title=" " alt="" coords="9,315,187,340"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="242,330,188,330,188,325,242,325"/>
+<area shape="poly" id="edge15_Node000012_Node000003" title=" " alt="" coords="509,70,430,70,430,65,509,65"/>
+</map>

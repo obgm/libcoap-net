@@ -1,0 +1,17 @@
+<map id="coap_option_next" name="coap_option_next">
+<area shape="rect" id="Node000001" title="Updates the iterator oi to point to the next option." alt="" coords="5,55,143,80"/>
+<area shape="rect" id="Node000002" href="$coap__option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result." alt="" coords="212,5,336,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,52,208,31,209,37,127,57"/>
+<area shape="rect" id="Node000003" href="$group__opt__filter.html#gaecbb0b2fe1f6244aa6121d019070704b" title="Checks if number is contained in filter." alt="" coords="191,55,357,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,65,177,65,177,70,143,70"/>
+<area shape="rect" id="Node000008" href="$coap__option_8c.html#a70fa9db0450134640b80cbf7c3720688" title=" " alt="" coords="223,104,325,129"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="127,77,210,98,209,104,126,83"/>
+<area shape="rect" id="Node000004" href="$coap__option_8c.html#ab87ea79da1603a15ac624388a335bba6" title="Applies op on filter with respect to number." alt="" coords="405,55,567,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="357,65,391,65,391,70,357,70"/>
+<area shape="rect" id="Node000005" href="$coap__encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="635,29,710,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="567,54,621,46,622,52,567,59"/>
+<area shape="rect" id="Node000007" href="$coap__option_8c.html#ad65a9bd8fcfb4ba4270819e6f87f5bcf" title="Returns true iff number denotes an option number larger than 255." alt="" coords="615,79,731,104"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="567,75,601,80,601,85,567,80"/>
+<area shape="rect" id="Node000006" href="$coap__encode_8c.html#a1c66d23b22bbf747ff8b0a649f85f060" title=" " alt="" coords="779,29,861,55"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="710,39,765,39,765,45,710,45"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="coap_debug_send_packet" name="coap_debug_send_packet">
+<area shape="rect" id="Node000001" title="Check to see whether a packet should be sent or not." alt="" coords="5,5,193,31"/>
+<area shape="rect" id="Node000002" href="$group__coap__prng__internal.html#gac35cc791f709408f8d2411bf9b109ed3" title="Fills buf with len random bytes using the default pseudo random number generator." alt="" coords="241,5,357,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,15,227,15,227,21,194,21"/>
+</map>

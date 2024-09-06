@@ -1,0 +1,168 @@
+<map id="coap_session_free" name="coap_session_free">
+<area shape="rect" id="Node000001" title=" " alt="" coords="4144,698,4287,723"/>
+<area shape="rect" id="Node000002" href="$group__app__io__internal.html#gacaa3af99c009b68f13f5c05aefdac41d" title="Iterates through all the coap_socket_t structures embedded in endpoints or sessions associated with t..." alt="" coords="2507,93,2682,118"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="4208,685,4197,619,4177,525,4146,414,4103,298,4076,241,4045,188,4010,139,3971,95,3927,59,3879,32,3826,14,3767,8,3130,8,3021,10,2936,16,2851,30,2745,55,2681,74,2626,95,2624,90,2679,69,2743,49,2850,25,2935,11,3020,4,3130,3,3767,3,3827,9,3881,27,3930,55,3974,92,4014,135,4049,185,4080,239,4108,296,4151,413,4182,524,4202,618,4213,684"/>
+<area shape="rect" id="Node000024" href="$group__session__internal.html#gabcb9c3c1518642bbb211347f1a7f48cc" title="Decrement reference counter on a session." alt="" coords="3905,698,4096,723"/>
+<area shape="poly" id="edge25_Node000001_Node000024" title=" " alt="" coords="4130,713,4096,713,4096,708,4130,708"/>
+<area shape="rect" id="Node000003" href="$group__app__io__internal.html#gade3ed4566ae99eaf4fb7bd50f7c23822" title="Any now timed out delayed packet is transmitted, along with any packets associated with requested obs..." alt="" coords="1600,91,1795,117"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2493,108,1795,107,1795,101,2493,103"/>
+<area shape="rect" id="Node000006" href="$group__app__io__internal.html#gac72796b7754e146e86da15fa5f8d5992" title="The main message processing loop with additional fds for internal select." alt="" coords="1172,157,1336,197"/>
+<area shape="poly" id="edge24_Node000002_Node000006" title=" " alt="" coords="2510,123,2343,146,2245,154,2147,157,1696,157,1502,163,1336,173,1336,168,1502,158,1696,152,2147,152,2245,149,2342,140,2509,118"/>
+<area shape="rect" id="Node000023" href="$group__app__io.html#ga6213c0f2f9c7365c439589374ec3c91b" title="Iterates through all the coap_socket_t structures embedded in endpoints or sessions associated with t..." alt="" coords="2284,193,2432,218"/>
+<area shape="poly" id="edge23_Node000002_Node000023" title=" " alt="" coords="2513,125,2495,133,2480,143,2471,153,2461,164,2447,176,2404,195,2402,190,2444,171,2458,160,2467,150,2477,139,2492,128,2510,120"/>
+<area shape="rect" id="Node000004" href="$group__app__io__internal.html#ga16a04e534316586853e010ddeec64bd7" title="Process all the epoll events." alt="" coords="1387,294,1549,319"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1673,128,1485,296,1482,292,1670,124"/>
+<area shape="poly" id="edge22_Node000003_Node000006" title=" " alt="" coords="1587,112,1488,122,1385,139,1310,160,1308,155,1383,133,1487,117,1586,107"/>
+<area shape="rect" id="Node000022" href="$group__app__io.html#ga95cf986f7935247aca8bd20c8d7adb12" title="Any now timed out delayed packet is transmitted, along with any packets associated with requested obs..." alt="" coords="1384,41,1552,66"/>
+<area shape="poly" id="edge21_Node000003_Node000022" title=" " alt="" coords="1625,91,1526,69,1527,63,1626,86"/>
+<area shape="rect" id="Node000005" href="$group__app__io.html#gae75a791665f7ae378bb27fcd2617c402" title="Process all the epoll events." alt="" coords="1187,294,1321,319"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1373,309,1322,309,1322,304,1373,304"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1432,289,1287,200,1290,195,1435,284"/>
+<area shape="rect" id="Node000007" href="$group__app__io__internal.html#gaacf6492e591390793c32fa2974a620b2" title="The main I/O processing function." alt="" coords="951,143,1107,169"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1158,171,1107,166,1107,161,1158,166"/>
+<area shape="rect" id="Node000021" href="$group__app__io.html#gaa68c0208f033c5e0c4201a2d2d5e515f" title="The main message processing loop with additional fds for internal select." alt="" coords="933,193,1124,218"/>
+<area shape="poly" id="edge20_Node000006_Node000021" title=" " alt="" coords="1158,192,1125,196,1124,191,1158,187"/>
+<area shape="rect" id="Node000008" href="$group__context__internal.html#ga5d013d40174c7c217b24bf624f9d7310" title="Delay the sending of the first client request until some other negotiation has completed." alt="" coords="715,823,885,849"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="940,178,935,183,919,205,904,235,877,312,855,406,838,508,815,702,805,823,799,823,809,701,833,507,850,405,872,311,899,233,914,202,931,180,937,174"/>
+<area shape="rect" id="Node000018" href="$group__app__io__internal.html#ga3db928bd0e68b72fb53001495a2e3bac" title="Check to see if there is any i/o pending for the context." alt="" coords="721,169,879,194"/>
+<area shape="poly" id="edge17_Node000007_Node000018" title=" " alt="" coords="937,169,880,175,879,170,936,164"/>
+<area shape="rect" id="Node000020" href="$group__app__io.html#ga0acc0068f8442ab2fb70bc30242fc5ef" title="The main I/O processing function." alt="" coords="735,119,865,145"/>
+<area shape="poly" id="edge19_Node000007_Node000020" title=" " alt="" coords="936,149,865,141,865,136,937,144"/>
+<area shape="rect" id="Node000009" href="$group__app__io__internal.html#gae138b6aba5c244fb8e582e63615f5112" title="Sends a CoAP message to given peer." alt="" coords="519,483,638,509"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="781,813,586,510,591,507,785,810"/>
+<area shape="rect" id="Node000011" href="$group__session__internal.html#gab00aa6136bf734263db0dec5360a9798" title="Get maximum acceptable PDU size." alt="" coords="491,816,667,856"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="701,839,667,839,667,833,701,833"/>
+<area shape="rect" id="Node000010" href="$group__context.html#ga1c3d60f40aa03a974b4472951abae1f0" title="Sends a CoAP message to given peer." alt="" coords="293,483,383,509"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="505,499,384,499,384,493,505,493"/>
+<area shape="rect" id="Node000012" href="$group__pdu__internal.html#ga5b11b2f0af35b0ef48a06a781893dc8d" title="Creates a new CoAP PDU." alt="" coords="265,823,411,849"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="477,839,411,839,411,833,477,833"/>
+<area shape="rect" id="Node000014" href="$group__pdu__internal.html#gabfad643886d38578860d06a9ade5caf8" title="Duplicate an existing PDU." alt="" coords="249,873,427,898"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="478,859,401,875,400,870,476,854"/>
+<area shape="rect" id="Node000017" href="$group__session.html#gae5a6b848046e0f3ae3b1d0b055bce60f" title="Get maximum acceptable PDU size." alt="" coords="233,774,443,799"/>
+<area shape="poly" id="edge16_Node000011_Node000017" title=" " alt="" coords="476,818,400,802,401,797,478,813"/>
+<area shape="rect" id="Node000013" href="$group__pdu.html#gac2580e04276e6b66390a66f559c3452d" title="Creates a new CoAP PDU." alt="" coords="36,823,155,849"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="252,839,155,839,155,833,252,833"/>
+<area shape="rect" id="Node000015" href="$group__pdu.html#ga4d2b83e4f9e5264ac3c065b0cff03395" title="Duplicate an existing PDU." alt="" coords="20,922,171,947"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="262,903,159,925,158,919,261,898"/>
+<area shape="rect" id="Node000016" href="$group__oscore__internal.html#ga8cf885624714b9a4705974adf2629cb2" title=" " alt="" coords="5,873,185,898"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="235,888,185,888,185,883,235,883"/>
+<area shape="rect" id="Node000019" href="$group__app__io.html#ga2023144481df2258b5947666a02ede6c" title="Check to see if there is any i/o pending for the context." alt="" coords="513,169,644,194"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="707,184,644,184,644,179,707,179"/>
+<area shape="poly" id="edge75_Node000024_Node000002" title=" " alt="" coords="3993,685,3981,623,3960,535,3929,433,3886,325,3860,273,3830,224,3796,179,3758,139,3717,106,3671,80,3621,64,3567,59,3130,59,3021,60,2937,65,2744,85,2671,95,2670,90,2744,80,2936,60,3021,55,3130,53,3567,53,3622,59,3673,76,3720,101,3762,135,3800,175,3834,221,3864,271,3891,323,3934,431,3966,534,3986,622,3998,684"/>
+<area shape="poly" id="edge73_Node000024_Node000004" title=" " alt="" coords="3919,698,3756,675,3662,666,3567,663,3371,663,3312,659,3262,649,3220,634,3182,612,3109,556,3020,485,3005,471,2996,458,2987,447,2972,436,2940,420,2912,411,2861,405,2808,401,2777,395,2743,384,2719,370,2695,357,2604,329,2530,315,2455,310,2359,309,1931,309,1549,309,1549,304,1931,304,2359,304,2456,305,2531,310,2605,324,2697,352,2721,365,2745,379,2779,390,2809,395,2861,400,2913,406,2942,415,2975,431,2990,443,3000,455,3009,468,3023,481,3112,552,3185,608,3222,629,3264,644,3312,654,3371,657,3567,657,3662,661,3757,670,3920,693"/>
+<area shape="poly" id="edge26_Node000024_Node000008" title=" " alt="" coords="4000,737,3989,876,3965,1076,3946,1179,3923,1273,3894,1349,3877,1379,3859,1401,3802,1447,3747,1475,3693,1489,3638,1492,3580,1488,3519,1481,3450,1474,3374,1471,1253,1471,1196,1468,1148,1461,1106,1447,1069,1429,1034,1404,1001,1373,931,1291,893,1233,862,1169,839,1103,823,1037,804,922,799,849,804,849,810,921,828,1036,845,1101,867,1167,897,1230,935,1288,1005,1369,1038,1400,1071,1424,1108,1443,1149,1455,1197,1463,1253,1465,3374,1465,3451,1468,3519,1475,3581,1483,3638,1486,3692,1483,3745,1470,3799,1442,3855,1397,3873,1376,3889,1347,3918,1271,3941,1178,3959,1075,3984,875,3995,737"/>
+<area shape="rect" id="Node000025" href="$group__context__internal.html#ga216f04b70bac28bb702e5a799ce06bb9" title="Destroys specified node." alt="" coords="3289,907,3456,933"/>
+<area shape="poly" id="edge27_Node000024_Node000025" title=" " alt="" coords="3949,730,3413,910,3411,905,3947,725"/>
+<area shape="rect" id="Node000028" href="$group__context__internal.html#ga7bb944fc52f772655356d95724317401" title="Dispatches the PDUs from the receive queue in given context." alt="" coords="2301,623,2415,649"/>
+<area shape="poly" id="edge71_Node000024_Node000028" title=" " alt="" coords="3892,713,3567,713,3130,713,2923,706,2720,688,2543,667,2415,648,2416,643,2544,661,2720,683,2923,701,3130,708,3567,708,3892,708"/>
+<area shape="rect" id="Node000032" href="$group__app__io__internal.html#ga60fc8d114c50d9c30701ebbf4417b43c" title="Processes any outstanding read, write, accept or connect I/O as indicated in the coap_socket_t struct..." alt="" coords="1397,621,1539,646"/>
+<area shape="poly" id="edge74_Node000024_Node000032" title=" " alt="" coords="3981,736,3879,844,3802,919,3709,1001,3605,1085,3491,1166,3369,1237,3306,1268,3242,1294,3187,1313,3139,1324,3096,1329,3055,1330,2969,1324,2860,1320,2593,1320,2473,1319,2370,1314,2279,1303,2195,1285,2115,1258,2032,1220,1942,1169,1841,1105,1770,1050,1705,987,1647,919,1595,850,1516,726,1473,647,1478,645,1521,724,1600,847,1651,915,1709,983,1774,1046,1844,1100,1945,1165,2034,1215,2116,1253,2197,1280,2280,1298,2370,1308,2473,1313,2593,1315,2860,1315,2969,1319,3055,1324,3095,1324,3138,1319,3186,1308,3240,1290,3304,1263,3366,1233,3488,1161,3602,1081,3706,997,3798,915,3875,840,3977,732"/>
+<area shape="rect" id="Node000043" href="$group__context__internal.html#gaa163a2862357aa1ae3faa92a64c08c9a" title="CoAP stack context must be released with coap_free_context_lkd()." alt="" coords="2774,1381,2943,1406"/>
+<area shape="poly" id="edge72_Node000024_Node000043" title=" " alt="" coords="3996,737,3923,1076,3883,1254,3859,1336,3828,1357,3789,1374,3741,1388,3688,1399,3565,1413,3430,1420,3291,1420,3158,1416,2944,1403,2944,1398,3158,1411,3291,1415,3430,1415,3565,1408,3687,1393,3740,1383,3787,1369,3826,1352,3855,1333,3878,1253,3918,1075,3991,736"/>
+<area shape="rect" id="Node000051" href="$group__session__internal.html#ga192c2ce0f620200797ee34ac6f5d04c7" title=" " alt="" coords="3675,571,3857,597"/>
+<area shape="poly" id="edge76_Node000024_Node000051" title=" " alt="" coords="3963,694,3789,599,3792,594,3965,689"/>
+<area shape="rect" id="Node000065" href="$group__session.html#gac1f4630f1f636543f3bb0da07528c2cb" title="Decrement reference counter on a session." alt="" coords="3684,522,3848,547"/>
+<area shape="poly" id="edge101_Node000024_Node000065" title=" " alt="" coords="3981,688,3930,625,3895,591,3856,562,3829,550,3831,545,3859,558,3898,587,3934,621,3985,685"/>
+<area shape="rect" id="Node000026" href="$group__context__internal.html#gafad345e14c98d46913c4c71fffe878f4" title="Cancels all outstanding messages for session session that have the specified token." alt="" coords="2759,749,2958,774"/>
+<area shape="poly" id="edge28_Node000025_Node000026" title=" " alt="" coords="3353,898,3307,844,3275,817,3240,796,3170,772,3096,759,3023,754,2958,755,2958,749,3024,748,3096,753,3171,767,3242,791,3278,813,3310,840,3357,894"/>
+<area shape="poly" id="edge55_Node000025_Node000028" title=" " alt="" coords="3344,901,3297,869,3240,841,3168,820,3105,807,3049,802,2996,801,2885,801,2820,798,2744,789,2615,776,2560,765,2492,740,2455,719,2421,695,2370,651,2374,647,2424,691,2458,715,2494,735,2561,760,2616,770,2744,784,2820,793,2885,796,2996,795,3050,796,3106,802,3169,814,3242,836,3300,864,3347,897"/>
+<area shape="rect" id="Node000034" href="$group__context__internal.html#gadd0197ad2daf24535c85e0ba1d28f099" title="Cancels all outstanding messages for session session." alt="" coords="3052,900,3211,940"/>
+<area shape="poly" id="edge39_Node000025_Node000034" title=" " alt="" coords="3275,923,3211,923,3211,917,3275,917"/>
+<area shape="rect" id="Node000035" href="$group__session__internal.html#gaf52b7471908bfac25518e41357bd18dc" title="Notify session that it has failed." alt="" coords="2744,1010,2973,1035"/>
+<area shape="poly" id="edge65_Node000025_Node000035" title=" " alt="" coords="3348,944,3301,977,3272,993,3242,1005,3174,1022,3104,1031,3036,1035,2974,1034,2974,1029,3036,1029,3104,1026,3173,1017,3241,1000,3270,988,3298,972,3345,939"/>
+<area shape="rect" id="Node000042" href="$group__context__internal.html#ga2c1e86998c712346baf2d116dbf1ac7f" title="Removes all items from given queue and frees the allocated storage." alt="" coords="3069,1205,3193,1230"/>
+<area shape="poly" id="edge49_Node000025_Node000042" title=" " alt="" coords="3366,947,3349,992,3323,1049,3288,1109,3243,1163,3208,1189,3172,1207,3169,1202,3205,1185,3239,1159,3283,1106,3318,1046,3344,989,3361,945"/>
+<area shape="rect" id="Node000046" href="$group__context__internal.html#ga529eec17dff4de760d8b29517c95a472" title="Destroys specified node." alt="" coords="3061,965,3201,990"/>
+<area shape="poly" id="edge54_Node000025_Node000046" title=" " alt="" coords="3307,939,3242,955,3189,967,3187,962,3241,949,3306,933"/>
+<area shape="rect" id="Node000047" href="$group__context__internal.html#gaad5ccd0b3161f63c0854c2624e892ef4" title="Handles retransmissions of confirmable messages." alt="" coords="2795,294,2923,319"/>
+<area shape="poly" id="edge56_Node000025_Node000047" title=" " alt="" coords="3369,893,3367,807,3361,749,3351,685,3335,619,3312,553,3280,491,3239,435,3218,418,3186,401,3100,369,3005,342,2921,322,2922,317,3007,337,3102,364,3188,396,3221,413,3243,431,3285,488,3317,551,3340,617,3356,684,3367,748,3372,807,3375,893"/>
+<area shape="rect" id="Node000048" href="$group__session__internal.html#gaa8b3a2da8480911b0216dad076038cb6" title="Notify session that it has just connected or reconnected." alt="" coords="3040,850,3223,875"/>
+<area shape="poly" id="edge58_Node000025_Node000048" title=" " alt="" coords="3306,907,3241,891,3187,878,3189,873,3242,885,3307,901"/>
+<area shape="rect" id="Node000049" href="$group__session__internal.html#gab91ca670624ee770714727efff274c49" title=" " alt="" coords="3054,1254,3209,1279"/>
+<area shape="poly" id="edge66_Node000025_Node000049" title=" " alt="" coords="3372,947,3362,1008,3340,1089,3323,1132,3302,1173,3275,1211,3243,1245,3210,1262,3208,1257,3240,1241,3271,1208,3297,1170,3318,1129,3335,1087,3356,1007,3366,946"/>
+<area shape="rect" id="Node000050" href="$coap__net_8c.html#a8fe30a827bdd0d518fc5c5a3a860dfde" title=" " alt="" coords="1623,645,1772,670"/>
+<area shape="poly" id="edge68_Node000025_Node000050" title=" " alt="" coords="3354,945,3307,993,3276,1018,3243,1040,3139,1096,3047,1141,2963,1175,2882,1198,2799,1212,2710,1215,2609,1209,2493,1193,2296,1168,2215,1157,2140,1143,2068,1122,1996,1090,1922,1043,1841,977,1807,940,1778,898,1754,853,1736,808,1710,726,1698,671,1703,670,1715,725,1741,807,1759,851,1783,895,1811,937,1844,973,1925,1038,1999,1085,2070,1117,2141,1138,2215,1152,2297,1162,2494,1188,2610,1204,2710,1210,2799,1207,2881,1193,2962,1170,3045,1136,3136,1091,3240,1035,3273,1014,3303,989,3350,941"/>
+<area shape="rect" id="Node000027" href="$coap__net_8c.html#a6b355153e3bba3af3df1e72f33ced85c" title="This function cancels outstanding messages for the session and token specified in sent." alt="" coords="2543,699,2646,725"/>
+<area shape="poly" id="edge29_Node000026_Node000027" title=" " alt="" coords="2776,749,2646,724,2647,719,2777,743"/>
+<area shape="poly" id="edge30_Node000027_Node000028" title=" " alt="" coords="2540,698,2493,683,2397,651,2399,646,2494,677,2541,693"/>
+<area shape="rect" id="Node000029" href="$group__context__internal.html#gae6b8ca457dd41f23372f9e9a7159312b" title="Parses and interprets a CoAP datagram with context ctx." alt="" coords="2069,566,2223,591"/>
+<area shape="poly" id="edge31_Node000028_Node000029" title=" " alt="" coords="2296,622,2193,594,2194,589,2298,617"/>
+<area shape="rect" id="Node000031" href="$group__session__internal.html#ga6a01ddadb413abfcc50c53df7f562d1a" title=" " alt="" coords="1625,595,1770,621"/>
+<area shape="poly" id="edge38_Node000028_Node000031" title=" " alt="" coords="2287,636,1770,614,1770,608,2287,630"/>
+<area shape="rect" id="Node000030" href="$coap__net_8c.html#a8534f7860b14e0743529daff196a27ce" title=" " alt="" coords="1843,559,2021,599"/>
+<area shape="poly" id="edge32_Node000029_Node000030" title=" " alt="" coords="2055,581,2021,581,2021,576,2055,576"/>
+<area shape="poly" id="edge33_Node000030_Node000031" title=" " alt="" coords="1829,594,1771,602,1770,596,1828,589"/>
+<area shape="poly" id="edge34_Node000031_Node000004" title=" " alt="" coords="1676,586,1477,321,1481,318,1680,583"/>
+<area shape="poly" id="edge35_Node000031_Node000032" title=" " alt="" coords="1611,620,1539,628,1539,623,1610,615"/>
+<area shape="poly" id="edge37_Node000032_Node000006" title=" " alt="" coords="1457,608,1413,466,1377,374,1334,284,1303,237,1272,199,1276,196,1307,234,1338,281,1382,372,1418,465,1462,607"/>
+<area shape="rect" id="Node000033" href="$group__app__io.html#gaec2083a94bd1f43582f981f3370e45dd" title="Processes any outstanding read, write, accept or connect I/O as indicated in the coap_socket_t struct..." alt="" coords="1197,621,1311,646"/>
+<area shape="poly" id="edge36_Node000032_Node000033" title=" " alt="" coords="1383,636,1311,636,1311,631,1383,631"/>
+<area shape="poly" id="edge40_Node000034_Node000035" title=" " alt="" coords="3043,947,3023,956,2999,970,2975,985,2904,1012,2902,1007,2972,980,2996,966,3020,951,3041,942"/>
+<area shape="poly" id="edge42_Node000035_Node000031" title=" " alt="" coords="2730,1023,2359,1019,2145,1019,2104,1016,2071,1007,2042,993,2019,975,1999,953,1982,928,1955,870,1929,808,1898,745,1878,715,1855,686,1827,659,1793,636,1766,623,1768,618,1796,631,1830,655,1859,682,1883,711,1902,742,1934,806,1960,868,1987,925,2003,950,2022,971,2045,989,2072,1002,2105,1010,2145,1013,2359,1013,2730,1017"/>
+<area shape="rect" id="Node000036" href="$group__dtls__internal.html#ga48cfe10be474a4ca9755611da566ce4b" title="Layer function interface for layer below DTLS connect being established." alt="" coords="2519,1054,2670,1079"/>
+<area shape="poly" id="edge41_Node000035_Node000036" title=" " alt="" coords="2769,1040,2671,1057,2670,1052,2768,1035"/>
+<area shape="rect" id="Node000037" href="$group__session.html#ga148f2604cb2002897e9cfee11cff21bd" title="Notify session that it has failed." alt="" coords="2493,1103,2696,1129"/>
+<area shape="poly" id="edge43_Node000035_Node000037" title=" " alt="" coords="2820,1044,2763,1069,2697,1095,2657,1106,2655,1101,2695,1089,2761,1064,2818,1039"/>
+<area shape="rect" id="Node000038" href="$group__session__internal.html#ga2f455ec1572982a5ae404beac0cfbd53" title="Notify session transport has just connected and CSM exchange can now start." alt="" coords="2504,953,2685,978"/>
+<area shape="poly" id="edge44_Node000035_Node000038" title=" " alt="" coords="2786,1010,2653,981,2654,975,2787,1004"/>
+<area shape="rect" id="Node000040" href="$group__dtls__internal.html#ga429233d1be917c4f121a0e0771a98c5a" title="Layer function interface for layer below TLS accept/connect being established." alt="" coords="2523,1153,2666,1178"/>
+<area shape="poly" id="edge46_Node000035_Node000040" title=" " alt="" coords="2835,1047,2775,1096,2737,1122,2697,1144,2666,1155,2664,1150,2695,1139,2735,1117,2772,1092,2832,1043"/>
+<area shape="rect" id="Node000041" href="$coap__net_8c.html#ac4cbcfd073489b57805db665ce3d0681" title=" " alt="" coords="2529,801,2661,826"/>
+<area shape="poly" id="edge47_Node000035_Node000041" title=" " alt="" coords="2829,1004,2610,828,2614,824,2833,999"/>
+<area shape="rect" id="Node000039" href="$group__session__internal.html#ga8188aaad0d95aaaa7f517c5b0baffc27" title="Layer function interface for layer below session accept/connect being established." alt="" coords="2271,927,2445,953"/>
+<area shape="poly" id="edge45_Node000038_Node000039" title=" " alt="" coords="2490,957,2445,952,2446,947,2491,952"/>
+<area shape="poly" id="edge48_Node000041_Node000028" title=" " alt="" coords="2522,798,2492,784,2450,751,2414,714,2366,651,2370,647,2418,710,2454,747,2495,779,2524,794"/>
+<area shape="poly" id="edge50_Node000042_Node000042" title=" " alt="" coords="3175,1196,3163,1187,3131,1183,3106,1185,3092,1190,3089,1196,3096,1203,3092,1206,3084,1196,3088,1186,3104,1180,3131,1178,3165,1182,3178,1191"/>
+<area shape="poly" id="edge51_Node000042_Node000043" title=" " alt="" coords="3057,1231,3023,1245,2875,1382,2872,1378,3020,1240,3055,1227"/>
+<area shape="rect" id="Node000044" href="$group__context.html#ga76bf8288b83c57bcd32d8c292d4e999b" title="CoAP stack context must be released with coap_free_context()." alt="" coords="2523,1355,2666,1381"/>
+<area shape="poly" id="edge52_Node000043_Node000044" title=" " alt="" coords="2760,1387,2666,1377,2667,1372,2761,1381"/>
+<area shape="rect" id="Node000045" href="$group__context.html#ga1ab369ca0a3c4fe7f8a9e0536346ff71" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="2523,1405,2666,1430"/>
+<area shape="poly" id="edge53_Node000043_Node000045" title=" " alt="" coords="2761,1405,2667,1414,2666,1408,2760,1400"/>
+<area shape="poly" id="edge57_Node000047_Node000002" title=" " alt="" coords="2817,290,2779,265,2742,232,2726,205,2720,179,2713,155,2694,133,2674,120,2676,116,2698,129,2717,153,2725,178,2731,203,2746,229,2782,261,2820,285"/>
+<area shape="poly" id="edge60_Node000048_Node000008" title=" " alt="" coords="3030,884,3023,890,3008,908,3000,927,2998,966,2996,1007,2989,1028,2975,1050,2943,1085,2913,1111,2883,1131,2852,1145,2783,1168,2697,1193,2488,1259,2403,1281,2322,1297,2240,1308,2152,1315,1933,1320,1253,1320,1204,1316,1158,1303,1114,1283,1074,1257,1036,1226,1000,1191,938,1113,887,1032,848,955,803,850,808,848,853,953,892,1029,943,1110,1004,1188,1039,1222,1077,1253,1117,1278,1160,1298,1205,1310,1253,1315,1933,1315,2151,1310,2239,1303,2321,1292,2401,1276,2487,1253,2695,1188,2782,1162,2850,1140,2880,1126,2910,1107,2940,1081,2971,1046,2984,1026,2991,1006,2992,966,2995,926,3003,906,3019,886,3027,880"/>
+<area shape="poly" id="edge59_Node000048_Node000026" title=" " alt="" coords="3082,848,2893,777,2895,772,3084,843"/>
+<area shape="poly" id="edge61_Node000048_Node000028" title=" " alt="" coords="3068,881,2953,901,2882,909,2804,912,2724,908,2643,897,2565,875,2492,841,2465,821,2440,797,2402,742,2376,689,2361,650,2366,648,2381,687,2407,740,2445,794,2468,817,2495,836,2567,870,2645,891,2725,903,2804,906,2881,903,2952,896,3067,876"/>
+<area shape="poly" id="edge63_Node000048_Node000039" title=" " alt="" coords="3041,882,3023,890,3009,901,3000,913,2990,925,2974,935,2904,940,2762,943,2446,943,2446,938,2762,937,2904,935,2973,929,2987,921,2996,909,3005,897,3020,886,3039,877"/>
+<area shape="poly" id="edge64_Node000048_Node000041" title=" " alt="" coords="3026,858,2744,833,2660,824,2661,819,2744,828,3026,852"/>
+<area shape="poly" id="edge62_Node000048_Node000047" title=" " alt="" coords="3120,837,3036,547,2971,334,2949,319,2922,311,2923,306,2951,315,2975,330,3041,546,3125,836"/>
+<area shape="poly" id="edge67_Node000049_Node000001" title=" " alt="" coords="3172,1282,3295,1330,3378,1356,3471,1376,3569,1388,3669,1388,3718,1381,3766,1370,3812,1354,3856,1332,3901,1303,3942,1268,3979,1229,4013,1187,4072,1097,4119,1003,4156,912,4182,830,4209,723,4214,724,4187,832,4161,913,4124,1005,4077,1099,4018,1191,3983,1233,3945,1272,3904,1307,3859,1337,3814,1359,3767,1376,3719,1387,3669,1393,3569,1394,3470,1382,3377,1361,3293,1336,3170,1287"/>
+<area shape="poly" id="edge69_Node000050_Node000004" title=" " alt="" coords="1609,643,1598,635,1564,598,1536,555,1514,509,1497,463,1476,378,1468,320,1473,319,1481,377,1502,461,1518,507,1540,553,1568,595,1602,631,1612,639"/>
+<area shape="poly" id="edge70_Node000050_Node000032" title=" " alt="" coords="1609,651,1538,643,1539,638,1609,645"/>
+<area shape="rect" id="Node000052" href="$group__context__internal.html#ga7d1802ed0aab8ba0b1e00f81c15869bd" title="Sends a CoAP message to given peer." alt="" coords="3299,445,3447,470"/>
+<area shape="poly" id="edge77_Node000051_Node000052" title=" " alt="" coords="3701,570,3674,563,3525,514,3408,473,3410,468,3527,509,3675,557,3702,565"/>
+<area shape="rect" id="Node000064" href="$coap__net_8c.html#a0c600aed61c8a8402d31ef795df3b0b6" title=" " alt="" coords="3504,445,3627,470"/>
+<area shape="poly" id="edge98_Node000051_Node000064" title=" " alt="" coords="3687,569,3673,562,3642,541,3614,516,3575,472,3578,468,3618,512,3646,537,3676,558,3689,564"/>
+<area shape="poly" id="edge85_Node000052_Node000009" title=" " alt="" coords="3343,438,3296,405,3240,372,3149,330,3070,300,2998,280,2929,267,2859,261,2783,258,2596,259,1027,259,956,266,886,287,819,317,757,353,703,391,656,429,594,485,591,481,653,425,699,387,754,349,816,312,884,282,955,261,1027,253,2596,253,2783,253,2859,256,2930,262,3000,275,3072,295,3151,325,3243,367,3299,400,3346,434"/>
+<area shape="poly" id="edge80_Node000052_Node000028" title=" " alt="" coords="3342,480,3296,505,3242,528,3126,560,3006,585,2885,604,2769,618,2562,634,2416,638,2415,633,2562,628,2768,613,2885,599,3005,579,3125,554,3240,523,3294,501,3339,475"/>
+<area shape="poly" id="edge97_Node000052_Node000041" title=" " alt="" coords="3354,482,3306,531,3276,557,3243,580,3172,617,3110,642,3053,659,2998,671,2885,694,2820,712,2745,740,2676,772,2619,803,2617,798,2673,768,2743,735,2818,707,2883,689,2997,665,3052,653,3108,637,3170,612,3240,575,3273,553,3303,527,3350,479"/>
+<area shape="rect" id="Node000053" href="$coap__net_8c.html#ad02a6d6c0f94ef455980d531575d1d0c" title=" " alt="" coords="2527,547,2663,573"/>
+<area shape="poly" id="edge78_Node000052_Node000053" title=" " alt="" coords="3295,475,3242,485,3108,510,2974,529,2806,547,2663,558,2663,553,2806,542,2973,524,3107,504,3241,480,3294,470"/>
+<area shape="rect" id="Node000054" href="$group__app__io__internal.html#gaedffdc1b9bbfb21551df55b94f85abc2" title="Sends an ACK message with code 0 for the specified request to dst." alt="" coords="3057,145,3205,170"/>
+<area shape="poly" id="edge81_Node000052_Node000054" title=" " alt="" coords="3364,432,3351,379,3328,312,3311,277,3291,243,3268,212,3240,185,3223,174,3205,167,3207,162,3226,170,3243,181,3272,208,3296,240,3316,274,3333,310,3357,378,3369,431"/>
+<area shape="rect" id="Node000056" href="$group__app__io__internal.html#ga5e79981fe16b1e1797a7a8828f7e4c67" title="Sends an error response with code code for request request to dst." alt="" coords="3053,194,3209,219"/>
+<area shape="poly" id="edge83_Node000052_Node000056" title=" " alt="" coords="3353,435,3305,367,3239,291,3193,252,3151,222,3154,217,3197,248,3243,287,3309,364,3358,432"/>
+<area shape="rect" id="Node000058" href="$group__app__io__internal.html#ga3744d7f959bb156cae5d54245f1c45cc" title="Helper function to create and send a message with type (usually ACK or RST)." alt="" coords="3021,445,3241,470"/>
+<area shape="poly" id="edge86_Node000052_Node000058" title=" " alt="" coords="3285,460,3242,460,3242,455,3285,455"/>
+<area shape="rect" id="Node000062" href="$group__session__internal.html#gab183485c5c8d0f885301de696dbcb81f" title="Send a ping message for the session." alt="" coords="2754,94,2963,119"/>
+<area shape="poly" id="edge94_Node000052_Node000062" title=" " alt="" coords="3367,431,3359,368,3338,286,3322,244,3300,203,3273,166,3240,135,3202,113,3160,98,3116,88,3071,84,2985,86,2914,97,2914,91,2985,81,3071,79,3117,83,3161,93,3204,108,3243,131,3277,163,3305,200,3327,242,3343,285,3364,367,3372,431"/>
+<area shape="poly" id="edge79_Node000053_Node000028" title=" " alt="" coords="2541,579,2494,595,2399,626,2397,621,2493,589,2540,574"/>
+<area shape="rect" id="Node000055" href="$group__context.html#gaa8bf7fff6570e697ab8fde44b1494188" title="Sends an ACK message with code 0 for the specified request to dst." alt="" coords="2798,143,2919,169"/>
+<area shape="poly" id="edge82_Node000054_Node000055" title=" " alt="" coords="3044,160,2920,159,2920,154,3044,154"/>
+<area shape="rect" id="Node000057" href="$group__context.html#ga2f0229683b791653fa5fe76c6ddd2480" title="Sends an error response with code code for request request to dst." alt="" coords="2794,193,2923,218"/>
+<area shape="poly" id="edge84_Node000056_Node000057" title=" " alt="" coords="3039,209,2923,208,2923,203,3039,204"/>
+<area shape="poly" id="edge87_Node000058_Node000028" title=" " alt="" coords="3043,475,2974,485,2900,493,2837,495,2728,493,2677,495,2623,501,2563,515,2494,538,2457,557,2423,581,2373,625,2370,621,2420,577,2455,553,2492,534,2562,510,2622,496,2677,489,2728,488,2837,489,2900,487,2973,480,3042,470"/>
+<area shape="rect" id="Node000059" href="$group__context.html#gac68d72211553efa6073656a98fb6082f" title="Helper function to create and send a message with type (usually ACK or RST)." alt="" coords="2762,343,2955,369"/>
+<area shape="poly" id="edge88_Node000058_Node000059" title=" " alt="" coords="3091,441,2972,391,2910,371,2911,366,2974,385,3093,436"/>
+<area shape="rect" id="Node000060" href="$group__app__io__internal.html#ga21da56be4e4ff935d98d612687da3906" title="Sends an RST message with code 0 for the specified request to dst." alt="" coords="2787,445,2930,470"/>
+<area shape="poly" id="edge89_Node000058_Node000060" title=" " alt="" coords="3008,460,2930,460,2930,455,3008,455"/>
+<area shape="poly" id="edge91_Node000060_Node000028" title=" " alt="" coords="2774,451,2710,450,2638,454,2564,468,2529,479,2495,493,2452,522,2415,559,2387,596,2369,624,2364,622,2383,593,2411,555,2448,518,2492,488,2527,474,2563,462,2638,449,2710,444,2774,446"/>
+<area shape="poly" id="edge92_Node000060_Node000029" title=" " alt="" coords="2780,443,2743,428,2728,417,2719,405,2709,395,2695,386,2640,370,2596,366,2550,373,2494,387,2442,403,2390,425,2295,477,2216,529,2165,568,2162,563,2213,524,2292,472,2388,420,2440,398,2493,381,2549,367,2596,361,2641,365,2697,382,2713,391,2723,402,2732,413,2745,423,2782,438"/>
+<area shape="poly" id="edge90_Node000060_Node000053" title=" " alt="" coords="2813,478,2630,550,2628,545,2811,473"/>
+<area shape="rect" id="Node000061" href="$group__context.html#gac99d938651883bcccc22d74848ed11a3" title="Sends an RST message with code 0 for the specified request to dst." alt="" coords="2537,395,2652,421"/>
+<area shape="poly" id="edge93_Node000060_Node000061" title=" " alt="" coords="2776,445,2652,421,2653,416,2777,439"/>
+<area shape="poly" id="edge95_Node000062_Node000002" title=" " alt="" coords="2740,109,2682,108,2682,103,2740,103"/>
+<area shape="rect" id="Node000063" href="$coap__session_8c.html#a716505ac437c82bbf210c3d0feb5c8d2" title="Send a ping message for the session." alt="" coords="2503,142,2686,167"/>
+<area shape="poly" id="edge96_Node000062_Node000063" title=" " alt="" coords="2776,124,2666,145,2665,139,2775,119"/>
+<area shape="poly" id="edge99_Node000064_Node000047" title=" " alt="" coords="3509,443,3387,408,3241,372,3068,340,2922,318,2923,312,3069,334,3242,367,3388,403,3510,438"/>
+<area shape="poly" id="edge100_Node000064_Node000052" title=" " alt="" coords="3490,460,3447,460,3447,455,3490,455"/>
+</map>

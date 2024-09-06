@@ -1,0 +1,14 @@
+<map id="oscore_recipient_ctx_t" name="oscore_recipient_ctx_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,125,173,150"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="188,127,196,131,200,138,192,146,174,150,173,145,189,142,195,137,193,135,186,132"/>
+<area shape="rect" id="Node000002" href="$structoscore__ctx__t.html" title=" " alt="" coords="248,229,352,255"/>
+<area shape="poly" id="edge7_Node000002_Node000001" title=" " alt="" coords="90,164,93,185,103,203,126,216,163,225,248,235,248,241,162,230,124,221,99,207,88,187,85,164"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="268,224,209,193,117,152,119,148,212,188,270,220"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="367,233,379,242,370,250,353,253,352,247,368,245,373,242,364,238"/>
+<area shape="rect" id="Node000003" href="$structcoap__bin__const__t.html" title="CoAP binary data definition with const data." alt="" coords="275,5,410,31"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="291,37,237,57,165,94,109,127,106,122,162,89,235,52,289,32"/>
+<area shape="poly" id="edge4_Node000002_Node000003" title=" " alt="" coords="340,45,305,230,300,229,335,44"/>
+<area shape="rect" id="Node000004" href="$structoscore__sender__ctx__t.html" title=" " alt="" coords="460,125,615,150"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="375,35,519,122,517,127,372,40"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="499,158,328,232,326,227,497,153"/>
+</map>

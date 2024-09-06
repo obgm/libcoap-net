@@ -1,0 +1,13 @@
+<map id="coap_session_set_non_timeout" name="coap_session_set_non_timeout">
+<area shape="rect" id="Node000001" title="Set the CoAP non timeout delay timeout." alt="" coords="5,47,172,87"/>
+<area shape="rect" id="Node000002" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="220,55,353,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,65,206,65,206,70,172,70"/>
+<area shape="rect" id="Node000003" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="407,29,534,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,56,393,50,394,55,354,61"/>
+<area shape="rect" id="Node000006" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="401,79,540,104"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="354,73,388,78,387,83,353,79"/>
+<area shape="rect" id="Node000004" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="588,5,760,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="534,32,574,27,575,32,535,37"/>
+<area shape="rect" id="Node000005" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="601,55,747,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="535,47,588,54,587,59,534,53"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="coap_new_uri" name="coap_new_uri">
+<area shape="rect" id="Node000001" title="Creates a new coap_uri_t object from the specified URI." alt="" coords="5,55,116,80"/>
+<area shape="rect" id="Node000002" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="173,5,295,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,52,175,32,176,37,107,57"/>
+<area shape="rect" id="Node000003" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="164,55,304,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="116,65,150,65,150,70,116,70"/>
+<area shape="rect" id="Node000004" href="$group__uri__parse.html#ga9b19917fbf64f3a35a52d31ae5f6f76c" title="Parses a given string into URI components." alt="" coords="178,104,290,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="107,77,176,98,175,103,105,83"/>
+<area shape="rect" id="Node000005" href="$coap__uri_8c.html#a8890896e5d2defbaa2558aaea33b4c8a" title=" " alt="" coords="352,104,495,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="290,114,338,114,338,119,290,119"/>
+<area shape="rect" id="Node000006" href="$group__supported.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available." alt="" coords="543,5,717,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="440,102,484,71,542,40,560,32,562,37,544,44,487,75,443,106"/>
+<area shape="rect" id="Node000007" href="$group__supported.html#ga2d25d72f564c765b85708b26ee01e27e" title="Check whether TCP is available." alt="" coords="545,55,715,80"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="477,101,562,81,563,86,478,107"/>
+<area shape="rect" id="Node000008" href="$group__supported.html#ga55b3b545f0784c7a6135021017317e1b" title="Check whether TLS is available." alt="" coords="547,104,713,129"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="495,114,533,114,533,119,495,119"/>
+<area shape="rect" id="Node000009" href="$group__supported.html#ga85ebb276d1475de14d90e103b255c749" title="Check whether WebSockets is available." alt="" coords="546,153,714,179"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="478,127,563,147,562,153,477,132"/>
+<area shape="rect" id="Node000010" href="$group__supported.html#gae3150f4272480b18b3771e6b6465624e" title="Check whether Secure WebSockets is available." alt="" coords="543,203,717,228"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="443,127,488,157,544,188,565,196,563,201,542,192,485,162,440,132"/>
+</map>

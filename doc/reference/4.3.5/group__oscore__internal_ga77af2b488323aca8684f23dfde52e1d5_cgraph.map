@@ -1,0 +1,69 @@
+<map id="oscore_update_ctx" name="oscore_update_ctx">
+<area shape="rect" id="Node000001" title="oscore_update_ctx &#45; update a osc_ctx with a new id_context" alt="" coords="5,231,149,256"/>
+<area shape="rect" id="Node000002" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="883,5,1053,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,228,196,190,319,142,415,108,514,79,642,51,760,33,869,22,869,27,760,39,643,57,515,84,417,113,321,147,198,195,108,233"/>
+<area shape="rect" id="Node000004" href="$group__string.html#ga4e3228c6c1e0890252d2b917896702e4" title="Take the specified byte array (text) and create a coap_str_const_t *." alt="" coords="197,255,360,280"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,249,184,253,184,259,150,255"/>
+<area shape="rect" id="Node000005" href="$oscore__context_8c.html#a5dd2a845d237fab6455e841459932301" title=" " alt="" coords="211,205,346,231"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="149,232,197,226,198,231,150,237"/>
+<area shape="rect" id="Node000023" href="$oscore__context_8c.html#a51ce2071ef56d9cd7972f27fe64d187f" title=" " alt="" coords="205,452,353,477"/>
+<area shape="poly" id="edge31_Node000001_Node000023" title=" " alt="" coords="92,255,258,440,254,443,89,258"/>
+<area shape="rect" id="Node000003" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="1132,31,1255,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1054,25,1119,32,1118,38,1053,30"/>
+<area shape="rect" id="Node000006" href="$group__string.html#ga50cf7197e1bcb325d3ee9f4a04a56996" title="Take the specified byte array (text) and create a coap_bin_const_t * Returns a new const binary objec..." alt="" coords="423,205,579,231"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="346,215,409,215,409,221,346,221"/>
+<area shape="rect" id="Node000009" href="$oscore__context_8c.html#aca737c5710662b7acd7699622a8e2846" title=" " alt="" coords="445,304,558,329"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="329,228,361,240,419,267,469,295,466,299,416,272,359,244,327,233"/>
+<area shape="rect" id="Node000017" href="$group__oscore__internal.html#ga8c3d06ba7e0c3457ec6211848d180879" title="Derive the key using HKDF() function." alt="" coords="451,132,552,157"/>
+<area shape="poly" id="edge19_Node000005_Node000017" title=" " alt="" coords="317,203,448,159,450,164,319,208"/>
+<area shape="rect" id="Node000007" href="$group__string.html#ga9862b1ade5e6e2eb01aabd0fa98b63e1" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="663,205,794,231"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="579,215,649,215,649,221,579,221"/>
+<area shape="rect" id="Node000008" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="898,205,1038,231"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="794,215,884,215,884,221,794,221"/>
+<area shape="rect" id="Node000010" href="$group__oscore__cbor__internal.html#gae8bbc18aeabe6d51af22d14e6173cfcb" title=" " alt="" coords="644,304,813,329"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="558,314,630,314,630,319,558,319"/>
+<area shape="rect" id="Node000011" href="$group__oscore__cbor__internal.html#gab2b2acacb1b2fbf82de02ce4a4d05306" title=" " alt="" coords="871,377,1065,403"/>
+<area shape="poly" id="edge18_Node000009_Node000011" title=" " alt="" coords="538,327,568,342,597,363,612,384,619,404,627,422,644,437,680,452,719,458,759,458,798,452,872,431,930,406,932,411,874,436,799,457,759,463,719,463,679,457,641,442,622,425,614,406,607,386,593,367,565,347,536,332"/>
+<area shape="rect" id="Node000013" href="$group__oscore__cbor__internal.html#gab522fc54802924a45f07ccdc67ebe759" title=" " alt="" coords="643,353,814,379"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="559,326,657,348,656,353,558,331"/>
+<area shape="rect" id="Node000014" href="$group__oscore__cbor__internal.html#ga811ae8a85ef85408a783aedd97457864" title=" " alt="" coords="653,255,804,280"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="558,302,656,280,657,286,559,307"/>
+<area shape="rect" id="Node000016" href="$group__oscore__cbor__internal.html#ga33220964133ed4909c8327b9b0b31868" title=" " alt="" coords="648,403,809,428"/>
+<area shape="poly" id="edge16_Node000009_Node000016" title=" " alt="" coords="529,327,596,362,644,388,667,396,665,401,642,392,593,367,526,332"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="777,327,815,338,917,370,915,375,814,343,775,332"/>
+<area shape="rect" id="Node000012" href="$oscore__cbor_8c.html#aba97ba36fc049fca79bd25b249ecc931" title=" " alt="" coords="1158,377,1229,403"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1066,387,1144,387,1144,393,1066,393"/>
+<area shape="poly" id="edge13_Node000013_Node000011" title=" " alt="" coords="814,372,857,376,856,381,814,377"/>
+<area shape="rect" id="Node000015" href="$oscore__cbor_8c.html#aa95dafdd02a221b90c7e7d2fc8fc35ec" title=" " alt="" coords="909,255,1027,280"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="804,265,895,265,895,270,804,270"/>
+<area shape="poly" id="edge17_Node000016_Node000011" title=" " alt="" coords="809,404,857,399,857,404,810,409"/>
+<area shape="poly" id="edge20_Node000017_Node000002" title=" " alt="" coords="534,129,642,91,772,57,889,31,890,36,773,62,643,97,535,134"/>
+<area shape="rect" id="Node000018" href="$group__oscore__internal.html#ga1ece7d2248316e24d4f1f1b2294020be" title="Derive the key using HKDF&#45;Expand() function." alt="" coords="651,107,807,132"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="552,136,636,127,637,132,553,142"/>
+<area shape="rect" id="Node000022" href="$group__oscore__internal.html#gaeca991078cf405f7dac0a983f567fb8d" title="Derive the pseudorandom key using HKDF&#45;Extract() function." alt="" coords="651,156,806,181"/>
+<area shape="poly" id="edge28_Node000017_Node000022" title=" " alt="" coords="553,147,638,156,637,162,552,153"/>
+<area shape="poly" id="edge22_Node000018_Node000002" title=" " alt="" coords="770,104,813,85,837,66,861,48,898,32,900,37,864,52,840,70,816,90,772,109"/>
+<area shape="poly" id="edge23_Node000018_Node000003" title=" " alt="" coords="794,104,862,91,1118,51,1119,57,863,97,795,109"/>
+<area shape="poly" id="edge24_Node000018_Node000008" title=" " alt="" coords="791,130,816,141,831,154,841,167,850,179,864,190,886,200,884,205,861,195,846,183,836,170,828,157,813,146,789,134"/>
+<area shape="rect" id="Node000019" href="$group__oscore__cose__internal.html#ga7e3201d1da7b81e97022f664ec0ad42f" title=" " alt="" coords="863,156,1073,181"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="791,129,893,151,892,156,790,135"/>
+<area shape="rect" id="Node000020" href="$group__oscore__internal.html#gabbb735a64e3b568f67b8a22c14656cae" title="Derive the hmac hash using HMAC&#45;HASH() function." alt="" coords="895,107,1041,132"/>
+<area shape="poly" id="edge26_Node000018_Node000020" title=" " alt="" coords="807,117,881,117,881,122,807,122"/>
+<area shape="rect" id="Node000021" href="$group__crypto__internal.html#ga0aa162d904e3f3376605490593db87fb" title="Create a HMAC hash of the provided data." alt="" coords="1121,107,1265,132"/>
+<area shape="poly" id="edge27_Node000020_Node000021" title=" " alt="" coords="1042,117,1108,117,1108,122,1042,122"/>
+<area shape="poly" id="edge29_Node000022_Node000019" title=" " alt="" coords="806,166,849,166,849,171,806,171"/>
+<area shape="poly" id="edge30_Node000022_Node000020" title=" " alt="" coords="790,153,892,132,893,137,791,159"/>
+<area shape="rect" id="Node000024" href="$group__logging.html#ga10c3fbd56b0eb3a8722b27a65fc9b0ce" title="Get the current logging level." alt="" coords="655,504,802,529"/>
+<area shape="poly" id="edge32_Node000023_Node000024" title=" " alt="" coords="353,470,642,504,641,509,353,476"/>
+<area shape="rect" id="Node000025" href="$group__oscore__cose__internal.html#ga6fae5cf0910dfaea25728ba9998a7dc9" title=" " alt="" coords="426,577,577,603"/>
+<area shape="poly" id="edge33_Node000023_Node000025" title=" " alt="" coords="294,475,342,518,375,542,409,562,428,570,426,575,407,567,372,546,339,522,291,479"/>
+<area shape="rect" id="Node000026" href="$group__oscore__cose__internal.html#ga1dfbe43a087cca73cc5d30330ec0c30a" title=" " alt="" coords="408,377,595,403"/>
+<area shape="poly" id="edge34_Node000023_Node000026" title=" " alt="" coords="308,449,407,411,433,404,434,409,409,417,310,454"/>
+<area shape="rect" id="Node000027" href="$group__oscore__internal.html#ga9333d6a2964e7a5daa3bed7a8e69d4c8" title=" " alt="" coords="416,427,587,452"/>
+<area shape="poly" id="edge35_Node000023_Node000027" title=" " alt="" coords="353,454,402,448,402,453,354,459"/>
+<area shape="rect" id="Node000028" href="$group__oscore__internal.html#gab2d37fe626ea8df2d772b49b0782af60" title=" " alt="" coords="418,528,585,553"/>
+<area shape="poly" id="edge36_Node000023_Node000028" title=" " alt="" coords="318,475,451,521,449,526,316,480"/>
+<area shape="poly" id="edge37_Node000028_Node000024" title=" " alt="" coords="585,529,641,523,642,528,585,535"/>
+<area shape="rect" id="Node000029" href="$group__oscore__internal.html#ga128f951701c2f5e26658600c9c3be9a4" title=" " alt="" coords="643,553,815,579"/>
+<area shape="poly" id="edge38_Node000028_Node000029" title=" " alt="" coords="585,547,629,552,629,558,585,553"/>
+</map>

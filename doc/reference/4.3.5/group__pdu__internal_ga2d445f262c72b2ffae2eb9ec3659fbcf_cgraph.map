@@ -1,0 +1,14 @@
+<map id="coap_update_token" name="coap_update_token">
+<area shape="rect" id="Node000001" title="Updates token in pdu with length len and data." alt="" coords="5,56,153,81"/>
+<area shape="rect" id="Node000002" href="$group__pdu.html#ga923f81168ccbbaac1a4ca50837d7be94" title="Adds token of length len to pdu." alt="" coords="233,5,360,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,53,228,31,229,36,135,58"/>
+<area shape="rect" id="Node000003" href="$group__pdu__internal.html#gad741bcd3525c8d24389e4604c1cacb50" title="Dynamically grows the size of pdu to new_size if needed." alt="" coords="440,31,615,56"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="154,62,426,46,427,52,154,67"/>
+<area shape="rect" id="Node000006" href="$group__pdu__internal.html#gab5e81fe5717f977c62b7ef427d946c35" title="Compose the protocol specific header for the specified PDU." alt="" coords="201,107,392,132"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="135,79,229,101,228,106,134,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,22,426,30,426,35,360,28"/>
+<area shape="rect" id="Node000004" href="$group__pdu__internal.html#gadd46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size." alt="" coords="663,31,793,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="615,41,648,41,648,46,615,46"/>
+<area shape="rect" id="Node000005" href="$coap__mem_8h.html#a7f7999876af136d327a5689d26ed8e77" title="Reallocates a chunk p of bytes created by coap_malloc_type() or coap_realloc_type() and returns a poi..." alt="" coords="841,31,981,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="794,41,828,41,828,46,794,46"/>
+</map>

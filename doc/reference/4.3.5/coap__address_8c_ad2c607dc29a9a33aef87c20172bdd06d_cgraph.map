@@ -1,0 +1,7 @@
+<map id="update_coap_addr_port" name="update_coap_addr_port">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,180,31"/>
+<area shape="rect" id="Node000002" href="$coap__address_8c.html#af074e389a057dde48a62725e63b442e1" title=" " alt="" coords="228,5,328,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,15,214,15,214,21,181,21"/>
+<area shape="rect" id="Node000003" href="$coap__address_8c.html#a15c4882bf12507e6b42ea1567b46abac" title="Set the port field of addr to port (in host byte order)." alt="" coords="376,5,547,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,15,362,15,362,21,328,21"/>
+</map>

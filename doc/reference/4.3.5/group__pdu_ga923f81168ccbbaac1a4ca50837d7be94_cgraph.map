@@ -1,0 +1,9 @@
+<map id="coap_add_token" name="coap_add_token">
+<area shape="rect" id="Node000001" title="Adds token of length len to pdu." alt="" coords="5,5,132,31"/>
+<area shape="rect" id="Node000002" href="$group__pdu__internal.html#gad741bcd3525c8d24389e4604c1cacb50" title="Dynamically grows the size of pdu to new_size if needed." alt="" coords="180,5,355,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,15,166,15,166,21,132,21"/>
+<area shape="rect" id="Node000003" href="$group__pdu__internal.html#gadd46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size." alt="" coords="403,5,533,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,15,388,15,388,21,355,21"/>
+<area shape="rect" id="Node000004" href="$coap__mem_8h.html#a7f7999876af136d327a5689d26ed8e77" title="Reallocates a chunk p of bytes created by coap_malloc_type() or coap_realloc_type() and returns a poi..." alt="" coords="581,5,721,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="534,15,568,15,568,21,534,21"/>
+</map>

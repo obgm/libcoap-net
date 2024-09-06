@@ -1,0 +1,16 @@
+<map id="oscore_log_context" name="oscore_log_context">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,82,153,107"/>
+<area shape="rect" id="Node000002" href="$group__logging.html#ga10c3fbd56b0eb3a8722b27a65fc9b0ce" title="Get the current logging level." alt="" coords="449,57,595,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,79,139,46,169,30,201,17,252,6,294,3,336,8,389,17,439,31,484,48,482,53,437,36,387,22,335,13,294,8,253,11,202,22,171,34,142,51,97,84"/>
+<area shape="rect" id="Node000003" href="$group__oscore__cose__internal.html#ga6fae5cf0910dfaea25728ba9998a7dc9" title=" " alt="" coords="219,33,370,58"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,79,225,58,226,64,136,84"/>
+<area shape="rect" id="Node000004" href="$group__oscore__cose__internal.html#ga1dfbe43a087cca73cc5d30330ec0c30a" title=" " alt="" coords="201,82,388,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,92,188,92,188,97,154,97"/>
+<area shape="rect" id="Node000005" href="$group__oscore__internal.html#ga9333d6a2964e7a5daa3bed7a8e69d4c8" title=" " alt="" coords="209,131,380,157"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="136,105,226,125,225,131,135,110"/>
+<area shape="rect" id="Node000006" href="$group__oscore__internal.html#gab2d37fe626ea8df2d772b49b0782af60" title=" " alt="" coords="211,181,378,206"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="99,105,145,136,202,167,222,174,220,179,200,172,142,140,96,110"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="358,178,387,167,448,129,496,89,499,93,451,133,389,172,360,183"/>
+<area shape="rect" id="Node000007" href="$group__oscore__internal.html#ga128f951701c2f5e26658600c9c3be9a4" title=" " alt="" coords="436,181,608,206"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="378,191,422,191,422,196,378,196"/>
+</map>

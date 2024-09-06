@@ -1,0 +1,9 @@
+<map id="oscore_hkdf_extract" name="oscore_hkdf_extract">
+<area shape="rect" id="Node000001" title="Derive the pseudorandom key using HKDF&#45;Extract() function." alt="" coords="5,31,160,56"/>
+<area shape="rect" id="Node000002" href="$group__oscore__cose__internal.html#ga7e3201d1da7b81e97022f664ec0ad42f" title=" " alt="" coords="208,5,419,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,32,194,28,195,34,161,37"/>
+<area shape="rect" id="Node000003" href="$group__oscore__internal.html#gabbb735a64e3b568f67b8a22c14656cae" title="Derive the hmac hash using HMAC&#45;HASH() function." alt="" coords="240,55,387,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,49,227,56,226,61,160,54"/>
+<area shape="rect" id="Node000004" href="$group__crypto__internal.html#ga0aa162d904e3f3376605490593db87fb" title="Create a HMAC hash of the provided data." alt="" coords="467,55,611,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="387,65,453,65,453,70,387,70"/>
+</map>

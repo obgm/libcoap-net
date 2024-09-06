@@ -1,0 +1,21 @@
+<map id="get_asn1_spki" name="get_asn1_spki">
+<area shape="rect" id="Node000001" title="Abstract SPKI public key from the ASN1." alt="" coords="5,56,120,81"/>
+<area shape="rect" id="Node000002" href="$group__string.html#ga5881b7726f26833abb90e30bd23730af" title="Deletes the given coap_binary_t object and releases any memory allocated." alt="" coords="168,5,317,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,53,183,32,184,37,109,58"/>
+<area shape="rect" id="Node000004" href="$group__string.html#ga4ddcb94c1d26bd87a5ed1af801f35793" title="Returns a new binary object with at least size bytes storage allocated." alt="" coords="365,63,500,88"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,67,352,71,352,77,120,72"/>
+<area shape="rect" id="Node000007" href="$group__asn1.html#ga2651414d8dfa01e3dca3ca076730bdfd" title="Get the asn1 tag and data from the current ptr." alt="" coords="188,131,297,156"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="96,79,200,123,198,128,93,84"/>
+<area shape="rect" id="Node000003" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="371,5,494,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,15,358,15,358,21,318,21"/>
+<area shape="rect" id="Node000005" href="$group__string.html#ga9862b1ade5e6e2eb01aabd0fa98b63e1" title="Returns a new string object with at least size+1 bytes storage allocated." alt="" coords="548,63,679,88"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="500,73,534,73,534,78,500,78"/>
+<area shape="rect" id="Node000006" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="727,63,867,88"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="679,73,713,73,713,78,679,78"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="278,128,383,90,384,95,280,133"/>
+<area shape="poly" id="edge10_Node000007_Node000007" title=" " alt="" coords="213,132,207,122,210,113,222,106,243,104,267,108,278,116,274,120,265,112,243,109,224,111,214,116,212,122,217,129"/>
+<area shape="rect" id="Node000008" href="$group__asn1.html#gab0b2cdf4081790ee762743d5557c2706" title="Get the asn1 length from the current ptr." alt="" coords="393,124,473,149"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="298,139,379,136,379,141,298,144"/>
+<area shape="rect" id="Node000009" href="$group__asn1.html#ga3ae904a62e7e1d1326b61a04d1de1333" title="Get the asn1 tag from the current ptr." alt="" coords="385,173,480,199"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="298,153,373,170,371,175,297,158"/>
+</map>

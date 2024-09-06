@@ -1,0 +1,5 @@
+<map id="coap_pdu_parse_size" name="coap_pdu_parse_size">
+<area shape="rect" id="Node000001" title="Parses data to extract the message size." alt="" coords="5,5,165,31"/>
+<area shape="rect" id="Node000002" href="$group__pdu__internal.html#ga53c48f11ca3bc0d2106bd8b76f7430c8" title="Interprets data to determine the number of bytes in the header." alt="" coords="213,5,425,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,15,200,15,200,21,166,21"/>
+</map>

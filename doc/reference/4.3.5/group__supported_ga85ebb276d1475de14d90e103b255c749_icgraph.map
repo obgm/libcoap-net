@@ -1,0 +1,21 @@
+<map id="coap_ws_is_supported" name="coap_ws_is_supported">
+<area shape="rect" id="Node000001" title="Check whether WebSockets is available." alt="" coords="665,95,833,121"/>
+<area shape="rect" id="Node000002" href="$coap__address_8c.html#aadfc53e241992612829ccf86d8adeb38" title="Determine and set up scheme_hint_bits for a server that can be used in a call to coap_resolve_address..." alt="" coords="455,5,603,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="702,93,616,60,584,48,586,43,618,55,704,88"/>
+<area shape="rect" id="Node000003" href="$coap__uri_8c.html#a8890896e5d2defbaa2558aaea33b4c8a" title=" " alt="" coords="458,70,601,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="651,99,601,93,601,88,652,94"/>
+<area shape="rect" id="Node000008" href="$group__logging.html#ga4a9140f2423b4970123d795f547b6a93" title="Build a string containing the current (D)TLS library support." alt="" coords="441,119,617,145"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="652,121,618,125,617,120,652,116"/>
+<area shape="rect" id="Node000009" href="$coap__address_8c.html#af3db00d9975b12f9453af5594b3565d9" title=" " alt="" coords="455,169,604,194"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="705,128,618,160,580,171,579,166,616,155,703,123"/>
+<area shape="rect" id="Node000004" href="$group__uri__parse.html#gaa86cf4fdd1773d3b4270daac72ba9eba" title="Parses a given string into URI components." alt="" coords="216,46,372,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="444,77,372,69,372,64,444,71"/>
+<area shape="rect" id="Node000006" href="$group__uri__parse.html#ga9b19917fbf64f3a35a52d31ae5f6f76c" title="Parses a given string into URI components." alt="" coords="238,95,350,121"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="444,94,350,105,350,99,444,89"/>
+<area shape="rect" id="Node000005" href="$group__uri__parse.html#ga11d902f573bcfee188d5ccd4903d0393" title="Extract uri_path string from request PDU." alt="" coords="5,46,147,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,61,147,61,147,56,202,56"/>
+<area shape="rect" id="Node000007" href="$coap__uri_8c.html#aee99e6e8fd8df58150ec10e66c8dc265" title="Creates a new coap_uri_t object from the specified URI." alt="" coords="21,95,131,121"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="224,111,131,111,131,105,224,105"/>
+<area shape="rect" id="Node000010" href="$coap__address_8c.html#ab03b6dbb9be4439180ba52717d14c5d9" title="Resolve the specified address into a set of coap_address_t that can be used to bind() (local) or conn..." alt="" coords="195,169,393,194"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="441,184,394,184,394,179,441,179"/>
+</map>

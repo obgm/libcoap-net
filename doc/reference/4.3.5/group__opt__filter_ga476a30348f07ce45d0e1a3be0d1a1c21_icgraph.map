@@ -1,0 +1,11 @@
+<map id="coap_delete_optlist" name="coap_delete_optlist">
+<area shape="rect" id="Node000001" title="Removes all entries from the optlist_chain, freeing off their memory usage." alt="" coords="804,5,953,31"/>
+<area shape="rect" id="Node000002" href="$coap__uri_8c.html#a26ae67837ad541c4b7024fee7b385fbf" title=" " alt="" coords="640,5,756,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="790,21,756,21,756,15,790,15"/>
+<area shape="rect" id="Node000003" href="$group__uri__parse.html#gaa1f8397b1e5830cdfb011b455c6cab9e" title="Splits the given URI path into &#39;/&#39; separate segments, and then adds the Uri&#45;Path / Location&#45;Path opti..." alt="" coords="423,5,592,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="626,21,592,21,592,15,626,15"/>
+<area shape="rect" id="Node000004" href="$group__uri__parse.html#gabf8a2fac8b3f1ff3ba9a6d145e9ff7f9" title="Takes a coap_uri_t and then adds CoAP options into the optlist_chain." alt="" coords="217,5,375,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="409,21,375,21,375,15,409,15"/>
+<area shape="rect" id="Node000005" href="$coap__uri_8c.html#a216bce778869f5863264fc3c2498c2ed" title=" " alt="" coords="5,5,169,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="203,21,169,21,169,15,203,15"/>
+</map>

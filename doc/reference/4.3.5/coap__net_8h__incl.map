@@ -1,0 +1,55 @@
+<map id="coap_net.h" name="coap_net.h">
+<area shape="rect" id="Node000001" title="CoAP context interface." alt="" coords="458,5,551,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,76,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="458,28,297,50,96,81,91,82,90,77,95,76,297,44,458,23"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="185,445,256,471"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="458,29,361,47,248,77,197,95,155,116,127,139,119,151,117,164,117,312,124,350,144,384,169,412,194,435,191,439,165,416,139,387,119,352,111,313,111,163,114,149,123,136,152,111,194,90,246,72,360,42,457,24"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="662,79,753,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="538,28,663,72,661,77,536,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="777,79,841,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="552,27,764,76,763,81,551,32"/>
+<area shape="rect" id="Node000006" href="$coap__io_8h.html" title="Default network I/O functions." alt="" coords="503,79,587,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="514,30,534,65,529,68,509,32"/>
+<area shape="rect" id="Node000014" href="$coap__pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP." alt="" coords="349,225,487,251"/>
+<area shape="poly" id="edge28_Node000001_Node000014" title=" " alt="" coords="502,32,430,213,425,211,498,30"/>
+<area shape="rect" id="Node000018" href="$coap__dtls_8h.html" title="CoAP DTLS support." alt="" coords="229,225,325,251"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="477,33,438,51,392,78,345,112,306,154,290,183,283,212,277,211,285,181,301,150,342,108,389,73,436,47,475,28"/>
+<area shape="rect" id="Node000020" href="$coap__event_8h.html" title="Event handling." alt="" coords="774,152,883,177"/>
+<area shape="poly" id="edge26_Node000001_Node000020" title=" " alt="" coords="523,28,579,63,651,102,714,126,774,146,772,151,712,131,649,106,576,68,520,33"/>
+<area shape="rect" id="Node000021" href="$coap__session_8h.html" title="Defines the application visible session information." alt="" coords="865,79,987,104"/>
+<area shape="poly" id="edge29_Node000001_Node000021" title=" " alt="" coords="552,25,852,75,851,80,551,30"/>
+<area shape="rect" id="Node000022" href="$coap__debug_8h.html" title="CoAP Logging support." alt="" coords="315,152,427,177"/>
+<area shape="poly" id="edge30_Node000001_Node000022" title=" " alt="" coords="495,33,448,80,392,143,388,140,444,77,491,29"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="511,225,607,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="549,104,559,211,554,212,543,105"/>
+<area shape="rect" id="Node000008" href="$coap__address_8h.html" title="Representation of network addresses." alt="" coords="583,152,706,177"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="562,102,619,142,616,146,559,106"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="650,177,656,211,654,251,637,305,613,343,578,373,528,400,461,425,391,442,325,452,270,457,270,452,324,447,390,437,459,420,526,395,575,369,609,340,633,303,649,250,650,211,645,178"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="633,179,585,219,582,214,629,175"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="733,225,807,251"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="666,175,739,216,736,221,663,180"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="445,372,516,397"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="646,178,632,246,616,288,591,326,561,351,528,369,525,364,558,346,587,322,611,285,627,244,641,177"/>
+<area shape="rect" id="Node000011" href="$libcoap_8h.html" title="Platform specific header file for CoAP stack." alt="" coords="832,225,913,251"/>
+<area shape="poly" id="edge12_Node000008_Node000011" title=" " alt="" coords="682,175,823,219,822,224,681,180"/>
+<area shape="poly" id="edge15_Node000008_Node000014" title=" " alt="" coords="609,180,469,224,467,219,607,175"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="778,299,874,324"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="867,252,843,289,839,286,863,250"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="899,299,1001,324"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="887,249,929,287,925,291,883,253"/>
+<area shape="poly" id="edge21_Node000014_Node000010" title=" " alt="" coords="489,247,533,265,553,279,570,297,574,308,575,319,564,338,545,355,522,368,519,364,542,350,560,335,569,317,569,309,565,300,550,283,531,269,487,252"/>
+<area shape="rect" id="Node000015" href="$coap__option_8h.html" title="Helpers for handling options in CoAP PDUs." alt="" coords="443,299,556,324"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="433,249,478,288,474,292,429,253"/>
+<area shape="rect" id="Node000016" href="$coap__uri_8h.html" title="Helper functions for URI treatment." alt="" coords="203,299,292,324"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="392,253,289,296,287,291,390,248"/>
+<area shape="poly" id="edge18_Node000016_Node000010" title=" " alt="" coords="286,321,433,366,432,371,284,327"/>
+<area shape="rect" id="Node000017" href="$coap__str_8h.html" title="Strings to be used in the CoAP library." alt="" coords="177,372,265,397"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="245,325,232,360,227,358,240,323"/>
+<area shape="poly" id="edge20_Node000017_Node000003" title=" " alt="" coords="223,398,223,432,218,432,218,398"/>
+<area shape="poly" id="edge25_Node000018_Node000017" title=" " alt="" coords="249,253,217,272,203,285,192,300,188,315,190,330,205,360,200,362,185,332,183,314,188,298,199,281,214,268,246,248"/>
+<area shape="rect" id="Node000019" href="$coap__time_8h.html" title="Clock Handling." alt="" coords="316,299,419,324"/>
+<area shape="poly" id="edge23_Node000018_Node000019" title=" " alt="" coords="293,249,343,288,340,292,290,253"/>
+<area shape="poly" id="edge24_Node000019_Node000010" title=" " alt="" coords="387,322,452,362,449,367,384,326"/>
+<area shape="poly" id="edge27_Node000020_Node000011" title=" " alt="" coords="838,176,861,212,856,215,834,179"/>
+<area shape="poly" id="edge31_Node000022_Node000014" title=" " alt="" coords="381,176,405,212,401,215,377,179"/>
+</map>

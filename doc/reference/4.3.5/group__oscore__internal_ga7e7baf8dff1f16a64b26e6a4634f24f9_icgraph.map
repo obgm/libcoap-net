@@ -1,0 +1,9 @@
+<map id="oscore_free_context" name="oscore_free_context">
+<area shape="rect" id="Node000001" title=" " alt="" coords="232,55,387,80"/>
+<area shape="rect" id="Node000002" href="$group__oscore__internal.html#gac1dcb68cfe7c74e017f67ad7c085a492" title="oscore_duplicate_ctx &#45; duplicate a osc_ctx" alt="" coords="15,5,174,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,54,150,33,151,28,241,49"/>
+<area shape="rect" id="Node000003" href="$group__oscore__internal.html#gaadd1fd06c38b0d5e893198c8f4bb9927" title=" " alt="" coords="14,55,175,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,70,176,70,176,65,218,65"/>
+<area shape="rect" id="Node000004" href="$group__oscore__internal.html#gaca16b3dac592f173f42f61e359d55804" title=" " alt="" coords="5,104,184,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,86,151,107,150,101,239,81"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="coap_register_option_lkd" name="coap_register_option_lkd">
+<area shape="rect" id="Node000001" title="Registers the option type type with the given context object ctx." alt="" coords="212,5,397,31"/>
+<area shape="rect" id="Node000002" href="$group__context.html#gaa091c301910c95e4b5bd39843b841611" title="Registers the option type type with the given context object ctx." alt="" coords="5,5,164,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,21,164,21,164,15,198,15"/>
+</map>

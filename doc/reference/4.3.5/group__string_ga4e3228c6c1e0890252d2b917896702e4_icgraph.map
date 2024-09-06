@@ -1,0 +1,13 @@
+<map id="coap_make_str_const" name="coap_make_str_const">
+<area shape="rect" id="Node000001" title="Take the specified byte array (text) and create a coap_str_const_t *." alt="" coords="420,55,583,80"/>
+<area shape="rect" id="Node000002" href="$group__oscore__internal.html#ga28cf1e32f7d4f13cd4f25aca27169580" title="oscore_add_recipient &#45; add in recipient information" alt="" coords="212,29,372,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,58,372,54,373,49,407,53"/>
+<area shape="rect" id="Node000003" href="$group__oscore__internal.html#ga8636deef153df3f5c67fba15ff3893c0" title="oscore_derive_ctx &#45; derive a osc_ctx from oscore_conf information" alt="" coords="15,5,155,31"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="463,51,420,33,371,19,315,12,258,9,155,13,155,8,258,4,316,6,373,14,421,28,465,46"/>
+<area shape="rect" id="Node000004" href="$group__oscore__internal.html#gac1dcb68cfe7c74e017f67ad7c085a492" title="oscore_duplicate_ctx &#45; duplicate a osc_ctx" alt="" coords="5,55,164,80"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="406,70,164,70,164,65,406,65"/>
+<area shape="rect" id="Node000005" href="$group__oscore__internal.html#ga77af2b488323aca8684f23dfde52e1d5" title="oscore_update_ctx &#45; update a osc_ctx with a new id_context" alt="" coords="220,131,364,156"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="454,87,329,133,327,128,452,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,34,155,29,155,23,199,29"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="199,56,165,60,164,55,198,51"/>
+</map>

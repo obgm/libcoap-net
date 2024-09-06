@@ -1,0 +1,7 @@
+<map id="coap_uri_scheme_is_secure" name="coap_uri_scheme_is_secure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="423,5,576,45"/>
+<area shape="rect" id="Node000002" href="$group__uri__parse.html#gabf8a2fac8b3f1ff3ba9a6d145e9ff7f9" title="Takes a coap_uri_t and then adds CoAP options into the optlist_chain." alt="" coords="217,13,375,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,28,375,28,375,23,409,23"/>
+<area shape="rect" id="Node000003" href="$coap__uri_8c.html#a216bce778869f5863264fc3c2498c2ed" title=" " alt="" coords="5,13,169,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,28,169,28,169,23,203,23"/>
+</map>

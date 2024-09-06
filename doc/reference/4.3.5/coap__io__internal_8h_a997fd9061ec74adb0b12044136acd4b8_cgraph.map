@@ -1,0 +1,9 @@
+<map id="coap_update_io_timer" name="coap_update_io_timer">
+<area shape="rect" id="Node000001" title="Update when to continue with I/O processing, unless packets come in in the meantime." alt="" coords="5,38,172,63"/>
+<area shape="rect" id="Node000002" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="220,13,377,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,38,206,34,207,39,173,43"/>
+<area shape="rect" id="Node000004" href="$group__context.html#ga757eecd5cda6e32472313df73a9297fd" title="Returns the current value of an internal tick counter." alt="" coords="253,62,344,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,58,240,65,239,71,172,63"/>
+<area shape="rect" id="Node000003" href="$coap__io_8c.html#a198ae48fdbe1762be87328d3a5f5f4b2" title=" " alt="" coords="425,5,579,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,23,412,23,412,28,378,28"/>
+</map>

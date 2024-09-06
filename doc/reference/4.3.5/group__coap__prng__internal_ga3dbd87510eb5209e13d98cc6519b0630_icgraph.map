@@ -1,0 +1,9 @@
+<map id="coap_prng_init_lkd" name="coap_prng_init_lkd">
+<area shape="rect" id="Node000001" title="Seeds the default random number generation function with the given seed." alt="" coords="361,31,505,56"/>
+<area shape="rect" id="Node000002" href="$group__coap__prng.html#gafa541dd8dabe967c27029951dabd103d" title="Seeds the default random number generation function with the given seed." alt="" coords="196,5,313,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,34,313,29,314,24,348,29"/>
+<area shape="rect" id="Node000003" href="$coap__net_8c.html#aceceb550566e0ab9e184d09604a73bb6" title=" " alt="" coords="201,55,308,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="348,57,309,63,308,58,347,52"/>
+<area shape="rect" id="Node000004" href="$group__context.html#ga1ab369ca0a3c4fe7f8a9e0536346ff71" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,55,148,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="188,70,148,70,148,65,188,65"/>
+</map>

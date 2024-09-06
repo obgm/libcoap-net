@@ -1,0 +1,13 @@
+<map id="dots" name="dots">
+<area shape="rect" id="Node000001" title="Checks if path segment s consists of one or two dots." alt="" coords="640,31,691,56"/>
+<area shape="rect" id="Node000002" href="$group__uri__parse.html#gaa1f8397b1e5830cdfb011b455c6cab9e" title="Splits the given URI path into &#39;/&#39; separate segments, and then adds the Uri&#45;Path / Location&#45;Path opti..." alt="" coords="423,5,592,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="626,40,586,33,587,28,627,35"/>
+<area shape="rect" id="Node000005" href="$coap__uri_8c.html#a825961ade7510ed5224963d091d8bb85" title="Splits the given string into segments." alt="" coords="427,55,587,80"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="627,52,588,58,587,53,626,47"/>
+<area shape="rect" id="Node000003" href="$group__uri__parse.html#gabf8a2fac8b3f1ff3ba9a6d145e9ff7f9" title="Takes a coap_uri_t and then adds CoAP options into the optlist_chain." alt="" coords="217,5,375,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="409,21,375,21,375,15,409,15"/>
+<area shape="rect" id="Node000004" href="$coap__uri_8c.html#a216bce778869f5863264fc3c2498c2ed" title=" " alt="" coords="5,5,169,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,21,169,21,169,15,203,15"/>
+<area shape="rect" id="Node000006" href="$group__uri__parse.html#ga32b971413cf0360cba4c277b1d063510" title="Splits the given URI path into segments." alt="" coords="234,55,358,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="414,70,358,70,358,65,414,65"/>
+</map>

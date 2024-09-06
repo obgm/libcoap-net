@@ -1,0 +1,17 @@
+<map id="coap_socket_recv" name="coap_socket_recv">
+<area shape="rect" id="Node000001" title="Function interface for reading data." alt="" coords="5,108,143,133"/>
+<area shape="rect" id="Node000002" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="203,79,336,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,108,189,101,189,106,143,113"/>
+<area shape="rect" id="Node000007" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="191,132,348,157"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="143,126,177,131,177,136,142,132"/>
+<area shape="rect" id="Node000003" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="409,29,536,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,76,406,55,407,61,323,81"/>
+<area shape="rect" id="Node000006" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="403,79,542,104"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="336,89,390,89,390,94,336,94"/>
+<area shape="rect" id="Node000004" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="597,5,769,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="536,32,584,27,584,32,537,37"/>
+<area shape="rect" id="Node000005" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="611,55,756,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="537,47,597,54,596,60,536,52"/>
+<area shape="rect" id="Node000008" href="$coap__io_8c.html#a198ae48fdbe1762be87328d3a5f5f4b2" title=" " alt="" coords="396,129,549,169"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="348,144,382,144,382,150,348,149"/>
+</map>

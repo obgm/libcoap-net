@@ -1,0 +1,12 @@
+<map id="coap_address_init" name="coap_address_init">
+<area shape="rect" id="Node000001" title="Resets the given coap_address_t object addr to its default values." alt="" coords="473,70,612,95"/>
+<area shape="rect" id="Node000002" href="$coap__address_8c.html#a1d2393f9e84cdf76dfdc1343f7f0d3be" title="Copy the parsed unix domain host into coap_address_t structure translating %2F into / on the way." alt="" coords="252,5,425,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="483,69,410,48,411,43,484,64"/>
+<area shape="rect" id="Node000004" href="$coap__session_8c.html#abbced7fe52bfe180c6eb29d8df385954" title=" " alt="" coords="263,70,415,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="460,85,415,85,415,80,460,80"/>
+<area shape="rect" id="Node000005" href="$coap__address_8c.html#af3db00d9975b12f9453af5594b3565d9" title=" " alt="" coords="264,119,413,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="477,101,393,122,391,117,476,96"/>
+<area shape="rect" id="Node000003" href="$coap__address_8c.html#ab03b6dbb9be4439180ba52717d14c5d9" title="Resolve the specified address into a set of coap_address_t that can be used to bind() (local) or conn..." alt="" coords="5,66,204,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,51,162,69,160,63,238,46"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="268,119,160,94,162,89,269,114"/>
+</map>

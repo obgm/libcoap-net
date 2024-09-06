@@ -1,0 +1,13 @@
+<map id="coap_remove_from_queue" name="coap_remove_from_queue">
+<area shape="rect" id="Node000001" title="This function removes the element with given id from the list given list." alt="" coords="5,55,200,80"/>
+<area shape="rect" id="Node000002" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="248,55,381,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,65,234,65,234,70,200,70"/>
+<area shape="rect" id="Node000003" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="435,29,562,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,56,421,50,422,55,382,61"/>
+<area shape="rect" id="Node000006" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="429,79,568,104"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="382,73,416,78,415,83,381,79"/>
+<area shape="rect" id="Node000004" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="616,5,788,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="562,32,602,27,603,32,563,37"/>
+<area shape="rect" id="Node000005" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="629,55,775,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="563,47,616,54,615,59,562,53"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="oscore_hmac_hash" name="oscore_hmac_hash">
+<area shape="rect" id="Node000001" title="Derive the hmac hash using HMAC&#45;HASH() function." alt="" coords="5,5,152,31"/>
+<area shape="rect" id="Node000002" href="$group__crypto__internal.html#ga0aa162d904e3f3376605490593db87fb" title="Create a HMAC hash of the provided data." alt="" coords="200,5,344,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,15,186,15,186,21,152,21"/>
+</map>

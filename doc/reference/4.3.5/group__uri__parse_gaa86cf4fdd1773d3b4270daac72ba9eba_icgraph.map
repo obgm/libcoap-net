@@ -1,0 +1,5 @@
+<map id="coap_split_proxy_uri" name="coap_split_proxy_uri">
+<area shape="rect" id="Node000001" title="Parses a given string into URI components." alt="" coords="195,5,351,31"/>
+<area shape="rect" id="Node000002" href="$group__uri__parse.html#ga11d902f573bcfee188d5ccd4903d0393" title="Extract uri_path string from request PDU." alt="" coords="5,5,147,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,21,147,21,147,15,181,15"/>
+</map>

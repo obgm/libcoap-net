@@ -1,0 +1,7 @@
+<map id="coap_pdu_duplicate_lkd" name="coap_pdu_duplicate_lkd">
+<area shape="rect" id="Node000001" title="Duplicate an existing PDU." alt="" coords="233,31,412,56"/>
+<area shape="rect" id="Node000002" href="$group__pdu.html#ga4d2b83e4f9e5264ac3c065b0cff03395" title="Duplicate an existing PDU." alt="" coords="20,5,171,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,35,170,29,171,24,220,29"/>
+<area shape="rect" id="Node000003" href="$group__oscore__internal.html#ga8cf885624714b9a4705974adf2629cb2" title=" " alt="" coords="5,55,185,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,57,186,60,185,55,220,52"/>
+</map>

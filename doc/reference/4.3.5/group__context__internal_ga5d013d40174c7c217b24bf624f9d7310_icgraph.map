@@ -1,0 +1,21 @@
+<map id="coap_client_delay_first" name="coap_client_delay_first">
+<area shape="rect" id="Node000001" title="Delay the sending of the first client request until some other negotiation has completed." alt="" coords="715,56,885,81"/>
+<area shape="rect" id="Node000002" href="$group__app__io__internal.html#gae138b6aba5c244fb8e582e63615f5112" title="Sends a CoAP message to given peer." alt="" coords="519,16,638,41"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="715,56,638,42,639,37,716,51"/>
+<area shape="rect" id="Node000004" href="$group__session__internal.html#gab00aa6136bf734263db0dec5360a9798" title="Get maximum acceptable PDU size." alt="" coords="491,77,667,117"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="701,84,667,88,667,83,700,79"/>
+<area shape="rect" id="Node000003" href="$group__context.html#ga1c3d60f40aa03a974b4472951abae1f0" title="Sends a CoAP message to given peer." alt="" coords="293,5,383,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="505,28,383,23,384,17,506,23"/>
+<area shape="rect" id="Node000005" href="$group__pdu__internal.html#ga5b11b2f0af35b0ef48a06a781893dc8d" title="Creates a new CoAP PDU." alt="" coords="265,55,411,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="476,87,410,79,411,73,477,82"/>
+<area shape="rect" id="Node000007" href="$group__pdu__internal.html#gabfad643886d38578860d06a9ade5caf8" title="Duplicate an existing PDU." alt="" coords="249,104,427,129"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="477,108,428,112,427,107,477,102"/>
+<area shape="rect" id="Node000010" href="$group__session.html#gae5a6b848046e0f3ae3b1d0b055bce60f" title="Get maximum acceptable PDU size." alt="" coords="233,153,443,179"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="507,124,443,143,395,156,394,151,442,138,505,118"/>
+<area shape="rect" id="Node000006" href="$group__pdu.html#gac2580e04276e6b66390a66f559c3452d" title="Creates a new CoAP PDU." alt="" coords="36,55,155,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="252,70,155,70,155,65,252,65"/>
+<area shape="rect" id="Node000008" href="$group__pdu.html#ga4d2b83e4f9e5264ac3c065b0cff03395" title="Duplicate an existing PDU." alt="" coords="20,104,171,129"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="235,119,171,119,171,114,235,114"/>
+<area shape="rect" id="Node000009" href="$group__oscore__internal.html#ga8cf885624714b9a4705974adf2629cb2" title=" " alt="" coords="5,153,185,179"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="262,135,159,156,158,151,261,129"/>
+</map>

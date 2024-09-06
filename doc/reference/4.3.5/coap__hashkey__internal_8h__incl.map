@@ -1,0 +1,15 @@
+<map id="coap_hashkey_internal.h" name="coap_hashkey_internal.h">
+<area shape="rect" id="Node000001" title="Definition of hash key type and helper functions." alt="" coords="175,5,358,31"/>
+<area shape="rect" id="Node000002" href="$libcoap_8h.html" title="Platform specific header file for CoAP stack." alt="" coords="74,79,155,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,33,153,75,151,70,241,28"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="180,79,353,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="269,31,269,65,264,65,264,31"/>
+<area shape="rect" id="Node000006" href="$coap__str_8h.html" title="Strings to be used in the CoAP library." alt="" coords="377,79,465,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="293,28,385,70,383,75,290,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,101,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,106,74,143,70,140,103,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="126,152,229,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="127,103,160,140,156,143,123,106"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="386,152,457,177"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="424,104,424,138,419,138,419,104"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="coap_dtls_shutdown" name="coap_dtls_shutdown">
+<area shape="rect" id="Node000001" title="Close down the underlying (D)TLS Library layer." alt="" coords="5,5,160,31"/>
+<area shape="rect" id="Node000002" href="$group__logging.html#ga91263d96a2e1ae98aa7916e906bacdec" title="Sets the (D)TLS logging level to the specified level." alt="" coords="208,5,385,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,15,194,15,194,21,160,21"/>
+</map>

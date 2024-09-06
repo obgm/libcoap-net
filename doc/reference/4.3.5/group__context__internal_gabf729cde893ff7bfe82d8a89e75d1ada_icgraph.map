@@ -1,0 +1,5 @@
+<map id="coap_context_set_pki_root_cas_lkd" name="coap_context_set_pki_root_cas_lkd">
+<area shape="rect" id="Node000001" title="Set the context&#39;s default Root CA information for a client or server." alt="" coords="216,5,379,45"/>
+<area shape="rect" id="Node000002" href="$group__context.html#ga87a6eacb086b2b7e95f9801e30e31eee" title="Set the context&#39;s default Root CA information for a client or server." alt="" coords="5,5,168,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,28,168,28,168,23,202,23"/>
+</map>

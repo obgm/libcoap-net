@@ -1,0 +1,5 @@
+<map id="coap_free" name="coap_free">
+<area shape="rect" id="Node000001" title="Wrapper function to coap_free_type() for backwards compatibility." alt="" coords="5,5,92,31"/>
+<area shape="rect" id="Node000002" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="140,5,263,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,15,126,15,126,21,92,21"/>
+</map>

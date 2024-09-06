@@ -1,0 +1,9 @@
+<map id="coap_handle_event" name="coap_handle_event">
+<area shape="rect" id="Node000001" title="Invokes the event handler of context for the given event and data." alt="" coords="5,31,153,56"/>
+<area shape="rect" id="Node000002" href="$group__context__internal.html#ga04d740d543aecc9947d417fecfac434d" title="Invokes the event handler of context for the given event and data." alt="" coords="201,31,376,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,41,188,41,188,46,154,46"/>
+<area shape="rect" id="Node000003" href="$coap__net_8c.html#a63049ac044a8d4c446ca4f057637890e" title=" " alt="" coords="471,5,612,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,32,457,24,457,29,376,37"/>
+<area shape="rect" id="Node000004" href="$group__Proxy.html#gac1f3d71ffdbf6f119f997df0acd3f7e7" title=" " alt="" coords="424,55,659,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="376,49,410,52,410,58,376,54"/>
+</map>

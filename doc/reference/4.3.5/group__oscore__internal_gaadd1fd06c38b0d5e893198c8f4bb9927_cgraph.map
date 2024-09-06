@@ -1,0 +1,14 @@
+<map id="oscore_free_contexts" name="oscore_free_contexts">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,167,53"/>
+<area shape="rect" id="Node000002" href="$group__oscore__internal.html#ga7e7baf8dff1f16a64b26e6a4634f24f9" title=" " alt="" coords="215,27,369,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,37,201,37,201,43,167,43"/>
+<area shape="rect" id="Node000003" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="628,27,799,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="370,37,614,37,614,43,370,43"/>
+<area shape="rect" id="Node000004" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="847,27,969,53"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="368,25,417,19,608,4,692,4,799,13,847,22,846,27,798,19,692,10,608,9,418,24,368,30"/>
+<area shape="rect" id="Node000005" href="$oscore__context_8c.html#a57f44a2f5848c4badcbab9c2b232dff6" title=" " alt="" coords="417,78,580,103"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="345,50,434,72,432,77,344,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="799,37,832,37,832,43,799,43"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="553,75,645,53,646,58,554,81"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="580,84,684,77,798,63,845,53,847,59,799,68,685,82,580,90"/>
+</map>

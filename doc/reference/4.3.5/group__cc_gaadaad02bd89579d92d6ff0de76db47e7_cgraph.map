@@ -1,0 +1,13 @@
+<map id="coap_session_set_nstart" name="coap_session_set_nstart">
+<area shape="rect" id="Node000001" title="Set the CoAP maximum concurrent transmission count of Confirmable messages RFC7252 NSTART." alt="" coords="5,55,187,80"/>
+<area shape="rect" id="Node000002" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="235,55,368,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,65,221,65,221,70,187,70"/>
+<area shape="rect" id="Node000003" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="422,29,549,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,56,408,50,408,55,369,61"/>
+<area shape="rect" id="Node000006" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="416,79,555,104"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="368,73,403,78,402,83,368,79"/>
+<area shape="rect" id="Node000004" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="603,5,775,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="549,32,589,27,589,32,549,37"/>
+<area shape="rect" id="Node000005" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="616,55,761,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="549,47,603,54,602,59,549,53"/>
+</map>

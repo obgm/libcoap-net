@@ -1,0 +1,9 @@
+<map id="coap_uri.h" name="coap_uri.h">
+<area shape="rect" id="Node000001" title="Helper functions for URI treatment." alt="" coords="48,5,137,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,76,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,33,59,69,55,66,82,29"/>
+<area shape="rect" id="Node000003" href="$coap__str_8h.html" title="Strings to be used in the CoAP library." alt="" coords="101,79,189,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="103,29,130,66,126,69,99,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="109,152,180,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,104,147,138,142,138,142,104"/>
+</map>

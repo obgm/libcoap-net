@@ -1,0 +1,16 @@
+<map id="coap_new_binary" name="coap_new_binary">
+<area shape="rect" id="Node000001" title="Returns a new binary object with at least size bytes storage allocated." alt="" coords="435,121,569,146"/>
+<area shape="rect" id="Node000002" href="$coap__block_8c.html#a7ac9ac5682c27cf4b80b8e1bb28c330c" title=" " alt="" coords="227,5,387,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="468,115,385,66,350,48,352,43,388,62,471,111"/>
+<area shape="rect" id="Node000003" href="$group__block.html#gaf7f4a656ce3911d46e03504b503643d6" title="Re&#45;assemble payloads into a body." alt="" coords="5,95,179,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="441,120,386,111,279,105,179,106,179,100,279,99,387,105,442,115"/>
+<area shape="rect" id="Node000004" href="$group__string.html#ga529215b162db2045c934c3cea1c17e60" title="Resizes the given coap_binary_t object." alt="" coords="233,121,380,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="421,136,380,136,380,131,421,131"/>
+<area shape="rect" id="Node000005" href="$group__asn1.html#gad0d58908b4c2fa51f1a80f323bb49612" title="Abstract SPKI public key from the ASN1." alt="" coords="35,209,149,234"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="429,152,150,212,149,207,428,146"/>
+<area shape="rect" id="Node000006" href="$group__asn1.html#ga2651414d8dfa01e3dca3ca076730bdfd" title="Get the asn1 tag and data from the current ptr." alt="" coords="252,246,361,271"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="471,156,329,248,326,244,468,151"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="219,126,179,121,179,116,220,120"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="238,250,149,234,150,229,239,244"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="341,236,331,228,307,225,286,227,275,231,273,237,279,244,275,247,268,238,271,228,285,222,307,219,333,223,345,232"/>
+</map>

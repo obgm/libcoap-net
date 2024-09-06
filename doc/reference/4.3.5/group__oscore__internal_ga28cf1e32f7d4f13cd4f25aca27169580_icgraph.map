@@ -1,0 +1,7 @@
+<map id="oscore_add_recipient" name="oscore_add_recipient">
+<area shape="rect" id="Node000001" title="oscore_add_recipient &#45; add in recipient information" alt="" coords="212,31,372,56"/>
+<area shape="rect" id="Node000002" href="$group__oscore__internal.html#ga8636deef153df3f5c67fba15ff3893c0" title="oscore_derive_ctx &#45; derive a osc_ctx from oscore_conf information" alt="" coords="15,5,155,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,35,155,29,155,24,199,29"/>
+<area shape="rect" id="Node000003" href="$group__oscore__internal.html#gac1dcb68cfe7c74e017f67ad7c085a492" title="oscore_duplicate_ctx &#45; duplicate a osc_ctx" alt="" coords="5,55,164,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,57,165,61,164,56,198,52"/>
+</map>

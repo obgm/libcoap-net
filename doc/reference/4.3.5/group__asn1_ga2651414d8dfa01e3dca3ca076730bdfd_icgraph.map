@@ -1,0 +1,6 @@
+<map id="get_asn1_tag" name="get_asn1_tag">
+<area shape="rect" id="Node000001" title="Get the asn1 tag and data from the current ptr." alt="" coords="168,29,277,55"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="251,19,242,11,223,8,206,10,197,15,195,20,200,28,196,31,190,21,193,11,204,5,223,3,245,6,254,15"/>
+<area shape="rect" id="Node000002" href="$group__asn1.html#gad0d58908b4c2fa51f1a80f323bb49612" title="Abstract SPKI public key from the ASN1." alt="" coords="5,29,120,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,45,120,45,120,39,154,39"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="coap_crypto_param_t" name="coap_crypto_param_t">
+<area shape="rect" id="Node000001" title="The common structure that holds the Crypto information." alt="" coords="15,181,178,207"/>
+<area shape="rect" id="Node000002" href="$structcoap__crypto__aes__ccm__t.html" title="The structure that holds the AES Crypto information." alt="" coords="104,93,281,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,130,112,183,108,179,168,126"/>
+<area shape="rect" id="Node000003" href="$structcoap__bin__const__t.html" title="CoAP binary data definition with const data." alt="" coords="5,5,140,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="69,45,64,80,66,118,78,152,92,180,87,182,73,154,61,119,58,80,63,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,37,178,91,175,95,99,41"/>
+</map>

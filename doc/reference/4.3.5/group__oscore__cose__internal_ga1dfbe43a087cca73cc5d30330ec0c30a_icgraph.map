@@ -1,0 +1,11 @@
+<map id="cose_get_hkdf_alg_name" name="cose_get_hkdf_alg_name">
+<area shape="rect" id="Node000001" title=" " alt="" coords="408,55,595,80"/>
+<area shape="rect" id="Node000002" href="$oscore__context_8c.html#a51ce2071ef56d9cd7972f27fe64d187f" title=" " alt="" coords="212,55,360,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="394,70,360,70,360,65,394,65"/>
+<area shape="rect" id="Node000003" href="$group__oscore__internal.html#ga8636deef153df3f5c67fba15ff3893c0" title="oscore_derive_ctx &#45; derive a osc_ctx from oscore_conf information" alt="" coords="15,5,155,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,54,137,33,138,28,221,49"/>
+<area shape="rect" id="Node000004" href="$group__oscore__internal.html#gac1dcb68cfe7c74e017f67ad7c085a492" title="oscore_duplicate_ctx &#45; duplicate a osc_ctx" alt="" coords="5,55,164,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="198,70,164,70,164,65,198,65"/>
+<area shape="rect" id="Node000005" href="$group__oscore__internal.html#ga77af2b488323aca8684f23dfde52e1d5" title="oscore_update_ctx &#45; update a osc_ctx with a new id_context" alt="" coords="13,104,157,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="221,86,138,107,137,101,220,81"/>
+</map>

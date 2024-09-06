@@ -1,0 +1,5 @@
+<map id="coap_new_pdu_lkd" name="coap_new_pdu_lkd">
+<area shape="rect" id="Node000001" title="Creates a new CoAP PDU." alt="" coords="172,5,317,31"/>
+<area shape="rect" id="Node000002" href="$group__pdu.html#gac2580e04276e6b66390a66f559c3452d" title="Creates a new CoAP PDU." alt="" coords="5,5,124,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,21,124,21,124,15,158,15"/>
+</map>

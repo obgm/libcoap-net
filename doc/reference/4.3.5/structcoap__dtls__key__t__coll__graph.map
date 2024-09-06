@@ -1,0 +1,15 @@
+<map id="coap_dtls_key_t" name="coap_dtls_key_t">
+<area shape="rect" id="Node000001" title="The structure that holds the PKI key information." alt="" coords="593,104,720,129"/>
+<area shape="rect" id="Node000002" href="$structcoap__pki__key__pem__t.html" title="The structure that holds the PKI PEM definitions." alt="" coords="311,5,470,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,31,520,45,570,64,607,82,638,102,636,106,605,87,568,68,518,50,468,36"/>
+<area shape="rect" id="Node000003" href="$structcoap__pki__key__pem__buf__t.html" title="The structure that holds the PKI PEM buffer definitions." alt="" coords="297,55,484,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="490,80,570,94,604,101,603,107,569,99,489,85"/>
+<area shape="rect" id="Node000004" href="$structcoap__pki__key__asn1__t.html" title="The structure that holds the PKI ASN.1 (DER) definitions." alt="" coords="311,104,471,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="485,114,593,114,593,119,485,119"/>
+<area shape="rect" id="Node000005" href="$structcoap__pki__key__pkcs11__t.html" title="The structure that holds the PKI PKCS11 definitions." alt="" coords="303,153,478,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="489,148,569,134,603,127,604,132,570,139,490,154"/>
+<area shape="rect" id="Node000006" href="$structcoap__pki__key__define__t.html" title="The structure that holds the PKI Definable key type definitions." alt="" coords="306,203,475,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="471,197,520,184,568,166,605,147,636,127,639,132,608,152,570,171,521,189,472,202"/>
+<area shape="rect" id="Node000007" href="$unioncoap__const__char__ptr__t.html" title="CoAP union for handling signed / unsigned chars." alt="" coords="5,203,172,228"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="186,213,306,213,306,218,186,218"/>
+</map>

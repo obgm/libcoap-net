@@ -1,0 +1,15 @@
+<map id="coap_session_max_pdu_size_lkd" name="coap_session_max_pdu_size_lkd">
+<area shape="rect" id="Node000001" title="Get maximum acceptable PDU size." alt="" coords="491,47,667,87"/>
+<area shape="rect" id="Node000002" href="$group__pdu__internal.html#ga5b11b2f0af35b0ef48a06a781893dc8d" title="Creates a new CoAP PDU." alt="" coords="265,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="476,49,400,33,401,28,478,44"/>
+<area shape="rect" id="Node000004" href="$group__pdu__internal.html#gabfad643886d38578860d06a9ade5caf8" title="Duplicate an existing PDU." alt="" coords="249,55,427,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="477,70,428,70,428,65,477,65"/>
+<area shape="rect" id="Node000007" href="$group__session.html#gae5a6b848046e0f3ae3b1d0b055bce60f" title="Get maximum acceptable PDU size." alt="" coords="233,104,443,129"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="478,91,401,107,400,101,476,86"/>
+<area shape="rect" id="Node000003" href="$group__pdu.html#gac2580e04276e6b66390a66f559c3452d" title="Creates a new CoAP PDU." alt="" coords="36,5,155,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,21,155,21,155,15,252,15"/>
+<area shape="rect" id="Node000005" href="$group__pdu.html#ga4d2b83e4f9e5264ac3c065b0cff03395" title="Duplicate an existing PDU." alt="" coords="20,55,171,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="235,70,171,70,171,65,235,65"/>
+<area shape="rect" id="Node000006" href="$group__oscore__internal.html#ga8cf885624714b9a4705974adf2629cb2" title=" " alt="" coords="5,104,185,129"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="262,85,159,107,158,101,261,80"/>
+</map>

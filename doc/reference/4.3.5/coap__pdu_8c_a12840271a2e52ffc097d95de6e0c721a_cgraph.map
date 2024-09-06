@@ -1,0 +1,5 @@
+<map id="next_option_safe" name="next_option_safe">
+<area shape="rect" id="Node000001" title="Advances *optp to next option if still in PDU." alt="" coords="5,5,140,31"/>
+<area shape="rect" id="Node000002" href="$coap__option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result." alt="" coords="188,5,312,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,15,174,15,174,21,140,21"/>
+</map>

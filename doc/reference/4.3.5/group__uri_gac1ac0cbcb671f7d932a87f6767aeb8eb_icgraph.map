@@ -1,0 +1,13 @@
+<map id="coap_replace_percents" name="coap_replace_percents">
+<area shape="rect" id="Node000001" title="replace any % hex definitions with the actual character." alt="" coords="648,56,819,81"/>
+<area shape="rect" id="Node000002" href="$group__uri__parse.html#gaa1f8397b1e5830cdfb011b455c6cab9e" title="Splits the given URI path into &#39;/&#39; separate segments, and then adds the Uri&#45;Path / Location&#45;Path opti..." alt="" coords="427,5,596,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="663,55,567,33,568,28,664,50"/>
+<area shape="rect" id="Node000003" href="$group__uri__parse.html#gabf8a2fac8b3f1ff3ba9a6d145e9ff7f9" title="Takes a coap_uri_t and then adds CoAP options into the optlist_chain." alt="" coords="217,56,375,81"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="634,71,375,71,375,66,634,66"/>
+<area shape="rect" id="Node000005" href="$group__uri__parse.html#ga6453039302bb1fd6101ac54c9dae2037" title="Splits the given URI query into &#39;&amp;&#39; separate segments, and then adds the Uri&#45;Query / Location&#45;Query o..." alt="" coords="423,107,600,132"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="664,87,568,109,567,104,663,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,37,351,59,350,53,442,31"/>
+<area shape="rect" id="Node000004" href="$coap__uri_8c.html#a216bce778869f5863264fc3c2498c2ed" title=" " alt="" coords="5,56,169,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,71,169,71,169,66,203,66"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="442,106,350,84,351,79,444,101"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="coap_oscore_overhead" name="coap_oscore_overhead">
+<area shape="rect" id="Node000001" title="Determine the additional data size requirements for adding in OSCORE." alt="" coords="213,13,384,38"/>
+<area shape="rect" id="Node000002" href="$coap__block_8c.html#a7ac9ac5682c27cf4b80b8e1bb28c330c" title=" " alt="" coords="5,5,165,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,28,165,28,165,23,200,23"/>
+</map>

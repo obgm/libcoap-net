@@ -1,0 +1,5 @@
+<map id="coap_time_le" name="coap_time_le">
+<area shape="rect" id="Node000001" title="Returns 1 if and only if a is less than or equal b where less is defined on a signed data type." alt="" coords="5,5,115,31"/>
+<area shape="rect" id="Node000002" href="$group__clock.html#ga9b6406a84eca7917db0bb39cd8cb44ab" title="Returns 1 if and only if a is less than b where less is defined on a signed data type." alt="" coords="163,5,269,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,15,149,15,149,21,115,21"/>
+</map>

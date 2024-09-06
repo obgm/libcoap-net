@@ -1,0 +1,5 @@
+<map id="coap_send_lkd" name="coap_send_lkd">
+<area shape="rect" id="Node000001" title="Sends a CoAP message to given peer." alt="" coords="144,5,263,31"/>
+<area shape="rect" id="Node000002" href="$group__context.html#ga1c3d60f40aa03a974b4472951abae1f0" title="Sends a CoAP message to given peer." alt="" coords="5,5,96,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,21,96,21,96,15,130,15"/>
+</map>

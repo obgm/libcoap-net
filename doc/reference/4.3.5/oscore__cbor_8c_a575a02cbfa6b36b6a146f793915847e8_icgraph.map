@@ -1,0 +1,17 @@
+<map id="get_byte" name="get_byte">
+<area shape="rect" id="Node000001" title=" " alt="" coords="677,168,756,193"/>
+<area shape="rect" id="Node000002" href="$group__oscore__cbor__internal.html#ga91cd1cf8a776f9f27c91932da7786675" title=" " alt="" coords="465,119,629,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="663,170,629,162,630,157,664,165"/>
+<area shape="rect" id="Node000006" href="$oscore__cbor_8c.html#ad0f75cc96b866a32fc5dddfffe776310" title=" " alt="" coords="236,208,413,233"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="664,189,414,214,413,209,663,183"/>
+<area shape="rect" id="Node000003" href="$group__oscore__cbor__internal.html#gac9dae884ef48ba58e6173757c76eaa1c" title=" " alt="" coords="232,5,417,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="513,112,468,78,416,46,384,33,386,28,419,41,471,73,516,108"/>
+<area shape="rect" id="Node000004" href="$group__oscore__cbor__internal.html#ga8ceb480bb986a5e4bc80be57e98cd19d" title=" " alt="" coords="235,55,414,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="463,118,394,98,396,93,465,113"/>
+<area shape="rect" id="Node000005" href="$group__oscore__cbor__internal.html#ga521bef3bb3191547b6f0b2960dfe094a" title=" " alt="" coords="239,119,411,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="452,142,411,142,411,137,452,137"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="480,167,361,210,360,205,478,162"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="364,198,353,190,325,187,301,189,288,194,286,199,293,206,289,210,281,200,285,190,300,184,325,181,355,185,368,194"/>
+<area shape="rect" id="Node000007" href="$group__oscore__cbor__internal.html#ga5df2db1ca6eeb8ce322d9ba65a3aacce" title=" " alt="" coords="5,208,184,233"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="222,223,184,223,184,218,222,218"/>
+</map>

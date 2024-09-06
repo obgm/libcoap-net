@@ -1,0 +1,13 @@
+<map id="coap_session_set_default_leisure" name="coap_session_set_default_leisure">
+<area shape="rect" id="Node000001" title="Set the CoAP default leisure time (for multicast) RFC7252 DEFAULT_LEISURE." alt="" coords="5,47,195,87"/>
+<area shape="rect" id="Node000002" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="243,55,376,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,65,229,65,229,70,195,70"/>
+<area shape="rect" id="Node000003" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="430,29,557,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,56,416,50,416,55,377,61"/>
+<area shape="rect" id="Node000006" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="424,79,563,104"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="376,73,411,78,410,83,376,79"/>
+<area shape="rect" id="Node000004" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="611,5,783,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="557,32,597,27,597,32,557,37"/>
+<area shape="rect" id="Node000005" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="624,55,769,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="557,47,611,54,610,59,557,53"/>
+</map>

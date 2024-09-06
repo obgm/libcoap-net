@@ -1,0 +1,9 @@
+<map id="coap_host_is_unix_domain" name="coap_host_is_unix_domain">
+<area shape="rect" id="Node000001" title="Determines from the host whether this is a Unix Domain socket request." alt="" coords="464,31,661,56"/>
+<area shape="rect" id="Node000002" href="$coap__address_8c.html#ab03b6dbb9be4439180ba52717d14c5d9" title="Resolve the specified address into a set of coap_address_t that can be used to bind() (local) or conn..." alt="" coords="217,5,416,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="450,34,416,31,417,26,451,29"/>
+<area shape="rect" id="Node000003" href="$group__uri__parse.html#gabf8a2fac8b3f1ff3ba9a6d145e9ff7f9" title="Takes a coap_uri_t and then adds CoAP options into the optlist_chain." alt="" coords="238,55,395,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="451,57,396,62,395,57,450,52"/>
+<area shape="rect" id="Node000004" href="$coap__uri_8c.html#a216bce778869f5863264fc3c2498c2ed" title=" " alt="" coords="5,55,169,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="224,70,170,70,170,65,224,65"/>
+</map>

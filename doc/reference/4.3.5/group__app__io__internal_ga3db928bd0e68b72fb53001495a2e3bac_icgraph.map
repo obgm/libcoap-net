@@ -1,0 +1,5 @@
+<map id="coap_io_pending_lkd" name="coap_io_pending_lkd">
+<area shape="rect" id="Node000001" title="Check to see if there is any i/o pending for the context." alt="" coords="184,5,343,31"/>
+<area shape="rect" id="Node000002" href="$group__app__io.html#ga2023144481df2258b5947666a02ede6c" title="Check to see if there is any i/o pending for the context." alt="" coords="5,5,136,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,21,136,21,136,15,170,15"/>
+</map>

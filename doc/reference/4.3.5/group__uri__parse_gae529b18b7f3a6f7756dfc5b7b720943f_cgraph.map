@@ -1,0 +1,13 @@
+<map id="coap_split_query" name="coap_split_query">
+<area shape="rect" id="Node000001" title="Splits the given URI query into segments." alt="" coords="5,55,137,80"/>
+<area shape="rect" id="Node000002" href="$coap__uri_8c.html#a7765779604c7c1166e99179722d4bdd8" title=" " alt="" coords="185,55,288,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,65,171,65,171,70,137,70"/>
+<area shape="rect" id="Node000003" href="$coap__uri_8c.html#a9a39cbf2ed89a758ced3f9fecd125b50" title="Writes a coap option from given string s to buf." alt="" coords="336,55,504,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,65,322,65,322,70,288,70"/>
+<area shape="rect" id="Node000004" href="$coap__uri_8c.html#a5cd1953aed32e942af08e39d396fb8fd" title="Runs through the given path (or query) segment and checks if percent&#45;encodings are correct." alt="" coords="567,5,691,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="474,52,561,31,562,36,475,57"/>
+<area shape="rect" id="Node000005" href="$group__opt__filter.html#gafebbd04a7895df694a9345dad0275aeb" title="Encodes the given delta and length values into opt." alt="" coords="552,55,705,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="505,65,538,65,538,70,505,70"/>
+<area shape="rect" id="Node000006" href="$coap__uri_8c.html#a2c99e399450162db911d50c8411722ab" title="Decodes percent&#45;encoded characters while copying the string seg of size length to buf." alt="" coords="562,104,695,129"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="475,77,562,98,561,103,474,83"/>
+</map>

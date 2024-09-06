@@ -1,0 +1,19 @@
+<map id="oscore_cbor_get_element_size" name="oscore_cbor_get_element_size">
+<area shape="rect" id="Node000001" title=" " alt="" coords="497,127,720,152"/>
+<area shape="rect" id="Node000002" href="$group__oscore__cbor__internal.html#gac926bfd48028a354414f857b282efe61" title=" " alt="" coords="239,5,449,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="578,121,520,83,448,46,410,33,412,28,450,41,522,78,581,116"/>
+<area shape="rect" id="Node000003" href="$group__oscore__cbor__internal.html#ga3f2da44588217a8e1c0b33fb8a9e5f97" title=" " alt="" coords="248,55,440,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="541,126,427,98,428,93,542,121"/>
+<area shape="rect" id="Node000005" href="$group__oscore__cbor__internal.html#ga521bef3bb3191547b6f0b2960dfe094a" title=" " alt="" coords="258,119,430,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="483,142,430,142,430,137,483,137"/>
+<area shape="rect" id="Node000006" href="$group__oscore__cbor__internal.html#gac6aff3f9bd11959df0bfa57300527cf3" title=" " alt="" coords="247,183,441,223"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="542,158,428,186,427,181,541,153"/>
+<area shape="rect" id="Node000007" href="$oscore__cbor_8c.html#ad0f75cc96b866a32fc5dddfffe776310" title=" " alt="" coords="255,272,433,297"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="578,162,451,238,376,274,373,269,448,233,575,157"/>
+<area shape="rect" id="Node000004" href="$group__oscore__cbor__internal.html#gac9dae884ef48ba58e6173757c76eaa1c" title=" " alt="" coords="5,127,191,152"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="254,101,148,129,147,124,253,96"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="253,182,147,155,148,150,254,177"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="388,263,385,258,377,254,344,251,318,253,304,258,301,263,308,270,304,274,296,264,300,254,317,248,344,245,379,249,389,254,392,260"/>
+<area shape="rect" id="Node000008" href="$group__oscore__cbor__internal.html#ga5df2db1ca6eeb8ce322d9ba65a3aacce" title=" " alt="" coords="9,272,187,297"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="242,287,188,287,188,282,242,282"/>
+</map>

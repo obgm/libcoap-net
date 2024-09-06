@@ -1,0 +1,11 @@
+<map id="coap_netif_close" name="coap_netif_close">
+<area shape="rect" id="Node000001" title="Layer function interface for Netif close for a session." alt="" coords="5,31,136,56"/>
+<area shape="rect" id="Node000002" href="$group__netif__internal.html#ga92cc701e87f63539c02304e836fa6939" title="Function interface to check whether netif for session is still available." alt="" coords="184,5,341,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,32,170,28,171,33,136,37"/>
+<area shape="rect" id="Node000003" href="$coap__io_8c.html#a2de382e7795c908d1a376da8c338386d" title="Function interface to close off a socket." alt="" coords="191,55,334,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,49,177,54,177,59,136,54"/>
+<area shape="rect" id="Node000004" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="389,55,547,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="334,65,376,65,376,70,334,70"/>
+<area shape="rect" id="Node000005" href="$coap__io_8c.html#a198ae48fdbe1762be87328d3a5f5f4b2" title=" " alt="" coords="595,47,748,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="547,65,581,65,581,70,547,70"/>
+</map>

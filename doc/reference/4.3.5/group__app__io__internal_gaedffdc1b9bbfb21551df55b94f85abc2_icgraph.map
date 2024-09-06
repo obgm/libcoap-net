@@ -1,0 +1,5 @@
+<map id="coap_send_ack_lkd" name="coap_send_ack_lkd">
+<area shape="rect" id="Node000001" title="Sends an ACK message with code 0 for the specified request to dst." alt="" coords="175,5,323,31"/>
+<area shape="rect" id="Node000002" href="$group__context.html#gaa8bf7fff6570e697ab8fde44b1494188" title="Sends an ACK message with code 0 for the specified request to dst." alt="" coords="5,5,127,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,21,127,21,127,15,161,15"/>
+</map>

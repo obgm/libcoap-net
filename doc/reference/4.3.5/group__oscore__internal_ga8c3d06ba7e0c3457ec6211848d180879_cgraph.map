@@ -1,0 +1,23 @@
+<map id="oscore_hkdf" name="oscore_hkdf">
+<area shape="rect" id="Node000001" title="Derive the key using HKDF() function." alt="" coords="5,107,107,132"/>
+<area shape="rect" id="Node000002" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="379,5,549,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,104,154,91,396,31,398,37,155,97,106,109"/>
+<area shape="rect" id="Node000004" href="$group__oscore__internal.html#ga1ece7d2248316e24d4f1f1b2294020be" title="Derive the key using HKDF&#45;Expand() function." alt="" coords="155,107,311,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="107,117,141,117,141,122,107,122"/>
+<area shape="rect" id="Node000009" href="$group__oscore__internal.html#gaeca991078cf405f7dac0a983f567fb8d" title="Derive the pseudorandom key using HKDF&#45;Extract() function." alt="" coords="155,156,310,181"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="103,129,174,150,172,155,101,135"/>
+<area shape="rect" id="Node000003" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="628,31,751,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="550,25,615,32,614,38,549,30"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="253,104,300,76,358,48,400,32,402,37,360,52,302,81,255,109"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="293,104,358,91,614,51,615,56,359,97,294,109"/>
+<area shape="rect" id="Node000005" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="394,107,534,132"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="311,117,380,117,380,122,311,122"/>
+<area shape="rect" id="Node000006" href="$group__oscore__cose__internal.html#ga7e3201d1da7b81e97022f664ec0ad42f" title=" " alt="" coords="359,156,569,181"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="293,129,391,150,390,156,292,135"/>
+<area shape="rect" id="Node000007" href="$group__oscore__internal.html#gabbb735a64e3b568f67b8a22c14656cae" title="Derive the hmac hash using HMAC&#45;HASH() function." alt="" coords="391,205,537,231"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="288,130,312,141,327,154,337,168,345,180,360,192,379,200,377,205,357,196,342,184,332,171,323,158,309,146,286,134"/>
+<area shape="rect" id="Node000008" href="$group__crypto__internal.html#ga0aa162d904e3f3376605490593db87fb" title="Create a HMAC hash of the provided data." alt="" coords="617,205,761,231"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="538,215,604,215,604,221,538,221"/>
+<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="310,166,345,166,345,171,310,171"/>
+<area shape="poly" id="edge12_Node000009_Node000007" title=" " alt="" coords="293,179,391,200,390,205,292,184"/>
+</map>

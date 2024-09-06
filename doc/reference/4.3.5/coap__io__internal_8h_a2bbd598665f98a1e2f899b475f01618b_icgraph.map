@@ -1,0 +1,5 @@
+<map id="coap_socket_read" name="coap_socket_read">
+<area shape="rect" id="Node000001" title="Function interface for data stream receiving off a socket." alt="" coords="216,5,355,31"/>
+<area shape="rect" id="Node000002" href="$group__netif__internal.html#gae3dcfa82f5787098d42c8863c2b645e6" title="Function interface for layer data stream receiving." alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,21,168,21,168,15,202,15"/>
+</map>

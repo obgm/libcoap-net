@@ -1,0 +1,10 @@
+<map id="coap_socket_bind_tcp" name="coap_socket_bind_tcp">
+<area shape="rect" id="Node000001" title="Create a new TCP socket and then listen for new incoming TCP sessions." alt="" coords="5,31,169,56"/>
+<area shape="rect" id="Node000002" href="$coap__io_8c.html#a2de382e7795c908d1a376da8c338386d" title="Function interface to close off a socket." alt="" coords="217,5,360,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,30,203,26,204,31,170,36"/>
+<area shape="rect" id="Node000003" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="408,31,565,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="169,41,394,41,394,46,169,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="361,25,395,29,394,34,360,30"/>
+<area shape="rect" id="Node000004" href="$coap__io_8c.html#a198ae48fdbe1762be87328d3a5f5f4b2" title=" " alt="" coords="613,23,767,63"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="566,41,600,41,600,46,566,46"/>
+</map>

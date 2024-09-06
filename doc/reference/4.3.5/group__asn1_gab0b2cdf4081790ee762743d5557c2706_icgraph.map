@@ -1,0 +1,8 @@
+<map id="asn1_len" name="asn1_len">
+<area shape="rect" id="Node000001" title="Get the asn1 length from the current ptr." alt="" coords="325,29,405,55"/>
+<area shape="rect" id="Node000002" href="$group__asn1.html#ga2651414d8dfa01e3dca3ca076730bdfd" title="Get the asn1 tag and data from the current ptr." alt="" coords="168,29,277,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="311,45,277,45,277,39,311,39"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="247,18,240,11,223,8,208,10,201,15,199,20,203,28,199,30,194,21,196,11,206,5,223,3,242,6,251,15"/>
+<area shape="rect" id="Node000003" href="$group__asn1.html#gad0d58908b4c2fa51f1a80f323bb49612" title="Abstract SPKI public key from the ASN1." alt="" coords="5,29,120,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,45,120,45,120,39,154,39"/>
+</map>

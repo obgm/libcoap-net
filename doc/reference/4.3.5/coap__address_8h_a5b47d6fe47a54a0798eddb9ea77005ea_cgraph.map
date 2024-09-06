@@ -1,0 +1,7 @@
+<map id="coap_is_mcast" name="coap_is_mcast">
+<area shape="rect" id="Node000001" title="Checks if given address a denotes a multicast address." alt="" coords="5,5,124,31"/>
+<area shape="rect" id="Node000002" href="$coap__address_8c.html#a53db74f2c091df389aa8bbd809e098b6" title="Checks if given address a denotes a broadcast address." alt="" coords="172,5,285,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,15,158,15,158,21,124,21"/>
+<area shape="rect" id="Node000003" href="$group__context.html#ga757eecd5cda6e32472313df73a9297fd" title="Returns the current value of an internal tick counter." alt="" coords="333,5,424,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,15,319,15,319,21,286,21"/>
+</map>

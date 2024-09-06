@@ -1,0 +1,11 @@
+<map id="coap_context_set_pki_root_cas" name="coap_context_set_pki_root_cas">
+<area shape="rect" id="Node000001" title="Set the context&#39;s default Root CA information for a client or server." alt="" coords="5,63,168,103"/>
+<area shape="rect" id="Node000002" href="$group__context__internal.html#gabf729cde893ff7bfe82d8a89e75d1ada" title="Set the context&#39;s default Root CA information for a client or server." alt="" coords="216,63,379,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,80,202,80,202,85,168,85"/>
+<area shape="rect" id="Node000003" href="$coap__notls_8c.html#ab4559d423088e44600c8e338fc7da212" title=" " alt="" coords="431,5,597,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,60,424,46,426,51,374,65"/>
+<area shape="rect" id="Node000004" href="$group__supported.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available." alt="" coords="427,70,601,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="379,80,413,80,413,85,379,85"/>
+<area shape="rect" id="Node000005" href="$group__supported.html#ga55b3b545f0784c7a6135021017317e1b" title="Check whether TLS is available." alt="" coords="431,119,597,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="380,99,445,114,443,119,378,104"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="coap_get_block" name="coap_get_block">
+<area shape="rect" id="Node000001" title="Initializes block from pdu." alt="" coords="5,219,128,245"/>
+<area shape="rect" id="Node000002" href="$group__block.html#ga9791ef236293c2e629f98b2d2a7af478" title="Initializes block from pdu." alt="" coords="176,219,315,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,229,162,229,162,235,128,235"/>
+<area shape="rect" id="Node000003" href="$group__opt__filter.html#gac766f0e78b5ef3ffc8c67d993c6ca8b6" title="Retrieves the first option of number number from pdu." alt="" coords="369,121,515,146"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="270,217,402,150,404,155,273,222"/>
+<area shape="rect" id="Node000015" href="$group__pdu.html#gab8ab682509ebdb989cf5d10170612cf0" title="Retrieves the length and data pointer of specified PDU." alt="" coords="383,219,501,245"/>
+<area shape="poly" id="edge15_Node000002_Node000015" title=" " alt="" coords="315,229,370,229,370,235,315,235"/>
+<area shape="rect" id="Node000017" href="$group__block.html#gaac6c90297abc6e2da80a6212b0d10e99" title="Returns the value of field num in the given block option block_opt." alt="" coords="363,293,521,318"/>
+<area shape="poly" id="edge17_Node000002_Node000017" title=" " alt="" coords="281,242,395,285,393,290,280,247"/>
+<area shape="rect" id="Node000004" href="$group__opt__filter.html#gab32cbf963c82364063041e5c84ca279a" title="Clears filter filter." alt="" coords="592,5,731,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="464,118,568,62,596,49,599,53,571,66,466,123"/>
+<area shape="rect" id="Node000005" href="$group__opt__filter.html#gafdbe6036d408220bbfa6eb2d7bd2443f" title="Sets the corresponding entry for number in filter." alt="" coords="802,71,967,97"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="498,118,569,105,683,93,788,86,789,91,683,98,570,111,499,123"/>
+<area shape="rect" id="Node000010" href="$group__opt__filter.html#ga46d7817d055728114b3c62499426b25c" title="Initializes the given option iterator oi to point to the beginning of the pdu&#39;s option list." alt="" coords="569,121,753,146"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="515,131,556,131,556,136,515,136"/>
+<area shape="rect" id="Node000011" href="$group__opt__filter.html#ga19d4dbbc03ef362996964fbfdd1d4c7b" title="Updates the iterator oi to point to the next option." alt="" coords="593,170,730,195"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="500,143,591,164,590,170,499,149"/>
+<area shape="rect" id="Node000006" href="$coap__option_8c.html#ab87ea79da1603a15ac624388a335bba6" title="Applies op on filter with respect to number." alt="" coords="1016,121,1177,146"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="941,94,1029,115,1027,120,939,99"/>
+<area shape="rect" id="Node000007" href="$coap__encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="1246,95,1321,121"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1177,120,1232,112,1233,118,1178,125"/>
+<area shape="rect" id="Node000009" href="$coap__option_8c.html#ad65a9bd8fcfb4ba4270819e6f87f5bcf" title="Returns true iff number denotes an option number larger than 255." alt="" coords="1225,145,1341,170"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="1178,141,1212,146,1211,151,1177,146"/>
+<area shape="rect" id="Node000008" href="$coap__encode_8c.html#a1c66d23b22bbf747ff8b0a649f85f060" title=" " alt="" coords="1389,95,1472,121"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1321,105,1376,105,1376,111,1321,111"/>
+<area shape="rect" id="Node000012" href="$coap__option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result." alt="" coords="823,121,947,146"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="719,167,813,146,814,152,720,173"/>
+<area shape="rect" id="Node000013" href="$group__opt__filter.html#gaecbb0b2fe1f6244aa6121d019070704b" title="Checks if number is contained in filter." alt="" coords="801,170,968,195"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="730,180,788,180,788,185,730,185"/>
+<area shape="rect" id="Node000014" href="$coap__option_8c.html#a70fa9db0450134640b80cbf7c3720688" title=" " alt="" coords="834,219,935,245"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="720,193,821,215,820,221,719,198"/>
+<area shape="poly" id="edge13_Node000013_Node000006" title=" " alt="" coords="939,167,1027,147,1029,152,941,173"/>
+<area shape="rect" id="Node000016" href="$group__pdu.html#gacb114ef7bdb588870ded91efc3c3d6d2" title="Retrieves the data from a PDU, with support for large bodies of data that spans multiple PDUs." alt="" coords="583,219,740,245"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="501,229,569,229,569,235,501,235"/>
+<area shape="rect" id="Node000018" href="$group__encode.html#ga8bfaf6132a57d1f9e25282d61d7ed773" title="Decodes multiple&#45;length byte sequences." alt="" coords="572,269,751,294"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="521,294,558,290,559,295,522,299"/>
+<area shape="rect" id="Node000019" href="$group__opt__filter.html#ga42d0b9d068b790ec1c490a7fb2674904" title="Returns the length of the given option." alt="" coords="597,318,726,343"/>
+<area shape="poly" id="edge19_Node000017_Node000019" title=" " alt="" coords="522,312,583,319,583,324,521,317"/>
+<area shape="rect" id="Node000020" href="$group__opt__filter.html#gaec4e944d39722779cac610ed22ee09db" title="Returns a pointer to the value of the given option." alt="" coords="599,367,723,393"/>
+<area shape="poly" id="edge20_Node000017_Node000020" title=" " alt="" coords="473,316,570,353,595,361,593,366,568,359,471,321"/>
+</map>

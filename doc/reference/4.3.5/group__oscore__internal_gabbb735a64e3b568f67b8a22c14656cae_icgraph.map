@@ -1,0 +1,22 @@
+<map id="oscore_hmac_hash" name="oscore_hmac_hash">
+<area shape="rect" id="Node000001" title="Derive the hmac hash using HMAC&#45;HASH() function." alt="" coords="956,55,1103,80"/>
+<area shape="rect" id="Node000002" href="$group__oscore__internal.html#ga1ece7d2248316e24d4f1f1b2294020be" title="Derive the key using HKDF&#45;Expand() function." alt="" coords="752,30,908,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="942,59,908,55,908,50,943,54"/>
+<area shape="rect" id="Node000009" href="$group__oscore__internal.html#gaeca991078cf405f7dac0a983f567fb8d" title="Derive the pseudorandom key using HKDF&#45;Extract() function." alt="" coords="753,79,907,104"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="943,81,908,85,907,80,942,76"/>
+<area shape="rect" id="Node000003" href="$group__oscore__internal.html#ga8c3d06ba7e0c3457ec6211848d180879" title="Derive the key using HKDF() function." alt="" coords="603,55,704,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="739,58,704,63,704,58,738,53"/>
+<area shape="rect" id="Node000004" href="$oscore__context_8c.html#a5dd2a845d237fab6455e841459932301" title=" " alt="" coords="420,55,555,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="589,70,555,70,555,65,589,65"/>
+<area shape="rect" id="Node000005" href="$group__oscore__internal.html#ga28cf1e32f7d4f13cd4f25aca27169580" title="oscore_add_recipient &#45; add in recipient information" alt="" coords="212,30,372,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="406,60,372,55,372,50,406,55"/>
+<area shape="rect" id="Node000006" href="$group__oscore__internal.html#ga8636deef153df3f5c67fba15ff3893c0" title="oscore_derive_ctx &#45; derive a osc_ctx from oscore_conf information" alt="" coords="15,6,155,31"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="452,51,414,33,371,20,315,11,258,9,155,13,155,7,258,3,316,6,373,15,416,28,454,46"/>
+<area shape="rect" id="Node000007" href="$group__oscore__internal.html#gac1dcb68cfe7c74e017f67ad7c085a492" title="oscore_duplicate_ctx &#45; duplicate a osc_ctx" alt="" coords="5,55,164,80"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="406,70,164,70,164,65,406,65"/>
+<area shape="rect" id="Node000008" href="$group__oscore__internal.html#ga77af2b488323aca8684f23dfde52e1d5" title="oscore_update_ctx &#45; update a osc_ctx with a new id_context" alt="" coords="220,131,364,156"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="442,88,327,134,325,129,440,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="198,34,155,29,155,24,199,29"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="199,57,165,61,164,55,198,51"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="739,82,704,77,705,72,739,77"/>
+</map>

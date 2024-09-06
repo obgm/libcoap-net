@@ -1,0 +1,5 @@
+<map id="coap_tls_new_server_session" name="coap_tls_new_server_session">
+<area shape="rect" id="Node000001" title="Create a TLS new server&#45;side session." alt="" coords="196,5,355,45"/>
+<area shape="rect" id="Node000002" href="$group__dtls__internal.html#ga429233d1be917c4f121a0e0771a98c5a" title="Layer function interface for layer below TLS accept/connect being established." alt="" coords="5,13,148,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,28,148,28,148,23,183,23"/>
+</map>

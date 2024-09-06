@@ -1,0 +1,24 @@
+<map id="Libcoap Internal API" name="Libcoap Internal API">
+<area shape="rect" id="Node000019" href="$group__Proxy.html" title="Internal API for handling CoAP proxies." alt="" coords="263,5,335,31"/>
+<area shape="rect" id="Node000003" href="$group__app__io__internal.html" title="Internal API for Application Input / Output checking." alt="" coords="210,55,389,80"/>
+<area shape="rect" id="Node000002" href="$group__asn1.html" title="Internal API for CoAP ASN.1 handling." alt="" coords="242,104,357,129"/>
+<area shape="rect" id="Node000004" href="$group__block__internal.html" title="Internal API for Block Transfer (RC7959)" alt="" coords="242,153,357,179"/>
+<area shape="rect" id="Node000005" href="$group__cache__internal.html" title="Internal API for Cache&#45;Key and Cache&#45;Entry support." alt="" coords="241,203,357,228"/>
+<area shape="rect" id="Node000016" href="$group__coap__prng__internal.html" title="Internal API for generating pseudo random numbers." alt="" coords="204,252,395,277"/>
+<area shape="rect" id="Node000017" href="$group__coap__resource__internal.html" title="Internal API for handling resources." alt="" coords="255,301,344,327"/>
+<area shape="rect" id="Node000006" href="$group__context__internal.html" title="Internal API for Context Handling." alt="" coords="232,351,367,376"/>
+<area shape="rect" id="Node000012" href="$group__crypto__internal.html" title="Internal API for interfacing with Crypto libraries." alt="" coords="211,400,388,425"/>
+<area shape="rect" id="Node000007" href="$group__dtls__internal.html" title="Internal API for DTLS Support." alt="" coords="245,449,354,475"/>
+<area shape="rect" id="Node000001" title="libcoap Internal API Structures, Macros, Typedefs, Enums and Functions" alt="" coords="5,499,156,524"/>
+<area shape="rect" id="Node000008" href="$group__locking__internal.html" title="Internal API for Multi&#45;thread Locking Support." alt="" coords="221,499,377,524"/>
+<area shape="rect" id="Node000009" href="$group__netif__internal.html" title="Internal API for Netif Support." alt="" coords="245,548,353,573"/>
+<area shape="rect" id="Node000010" href="$group__oscore__cbor__internal.html" title="Internal API for interfacing with OSCORE CBOR." alt="" coords="214,597,385,623"/>
+<area shape="rect" id="Node000011" href="$group__oscore__cose__internal.html" title="Internal API for interfacing with OSCORE COSE." alt="" coords="215,647,384,672"/>
+<area shape="rect" id="Node000013" href="$group__oscore__internal.html" title="Internal API for interfacing with OSCORE (RFC8613)" alt="" coords="234,696,365,721"/>
+<area shape="rect" id="Node000015" href="$group__pdu__internal.html" title="Internal API for PDUs." alt="" coords="274,745,325,771"/>
+<area shape="rect" id="Node000018" href="$group__session__internal.html" title="Internal API for handling Sessions." alt="" coords="260,795,339,820"/>
+<area shape="rect" id="Node000014" href="$group__subscribe__internal.html" title="Internal API for handling CoAP Observe Subscriptions (RFC7641)" alt="" coords="219,844,379,869"/>
+<area shape="rect" id="Node000020" href="$group__tcp.html" title="Internal API for handling CoAP TCP (RFC8323)" alt="" coords="249,893,349,919"/>
+<area shape="rect" id="Node000021" href="$group__uri.html" title="Internal API for handling CoAP URIs." alt="" coords="250,943,349,968"/>
+<area shape="rect" id="Node000022" href="$group__ws__internal.html" title="Internal API for WebSockets Support (RFC8323)" alt="" coords="222,992,377,1017"/>
+</map>

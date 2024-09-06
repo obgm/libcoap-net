@@ -1,0 +1,11 @@
+<map id="coap_dtls.h" name="coap_dtls.h">
+<area shape="rect" id="Node000001" title="CoAP DTLS support." alt="" coords="69,5,165,31"/>
+<area shape="rect" id="Node000002" href="$coap__time_8h.html" title="Clock Handling." alt="" coords="5,79,108,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,33,77,70,73,66,105,29"/>
+<area shape="rect" id="Node000004" href="$coap__str_8h.html" title="Strings to be used in the CoAP library." alt="" coords="133,79,221,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="129,29,160,66,156,70,125,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="21,152,92,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="59,104,59,138,54,138,54,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="141,152,212,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="179,104,179,138,174,138,174,104"/>
+</map>

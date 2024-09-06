@@ -1,0 +1,7 @@
+<map id="coap_new_node" name="coap_new_node">
+<area shape="rect" id="Node000001" title="Creates a new node suitable for adding to the CoAP sendqueue." alt="" coords="5,5,132,31"/>
+<area shape="rect" id="Node000002" href="$coap__net_8c.html#ad76ef4794cfee9fd5d3cd65e30f77b5d" title=" " alt="" coords="180,5,323,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,15,166,15,166,21,132,21"/>
+<area shape="rect" id="Node000003" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="371,5,511,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="323,15,357,15,357,21,323,21"/>
+</map>

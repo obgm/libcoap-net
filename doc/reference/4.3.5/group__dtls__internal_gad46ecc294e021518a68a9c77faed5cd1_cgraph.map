@@ -1,0 +1,5 @@
+<map id="coap_tls_close" name="coap_tls_close">
+<area shape="rect" id="Node000001" title="Layer function interface for TLS close for a session." alt="" coords="5,5,123,31"/>
+<area shape="rect" id="Node000002" href="$coap__notls_8c.html#af611fa47e272350b1d4d83c4be9e4c5c" title=" " alt="" coords="171,5,336,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,15,157,15,157,21,123,21"/>
+</map>

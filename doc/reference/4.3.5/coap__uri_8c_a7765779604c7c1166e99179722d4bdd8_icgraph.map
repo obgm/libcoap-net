@@ -1,0 +1,7 @@
+<map id="write_option" name="write_option">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,31,288,56"/>
+<area shape="rect" id="Node000002" href="$group__uri__parse.html#ga32b971413cf0360cba4c277b1d063510" title="Splits the given URI path into segments." alt="" coords="9,5,133,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,36,133,30,134,25,172,31"/>
+<area shape="rect" id="Node000003" href="$group__uri__parse.html#gae529b18b7f3a6f7756dfc5b7b720943f" title="Splits the given URI query into segments." alt="" coords="5,55,137,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,55,138,60,138,55,172,50"/>
+</map>

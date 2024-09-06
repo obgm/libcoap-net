@@ -1,0 +1,5 @@
+<map id="coap_free_address_info" name="coap_free_address_info">
+<area shape="rect" id="Node000001" title="Free off the one or more linked sets of coap_addr_info_t returned from coap_resolve_address_info()." alt="" coords="5,5,181,31"/>
+<area shape="rect" id="Node000002" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="229,5,352,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,15,215,15,215,21,182,21"/>
+</map>

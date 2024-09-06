@@ -1,0 +1,9 @@
+<map id="coap_opt_size" name="coap_opt_size">
+<area shape="rect" id="Node000001" title="Returns the size of the given option, taking into account a possible option jump." alt="" coords="565,5,680,31"/>
+<area shape="rect" id="Node000002" href="$coap__uri_8c.html#a791fb1dea2acffd4bec599c0a5b49fb8" title=" " alt="" coords="385,5,517,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="552,21,517,21,517,15,552,15"/>
+<area shape="rect" id="Node000003" href="$coap__uri_8c.html#a825961ade7510ed5224963d091d8bb85" title="Splits the given string into segments." alt="" coords="177,5,337,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="372,21,338,21,338,15,372,15"/>
+<area shape="rect" id="Node000004" href="$group__uri__parse.html#ga32b971413cf0360cba4c277b1d063510" title="Splits the given URI path into segments." alt="" coords="5,5,129,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="164,21,130,21,130,15,164,15"/>
+</map>

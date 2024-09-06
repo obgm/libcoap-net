@@ -1,0 +1,5 @@
+<map id="coap_prng" name="coap_prng">
+<area shape="rect" id="Node000001" title="Fills buf with len random bytes using the default pseudo random number generator." alt="" coords="5,5,95,31"/>
+<area shape="rect" id="Node000002" href="$group__coap__prng__internal.html#gac35cc791f709408f8d2411bf9b109ed3" title="Fills buf with len random bytes using the default pseudo random number generator." alt="" coords="143,5,259,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,15,129,15,129,21,95,21"/>
+</map>

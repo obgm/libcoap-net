@@ -1,0 +1,23 @@
+<map id="coap_path_into_optlist" name="coap_path_into_optlist">
+<area shape="rect" id="Node000001" title="Splits the given URI path into &#39;/&#39; separate segments, and then adds the Uri&#45;Path / Location&#45;Path opti..." alt="" coords="5,129,175,155"/>
+<area shape="rect" id="Node000002" href="$coap__uri_8c.html#a26ae67837ad541c4b7024fee7b385fbf" title=" " alt="" coords="250,5,366,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,127,153,84,186,60,221,40,237,33,239,38,224,44,189,65,156,89,106,131"/>
+<area shape="rect" id="Node000006" href="$group__opt__filter.html#gad867c028a9dc7b4be543223cc685c57c" title="Adds optlist to the given optlist_chain." alt="" coords="235,55,381,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="123,127,222,90,249,81,250,87,224,95,124,132"/>
+<area shape="rect" id="Node000007" href="$group__opt__filter.html#ga21df6c3988187909d52a3218eb2f12ef" title="Create a new optlist entry." alt="" coords="241,104,375,129"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="175,129,227,123,227,129,176,135"/>
+<area shape="rect" id="Node000009" href="$group__uri.html#gac1ac0cbcb671f7d932a87f6767aeb8eb" title="replace any % hex definitions with the actual character." alt="" coords="223,153,393,179"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="175,149,209,152,208,158,175,154"/>
+<area shape="rect" id="Node000010" href="$coap__uri_8c.html#a079c8b836090aea91f0ecf9efa57d9d6" title="Checks if path segment s consists of one or two dots." alt="" coords="283,203,333,228"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="124,152,224,189,270,203,269,208,222,194,122,157"/>
+<area shape="rect" id="Node000011" href="$coap__uri_8c.html#a554dbd9464384b72f9c3e72b9dcce8ee" title="A length&#45;safe version of strchr()." alt="" coords="275,252,341,277"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="106,153,156,195,189,218,224,238,262,253,261,258,222,243,186,222,153,199,103,157"/>
+<area shape="rect" id="Node000003" href="$group__opt__filter.html#ga476a30348f07ce45d0e1a3be0d1a1c21" title="Removes all entries from the optlist_chain, freeing off their memory usage." alt="" coords="441,5,591,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,15,428,15,428,21,367,21"/>
+<area shape="rect" id="Node000004" href="$coap__option_8c.html#a7f99f0a8dd81b5ee7824871ebfc384d7" title=" " alt="" coords="639,5,797,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="591,15,625,15,625,21,591,21"/>
+<area shape="rect" id="Node000005" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="845,5,968,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="798,15,832,15,832,21,798,21"/>
+<area shape="rect" id="Node000008" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="446,104,586,129"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="375,114,432,114,432,119,375,119"/>
+</map>

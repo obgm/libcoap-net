@@ -1,0 +1,13 @@
+<map id="oscore_delete_server_associations" name="oscore_delete_server_associations">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,49,167,89"/>
+<area shape="rect" id="Node000002" href="$group__oscore__internal.html#ga8718a58f809d51b7f05dc988b08bc523" title=" " alt="" coords="215,56,393,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,66,201,66,201,71,167,71"/>
+<area shape="rect" id="Node000003" href="$group__string.html#ga49db62401f34ee892cf08826c69973a0" title="Deletes the given const binary data and releases any memory allocated." alt="" coords="441,5,612,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,53,456,31,457,36,361,58"/>
+<area shape="rect" id="Node000004" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="660,56,783,81"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="394,66,646,66,646,71,394,71"/>
+<area shape="rect" id="Node000005" href="$group__pdu.html#ga48581f968a30ef4278702eb1c16b7a90" title="Dispose of an CoAP PDU and frees associated storage." alt="" coords="461,107,593,132"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="361,79,457,101,456,106,360,84"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="577,28,659,50,658,55,576,33"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="576,104,658,82,659,87,577,109"/>
+</map>

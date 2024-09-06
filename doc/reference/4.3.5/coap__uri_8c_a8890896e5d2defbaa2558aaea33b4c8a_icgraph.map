@@ -1,0 +1,11 @@
+<map id="coap_split_uri_sub" name="coap_split_uri_sub">
+<area shape="rect" id="Node000001" title=" " alt="" coords="399,31,541,56"/>
+<area shape="rect" id="Node000002" href="$group__uri__parse.html#gaa86cf4fdd1773d3b4270daac72ba9eba" title="Parses a given string into URI components." alt="" coords="195,5,351,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,35,350,31,351,25,385,30"/>
+<area shape="rect" id="Node000004" href="$group__uri__parse.html#ga9b19917fbf64f3a35a52d31ae5f6f76c" title="Parses a given string into URI components." alt="" coords="217,55,329,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="385,56,329,63,329,58,384,51"/>
+<area shape="rect" id="Node000003" href="$group__uri__parse.html#ga11d902f573bcfee188d5ccd4903d0393" title="Extract uri_path string from request PDU." alt="" coords="5,5,147,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="181,21,147,21,147,15,181,15"/>
+<area shape="rect" id="Node000005" href="$coap__uri_8c.html#aee99e6e8fd8df58150ec10e66c8dc265" title="Creates a new coap_uri_t object from the specified URI." alt="" coords="21,55,131,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="203,70,132,70,132,65,203,65"/>
+</map>

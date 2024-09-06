@@ -1,0 +1,13 @@
+<map id="coap_register_option_lkd" name="coap_register_option_lkd">
+<area shape="rect" id="Node000001" title="Registers the option type type with the given context object ctx." alt="" coords="5,31,191,56"/>
+<area shape="rect" id="Node000002" href="$group__opt__filter.html#gafdbe6036d408220bbfa6eb2d7bd2443f" title="Sets the corresponding entry for number in filter." alt="" coords="239,31,404,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,41,225,41,225,46,191,46"/>
+<area shape="rect" id="Node000003" href="$coap__option_8c.html#ab87ea79da1603a15ac624388a335bba6" title="Applies op on filter with respect to number." alt="" coords="452,31,613,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="405,41,438,41,438,46,405,46"/>
+<area shape="rect" id="Node000004" href="$coap__encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="682,5,757,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="613,30,668,22,669,28,614,35"/>
+<area shape="rect" id="Node000006" href="$coap__option_8c.html#ad65a9bd8fcfb4ba4270819e6f87f5bcf" title="Returns true iff number denotes an option number larger than 255." alt="" coords="661,55,777,80"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="614,51,648,56,647,61,613,56"/>
+<area shape="rect" id="Node000005" href="$coap__encode_8c.html#a1c66d23b22bbf747ff8b0a649f85f060" title=" " alt="" coords="825,5,908,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="757,15,812,15,812,21,757,21"/>
+</map>

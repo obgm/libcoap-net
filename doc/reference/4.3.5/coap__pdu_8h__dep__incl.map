@@ -1,0 +1,180 @@
+<map id="coap_pdu.h" name="coap_pdu.h">
+<area shape="rect" id="Node000001" title="Pre&#45;defined constants that reflect defaults for CoAP." alt="" coords="2480,5,2576,31"/>
+<area shape="rect" id="Node000002" href="$coap_8h.html" title="Primary include file." alt="" coords="2563,372,2629,397"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2507,42,2486,65,2465,94,2449,128,2443,164,2443,239,2446,263,2456,285,2470,304,2488,322,2529,350,2568,370,2565,374,2526,355,2485,326,2466,308,2451,287,2441,265,2437,240,2437,163,2444,126,2460,92,2482,62,2503,39"/>
+<area shape="rect" id="Node000067" href="$coap__address_8h.html" title="Representation of network addresses." alt="" coords="2264,79,2387,104"/>
+<area shape="poly" id="edge89_Node000001_Node000067" title=" " alt="" coords="2484,38,2359,81,2357,76,2482,33"/>
+<area shape="rect" id="Node000069" href="$coap__net_8h.html" title="CoAP context interface." alt="" coords="2668,225,2761,251"/>
+<area shape="poly" id="edge106_Node000001_Node000069" title=" " alt="" coords="2562,35,2627,82,2662,114,2692,151,2709,190,2716,224,2711,225,2704,191,2687,153,2658,118,2624,86,2559,40"/>
+<area shape="rect" id="Node000071" href="$coap__block_8h.html" title="CoAP Block information." alt="" coords="2477,225,2584,251"/>
+<area shape="poly" id="edge101_Node000001_Node000071" title=" " alt="" coords="2531,45,2533,225,2528,225,2526,45"/>
+<area shape="rect" id="Node000072" href="$coap__debug_8h.html" title="CoAP Logging support." alt="" coords="2565,152,2677,177"/>
+<area shape="poly" id="edge103_Node000001_Node000072" title=" " alt="" coords="2545,41,2616,150,2612,153,2541,44"/>
+<area shape="rect" id="Node000003" href="$coap__internal_8h.html" title="Pulls together all the internal only header files." alt="" coords="3456,445,3579,471"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2643,387,3456,449,3456,455,2642,392"/>
+<area shape="rect" id="Node000004" href="$coap__asn1__internal_8h.html" title="CoAP ASN.1 internal information." alt="" coords="4809,519,4969,544"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="3593,458,4094,474,4436,491,4786,516,4809,518,4809,524,4785,521,4436,497,4093,480,3593,464"/>
+<area shape="rect" id="Node000005" href="$coap__async__internal_8h.html" title="CoAP async internal information." alt="" coords="5202,519,5369,544"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="3592,457,3853,461,4243,470,4705,487,5178,516,5202,518,5201,524,5177,521,4705,493,4243,475,3853,466,3592,463"/>
+<area shape="rect" id="Node000006" href="$coap__block__internal_8h.html" title="CoAP block internal information." alt="" coords="5673,592,5837,617"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="3592,460,3999,479,4221,496,4383,516,4421,529,4459,541,4637,569,4788,583,4922,588,5047,586,5308,578,5461,580,5642,589,5673,592,5672,597,5641,595,5461,585,5308,584,5047,591,4922,593,4788,589,4636,574,4458,547,4420,534,4382,521,4221,501,3999,485,3592,465"/>
+<area shape="rect" id="Node000007" href="$coap__cache__internal_8h.html" title="CoAP cache internal information." alt="" coords="2022,519,2189,544"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="3442,463,2918,479,2557,497,2190,521,2189,521,2189,516,2189,516,2557,491,2918,474,3442,458"/>
+<area shape="rect" id="Node000008" href="$coap__dtls__internal_8h.html" title="Internal CoAP DTLS support." alt="" coords="3086,519,3239,544"/>
+<area shape="poly" id="edge11_Node000003_Node000008" title=" " alt="" coords="3443,475,3213,521,3212,516,3442,470"/>
+<area shape="rect" id="Node000009" href="$coap__io__internal_8h.html" title="Internal network I/O functions." alt="" coords="5,592,147,617"/>
+<area shape="poly" id="edge13_Node000003_Node000009" title=" " alt="" coords="3442,461,3293,463,3093,471,2867,489,2751,503,2639,521,2598,534,2557,547,2448,561,2323,571,2033,584,1704,589,1357,588,679,583,388,585,153,595,147,595,146,590,153,589,388,580,679,577,1357,582,1704,583,2033,579,2323,566,2448,555,2555,541,2597,529,2638,516,2751,498,2866,484,3093,466,3293,458,3442,456"/>
+<area shape="rect" id="Node000010" href="$coap__session__internal_8h.html" title="CoAP session internal information." alt="" coords="107,665,285,691"/>
+<area shape="poly" id="edge74_Node000003_Node000010" title=" " alt="" coords="3442,462,3304,464,3121,473,2915,490,2810,504,2709,521,2669,534,2628,547,2491,552,2212,553,1417,551,997,553,626,559,352,572,266,582,223,594,208,609,198,628,193,648,193,665,187,665,188,647,193,627,204,606,220,590,265,577,351,567,626,554,997,547,1417,546,2212,548,2491,547,2628,541,2667,529,2707,516,2810,499,2914,485,3121,467,3304,459,3442,456"/>
+<area shape="rect" id="Node000012" href="$coap__layers__internal_8h.html" title="Internal layer I/O functions." alt="" coords="2387,519,2557,544"/>
+<area shape="poly" id="edge18_Node000003_Node000012" title=" " alt="" coords="3442,465,3065,486,2564,521,2557,522,2557,517,2564,516,3065,480,3442,460"/>
+<area shape="rect" id="Node000013" href="$coap__libcoap__build_8h.html" title="Library specific build wrapper for coap_internal.h." alt="" coords="2731,519,2890,544"/>
+<area shape="poly" id="edge21_Node000003_Node000013" title=" " alt="" coords="3442,469,2903,521,2891,523,2890,517,2902,516,3442,463"/>
+<area shape="rect" id="Node000054" href="$coap__net__internal_8h.html" title="CoAP context internal information." alt="" coords="3263,519,3414,544"/>
+<area shape="poly" id="edge63_Node000003_Node000054" title=" " alt="" coords="3470,478,3362,521,3360,516,3468,473"/>
+<area shape="rect" id="Node000055" href="$coap__netif__internal_8h.html" title="Internal CoAP Netif support." alt="" coords="3438,519,3597,544"/>
+<area shape="poly" id="edge65_Node000003_Node000055" title=" " alt="" coords="3511,484,3513,518,3508,519,3506,485"/>
+<area shape="rect" id="Node000056" href="$coap__pdu__internal_8h.html" title="CoAP PDU internal information." alt="" coords="4482,519,4635,544"/>
+<area shape="poly" id="edge67_Node000003_Node000056" title=" " alt="" coords="3593,460,3962,480,4205,496,4451,516,4482,519,4482,524,4450,521,4204,502,3962,486,3592,466"/>
+<area shape="rect" id="Node000057" href="$coap__proxy__internal_8h.html" title="CoAP Proxy internal information." alt="" coords="3621,519,3787,544"/>
+<area shape="poly" id="edge70_Node000003_Node000057" title=" " alt="" coords="3554,473,3668,516,3666,521,3552,478"/>
+<area shape="rect" id="Node000058" href="$coap__resource__internal_8h.html" title="Generic resource internal handling." alt="" coords="3811,519,3997,544"/>
+<area shape="poly" id="edge72_Node000003_Node000058" title=" " alt="" coords="3587,471,3835,516,3834,521,3586,476"/>
+<area shape="rect" id="Node000059" href="$coap__subscribe__internal_8h.html" title="CoAP subscribe internal information." alt="" coords="4021,519,4211,544"/>
+<area shape="poly" id="edge75_Node000003_Node000059" title=" " alt="" coords="3593,466,4021,517,4020,522,3592,472"/>
+<area shape="rect" id="Node000060" href="$coap__tcp__internal_8h.html" title="CoAP TCP internal information." alt="" coords="2213,519,2363,544"/>
+<area shape="poly" id="edge77_Node000003_Node000060" title=" " alt="" coords="3442,464,2985,480,2676,497,2363,521,2362,521,2362,516,2362,516,2676,492,2985,475,3441,458"/>
+<area shape="rect" id="Node000061" href="$coap__uri__internal_8h.html" title="CoAP URI internal information." alt="" coords="4236,519,4383,544"/>
+<area shape="poly" id="edge79_Node000003_Node000061" title=" " alt="" coords="3593,462,3866,484,4212,516,4236,519,4236,524,4212,521,3865,489,3592,468"/>
+<area shape="rect" id="Node000062" href="$coap__ws__internal_8h.html" title="Internal CoAP WebSockets support." alt="" coords="2915,519,3061,544"/>
+<area shape="poly" id="edge81_Node000003_Node000062" title=" " alt="" coords="3442,471,3062,522,3061,517,3442,466"/>
+<area shape="rect" id="Node000063" href="$oscore_8h.html" title="An implementation of the Object Security for Constrained RESTful Environments (RFC 8613)." alt="" coords="5861,592,5939,617"/>
+<area shape="poly" id="edge84_Node000003_Node000063" title=" " alt="" coords="3593,458,4342,476,4747,493,4895,504,4982,516,5008,529,5033,541,5154,568,5258,581,5350,584,5437,582,5619,574,5725,577,5850,589,5861,591,5860,597,5849,595,5725,582,5619,579,5437,587,5350,590,5257,587,5153,574,5031,547,5005,534,4981,521,4894,509,4747,498,4341,481,3592,463"/>
+<area shape="rect" id="Node000064" href="$oscore__context_8h.html" title="An implementation of the Object Security for Constrained RESTful Enviornments (RFC 8613)." alt="" coords="5044,519,5177,544"/>
+<area shape="poly" id="edge85_Node000003_Node000064" title=" " alt="" coords="3593,457,3833,461,4186,470,4601,487,5026,516,5044,518,5043,523,5025,521,4601,493,4186,475,3833,466,3593,462"/>
+<area shape="rect" id="Node000066" href="$oscore__crypto_8h.html" title="An implementation of the Hash Based Key Derivation Function (RFC) and wrappers for AES&#45;CCM*." alt="" coords="4660,519,4785,544"/>
+<area shape="poly" id="edge88_Node000003_Node000066" title=" " alt="" coords="3592,458,4040,473,4342,490,4648,516,4660,517,4660,523,4648,521,4341,496,4040,479,3592,463"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="4796,520,4434,495,4081,478,3579,463,3579,458,4081,473,4434,490,4796,515"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="5188,520,4702,491,4230,474,3834,465,3579,462,3579,457,3834,460,4230,469,4702,486,5189,515"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="5659,594,5480,585,5328,584,5068,591,4943,593,4810,588,4659,574,4482,547,4444,534,4406,521,4333,510,4235,500,3999,483,3579,464,3579,459,3999,478,4235,495,4333,505,4407,516,4445,529,4483,541,4659,569,4810,583,4943,588,5068,586,5328,579,5480,580,5659,589"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="2202,517,2213,516,2583,491,2944,474,3456,458,3456,463,2944,479,2583,496,2214,521,2203,522"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="3240,513,3467,468,3468,473,3241,519"/>
+<area shape="poly" id="edge14_Node000009_Node000003" title=" " alt="" coords="160,591,177,589,412,580,703,577,1381,582,1728,583,2057,579,2347,566,2472,555,2579,541,2621,529,2662,516,2775,498,2890,484,3116,466,3313,458,3456,456,3456,461,3313,463,3116,471,2891,489,2776,503,2663,521,2622,534,2581,547,2472,561,2347,571,2057,584,1728,589,1381,588,703,583,412,585,178,595,161,596"/>
+<area shape="poly" id="edge15_Node000009_Node000010" title=" " alt="" coords="109,622,178,663,175,667,106,627"/>
+<area shape="poly" id="edge16_Node000010_Node000003" title=" " alt="" coords="207,651,220,618,230,602,244,590,289,577,375,567,650,554,1021,547,1441,546,2236,548,2515,547,2652,541,2691,529,2731,516,2834,499,2938,485,3143,467,3324,459,3456,456,3456,462,3324,464,3144,473,2939,490,2834,504,2733,521,2693,534,2652,547,2515,552,2236,553,1441,551,1021,553,650,559,376,572,290,582,247,594,234,606,225,621,212,653"/>
+<area shape="rect" id="Node000011" href="$coap__netif_8c.html" title="CoAP Netif handling functions." alt="" coords="2865,739,2965,764"/>
+<area shape="poly" id="edge17_Node000010_Node000011" title=" " alt="" coords="299,679,2865,746,2865,751,299,685"/>
+<area shape="poly" id="edge19_Node000012_Node000003" title=" " alt="" coords="2571,518,2588,516,3088,480,3455,460,3456,465,3088,486,2588,521,2571,523"/>
+<area shape="poly" id="edge20_Node000012_Node000009" title=" " alt="" coords="2374,547,2037,565,1752,572,1501,572,1267,569,1034,565,784,566,500,575,166,595,147,596,147,591,165,589,500,569,784,561,1034,560,1267,563,1501,567,1752,567,2037,560,2374,541"/>
+<area shape="poly" id="edge38_Node000013_Node000011" title=" " alt="" coords="2904,541,4294,548,4754,553,5154,561,5439,573,5523,580,5560,590,5567,605,5561,619,5545,629,5519,637,5436,654,5316,668,5165,681,4792,704,4361,721,3508,743,2965,752,2965,747,3508,738,4361,716,4791,698,5164,676,5315,663,5435,648,5517,632,5543,624,5557,616,5562,605,5557,594,5523,586,5439,578,5153,566,4754,558,4294,553,2904,546"/>
+<area shape="rect" id="Node000014" href="$coap__address_8c.html" title="Handling of network addresses." alt="" coords="5032,592,5155,617"/>
+<area shape="poly" id="edge22_Node000013_Node000014" title=" " alt="" coords="2904,541,3227,559,3500,566,3740,564,3964,560,4188,556,4428,557,4700,566,5020,589,5032,591,5032,596,5020,595,4700,572,4428,562,4188,561,3965,565,3740,570,3500,571,3226,565,2904,547"/>
+<area shape="rect" id="Node000015" href="$coap__asn1_8c.html" title="CoAP specific ASN.1 handling." alt="" coords="5179,592,5282,617"/>
+<area shape="poly" id="edge23_Node000013_Node000015" title=" " alt="" coords="2904,541,3249,560,3541,565,3798,562,4038,555,4277,550,4534,550,4825,562,5167,589,5179,591,5179,596,5166,595,4824,567,4534,556,4277,555,4038,561,3799,567,3541,570,3249,565,2904,547"/>
+<area shape="rect" id="Node000016" href="$coap__async_8c.html" title="State handling for asynchronous messages." alt="" coords="5307,592,5416,617"/>
+<area shape="poly" id="edge24_Node000013_Node000016" title=" " alt="" coords="2904,541,3268,561,3577,566,3849,563,4102,556,4355,550,4626,550,4933,562,5295,589,5307,591,5306,596,5294,595,4933,567,4626,556,4355,555,4102,561,3849,568,3577,572,3268,566,2904,547"/>
+<area shape="rect" id="Node000017" href="$coap__block_8c.html" title="CoAP Block handling." alt="" coords="5440,592,5547,617"/>
+<area shape="poly" id="edge25_Node000013_Node000017" title=" " alt="" coords="2904,541,3289,561,3615,567,3902,563,4169,555,4436,548,4722,548,5046,560,5428,589,5440,591,5440,596,5428,595,5046,565,4722,553,4436,553,4169,560,3902,568,3615,572,3289,567,2904,547"/>
+<area shape="rect" id="Node000018" href="$coap__cache_8c.html" title="CoAP Cache handling." alt="" coords="245,592,355,617"/>
+<area shape="poly" id="edge26_Node000013_Node000018" title=" " alt="" coords="2717,546,2712,547,2355,565,2053,570,1786,567,1538,560,1291,555,1025,556,723,567,367,595,355,596,355,591,366,589,723,562,1025,550,1291,549,1539,555,1787,561,2053,565,2355,560,2712,541,2717,541"/>
+<area shape="rect" id="Node000019" href="$coap__debug_8c.html" title="Debug utilities." alt="" coords="379,592,490,617"/>
+<area shape="poly" id="edge27_Node000013_Node000019" title=" " alt="" coords="2717,546,2712,547,2376,564,2091,569,1840,567,1606,561,1372,556,1122,557,837,569,502,595,491,596,490,591,501,589,837,563,1122,552,1372,551,1606,555,1840,561,2091,564,2376,559,2712,541,2717,541"/>
+<area shape="rect" id="Node000020" href="$coap__dtls_8c.html" title="CoAP (D)TLS handling functions." alt="" coords="514,592,609,617"/>
+<area shape="poly" id="edge28_Node000013_Node000020" title=" " alt="" coords="2717,546,2712,547,2394,563,2124,567,1886,564,1665,557,1444,553,1207,554,938,567,620,595,610,596,609,591,620,589,937,561,1206,549,1444,547,1665,552,1886,558,2124,562,2394,558,2712,541,2717,541"/>
+<area shape="rect" id="Node000021" href="$coap__encode_8c.html" title="Encoding and decoding Coap data types functions." alt="" coords="633,592,751,617"/>
+<area shape="poly" id="edge29_Node000013_Node000021" title=" " alt="" coords="2717,546,2712,547,2416,563,2164,568,1943,567,1737,563,1531,560,1310,562,1059,572,763,595,752,596,751,591,762,589,1059,567,1310,557,1531,555,1737,558,1943,562,2164,563,2415,557,2712,541,2717,541"/>
+<area shape="rect" id="Node000022" href="$coap__event_8c.html" title="Event handling." alt="" coords="775,592,883,617"/>
+<area shape="poly" id="edge30_Node000013_Node000022" title=" " alt="" coords="2717,546,2712,547,2436,562,2201,567,1995,566,1803,562,1610,559,1405,561,1171,572,895,595,884,596,883,591,894,589,1170,567,1404,556,1611,554,1803,557,1995,560,2201,562,2435,556,2712,541,2717,541"/>
+<area shape="rect" id="Node000023" href="$coap__gnutls_8c.html" title="GnuTLS interafe functions." alt="" coords="907,592,1018,617"/>
+<area shape="poly" id="edge31_Node000013_Node000023" title=" " alt="" coords="2717,546,2712,547,2456,561,2239,567,1871,564,1693,562,1502,564,1286,574,1031,595,1019,596,1018,591,1030,589,1286,569,1502,559,1693,556,1871,558,2239,561,2456,556,2712,541,2717,541"/>
+<area shape="rect" id="Node000024" href="$coap__hashkey_8c.html" title="Hashkey functions." alt="" coords="1043,592,1165,617"/>
+<area shape="poly" id="edge32_Node000013_Node000024" title=" " alt="" coords="2717,546,2712,547,2479,560,2281,566,1944,566,1782,565,1608,568,1411,577,1178,595,1166,596,1165,591,1177,589,1410,571,1608,562,1782,560,1944,560,2281,561,2478,555,2712,541,2717,541"/>
+<area shape="rect" id="Node000025" href="$coap__io_8c.html" title="Network I/O functions." alt="" coords="1189,592,1272,617"/>
+<area shape="poly" id="edge33_Node000013_Node000025" title=" " alt="" coords="2717,546,2712,547,2495,559,2310,563,1997,559,1846,558,1684,561,1501,572,1284,595,1273,596,1272,591,1284,589,1500,567,1684,556,1846,553,1997,554,2310,558,2495,554,2712,541,2717,541"/>
+<area shape="rect" id="Node000026" href="$coap__layers_8c.html" title="Layer Handling." alt="" coords="1297,592,1407,617"/>
+<area shape="poly" id="edge34_Node000013_Node000026" title=" " alt="" coords="2717,546,2712,547,2515,559,2348,564,2065,565,1782,568,1615,577,1419,595,1408,596,1407,591,1418,589,1615,572,1781,563,2065,560,2348,559,2515,553,2712,541,2717,541"/>
+<area shape="rect" id="Node000027" href="$coap__mbedtls_8c.html" title="Mbed TLS specific interface functions." alt="" coords="1431,592,1555,617"/>
+<area shape="poly" id="edge35_Node000013_Node000027" title=" " alt="" coords="2717,546,2712,547,2538,558,2390,564,2139,567,1888,572,1741,580,1567,595,1556,596,1555,591,1566,589,1740,575,1888,566,2139,562,2390,559,2538,553,2712,541,2717,541"/>
+<area shape="rect" id="Node000028" href="$coap__mem_8c.html" title="Memory handling functions." alt="" coords="1579,592,1685,617"/>
+<area shape="poly" id="edge36_Node000013_Node000028" title=" " alt="" coords="2717,546,2712,547,2558,557,2426,562,2204,566,1981,571,1850,580,1696,595,1685,596,1685,591,1696,589,1850,574,1981,566,2203,560,2426,557,2557,552,2712,541,2717,541"/>
+<area shape="rect" id="Node000029" href="$coap__net_8c.html" title="CoAP context functions." alt="" coords="1709,592,1801,617"/>
+<area shape="poly" id="edge37_Node000013_Node000029" title=" " alt="" coords="2717,546,2712,547,2459,561,2261,565,2064,571,1949,580,1812,595,1801,596,1801,591,1812,589,1948,574,2064,566,2261,559,2459,556,2712,541,2717,541"/>
+<area shape="rect" id="Node000030" href="$coap__notls_8c.html" title="NoTLS specific interface functions." alt="" coords="1825,592,1927,617"/>
+<area shape="poly" id="edge39_Node000013_Node000030" title=" " alt="" coords="2718,546,2712,547,2495,561,2325,567,2156,574,1939,595,1928,596,1927,591,1938,589,2155,569,2325,561,2494,556,2712,541,2717,541"/>
+<area shape="rect" id="Node000031" href="$coap__openssl_8c.html" title="OpenSSL specific interface functions." alt="" coords="1951,592,2073,617"/>
+<area shape="poly" id="edge40_Node000013_Node000031" title=" " alt="" coords="2718,546,2712,547,2536,561,2399,569,2261,577,2086,595,2073,596,2072,591,2085,589,2261,572,2398,563,2536,556,2712,541,2717,541"/>
+<area shape="rect" id="Node000032" href="$coap__option_8c.html" title="CoAP option handling functions." alt="" coords="2097,592,2209,617"/>
+<area shape="poly" id="edge41_Node000013_Node000032" title=" " alt="" coords="2718,546,2712,547,2467,569,2359,578,2222,595,2210,596,2209,591,2221,589,2359,573,2466,563,2712,541,2717,541"/>
+<area shape="rect" id="Node000033" href="$coap__oscore_8c.html" title="CoAP OSCORE handling." alt="" coords="2233,592,2348,617"/>
+<area shape="poly" id="edge42_Node000013_Node000033" title=" " alt="" coords="2718,547,2360,595,2349,596,2348,591,2360,589,2717,541"/>
+<area shape="rect" id="Node000034" href="$coap__pdu_8c.html" title="CoAP PDU handling." alt="" coords="2373,592,2467,617"/>
+<area shape="poly" id="edge43_Node000013_Node000034" title=" " alt="" coords="2732,549,2479,595,2468,597,2467,592,2478,589,2731,544"/>
+<area shape="rect" id="Node000035" href="$coap__prng_8c.html" title="Pseudo Random Number functions." alt="" coords="2491,592,2591,617"/>
+<area shape="poly" id="edge44_Node000013_Node000035" title=" " alt="" coords="2755,550,2586,594,2584,589,2754,545"/>
+<area shape="rect" id="Node000036" href="$coap__proxy_8c.html" title="Proxy handling functions." alt="" coords="2616,592,2723,617"/>
+<area shape="poly" id="edge45_Node000013_Node000036" title=" " alt="" coords="2777,552,2694,594,2691,589,2775,548"/>
+<area shape="rect" id="Node000037" href="$coap__resource_8c.html" title="Server resource handling functions." alt="" coords="2747,592,2874,617"/>
+<area shape="poly" id="edge46_Node000013_Node000037" title=" " alt="" coords="2813,558,2813,592,2808,592,2808,558"/>
+<area shape="rect" id="Node000038" href="$coap__session_8c.html" title="Session handling functions." alt="" coords="2899,592,3019,617"/>
+<area shape="poly" id="edge47_Node000013_Node000038" title=" " alt="" coords="2848,547,2936,589,2933,594,2845,552"/>
+<area shape="rect" id="Node000039" href="$coap__sha1_8c.html" title=" " alt="" coords="3043,592,3146,617"/>
+<area shape="poly" id="edge48_Node000013_Node000039" title=" " alt="" coords="2870,545,3049,589,3048,594,2869,550"/>
+<area shape="rect" id="Node000040" href="$coap__str_8c.html" title="String handling functions." alt="" coords="3170,592,3257,617"/>
+<area shape="poly" id="edge49_Node000013_Node000040" title=" " alt="" coords="2896,544,3159,589,3170,592,3169,597,3158,595,2895,549"/>
+<area shape="rect" id="Node000041" href="$coap__subscribe_8c.html" title="Subscription handling functions." alt="" coords="3281,592,3415,617"/>
+<area shape="poly" id="edge50_Node000013_Node000041" title=" " alt="" coords="2904,542,3270,589,3281,591,3281,596,3269,595,2903,547"/>
+<area shape="rect" id="Node000042" href="$coap__tcp_8c.html" title="CoAP TCP handling functions." alt="" coords="3439,592,3529,617"/>
+<area shape="poly" id="edge51_Node000013_Node000042" title=" " alt="" coords="2904,541,3052,555,3168,562,3282,571,3427,589,3439,591,3438,597,3426,595,3282,577,3167,568,3052,560,2904,547"/>
+<area shape="rect" id="Node000043" href="$coap__threadsafe_8c.html" title="CoAP multithreading locking check functions." alt="" coords="3553,592,3695,617"/>
+<area shape="poly" id="edge52_Node000013_Node000043" title=" " alt="" coords="2904,541,3085,556,3225,565,3364,573,3542,589,3554,591,3553,596,3541,595,3364,579,3225,570,3084,562,2904,547"/>
+<area shape="rect" id="Node000044" href="$coap__time_8c.html" title="Clock handling functions." alt="" coords="3719,592,3820,617"/>
+<area shape="poly" id="edge53_Node000013_Node000044" title=" " alt="" coords="2904,541,3131,556,3308,562,3484,569,3707,589,3719,591,3718,596,3706,595,3483,574,3308,567,3131,562,2904,547"/>
+<area shape="rect" id="Node000045" href="$coap__tinydtls_8c.html" title="TinyDTLS specific handling functions." alt="" coords="3844,592,3964,617"/>
+<area shape="poly" id="edge54_Node000013_Node000045" title=" " alt="" coords="2904,541,3166,558,3370,563,3574,569,3832,589,3844,591,3844,596,3832,595,3573,574,3370,568,3166,563,2904,547"/>
+<area shape="rect" id="Node000046" href="$coap__uri_8c.html" title="URI handling functions." alt="" coords="3988,592,4076,617"/>
+<area shape="poly" id="edge55_Node000013_Node000046" title=" " alt="" coords="2904,541,3068,552,3207,557,3443,558,3678,563,3815,572,3976,589,3988,591,3987,596,3976,595,3814,578,3677,568,3443,564,3207,562,3068,558,2904,547"/>
+<area shape="rect" id="Node000047" href="$coap__wolfssl_8c.html" title="wolfSSL specific interface functions." alt="" coords="4100,592,4217,617"/>
+<area shape="poly" id="edge56_Node000013_Node000047" title=" " alt="" coords="2904,541,3085,553,3238,559,3498,562,3758,566,3910,574,4088,589,4100,591,4099,596,4088,595,3909,579,3757,571,3498,567,3238,565,3084,559,2904,547"/>
+<area shape="rect" id="Node000048" href="$coap__ws_8c.html" title="CoAP WebSocket handling functions." alt="" coords="4242,592,4331,617"/>
+<area shape="poly" id="edge57_Node000013_Node000048" title=" " alt="" coords="2904,541,3106,554,3278,559,3569,557,3710,557,3860,560,4030,570,4230,589,4242,591,4241,596,4229,595,4029,575,3860,565,3710,562,3569,562,3278,564,3106,559,2904,547"/>
+<area shape="rect" id="Node000049" href="$oscore_8c.html" title="An implementation of the Object Security for Constrained RESTful Enviornments (RFC 8613)." alt="" coords="4355,592,4431,617"/>
+<area shape="poly" id="edge58_Node000013_Node000049" title=" " alt="" coords="2904,541,3124,554,3310,558,3627,553,3780,551,3943,554,4127,566,4344,589,4356,591,4355,596,4344,595,4127,571,3943,559,3780,556,3627,558,3310,563,3124,559,2904,547"/>
+<area shape="rect" id="Node000050" href="$oscore__cbor_8c.html" title="An implementation of the Concise Binary Object Representation (RFC)." alt="" coords="4455,592,4566,617"/>
+<area shape="poly" id="edge59_Node000013_Node000050" title=" " alt="" coords="2904,541,3139,555,3338,561,3677,559,3839,558,4014,560,4212,570,4444,589,4455,591,4455,596,4444,595,4211,575,4014,566,3839,563,3677,565,3338,566,3139,561,2904,547"/>
+<area shape="rect" id="Node000051" href="$oscore__context_8c.html" title="An implementation of the Object Security for Constrained RESTful Environments (RFC 8613)." alt="" coords="4590,592,4722,617"/>
+<area shape="poly" id="edge60_Node000013_Node000051" title=" " alt="" coords="2904,541,3160,557,3376,563,3744,562,3921,560,4110,562,4326,571,4579,589,4590,590,4590,596,4578,595,4325,576,4110,568,3921,566,3744,567,3376,568,3159,562,2904,547"/>
+<area shape="rect" id="Node000052" href="$oscore__cose_8c.html" title="An implementation of the CBOR Object Signing and Encryption (RFC)." alt="" coords="4746,592,4859,617"/>
+<area shape="poly" id="edge61_Node000013_Node000052" title=" " alt="" coords="2904,541,3183,557,3420,563,3628,562,3822,559,4016,556,4223,558,4458,568,4735,589,4746,591,4746,596,4734,595,4458,573,4223,563,4016,561,3822,564,3628,568,3420,568,3183,563,2904,547"/>
+<area shape="rect" id="Node000053" href="$oscore__crypto_8c.html" title="An implementation of the Hash Based Key Derivation Function (RFC) and wrappers for AES&#45;CCM*." alt="" coords="4883,592,5007,617"/>
+<area shape="poly" id="edge62_Node000013_Node000053" title=" " alt="" coords="2904,541,3204,558,3458,565,3682,564,3890,560,4099,557,4321,558,4574,568,4872,589,4883,590,4883,596,4872,595,4574,573,4321,563,4099,562,3890,565,3682,569,3458,570,3204,564,2904,547"/>
+<area shape="poly" id="edge64_Node000054_Node000003" title=" " alt="" coords="3387,511,3494,468,3496,473,3389,516"/>
+<area shape="poly" id="edge66_Node000055_Node000003" title=" " alt="" coords="3523,505,3522,471,3527,471,3529,505"/>
+<area shape="poly" id="edge69_Node000056_Node000003" title=" " alt="" coords="4468,521,4206,500,3952,484,3579,464,3579,459,3952,478,4207,495,4468,515"/>
+<area shape="poly" id="edge68_Node000056_Node000006" title=" " alt="" coords="4649,541,4932,560,5153,567,5373,572,5654,589,5673,591,5672,596,5653,595,5373,578,5153,572,4932,565,4649,547"/>
+<area shape="poly" id="edge71_Node000057_Node000003" title=" " alt="" coords="3667,516,3553,473,3555,468,3669,511"/>
+<area shape="poly" id="edge73_Node000058_Node000003" title=" " alt="" coords="3834,519,3578,472,3579,467,3835,513"/>
+<area shape="poly" id="edge76_Node000059_Node000003" title=" " alt="" coords="4013,520,3579,469,3579,463,4014,514"/>
+<area shape="poly" id="edge78_Node000060_Node000003" title=" " alt="" coords="2376,517,2386,516,2702,492,3010,475,3456,458,3456,464,3010,480,2702,497,2387,521,2377,522"/>
+<area shape="poly" id="edge80_Node000061_Node000003" title=" " alt="" coords="4222,520,3856,486,3579,466,3579,460,3857,481,4222,515"/>
+<area shape="poly" id="edge82_Node000062_Node000003" title=" " alt="" coords="3075,517,3455,466,3456,471,3075,522"/>
+<area shape="poly" id="edge83_Node000062_Node000010" title=" " alt="" coords="3075,541,4378,549,4808,554,5180,562,5447,574,5526,581,5560,590,5567,605,5560,619,5499,629,5347,637,4812,650,4053,660,3165,668,1396,676,285,679,285,674,1396,671,3165,662,4052,655,4812,644,5347,631,5499,623,5557,615,5562,605,5557,594,5525,586,5447,579,5180,568,4807,560,4378,554,3075,546"/>
+<area shape="poly" id="edge87_Node000064_Node000063" title=" " alt="" coords="5191,541,5191,541,5376,556,5521,561,5665,568,5850,589,5861,591,5860,597,5849,595,5665,573,5520,566,5376,561,5190,547,5190,547"/>
+<area shape="rect" id="Node000065" href="$coap__oscore__internal_8h.html" title="CoAP OSCORE internal information." alt="" coords="5963,592,6135,617"/>
+<area shape="poly" id="edge86_Node000064_Node000065" title=" " alt="" coords="5191,541,5191,541,5404,559,5571,567,5737,574,5951,589,5964,591,5963,596,5950,595,5737,579,5570,572,5404,564,5190,547,5190,547"/>
+<area shape="poly" id="edge90_Node000067_Node000002" title=" " alt="" coords="2344,114,2365,151,2375,177,2381,201,2386,243,2395,282,2406,302,2423,322,2456,346,2493,363,2531,373,2564,378,2563,383,2529,378,2491,368,2453,351,2420,326,2402,305,2390,284,2381,244,2376,202,2370,179,2360,153,2339,117"/>
+<area shape="poly" id="edge100_Node000067_Node000009" title=" " alt="" coords="2250,96,1943,102,1743,110,1537,122,1344,140,1183,165,1120,180,1073,198,1043,217,1036,227,1033,237,1033,460,1025,470,1003,480,924,499,810,519,672,539,379,575,147,599,147,594,378,569,671,534,809,514,923,494,1001,475,1022,466,1028,458,1028,236,1031,224,1040,213,1071,193,1119,175,1182,160,1343,135,1537,117,1743,104,1943,97,2250,90"/>
+<area shape="rect" id="Node000068" href="$coap__io_8h.html" title="Default network I/O functions." alt="" coords="2267,152,2351,177"/>
+<area shape="poly" id="edge91_Node000067_Node000068" title=" " alt="" coords="2322,118,2315,152,2309,151,2317,117"/>
+<area shape="poly" id="edge92_Node000068_Node000002" title=" " alt="" coords="2315,191,2320,221,2331,257,2348,292,2373,322,2394,338,2418,351,2470,369,2521,378,2563,381,2563,386,2520,383,2469,374,2416,356,2391,343,2369,326,2343,295,2326,258,2315,222,2309,192"/>
+<area shape="poly" id="edge93_Node000068_Node000007" title=" " alt="" coords="2274,186,2241,207,2208,235,2183,270,2176,289,2173,310,2173,386,2167,427,2152,465,2117,520,2112,517,2147,462,2162,425,2168,386,2168,310,2171,288,2178,267,2204,232,2238,203,2271,182"/>
+<area shape="poly" id="edge99_Node000068_Node000060" title=" " alt="" coords="2306,191,2296,246,2291,310,2291,386,2291,518,2285,518,2285,386,2285,310,2291,245,2301,190"/>
+<area shape="poly" id="edge94_Node000068_Node000069" title=" " alt="" coords="2365,173,2668,226,2667,231,2364,178"/>
+<area shape="poly" id="edge95_Node000069_Node000002" title=" " alt="" coords="2749,256,2767,270,2783,287,2790,306,2785,325,2769,342,2751,356,2710,374,2667,383,2629,386,2629,381,2666,378,2708,369,2749,351,2766,338,2780,323,2785,306,2778,290,2764,274,2746,260"/>
+<area shape="poly" id="edge98_Node000069_Node000005" title=" " alt="" coords="2775,243,5190,516,5202,517,5201,523,5189,521,2775,249"/>
+<area shape="rect" id="Node000070" href="$coap__async_8h.html" title="State management for asynchronous messages." alt="" coords="2659,299,2770,324"/>
+<area shape="poly" id="edge96_Node000069_Node000070" title=" " alt="" coords="2717,264,2717,299,2712,299,2712,264"/>
+<area shape="poly" id="edge97_Node000070_Node000002" title=" " alt="" coords="2685,333,2617,374,2614,369,2682,329"/>
+<area shape="poly" id="edge102_Node000071_Node000002" title=" " alt="" coords="2544,262,2593,371,2588,373,2539,265"/>
+<area shape="poly" id="edge104_Node000072_Node000002" title=" " alt="" coords="2621,192,2600,372,2595,371,2616,191"/>
+<area shape="poly" id="edge105_Node000072_Node000069" title=" " alt="" coords="2649,183,2701,223,2698,227,2645,188"/>
+</map>

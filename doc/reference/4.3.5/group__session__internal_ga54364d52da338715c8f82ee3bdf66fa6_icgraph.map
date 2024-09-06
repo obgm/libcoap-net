@@ -1,0 +1,9 @@
+<map id="coap_free_endpoint_lkd" name="coap_free_endpoint_lkd">
+<area shape="rect" id="Node000001" title="Release an endpoint and all the structures associated with it." alt="" coords="413,31,591,56"/>
+<area shape="rect" id="Node000002" href="$group__context__internal.html#gaa163a2862357aa1ae3faa92a64c08c9a" title="CoAP stack context must be released with coap_free_context_lkd()." alt="" coords="196,31,365,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="400,46,365,46,365,41,400,41"/>
+<area shape="rect" id="Node000003" href="$group__context.html#ga76bf8288b83c57bcd32d8c292d4e999b" title="CoAP stack context must be released with coap_free_context()." alt="" coords="5,5,148,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="182,34,148,29,149,24,183,28"/>
+<area shape="rect" id="Node000004" href="$group__context.html#ga1ab369ca0a3c4fe7f8a9e0536346ff71" title="Creates a new coap_context_t object that will hold the CoAP stack status." alt="" coords="5,55,148,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="183,58,149,62,148,56,182,52"/>
+</map>

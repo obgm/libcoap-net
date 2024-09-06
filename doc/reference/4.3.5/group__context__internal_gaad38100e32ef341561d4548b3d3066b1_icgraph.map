@@ -1,0 +1,5 @@
+<map id="coap_can_exit_lkd" name="coap_can_exit_lkd">
+<area shape="rect" id="Node000001" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues." alt="" coords="168,5,311,31"/>
+<area shape="rect" id="Node000002" href="$group__context.html#gad8497488c21e0aaced700ff53ffcf196" title="Returns 1 if there are no messages to send or to dispatch in the context&#39;s queues." alt="" coords="5,5,120,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,21,120,21,120,15,154,15"/>
+</map>

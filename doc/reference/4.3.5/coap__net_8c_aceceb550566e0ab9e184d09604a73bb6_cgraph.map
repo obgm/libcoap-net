@@ -1,0 +1,15 @@
+<map id="coap_startup" name="coap_startup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,112,155"/>
+<area shape="rect" id="Node000002" href="$group__clock.html#ga4722a7e40ba99c4d3feba19de1b980be" title="Initializes the internal clock." alt="" coords="174,5,297,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,127,104,85,130,61,159,40,170,34,172,38,161,44,133,65,108,88,72,131"/>
+<area shape="rect" id="Node000003" href="$group__dtls__internal.html#ga1e81d904e13ccf3af6a56ab3ebdc8a34" title="Initialize the underlying (D)TLS Library layer." alt="" coords="167,55,304,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="81,127,159,89,177,82,179,87,161,94,84,132"/>
+<area shape="rect" id="Node000004" href="$coap__mem_8h.html#a65d0fc0fe6cad555b56e92ccb57613ba" title="Initializes libcoap&#39;s memory management." alt="" coords="164,104,307,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,132,150,126,151,131,113,137"/>
+<area shape="rect" id="Node000005" href="$group__coap__prng__internal.html#ga3dbd87510eb5209e13d98cc6519b0630" title="Seeds the default random number generation function with the given seed." alt="" coords="163,153,307,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="113,147,150,152,149,157,112,152"/>
+<area shape="rect" id="Node000006" href="$group__context.html#ga757eecd5cda6e32472313df73a9297fd" title="Returns the current value of an internal tick counter." alt="" coords="190,203,281,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="86,152,161,188,182,196,180,201,159,192,84,157"/>
+<area shape="rect" id="Node000007" href="$group__clock.html#gaefd1d943d41dc7a8c32188741bad4844" title="Helper function that converts coap ticks to POSIX wallclock time in us." alt="" coords="160,252,311,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="72,153,109,194,134,217,161,237,175,244,172,249,159,242,131,221,105,198,68,157"/>
+</map>

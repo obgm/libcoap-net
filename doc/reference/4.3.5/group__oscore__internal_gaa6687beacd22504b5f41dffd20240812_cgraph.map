@@ -1,0 +1,17 @@
+<map id="oscore_cs_key_params" name="oscore_cs_key_params">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,177,81"/>
+<area shape="rect" id="Node000002" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="248,5,388,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,53,247,31,248,36,150,58"/>
+<area shape="rect" id="Node000003" href="$group__oscore__cbor__internal.html#gae8bbc18aeabe6d51af22d14e6173cfcb" title=" " alt="" coords="470,56,639,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,66,457,66,457,71,178,71"/>
+<area shape="rect" id="Node000006" href="$group__oscore__cbor__internal.html#ga498d463d390ee30806c4ef3536e9fbcc" title=" " alt="" coords="225,107,411,132"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="150,79,248,101,247,106,149,84"/>
+<area shape="rect" id="Node000004" href="$group__oscore__cbor__internal.html#gab2b2acacb1b2fbf82de02ce4a4d05306" title=" " alt="" coords="699,107,893,132"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="617,79,722,101,721,106,616,84"/>
+<area shape="rect" id="Node000005" href="$oscore__cbor_8c.html#aba97ba36fc049fca79bd25b249ecc931" title=" " alt="" coords="941,107,1012,132"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="894,117,928,117,928,122,894,122"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="411,117,685,117,685,122,411,122"/>
+<area shape="rect" id="Node000007" href="$group__oscore__cbor__internal.html#ga96720f3d0f1ab31048fa6650de1cc331" title=" " alt="" coords="459,157,651,183"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="379,130,482,152,481,157,378,135"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="616,155,721,132,722,137,617,160"/>
+</map>

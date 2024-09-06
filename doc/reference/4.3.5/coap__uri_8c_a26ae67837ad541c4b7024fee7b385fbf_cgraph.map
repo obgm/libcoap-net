@@ -1,0 +1,9 @@
+<map id="backup_optlist" name="backup_optlist">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,121,31"/>
+<area shape="rect" id="Node000002" href="$group__opt__filter.html#ga476a30348f07ce45d0e1a3be0d1a1c21" title="Removes all entries from the optlist_chain, freeing off their memory usage." alt="" coords="169,5,319,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,15,155,15,155,21,121,21"/>
+<area shape="rect" id="Node000003" href="$coap__option_8c.html#a7f99f0a8dd81b5ee7824871ebfc384d7" title=" " alt="" coords="367,5,525,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,15,353,15,353,21,319,21"/>
+<area shape="rect" id="Node000004" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="573,5,696,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="526,15,560,15,560,21,526,21"/>
+</map>

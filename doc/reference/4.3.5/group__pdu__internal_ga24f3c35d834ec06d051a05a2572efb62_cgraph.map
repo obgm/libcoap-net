@@ -1,0 +1,52 @@
+<map id="coap_insert_option" name="coap_insert_option">
+<area shape="rect" id="Node000001" title="Inserts option of given number in the pdu with the appropriate data." alt="" coords="5,157,151,183"/>
+<area shape="rect" id="Node000002" href="$group__pdu__internal.html#gaf5852382a0595538ac113f44a6f36509" title="Adds option of given number to pdu that is passed as first parameter." alt="" coords="199,157,388,183"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,176,185,176,185,182,151,181"/>
+<area shape="rect" id="Node000010" href="$group__opt__filter.html#ga46d7817d055728114b3c62499426b25c" title="Initializes the given option iterator oi to point to the beginning of the pdu&#39;s option list." alt="" coords="707,56,891,81"/>
+<area shape="poly" id="edge27_Node000001_Node000010" title=" " alt="" coords="102,155,145,134,198,115,330,89,464,73,588,66,693,64,693,69,588,71,464,78,331,94,199,121,148,139,104,160"/>
+<area shape="rect" id="Node000011" href="$group__opt__filter.html#ga19d4dbbc03ef362996964fbfdd1d4c7b" title="Updates the iterator oi to point to the next option." alt="" coords="730,259,867,284"/>
+<area shape="poly" id="edge28_Node000001_Node000011" title=" " alt="" coords="106,180,149,199,199,215,340,243,482,259,612,267,716,269,716,275,611,272,481,264,339,248,198,221,147,204,104,185"/>
+<area shape="rect" id="Node000012" href="$coap__option_8c.html#a11de99f50cc9f5a34fd9e4d121ecfd13" title="Parses the option pointed to by opt into result." alt="" coords="960,313,1084,339"/>
+<area shape="poly" id="edge25_Node000001_Node000012" title=" " alt="" coords="86,182,101,214,124,257,158,300,178,318,200,333,238,342,306,349,501,354,717,352,890,343,946,337,946,342,891,349,717,357,501,360,306,354,237,348,198,338,174,322,154,303,120,260,96,217,82,184"/>
+<area shape="rect" id="Node000015" href="$group__opt__filter.html#ga358cb455deaefca1b1234298f018c9ab" title="Encodes option with given delta into opt." alt="" coords="480,5,615,31"/>
+<area shape="poly" id="edge23_Node000001_Node000015" title=" " alt="" coords="86,155,128,101,160,71,198,48,265,24,337,11,405,7,466,8,466,13,406,12,337,16,267,29,200,52,163,76,132,105,90,159"/>
+<area shape="rect" id="Node000017" href="$group__opt__filter.html#ga55f19454026048e906139d575feddecb" title="Compute storage bytes needed for an option with given delta and length." alt="" coords="463,107,631,132"/>
+<area shape="poly" id="edge24_Node000001_Node000017" title=" " alt="" coords="131,155,198,142,329,128,449,120,450,125,330,133,199,147,132,160"/>
+<area shape="rect" id="Node000018" href="$group__pdu__internal.html#ga9ce159d2a0acd2e4c1d3fbbb89ff2229" title="Check whether the option is allowed to be repeated or not." alt="" coords="436,207,659,232"/>
+<area shape="poly" id="edge26_Node000001_Node000018" title=" " alt="" coords="135,180,199,191,313,204,422,211,422,217,313,209,198,197,134,185"/>
+<area shape="rect" id="Node000019" href="$group__pdu__internal.html#gad741bcd3525c8d24389e4604c1cacb50" title="Dynamically grows the size of pdu to new_size if needed." alt="" coords="460,309,635,335"/>
+<area shape="poly" id="edge29_Node000001_Node000019" title=" " alt="" coords="90,181,132,235,163,264,200,288,261,309,325,322,388,327,446,328,446,333,388,333,324,327,259,315,197,292,160,269,128,239,86,185"/>
+<area shape="poly" id="edge15_Node000002_Node000001" title=" " alt="" coords="199,164,164,164,164,158,198,158"/>
+<area shape="rect" id="Node000003" href="$group__opt__filter.html#gac766f0e78b5ef3ffc8c67d993c6ca8b6" title="Retrieves the first option of number number from pdu." alt="" coords="474,157,621,183"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,167,461,167,461,173,388,173"/>
+<area shape="poly" id="edge16_Node000002_Node000015" title=" " alt="" coords="314,155,512,36,515,40,317,160"/>
+<area shape="poly" id="edge18_Node000002_Node000017" title=" " alt="" coords="358,155,469,132,470,137,359,160"/>
+<area shape="poly" id="edge19_Node000002_Node000018" title=" " alt="" coords="360,180,468,201,467,207,359,185"/>
+<area shape="poly" id="edge20_Node000002_Node000019" title=" " alt="" coords="317,180,515,300,512,304,314,185"/>
+<area shape="rect" id="Node000004" href="$group__opt__filter.html#gab32cbf963c82364063041e5c84ca279a" title="Clears filter filter." alt="" coords="729,106,868,146"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="620,155,715,138,716,143,621,160"/>
+<area shape="rect" id="Node000005" href="$group__opt__filter.html#gafdbe6036d408220bbfa6eb2d7bd2443f" title="Sets the corresponding entry for number in filter." alt="" coords="939,165,1105,191"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="621,169,925,174,925,179,621,174"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="620,156,657,141,672,130,681,117,690,104,705,92,721,84,723,89,708,96,694,108,685,120,676,133,660,146,622,161"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="622,180,660,192,719,219,768,249,766,253,716,224,658,196,620,185"/>
+<area shape="rect" id="Node000006" href="$coap__option_8c.html#ab87ea79da1603a15ac624388a335bba6" title="Applies op on filter with respect to number." alt="" coords="1153,191,1315,216"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1105,185,1140,189,1139,195,1105,191"/>
+<area shape="rect" id="Node000007" href="$coap__encode_8c.html#a671b4261b2d24de8696258a8efb0f359" title=" " alt="" coords="1383,165,1458,191"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1315,190,1369,182,1370,188,1315,195"/>
+<area shape="rect" id="Node000009" href="$coap__option_8c.html#ad65a9bd8fcfb4ba4270819e6f87f5bcf" title="Returns true iff number denotes an option number larger than 255." alt="" coords="1363,215,1479,240"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="1315,211,1349,216,1349,221,1315,216"/>
+<area shape="rect" id="Node000008" href="$coap__encode_8c.html#a1c66d23b22bbf747ff8b0a649f85f060" title=" " alt="" coords="1527,165,1609,191"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1458,175,1513,175,1513,181,1458,181"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="852,281,957,307,955,313,851,287"/>
+<area shape="rect" id="Node000013" href="$group__opt__filter.html#gaecbb0b2fe1f6244aa6121d019070704b" title="Checks if number is contained in filter." alt="" coords="939,215,1105,240"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="863,256,943,240,944,245,864,261"/>
+<area shape="rect" id="Node000014" href="$coap__option_8c.html#a70fa9db0450134640b80cbf7c3720688" title=" " alt="" coords="971,264,1073,289"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="867,270,958,272,958,278,867,276"/>
+<area shape="poly" id="edge13_Node000013_Node000006" title=" " alt="" coords="1105,215,1140,211,1140,217,1106,221"/>
+<area shape="rect" id="Node000016" href="$group__opt__filter.html#gafebbd04a7895df694a9345dad0275aeb" title="Encodes the given delta and length values into opt." alt="" coords="722,5,875,31"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="615,15,708,15,708,21,615,21"/>
+<area shape="rect" id="Node000020" href="$group__pdu__internal.html#gadd46ce956878a4121e8887b84c6d4a6b" title="Dynamically grows the size of pdu to new_size." alt="" coords="733,309,864,335"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="635,319,719,319,719,325,635,325"/>
+<area shape="rect" id="Node000021" href="$coap__mem_8h.html#a7f7999876af136d327a5689d26ed8e77" title="Reallocates a chunk p of bytes created by coap_malloc_type() or coap_realloc_type() and returns a poi..." alt="" coords="952,363,1092,388"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="853,332,956,357,955,362,852,337"/>
+</map>

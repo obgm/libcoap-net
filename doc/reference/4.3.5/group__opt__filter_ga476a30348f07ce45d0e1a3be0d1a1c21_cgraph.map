@@ -1,0 +1,7 @@
+<map id="coap_delete_optlist" name="coap_delete_optlist">
+<area shape="rect" id="Node000001" title="Removes all entries from the optlist_chain, freeing off their memory usage." alt="" coords="5,5,155,31"/>
+<area shape="rect" id="Node000002" href="$coap__option_8c.html#a7f99f0a8dd81b5ee7824871ebfc384d7" title=" " alt="" coords="203,5,361,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,15,189,15,189,21,155,21"/>
+<area shape="rect" id="Node000003" href="$coap__mem_8h.html#ae7214e0c73a4d4290525873e739ed422" title="Releases the memory that was allocated by coap_malloc_type()." alt="" coords="409,5,532,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="362,15,396,15,396,21,362,21"/>
+</map>

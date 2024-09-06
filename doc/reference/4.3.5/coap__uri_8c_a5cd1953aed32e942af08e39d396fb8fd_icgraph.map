@@ -1,0 +1,11 @@
+<map id="check_segment" name="check_segment">
+<area shape="rect" id="Node000001" title="Runs through the given path (or query) segment and checks if percent&#45;encodings are correct." alt="" coords="552,31,676,56"/>
+<area shape="rect" id="Node000002" href="$coap__uri_8c.html#a9a39cbf2ed89a758ced3f9fecd125b50" title="Writes a coap option from given string s to buf." alt="" coords="336,31,504,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="538,46,504,46,504,41,538,41"/>
+<area shape="rect" id="Node000003" href="$coap__uri_8c.html#a7765779604c7c1166e99179722d4bdd8" title=" " alt="" coords="185,31,288,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,46,288,46,288,41,322,41"/>
+<area shape="rect" id="Node000004" href="$group__uri__parse.html#ga32b971413cf0360cba4c277b1d063510" title="Splits the given URI path into segments." alt="" coords="9,5,133,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="171,36,133,30,134,25,172,31"/>
+<area shape="rect" id="Node000005" href="$group__uri__parse.html#gae529b18b7f3a6f7756dfc5b7b720943f" title="Splits the given URI query into segments." alt="" coords="5,55,137,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="172,55,138,60,138,55,172,50"/>
+</map>

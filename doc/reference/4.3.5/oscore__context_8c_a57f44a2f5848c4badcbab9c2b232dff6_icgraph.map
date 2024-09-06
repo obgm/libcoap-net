@@ -1,0 +1,13 @@
+<map id="oscore_free_recipient" name="oscore_free_recipient">
+<area shape="rect" id="Node000001" title=" " alt="" coords="457,31,620,56"/>
+<area shape="rect" id="Node000002" href="$group__oscore__internal.html#ga5d7f9329950d683d22ed438f345d7651" title=" " alt="" coords="232,5,409,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="444,35,409,31,410,26,444,30"/>
+<area shape="rect" id="Node000003" href="$group__oscore__internal.html#ga7e7baf8dff1f16a64b26e6a4634f24f9" title=" " alt="" coords="243,55,398,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="444,56,399,61,398,56,443,51"/>
+<area shape="rect" id="Node000004" href="$group__oscore__internal.html#gac1dcb68cfe7c74e017f67ad7c085a492" title="oscore_duplicate_ctx &#45; duplicate a osc_ctx" alt="" coords="15,5,174,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="248,54,153,33,154,28,249,49"/>
+<area shape="rect" id="Node000005" href="$group__oscore__internal.html#gaadd1fd06c38b0d5e893198c8f4bb9927" title=" " alt="" coords="14,55,175,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="230,70,176,70,176,65,230,65"/>
+<area shape="rect" id="Node000006" href="$group__oscore__internal.html#gaca16b3dac592f173f42f61e359d55804" title=" " alt="" coords="5,104,184,129"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="249,86,154,107,153,101,248,80"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="coap_new_bin_const" name="coap_new_bin_const">
+<area shape="rect" id="Node000001" title="Take the specified byte array (text) and create a coap_bin_const_t * Returns a new const binary objec..." alt="" coords="648,191,804,216"/>
+<area shape="rect" id="Node000002" href="$group__app__io__internal.html#gae138b6aba5c244fb8e582e63615f5112" title="Sends a CoAP message to given peer." alt="" coords="451,5,569,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="710,180,666,112,635,76,599,46,568,31,571,27,601,41,639,72,670,109,714,177"/>
+<area shape="rect" id="Node000004" href="$group__session__internal.html#ga241d1a2311c1dcbdca0e6860237acf91" title="Refresh the session&#39;s current Identity Hint (PSK)." alt="" coords="429,55,591,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="699,183,654,146,599,110,573,98,576,93,601,105,657,142,702,179"/>
+<area shape="rect" id="Node000005" href="$group__session__internal.html#gabf03da17a2f79fd94e20c58cd05e5d0e" title="Refresh the session&#39;s current pre&#45;shared identity (PSK)." alt="" coords="429,119,591,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="668,189,578,162,579,157,670,184"/>
+<area shape="rect" id="Node000006" href="$group__session__internal.html#gaa40e39af285755517824c26095494f91" title="Refresh the session&#39;s current pre&#45;shared key (PSK)." alt="" coords="429,183,591,223"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="634,206,591,206,591,201,634,201"/>
+<area shape="rect" id="Node000007" href="$oscore__context_8c.html#a5dd2a845d237fab6455e841459932301" title=" " alt="" coords="443,248,577,273"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="665,222,559,251,558,245,664,217"/>
+<area shape="rect" id="Node000010" href="$group__oscore__internal.html#gac1dcb68cfe7c74e017f67ad7c085a492" title="oscore_duplicate_ctx &#45; duplicate a osc_ctx" alt="" coords="5,223,164,248"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="702,227,657,260,601,288,495,324,450,335,408,341,365,342,320,338,211,314,178,301,147,284,99,250,103,246,150,280,180,296,213,309,320,333,365,337,407,335,449,330,494,319,599,284,654,255,699,223"/>
+<area shape="rect" id="Node000012" href="$group__oscore__internal.html#ga8cf885624714b9a4705974adf2629cb2" title=" " alt="" coords="420,375,600,400"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="713,230,668,293,637,327,601,358,562,377,560,372,599,353,633,324,664,290,708,227"/>
+<area shape="rect" id="Node000003" href="$group__context.html#ga1c3d60f40aa03a974b4472951abae1f0" title="Sends a CoAP message to given peer." alt="" coords="247,5,337,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,21,338,21,338,15,437,15"/>
+<area shape="rect" id="Node000008" href="$group__oscore__internal.html#ga28cf1e32f7d4f13cd4f25aca27169580" title="oscore_add_recipient &#45; add in recipient information" alt="" coords="212,172,372,197"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="446,247,419,238,324,200,326,195,421,233,448,241"/>
+<area shape="rect" id="Node000009" href="$group__oscore__internal.html#ga8636deef153df3f5c67fba15ff3893c0" title="oscore_derive_ctx &#45; derive a osc_ctx from oscore_conf information" alt="" coords="15,147,155,172"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="429,244,418,237,402,217,395,196,388,177,371,162,341,149,310,140,246,135,184,139,132,149,131,144,183,134,246,129,311,135,343,144,373,157,392,174,400,195,406,215,422,233,432,240"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="429,259,164,243,164,237,429,253"/>
+<area shape="rect" id="Node000011" href="$group__oscore__internal.html#ga77af2b488323aca8684f23dfde52e1d5" title="oscore_update_ctx &#45; update a osc_ctx with a new id_context" alt="" coords="220,273,364,299"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="429,273,365,280,364,275,428,267"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="198,176,155,171,155,165,199,171"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="226,203,138,225,137,220,225,198"/>
+</map>

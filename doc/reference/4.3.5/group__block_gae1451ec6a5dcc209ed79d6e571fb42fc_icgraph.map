@@ -1,0 +1,5 @@
+<map id="coap_write_block_opt" name="coap_write_block_opt">
+<area shape="rect" id="Node000001" title="Writes a block option of type number to message pdu." alt="" coords="231,13,393,38"/>
+<area shape="rect" id="Node000002" href="$group__block.html#ga870799d383b3d3392ca711bd7dce467b" title="Adds the appropriate part of data to the response pdu." alt="" coords="5,5,183,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,28,183,28,183,23,217,23"/>
+</map>

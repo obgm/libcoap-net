@@ -1,0 +1,5 @@
+<map id="coap_clone_uri" name="coap_clone_uri">
+<area shape="rect" id="Node000001" title="Clones the specified coap_uri_t object." alt="" coords="5,5,124,31"/>
+<area shape="rect" id="Node000002" href="$coap__mem_8h.html#a9f9fd8d6cf24f9c45a5501aeba5acaf9" title="Allocates a chunk of size bytes and returns a pointer to the newly allocated memory." alt="" coords="172,5,312,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,15,158,15,158,21,124,21"/>
+</map>

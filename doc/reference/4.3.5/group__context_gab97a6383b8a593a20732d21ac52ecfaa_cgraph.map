@@ -1,0 +1,5 @@
+<map id="coap_context_set_cid_tuple_change" name="coap_context_set_cid_tuple_change">
+<area shape="rect" id="Node000001" title="Set the Connection ID client tuple frequency change for testing CIDs." alt="" coords="5,5,168,45"/>
+<area shape="rect" id="Node000002" href="$group__dtls__internal.html#ga6b339e76d8003ea4c6967494a22187f2" title="Set the Connection ID client tuple frequency change for testing CIDs." alt="" coords="216,5,393,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,23,202,23,202,28,168,28"/>
+</map>

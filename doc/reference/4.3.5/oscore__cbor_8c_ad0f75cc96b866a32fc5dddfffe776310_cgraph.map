@@ -1,0 +1,13 @@
+<map id="oscore_cbor_skip_value" name="oscore_cbor_skip_value">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,33,183,59"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="54,35,45,25,50,15,66,9,94,7,129,11,139,15,143,21,138,24,135,19,128,16,94,12,67,14,53,19,50,24,58,31"/>
+<area shape="rect" id="Node000002" href="$oscore__cbor_8c.html#a575a02cbfa6b36b6a146f793915847e8" title=" " alt="" coords="515,5,593,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,31,182,20,230,11,293,6,342,6,453,11,501,13,501,18,453,17,342,12,293,12,231,17,183,25,139,36"/>
+<area shape="rect" id="Node000003" href="$group__oscore__cbor__internal.html#ga3629a66f8876ce66b6cd233f92e9e7f6" title=" " alt="" coords="231,91,453,116"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,56,231,75,272,85,271,90,230,81,148,61"/>
+<area shape="rect" id="Node000005" href="$group__oscore__cbor__internal.html#ga91cd1cf8a776f9f27c91932da7786675" title=" " alt="" coords="260,26,424,66"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="183,43,246,43,246,49,183,49"/>
+<area shape="rect" id="Node000004" href="$oscore__cbor_8c.html#a902c77b8cd89c65064985c8f5bb16da9" title=" " alt="" coords="501,91,607,116"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="454,101,488,101,488,106,454,106"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="424,33,500,22,501,28,425,38"/>
+</map>

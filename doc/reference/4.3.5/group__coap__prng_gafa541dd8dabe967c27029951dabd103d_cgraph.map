@@ -1,0 +1,5 @@
+<map id="coap_prng_init" name="coap_prng_init">
+<area shape="rect" id="Node000001" title="Seeds the default random number generation function with the given seed." alt="" coords="5,5,123,31"/>
+<area shape="rect" id="Node000002" href="$group__coap__prng__internal.html#ga3dbd87510eb5209e13d98cc6519b0630" title="Seeds the default random number generation function with the given seed." alt="" coords="171,5,315,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,15,157,15,157,21,123,21"/>
+</map>

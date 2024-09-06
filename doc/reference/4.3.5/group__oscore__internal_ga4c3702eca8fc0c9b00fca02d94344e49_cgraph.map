@@ -1,0 +1,9 @@
+<map id="oscore_decode_option_value" name="oscore_decode_option_value">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,172,95"/>
+<area shape="rect" id="Node000002" href="$group__oscore__cose__internal.html#gaf905c30297f927a297dc5011ea372a2c" title=" " alt="" coords="229,5,421,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,53,219,41,258,31,259,37,221,46,172,58"/>
+<area shape="rect" id="Node000003" href="$group__oscore__cose__internal.html#ga3a1e28ea9ed9372e418fda6ccddaaf92" title=" " alt="" coords="240,55,411,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,73,226,73,226,78,172,78"/>
+<area shape="rect" id="Node000004" href="$group__oscore__cose__internal.html#gac0bad6a5e5794cf1dcd5bd4d4db07a1e" title=" " alt="" coords="220,120,431,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,93,221,105,259,114,258,119,219,110,170,98"/>
+</map>

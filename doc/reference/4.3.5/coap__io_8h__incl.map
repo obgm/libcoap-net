@@ -1,0 +1,31 @@
+<map id="coap_io.h" name="coap_io.h">
+<area shape="rect" id="Node000001" title="Default network I/O functions." alt="" coords="153,5,237,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,101,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,33,76,144,72,140,181,29"/>
+<area shape="rect" id="Node000003" href="$coap__address_8h.html" title="Representation of network addresses." alt="" coords="220,79,343,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,29,258,68,255,72,207,33"/>
+<area shape="poly" id="edge6_Node000003_Node000002" title=" " alt="" coords="245,107,104,150,103,145,244,101"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="777,152,852,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="343,96,530,117,759,149,764,150,763,155,758,155,529,123,343,101"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="654,299,725,324"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="343,90,402,95,472,104,545,122,614,150,642,164,662,179,678,197,692,224,698,255,697,285,692,285,693,256,687,226,673,200,658,182,639,169,612,154,543,127,471,110,402,100,343,96"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="269,372,339,397"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="263,106,227,131,190,165,175,185,165,206,162,228,166,250,188,285,215,316,246,342,274,362,271,367,242,347,212,320,183,288,162,252,156,228,160,204,170,182,186,162,224,127,260,102"/>
+<area shape="rect" id="Node000007" href="$libcoap_8h.html" title="Platform specific header file for CoAP stack." alt="" coords="241,152,322,177"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="284,104,284,138,279,138,279,104"/>
+<area shape="rect" id="Node000010" href="$coap__pdu_8h.html" title="Pre&#45;defined constants that reflect defaults for CoAP." alt="" coords="463,152,601,177"/>
+<area shape="poly" id="edge10_Node000003_Node000010" title=" " alt="" coords="322,101,479,146,477,151,321,107"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="304,225,400,251"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="295,176,333,214,329,218,291,180"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="177,225,279,251"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="275,179,247,216,243,213,270,176"/>
+<area shape="poly" id="edge16_Node000010_Node000005" title=" " alt="" coords="583,175,627,193,648,207,666,224,683,253,690,284,685,285,678,255,662,227,645,211,624,198,581,180"/>
+<area shape="rect" id="Node000011" href="$coap__option_8h.html" title="Helpers for handling options in CoAP PDUs." alt="" coords="538,225,651,251"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="544,176,577,213,573,217,540,179"/>
+<area shape="rect" id="Node000012" href="$coap__uri_8h.html" title="Helper functions for URI treatment." alt="" coords="425,225,514,251"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="524,179,491,217,487,213,520,176"/>
+<area shape="poly" id="edge13_Node000012_Node000005" title=" " alt="" coords="505,248,642,292,640,297,504,253"/>
+<area shape="rect" id="Node000013" href="$coap__str_8h.html" title="Strings to be used in the CoAP library." alt="" coords="343,299,431,324"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="458,253,412,292,409,287,454,249"/>
+<area shape="poly" id="edge15_Node000013_Node000006" title=" " alt="" coords="375,326,330,365,326,361,372,322"/>
+</map>

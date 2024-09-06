@@ -1,0 +1,14 @@
+<map id="coap_pdu.h" name="coap_pdu.h">
+<area shape="rect" id="Node000001" title="Pre&#45;defined constants that reflect defaults for CoAP." alt="" coords="109,5,205,31"/>
+<area shape="rect" id="Node000002" href="$coap__option_8h.html" title="Helpers for handling options in CoAP PDUs." alt="" coords="5,79,119,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,33,90,72,87,68,140,29"/>
+<area shape="rect" id="Node000003" href="$coap__uri_8h.html" title="Helper functions for URI treatment." alt="" coords="195,79,284,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,29,217,67,214,72,168,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="121,152,192,177"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="159,31,159,138,154,138,154,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="228,106,182,145,179,141,224,102"/>
+<area shape="rect" id="Node000005" href="$coap__str_8h.html" title="Strings to be used in the CoAP library." alt="" coords="217,152,305,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="245,104,256,138,251,140,240,105"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="225,225,296,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="263,178,263,212,258,212,258,178"/>
+</map>

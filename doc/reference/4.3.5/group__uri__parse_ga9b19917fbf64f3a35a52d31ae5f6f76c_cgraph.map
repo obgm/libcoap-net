@@ -1,0 +1,15 @@
+<map id="coap_split_uri" name="coap_split_uri">
+<area shape="rect" id="Node000001" title="Parses a given string into URI components." alt="" coords="5,104,117,129"/>
+<area shape="rect" id="Node000002" href="$coap__uri_8c.html#a8890896e5d2defbaa2558aaea33b4c8a" title=" " alt="" coords="165,104,308,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,114,152,114,152,119,118,119"/>
+<area shape="rect" id="Node000003" href="$group__supported.html#ga9def28dc6da3b77c14e89d63769ec085" title="Check whether DTLS is available." alt="" coords="356,5,531,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,102,298,71,355,40,373,32,375,37,357,44,301,75,256,106"/>
+<area shape="rect" id="Node000004" href="$group__supported.html#ga2d25d72f564c765b85708b26ee01e27e" title="Check whether TCP is available." alt="" coords="358,55,529,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="290,101,375,81,377,86,291,107"/>
+<area shape="rect" id="Node000005" href="$group__supported.html#ga55b3b545f0784c7a6135021017317e1b" title="Check whether TLS is available." alt="" coords="360,104,527,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="308,114,346,114,346,119,308,119"/>
+<area shape="rect" id="Node000006" href="$group__supported.html#ga85ebb276d1475de14d90e103b255c749" title="Check whether WebSockets is available." alt="" coords="359,153,527,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="291,127,377,147,375,153,290,132"/>
+<area shape="rect" id="Node000007" href="$group__supported.html#gae3150f4272480b18b3771e6b6465624e" title="Check whether Secure WebSockets is available." alt="" coords="356,203,531,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="257,127,301,157,357,188,378,196,376,201,355,192,298,162,254,132"/>
+</map>

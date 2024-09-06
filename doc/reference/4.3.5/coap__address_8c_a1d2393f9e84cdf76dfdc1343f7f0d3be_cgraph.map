@@ -1,0 +1,5 @@
+<map id="coap_address_set_unix_domain" name="coap_address_set_unix_domain">
+<area shape="rect" id="Node000001" title="Copy the parsed unix domain host into coap_address_t structure translating %2F into / on the way." alt="" coords="5,5,179,45"/>
+<area shape="rect" id="Node000002" href="$coap__address_8c.html#a59e19389468d5ced36778ed07546bce2" title="Resets the given coap_address_t object addr to its default values." alt="" coords="227,13,365,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,23,213,23,213,28,179,28"/>
+</map>

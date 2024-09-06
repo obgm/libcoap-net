@@ -1,0 +1,5 @@
+<map id="coap_session_new_token" name="coap_session_new_token">
+<area shape="rect" id="Node000001" title="Creates a new token for use." alt="" coords="5,5,192,31"/>
+<area shape="rect" id="Node000002" href="$group__encode.html#gad65e8f128870c6d06e9c4ece4c62a3fb" title="Encodes multiple&#45;length byte sequences." alt="" coords="240,5,419,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,15,226,15,226,21,192,21"/>
+</map>

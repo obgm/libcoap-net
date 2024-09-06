@@ -1,0 +1,11 @@
+<map id="write_option" name="write_option">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,108,80"/>
+<area shape="rect" id="Node000002" href="$coap__uri_8c.html#a9a39cbf2ed89a758ced3f9fecd125b50" title="Writes a coap option from given string s to buf." alt="" coords="156,55,324,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,65,142,65,142,70,108,70"/>
+<area shape="rect" id="Node000003" href="$coap__uri_8c.html#a5cd1953aed32e942af08e39d396fb8fd" title="Runs through the given path (or query) segment and checks if percent&#45;encodings are correct." alt="" coords="387,5,511,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="294,52,381,31,382,36,295,57"/>
+<area shape="rect" id="Node000004" href="$group__opt__filter.html#gafebbd04a7895df694a9345dad0275aeb" title="Encodes the given delta and length values into opt." alt="" coords="372,55,525,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="325,65,358,65,358,70,325,70"/>
+<area shape="rect" id="Node000005" href="$coap__uri_8c.html#a2c99e399450162db911d50c8411722ab" title="Decodes percent&#45;encoded characters while copying the string seg of size length to buf." alt="" coords="382,104,515,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="295,77,382,98,381,103,294,83"/>
+</map>

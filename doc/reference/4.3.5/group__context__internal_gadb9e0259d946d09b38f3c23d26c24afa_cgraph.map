@@ -1,0 +1,26 @@
+<map id="coap_wait_ack" name="coap_wait_ack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,124,129"/>
+<area shape="rect" id="Node000002" href="$group__context__internal.html#ga80d2c3b0141e98bf3f7914e7e59b9530" title="Adds node to given queue, ordered by variable t in node." alt="" coords="207,5,343,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,102,118,71,171,40,192,31,194,36,173,44,121,75,82,106"/>
+<area shape="rect" id="Node000003" href="$group__session__internal.html#gae3280ec7e63cc48d05fd8d3b46a838a6" title="Increment reference counter on a session." alt="" coords="172,55,377,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,101,171,89,206,81,207,86,173,94,120,106"/>
+<area shape="rect" id="Node000004" href="$group__logging.html#gabf09c67f27059ca278900e7e8fdd475e" title="Get session description." alt="" coords="208,104,341,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,114,194,114,194,119,124,119"/>
+<area shape="rect" id="Node000009" href="$group__context.html#ga757eecd5cda6e32472313df73a9297fd" title="Returns the current value of an internal tick counter." alt="" coords="459,156,549,181"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="116,127,172,138,320,155,445,164,445,169,319,160,172,143,115,132"/>
+<area shape="rect" id="Node000010" href="$coap__io_8c.html#a997fd9061ec74adb0b12044136acd4b8" title="Update when to continue with I/O processing, unless packets come in in the meantime." alt="" coords="191,205,358,231"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="84,127,124,155,173,184,212,199,210,204,171,188,121,160,81,132"/>
+<area shape="rect" id="Node000005" href="$group__logging.html#ga9e421197c17712bedbec55e42b4493fc" title="Print the address into the defined buffer." alt="" coords="441,56,567,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="336,101,429,82,430,87,337,107"/>
+<area shape="rect" id="Node000008" href="$coap__session_8c.html#a3a2aa859a36db11e0c195174f907f116" title=" " alt="" coords="435,105,573,131"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="342,114,421,115,421,120,342,120"/>
+<area shape="rect" id="Node000006" href="$coap__address_8c.html#a694f57c7af8d83ebd2fbb8cf9236749d" title="Returns the port from addr in host byte order." alt="" coords="631,32,803,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="567,59,617,53,617,59,568,64"/>
+<area shape="rect" id="Node000007" href="$group__logging.html#gace4fa18bde300fa06afd396a0a689031" title="Print the IP address into the defined buffer." alt="" coords="644,81,789,107"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="568,74,631,81,630,86,567,79"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="334,203,444,179,446,184,335,208"/>
+<area shape="rect" id="Node000011" href="$coap__io_8c.html#a3d4397c1a2ce78e64c19fdcd25256737" title=" " alt="" coords="425,205,583,231"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="358,215,411,215,411,221,358,221"/>
+<area shape="rect" id="Node000012" href="$coap__io_8c.html#a198ae48fdbe1762be87328d3a5f5f4b2" title=" " alt="" coords="640,198,793,238"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="583,215,626,215,626,221,583,221"/>
+</map>
